@@ -49,7 +49,7 @@
             font-size: 10pt;
         }
 
-        table { border-collapse: collapse; width: 100%; }
+        table { border-collapse: collapse; word-break: break-word; }
         table.clubs td:nth-child(4) { text-align:center; }
         table.courts td:nth-child(3), td:nth-child(4) { text-align:center; }
         th { border: 1px solid black; text-align: center; padding: 6px; }
@@ -92,7 +92,7 @@
 <div class="news">
     
     <div>20 квітня 2024</div>
-    Українська версія цього сайту переїхала з <a href="https://docs.google.com/document/d/1cqQ4EnmkbMkWylkzBYyQ7sSbDaEvvduZLYQKLODsgWg/edit">Google Docs<a/>
+    Українська версія цього сайту переїхала з <a href="https://docs.google.com/document/d/1cqQ4EnmkbMkWylkzBYyQ7sSbDaEvvduZLYQKLODsgWg/edit">Google Docs</a>
     на <a href="https://github.com/sdemchenko/kyiv-table-tennis/">GitHub</a>. Якщо ви заходили на цей вебсайт як на Google Docs,
     то тепер саме час перейти на використання офіційної адреси: <a href="https://www.tabletennis.kyiv.ua/">www.tabletennis.kyiv.ua</a>,
     бо скоріше за все, Google Docs версія надалі не буде оновлюватися. Якщо вам важливий якийсь функціонал,
@@ -161,8 +161,8 @@
     <tr>
         <th style="width: 20%">Клуб</th>
         <th >Подробиці</th>
-        <th style="width: 20%">Адреса</th>
-        <th style="width: 7%">Столів</th>
+        <th style="width: 20%; min-width: 30px;">Адреса</th>
+        <th style="width: 10%; min-width: 30px;">Столів</th>
     </tr>
     </thead>
     <tbody>
@@ -194,7 +194,7 @@
             Є душові, камери схову, кулер з водою.
         </td>
         <td><a href="https://www.google.com.ua/maps/place/Volodymyrska+St,+101,+Kyiv,+02000/@50.4325313,30.5067663,16.56z/data=!4m5!3m4!1s0x40d4cee3700e6585:0xb2477d78d4c4e88e!8m2!3d50.4326631!4d30.5100012">вул. Володимирська, 101</a></td>
-        <td>5 - 6</td>
+        <td>5-6</td>
     </tr>
     <tr>
         <td><a href="https://gymmaxx.com/events/tennis/">Gymmaxx</a></td>
@@ -234,7 +234,7 @@
             Є душові, камери схову, кулер з водою.
         </td>
         <td><a href="https://www.google.com.ua/maps/place/Vulytsya+Kioto,+25,+Kyiv,+02000/@50.4689438,30.6429116,17z/data=!3m1!4b1!4m5!3m4!1s0x40d4daa6d6e2dbe7:0x882c9b3a89e4da3a!8m2!3d50.4689438!4d30.6451002">вул. Кіото, 25</a></td>
-        <td>3 - 4</td>
+        <td>3-4</td>
     </tr>
     <tr>
         <td><a href="https://www.orion-sport.ua/">Orion</a></td>
@@ -387,13 +387,13 @@
             Чудовий зал, але любителів не пускають, тут тренуються лише професіонали.
         </td>
         <td><a href="https://www.google.com.ua/maps/place/Pavla+Tychyny+Ave,+18,+Kyiv,+02000/@50.4275268,30.6022991,17z/data=!3m1!4b1!4m5!3m4!1s0x40d4c57afe2ff625:0xf6e4053ed85e0ac6!8m2!3d50.4275234!4d30.6044878">проспект Тичини, 18</a></td>
-        <td>4 - 8</td>
+        <td>4-8</td>
     </tr>
     <tr>
         <td>Колорит</td>
         <td>+380660585883</td>
         <td><a href="https://www.google.com/maps/place/50.43218047359979,30.63448809881018">Харківське шосе, 19</a></td>
-        <td>2 - 4</td>
+        <td>2-4</td>
     </tr>
     <tr>
         <td>Лідер<br>(ДЮСШ)</td>
@@ -415,7 +415,7 @@
             Є кімната відпочинку та безплатний чай.
         </td>
         <td><a href="https://www.google.com.ua/maps/place/%D0%9B%D1%96%D0%B4%D0%B5%D1%80/@50.5141342,30.4212524,19.82z/data=!4m15!1m8!3m7!1s0x40d4cd607dec204d:0x6a91c03209e213dc!2z0L_RgNC-0YHQv9C10LrRgiDQk9C10L7RgNCz0ZbRjyDQk9C-0L3Qs9Cw0LTQt9C1LCAzMtCTLCDQmtC40ZfQsiwgMDQyMDg!3b1!8m2!3d50.5140815!4d30.4213947!16s%2Fg%2F11c5mc2f63!3m5!1s0x40d4cd60f7b29565:0xa5878bfb0d0e1bf6!8m2!3d50.5143271!4d30.4214667!16s%2Fg%2F1pp2tyy79?entry=ttu">проспект Гонгадзе, 32Г</a></td>
-        <td>5 - 6</td>
+        <td>5-6</td>
     </tr>
     <tr>
         <td><a href="https://ttmaster.com.ua/">Майстер</a></td>
@@ -433,7 +433,7 @@
             Є душові.
         </td>
         <td><a href="https://www.google.com.ua/maps/place/50.44787386965706,30.61097587051567">вул. академіка Баха, 1</a></td>
-        <td>1 - 3</td>
+        <td>1-3</td>
     </tr>
     <tr>
         <td><a href="https://tennis-sofia.kyiv.ua/">Настільний теніс на "ЖК Софія"</a></td>
@@ -449,7 +449,7 @@
         <td><a href="https://goo.gl/maps/3tovDztwgGYShd689">Настільний теніс на Ревуцького</a></td>
         <td>+380972567902</td>
         <td><a href="https://www.google.com.ua/maps/place/Revuts'koho+St,+5,+Kyiv,+02000/@50.4214198,30.6390842,17z/data=!3m1!4b1!4m5!3m4!1s0x40d4c51078612267:0x7241dfbe1240bcf2!8m2!3d50.4214164!4d30.6412729">вул. Ревуцького, 5</a></td>
-        <td>4 - 5</td>
+        <td>4-5</td>
     </tr>
     <tr>
         <td><a href="https://www.instagram.com/p/C0hZ92KNu_f/?img_index=2">Оазис</a><br> у DREAM Berry</td>
@@ -469,7 +469,7 @@
             +380683570688 (Валентина Володимирівна), <a href="https://www.facebook.com/groups/2105750456423123">fb</a>, також клуб має Viber-групу.
         </td>
         <td><a href="https://maps.app.goo.gl/dtzA3G55VkN8RZi86">Печерський узвіз, 3</a></td>
-        <td>5 - 6</td>
+        <td>5-6</td>
     </tr>
     <tr>
         <td><a href="https://pokolenie.com.ua/">Покоління</a></td>
@@ -527,7 +527,7 @@
         <td>Спорткомплекс НПУ Драгоманова</td>
         <td>Організатор - Микола Одаренко. Є душові.</td>
         <td><a href="https://www.google.com/maps/place/50.4482661,30.494869">вул. Кониського, 3/9</a></td>
-        <td>0 - 8</td>
+        <td>0-8</td>
     </tr>
     <tr>
         <td><a href="https://goo.gl/maps/1JhS4RYEWHQ6RDWeA">Старт</a></td>
@@ -561,8 +561,8 @@
     <tr>
         <th style="width: 20%">Орієнтир</th>
         <th>Подробиці</th>
-        <th style="width: 7%">Ціна</th>
-        <th style="width: 7%">Столів</th>
+        <th style="min-width: 30px;">Ціна</th>
+        <th style="min-width: 30px;">Столів</th>
     </tr>
     </thead>
     <tbody>
@@ -570,7 +570,7 @@
         <td>X-Парк</td>
         <td>У X-Парку є затишний <a href="https://www.google.com.ua/maps/place/50.496428966572545,30.546095018713796">Майданчик</a> між будівлями.</td>
         <td>100 грн / година</td>
-        <td>0 - 4</td>
+        <td>0-4</td>
     </tr>
     <tr>
         <td>бульвар Кольцова, 14Ж</td>
@@ -636,7 +636,7 @@
             одразу за Eva. Підлога вимощена ковзькою плиткою.
         </td>
         <td>0 грн</td>
-        <td>1 - 3</td>
+        <td>1-3</td>
     </tr>
     <tr>
         <td>Даринок (зовні)</td>
@@ -707,7 +707,7 @@
         <td><a href="https://www.google.com.ua/maps/place/50%C2%B027'38.2%22N+30%C2%B036'25.5%22E/@50.4606224,30.6048803,17z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d50.4606191!4d30.6070687">Майданчик</a>
             на траві, куди влітку майже щодня виносять до 9 столів. Не захищений від вітру.</td>
         <td>120 грн / година</td>
-        <td>0 - 9</td>
+        <td>0-9</td>
     </tr>
     <tr>
         <td>Парк Совки (вул. Жмеринська)</td>
