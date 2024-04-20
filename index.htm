@@ -49,6 +49,9 @@
             font-size: 10pt;
         }
 
+        div.maps div { display: inline-block; padding-top: 10px; }
+        div.maps img { padding-top: 10px; }
+
         table { border-collapse: collapse; word-break: break-word; }
         table.t_clubs td:nth-child(4) { text-align:center; }
         table.t_courts td:nth-child(3), td:nth-child(4) { text-align:center; }
@@ -126,18 +129,21 @@
 
 <h1 id="maps">Мапи</h1>
 Дивіться розташування київських клубів та майданчиків:
-<ul>
-    <li>на
-        <a href="https://www.google.com/maps/d/viewer?mid=13bpRNOQsdPBN7sjaGY6R7au66wjfH6ty">мапі настільного тенісу Києва
+<div class="maps">
+    <div style="padding-right: 50px;">
+        • <a href="https://www.google.com/maps/d/viewer?mid=13bpRNOQsdPBN7sjaGY6R7au66wjfH6ty">на мапі настільного тенісу Києва
             <br>
-            <img src="kyiv-table-tennis-map.jpg" style="width: 400px; clear: both; padding-top: 10pt; padding-bottom: 10pt;" alt="Карта настільного тенісу Києва">
+            <img src="kyiv-table-tennis-map.jpg" alt="Карта настільного тенісу Києва">
         </a>
-    <li>на
-    <a href="https://pingpongmap.net/Kyiv">мапі настільного тенісу всього світу
-        <br>
-        <img src="world-table-tennis-map.jpg" style="width: 400px; clear: both; padding-top: 10pt; padding-bottom: 10pt;" alt="Карта настільного тенісу світу">
-    </a>
-</ul>
+    </div>
+    <div>
+        • <a href="https://pingpongmap.net/Kyiv">на мапі настільного тенісу світу
+            <br>
+            <img src="world-table-tennis-map.jpg" alt="Карта настільного тенісу світу">
+        </a>
+    </div>
+</div>
+
 
 <h1 id="clubs">Клуби</h1>
 <table class="t_clubs">
