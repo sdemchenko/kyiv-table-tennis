@@ -1,0 +1,42 @@
+html * {
+    font-size: 13pt;
+    color: #000;
+    font-family: Arial,sans-serif;
+    line-height: 1.15;
+}
+
+body {
+    max-width: 960px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 { padding-top: 20pt; }
+
+a {
+    color: rgb(17, 85, 204) !important;
+}
+
+div.news div {
+    font-size: 10pt;
+    font-style: italic;
+    color: #666666;
+}
+
+div.news div.sources {
+    line-height: 1.5;
+    padding-top: 3pt;
+}
+
+div.news div.sources a {
+    font-size: 10pt;
+}
+
+div.maps div { display: inline-block; padding-top: 10px; }
+div.maps img { padding-top: 10px; }
+
+table { border-collapse: collapse; word-break: break-word; }
+table.t_clubs td:nth-child(4) { text-align:center; }
+table.t_courts td:nth-child(3), td:nth-child(4) { text-align:center; }
+th { border: 1px solid black; text-align: center; padding: 6px; }
+td { border: 1px solid black; padding: 6px; }
