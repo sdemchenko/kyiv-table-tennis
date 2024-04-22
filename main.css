@@ -21,11 +21,12 @@ div.news div {
     font-size: 10pt;
     font-style: italic;
     color: #666666;
+    margin-top: 15pt;
 }
 
 div.news div.sources {
     line-height: 1.5;
-    padding-top: 3pt;
+    margin-top: 3pt;
 }
 
 div.news div.sources a {
