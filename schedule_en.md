@@ -111,7 +111,6 @@
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
 * 12:00 PM. "Pechersk". A ranking tournament 0-30.
 * 3:00 PM . "Orion". A kids' open tournament.
-* 3:00 PM. "Volia". A ranking tournament (the limit is announced in the chat on Thursday).
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". An evening ladder competition.
 * 5:00 PM. "Volia". A non-ranking tournament 0-15 (not every Sunday).
