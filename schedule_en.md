@@ -88,6 +88,7 @@
 ## Sunday {#sunday}
 
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
+  * May 5: no tournament (the gym is closed)
 * 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 9:30 AM. Revuts'koho St, 5. A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
