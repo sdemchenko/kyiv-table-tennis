@@ -1,3 +1,4 @@
+
 ## Monday {#monday}
 
 * 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
@@ -85,6 +86,7 @@
 * 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
 
 ## Sunday {#sunday}
+
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
 * 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 9:30 AM. Revuts'koho St, 5. A tournament for beginners.
