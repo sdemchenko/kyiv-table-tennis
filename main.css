@@ -14,7 +14,7 @@ body {
 h1 { padding-top: 20pt; }
 
 a {
-    color: rgb(17, 85, 204) !important;
+    color: rgb(17, 85, 204);
 }
 
 div.news div {
