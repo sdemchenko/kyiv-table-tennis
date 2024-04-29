@@ -98,8 +98,8 @@
   * May 19: 0-25
   * May 26: 0-40
 * 10:00 AM. Residential Club "Leader". A ranking tournament.
-  * May 5: 0-10
-  * May 12: 0-20
+  * May 5: -
+  * May 12: 0-10
   * May 19: 0-5
   * May 26: 0-15
 * 10:00 AM. "Raketka". A ranking tournament (or two at the same time).
