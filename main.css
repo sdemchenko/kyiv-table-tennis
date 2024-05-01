@@ -1,6 +1,21 @@
+:root, [data-theme="light"] {
+    --page-bg-color: #fafafa;
+    --page-fg-color: #333333;
+    --a-fg-color: #1D84C6;
+    --table-bg-color: #FFFFFF;
+    --table-border-color: lightgrey;
+}
+[data-theme="dark"] {
+    --page-bg-color: #212529;
+    --page-fg-color: #cccccc;
+    --a-fg-color: #6e9fff;
+    --table-bg-color: #2C3034;
+    --table-border-color: dimgrey;
+}
 html * {
     font-size: 13pt;
-    color: #000;
+    background-color: var(--page-bg-color);
+    color: var(--page-fg-color);
     font-family: Arial,sans-serif;
     line-height: 1.15;
 }
@@ -14,13 +29,13 @@ body {
 h1 { padding-top: 20pt; }
 
 a {
-    color: rgb(17, 85, 204);
+    color: var(--a-fg-color);
 }
 
 div.news div {
     font-size: 10pt;
     font-style: italic;
-    color: #666666;
+    color: #888888;
     margin-top: 15pt;
 }
 
@@ -36,8 +51,24 @@ div.news div.sources a {
 div.maps div { display: inline-block; padding-top: 10px; }
 div.maps img { padding-top: 10px; }
 
-table { border-collapse: collapse; word-break: break-word; }
+table {
+    border-collapse: collapse;
+    word-break: break-word;
+}
+table * {
+    background-color: var(--table-bg-color);
+}
+
 table.t_clubs td:nth-child(4) { text-align:center; }
 table.t_courts td:nth-child(3), td:nth-child(4) { text-align:center; }
-th { border: 1px solid black; text-align: center; padding: 6px; }
-td { border: 1px solid black; padding: 6px; }
+th {
+    border: 0px solid var(--table-border-color);
+    text-align: center;
+    padding: 6px;
+}
+td {
+    border: 1px solid var(--table-border-color);
+    border-left: 0px;
+    border-right: 0px;
+    padding: 6px;
+}
