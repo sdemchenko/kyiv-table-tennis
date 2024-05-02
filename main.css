@@ -59,16 +59,13 @@ table * {
     background-color: var(--table-bg-color);
 }
 
-table.t_clubs td:nth-child(4) { text-align:center; }
-table.t_courts td:nth-child(3), td:nth-child(4) { text-align:center; }
-th {
-    border: 0px solid var(--table-border-color);
-    text-align: center;
-    padding: 6px;
-}
-td {
-    border: 1px solid var(--table-border-color);
+th, td {
+    padding: 10px;
+    border-top: 1px solid var(--table-border-color);
+    border-bottom: 1px solid var(--table-border-color);
     border-left: 0px;
     border-right: 0px;
-    padding: 6px;
 }
+
+table.t_clubs td:nth-child(4) { text-align:center; }
+table.t_courts td:nth-child(3), td:nth-child(4) { text-align:center; }
