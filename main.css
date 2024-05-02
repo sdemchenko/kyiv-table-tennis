@@ -12,21 +12,18 @@
     --table-bg-color: #2C3034;
     --table-border-color: dimgrey;
 }
-html * {
-    font-size: 13pt;
+
+body {
     background-color: var(--page-bg-color);
     color: var(--page-fg-color);
     font-family: Arial,sans-serif;
-    line-height: 1.15;
-}
-
-body {
     max-width: 860px;
     padding: 10px;
     margin: auto;
 }
 
-h1 { padding-top: 20pt; }
+h1 { padding-top: 20pt; font-size: x-large; }
+h2 { font-size: large; }
 
 a {
     color: var(--a-fg-color);
@@ -52,19 +49,17 @@ div.maps div { display: inline-block; padding-top: 10px; }
 div.maps img { padding-top: 10px; }
 
 table {
+    background-color: var(--table-bg-color);
     border-collapse: collapse;
     word-break: break-word;
-}
-table * {
-    background-color: var(--table-bg-color);
 }
 
 th, td {
     padding: 10px;
     border-top: 1px solid var(--table-border-color);
     border-bottom: 1px solid var(--table-border-color);
-    border-left: 0px;
-    border-right: 0px;
+    border-left: 0;
+    border-right: 0;
 }
 
 table.t_clubs td:nth-child(4) { text-align:center; }
