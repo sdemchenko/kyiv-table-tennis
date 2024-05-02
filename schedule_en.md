@@ -114,6 +114,7 @@
 * 10:30 AM. "Orion". A non-ranking tournament 0-15.
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
+  * May 5: -
 * 12:00 PM. "Pechersk". A ranking tournament 0-30.
 * 3:00 PM . "Orion". A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
