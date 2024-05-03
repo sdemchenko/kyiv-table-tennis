@@ -78,6 +78,7 @@
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
 * 12:00 PM. "Volia". A ranking tournament 0-20.
+  * May 4: no tournament due to lack of votes
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A non-ranking doubles tournament 0-25.
 * 3:00 PM. "Volia". A ranking tournament 0-40.
