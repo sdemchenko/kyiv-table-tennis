@@ -29,7 +29,7 @@ github_username:  sdemchenko
 
 
 # Build settings
-theme: minima
+# theme: minima
 # plugins:
 #   - jekyll-feed
 
