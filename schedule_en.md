@@ -107,7 +107,7 @@
   * May 26: 0-15
 * 10:00 AM. "Raketka". A ranking tournament (or two at the same time).
   * May 5: 0-15
-  * May 12: 0-50
+  * May 12: 0-20 and 0-50
   * May 19: 0-20
   * May 26: 0-5
 * 10:00 AM. "Svitlotechnik". A ranking tournament 0-40.
