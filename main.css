@@ -25,24 +25,22 @@ body {
 h1 { padding-top: 20pt; font-size: x-large; }
 h2 { font-size: large; }
 
-a {
-    color: var(--a-fg-color);
-}
+a { color: var(--a-fg-color); }
 
-div.news div {
+ul#toc, ul#toc ul { list-style-type: none; }
+ul#toc { padding: 0; }
+ul#toc ul { padding-inline-start: 2ch; }
+
+div#newsContainer div {
     font-size: 10pt;
     font-style: italic;
     color: #888888;
     margin-top: 15pt;
 }
 
-div.news div.sources {
+div#newsContainer div.sources {
     line-height: 1.5;
     margin-top: 3pt;
-}
-
-div.news div.sources a {
-    font-size: 10pt;
 }
 
 div.maps div { display: inline-block; padding-top: 10px; }

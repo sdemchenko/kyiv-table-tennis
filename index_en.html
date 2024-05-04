@@ -1,5 +1,3 @@
----
----
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,18 +15,19 @@
     <link rel="stylesheet" type="text/css" href="main.css">
     <title>Table Tennis in Kyiv</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/2.0.1/remarkable.min.js"></script>
     <script src="main.js"></script>
 </head>
 <body>
 <h1>Table Tennis in Kyiv</h1>
-<a href="index">Українська</a> | English
-<ul>
+<a href="index.html">Українська</a> | English
+<ul id="toc" role="list">
     <li><a href="#news">News</a></li>
     <li><a href="#maps">Maps</a></li>
     <li><a href="#clubs">Clubs</a></li>
     <li><a href="#courts">Courts</a></li>
     <li><a href="#schedule">Competition schedule</a>
-        <ul>
+        <ul role="list">
             <li><a href="#monday">Monday</a></li>
             <li><a href="#tuesday">Tuesday</a></li>
             <li><a href="#wednesday">Wednesday</a></li>
@@ -39,7 +38,7 @@
         </ul>
     </li>
     <li><a href="#competitions">Competition types</a>
-        <ul>
+        <ul role="list">
             <li><a href="#ranking">Ranking tournament</a></li>
             <li><a href="#nonranking">Non-ranking tournament</a></li>
             <li><a href="#ladder">Ladder competition</a></li>
@@ -52,9 +51,7 @@
 </ul>
 
 <h1 id="news">News</h1>
-<div class="news">
-
-{% include_relative news_en.html %}
+<div id="newsContainer" source="news_en.html">
 
 <div>More news:
     <div class="sources">
@@ -747,9 +744,130 @@ See the full list of Kyiv clubs and courts:
 
 <h1 id="schedule">Competition schedule</h1>
 
-{% capture my_include %}{% include_relative schedule_en.md %}{% endcapture %}
-{{ my_include | markdownify }}
+<div id="scheduleContainer" source="schedule_en.md">
 
+    <h2 id="monday">Monday</h2>
+
+    <ul>
+        <li>9:00 AM - 4:00 PM. "Volia". A morning ladder competition.</li>
+        <li>11:00 AM - 3:00 PM. "Orion". A ladder competition.</li>
+        <li>5:00 PM - 8:00 PM. "Gourmet". A ladder competition.</li>
+        <li>5:00 PM - 8:00 PM. "Pechersk". A ladder competition.</li>
+        <li>6:00 PM - 8:30 PM. "Himars". Games in a group.</li>
+        <li>6:00 PM - 8:30 PM. "Breiks". A ladder competition.</li>
+        <li>7:00 PM. Sports School #21. A non-ranking tournament 0-100.</li>
+        <li>7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).</li>
+        <li>7:15 PM - 10:30 PM. "Volia". An evening ladder competition.</li>
+        <li>7:30 PM - 11:00 PM. "Raketka". Group games (the Monday+Thursday group).</li>
+        <li>7:30 PM - 10:00 PM. "KRSP". A warm-up + a round-robin + a ladder competition.</li>
+    </ul>
+
+    <h2 id="tuesday">Tuesday</h2>
+
+    <ul>
+        <li>9:00 AM - 3:00 PM. "Orion". A ladder competition.</li>
+        <li>9:00 AM - 4:00 PM. "Volia". A morning ladder competition.</li>
+        <li>4:00 PM - 10:30 PM. "Volia". An evening ladder competition.</li>
+        <li>5:00 PM - 7:30 PM. Drahomanov University Sports Complex. A ladder competition.</li>
+        <li>5:00 PM - 8:00 PM. "Pechersk". A ladder competition.</li>
+        <li>6:00 PM - 8:30 PM. "Himars". Games in a group.</li>
+        <li>7:00 PM. "Orion". A non-ranking tournament 0-20.</li>
+        <li>7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).</li>
+        <li>7:30 PM - 11:00 PM. "Raketka". Games in a group (the Tuesday+Friday group).</li>
+    </ul>
+
+    <h2 id="wednesday">Wednesday</h2>
+
+    <ul>
+        <li>9:00 AM - 4:00 PM. "Volia". A morning ladder competition.</li>
+        <li>11:00 AM - 3:00 PM. "Orion". A ladder competition.</li>
+        <li>5:00 PM - 8:00 PM. "Gourmet". A ladder competition.</li>
+        <li>5:00 PM - 8:00 PM. "Pechersk". A ladder competition.</li>
+        <li>6:00 PM - 8:30 PM. "Breiks". A ladder competition.</li>
+        <li>6:00 PM. "Himars". A ranking tournament 0-35.</li>
+        <li>7:00 PM. Sports School #21. A non-ranking tournament 0-100.</li>
+        <li>7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).</li>
+        <li>7:15 PM - 10:30 PM. "Volia". An evening ladder competition.</li>
+        <li>7:30 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).</li>
+    </ul>
+
+    <h2 id="thursday">Thursday</h2>
+
+    <ul>
+        <li>9:00 AM - 3:00 PM. "Orion". A ladder competition.</li>
+        <li>9:00 AM - 4:00 PM. "Volia". A morning ladder competition.</li>
+        <li>4:00 PM - 10:30 PM. "Volia". An evening ladder competition (on non-tournament tables).</li>
+        <li>5:00 PM - 7:30 PM. Drahomanov University Sports Complex. A ladder competition.</li>
+        <li>5:00 PM - 8:00 PM. "Pechersk". A ladder competition.</li>
+        <li>6:00 PM - 8:30 PM. "Himars". Games in a group.</li>
+        <li>7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).</li>
+        <li>7:00 PM. "Orion". A non-ranking tournament 0-15.</li>
+        <li>7:00 PM. "Volia". A ranking tournament 0-20.</li>
+        <li>7:30 PM - 11:00 PM. "Raketka". Games in a group (the Monday+Thursday group).</li>
+    </ul>
+
+    <h2 id="friday">Friday</h2>
+
+    <ul>
+        <li>9:00 AM - 4:00 PM. "Volia". A morning ladder competition.</li>
+        <li>11:00 AM - 3:00 PM. "Orion". A ladder competition.</li>
+        <li>5:00 PM - 8:00 PM. "Gourmet". A ladder competition.</li>
+        <li>5:00 PM - 8:00 PM. "Pechersk". A ladder competition.</li>
+        <li>6:00 PM - 8:30 PM. "Breiks". A ladder competition.</li>
+        <li>6:00 PM - 8:30 PM. "Himars". Games in a group.</li>
+        <li>6:00 PM. Sports School #21. A non-ranking tournament 0-100.</li>
+        <li>7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).</li>
+        <li>7:15 PM - 10:30 PM. "Volia". An evening ladder competition.</li>
+        <li>7:30 PM - 11:00 PM. "Raketka". Games in a group (the Tuesday+Friday group).</li>
+    </ul>
+
+    <h2 id="saturday">Saturday</h2>
+
+    <ul>
+        <li>8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.</li>
+        <li>9:30 AM. "Solomianka". A non-ranking tournament 0-100. Register in advance.</li>
+        <li>10:00 AM. "Breiks". A ranking tournament 0-25 or 0-100 (decided on the eve by voting in the chat).</li>
+        <li>10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).</li>
+        <li>10:00 AM. Residential Club "Leader". A kids tournament. Three difficulty levels.</li>
+        <li>10:30 AM. "Orion". A 0-25 ranking tournament.</li>
+        <li>11:00 AM. "Himars". A ranking tournament 0-100.</li>
+        <li>11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.</li>
+        <li>12:00 PM - 2:15 PM. Sports School #23. A ladder competition.</li>
+        <li>12:00 PM. "Volia". A ranking tournament 0-20.</li>
+        <li>3:00 PM. DBK-4 Sports Complex. A ladder competition.</li>
+        <li>3:00 PM. "Orion". A non-ranking doubles tournament 0-25.</li>
+        <li>3:00 PM. "Volia". A ranking tournament 0-40.</li>
+        <li>4:00 PM - 8:00 PM. "Pechersk". A ladder competition.</li>
+        <li>4:30 PM. "KUTT". A tournament (not every Saturday).</li>
+        <li>6:20 PM - 9:00 PM. "Orion". A ladder competition.</li>
+        <li>7:00 PM - 10:30 PM. "Volia". An evening ladder competition.</li>
+        <li>7:30 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).</li>
+    </ul>
+
+    <h2 id="sunday">Sunday</h2>
+
+    <ul>
+        <li>8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.</li>
+        <li>9:00 AM - 4:00 PM. "Volia". A morning ladder competition.</li>
+        <li>9:30 AM. Revuts’koho St, 5. A tournament for beginners.</li>
+        <li>10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.</li>
+        <li>10:00 AM. "Gourmet". A ranking tournament.</li>
+        <li>10:00 AM. Residential Club "Leader". A ranking tournament.</li>
+        <li>10:00 AM. "Raketka". A ranking tournament (or two at the same time).</li>
+        <li>10:00 AM. "Svitlotechnik". A ranking tournament 0-40.</li>
+        <li>10:30 AM. "KRSP". A non-ranking tournament.</li>
+        <li>10:30 AM. "Orion". A non-ranking tournament 0-15.</li>
+        <li>11:00 AM. "Start". A tournament (beginners, amateurs).</li>
+        <li>11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.</li>
+        <li>12:00 PM. "Pechersk". A ranking tournament 0-30.</li>
+        <li>3:00 PM . "Orion". A kids’ open tournament.</li>
+        <li>4:00 PM - 8:00 PM. "Pechersk". A ladder competition.</li>
+        <li>4:00 PM - 10:30 PM. "Volia". An evening ladder competition.</li>
+        <li>5:00 PM. "Volia". A non-ranking tournament 0-15 (not every Sunday).</li>
+        <li>6:20 PM - 9:00 PM. "Orion". A ladder competition.</li>
+    </ul>
+
+</div>
 
 <h1 id="competitions">Competition types</h1>
 <h2 id="ranking">Ranking tournament</h2>
