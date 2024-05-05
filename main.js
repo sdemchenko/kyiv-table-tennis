@@ -1,10 +1,11 @@
 //
 // Open links to external resources in a new tab.
 //
-$(document).ready(function(){
-    $('a[href^="http://"], a[href^="https://"]').attr('target','_blank');
-});
+$(document).ready(makeAllExternalLinksOpenInNewTab);
 
+function makeAllExternalLinksOpenInNewTab(){
+    $('a[href^="http://"], a[href^="https://"]').attr('target','_blank');
+}
 
 //
 // Automatically switch light / dark themes based on system preferences.
@@ -29,6 +30,7 @@ $(document).ready(function(){
         })
         .then(function (data) {
             $('#newsContainer').prepend(data);
+            makeAllExternalLinksOpenInNewTab();
         })
         .catch(function (err) {
             console.log(err);
