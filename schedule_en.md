@@ -1,5 +1,5 @@
 
-<h2 id="monday">Monday</h2>
+<h3 id="monday">Monday</h3>
 
 * 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 11:00 AM - 3:00 PM. "Orion". A ladder competition.
@@ -13,7 +13,7 @@
 * 7:30 PM - 11:00 PM. "Raketka". Group games (the Monday+Thursday group).
 * 7:30 PM - 10:00 PM. "KRSP". A warm-up + a round-robin + a ladder competition.
 
-<h2 id="tuesday">Tuesday</h2>
+<h3 id="tuesday">Tuesday</h3>
 
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
@@ -25,7 +25,7 @@
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Tuesday+Friday group).
 
-<h2 id="wednesday">Wednesday</h2>
+<h3 id="wednesday">Wednesday</h3>
 
 * 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 11:00 AM - 3:00 PM. "Orion". A ladder competition.
@@ -38,7 +38,7 @@
 * 7:15 PM - 10:30 PM. "Volia". An evening ladder competition.
 * 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
 
-<h2 id="thursday">Thursday</h2>
+<h3 id="thursday">Thursday</h3>
 
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
@@ -51,7 +51,7 @@
 * 7:00 PM. "Volia". A ranking tournament 0-20.
 * 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Monday+Thursday group).
 
-<h2 id="friday">Friday</h2>
+<h3 id="friday">Friday</h3>
 
 * 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 11:00 AM - 3:00 PM. "Orion". A ladder competition.
@@ -64,7 +64,7 @@
 * 7:15 PM - 10:30 PM. "Volia". An evening ladder competition.
 * 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Tuesday+Friday group).
 
-<h2 id="saturday">Saturday</h2>
+<h3 id="saturday">Saturday</h3>
 
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
 * 9:30 AM. "Solomianka". A non-ranking tournament 0-100. Register in advance.
@@ -86,7 +86,7 @@
 * 7:00 PM - 10:30 PM. "Volia". An evening ladder competition.
 * 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
 
-<h2 id="sunday">Sunday</h2>
+<h3 id="sunday">Sunday</h3>
 
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
   * May 5: no tournament (the gym is closed)

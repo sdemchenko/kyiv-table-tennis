@@ -22,8 +22,8 @@ body {
     margin: auto;
 }
 
-h1 { padding-top: 20pt; font-size: x-large; }
-h2 { font-size: large; }
+h1 { font-size: 26px; padding-top: 24px; }
+h2 { font-size: 24px; padding-top: 22px; }
 
 a { color: var(--a-fg-color); }
 
@@ -32,15 +32,15 @@ ul#toc { padding: 0; }
 ul#toc ul { padding-inline-start: 2ch; }
 
 div#newsContainer div {
-    font-size: 10pt;
+    font-size: 13px;
     font-style: italic;
     color: #888888;
-    margin-top: 15pt;
+    margin-top: 20px;
 }
 
 div#newsContainer div.sources {
     line-height: 1.5;
-    margin-top: 3pt;
+    margin-top: 4px;
 }
 
 div.maps div { display: inline-block; padding-top: 10px; }
