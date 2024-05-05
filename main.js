@@ -23,7 +23,7 @@ prefersDarkMode.addEventListener("change", () => updateTheme());
 //
 // Insert the content of news.html at the beginning of 'newsContainer' div.
 //
-$(document).ready(function(){
+$(function(){
     fetch($('#newsContainer').attr('source') + '?t=' + new Date().getTime(), {})
         .then(function (response) {
             return response.text();
@@ -44,7 +44,7 @@ const markdown = new remarkable.Remarkable({
     html: true, // Enable HTML tags in source
 });
 
-$(document).ready(function(){
+$(function(){
     fetch($('#scheduleContainer').attr('source') + '?t=' + new Date().getTime(), {})
         .then(function (response) {
             return response.text();
