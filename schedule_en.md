@@ -79,6 +79,7 @@
 * 12:00 PM. "Volia". A ranking tournament 0-20.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A non-ranking doubles tournament 0-25.
+  * May 11: ranking 0-10 (singles) 
 * 3:00 PM. "Volia". A ranking tournament 0-40.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:30 PM. "KUTT". A tournament (not every Saturday).
