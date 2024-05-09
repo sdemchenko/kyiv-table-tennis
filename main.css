@@ -33,6 +33,10 @@ ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
 ul#toc ul { padding-inline-start: 2ch; }
 
+div#newsContainer {
+    margin-top: 130px;
+}
+
 div#newsContainer > div {
     font-size: 0.8em;
     font-style: italic;
