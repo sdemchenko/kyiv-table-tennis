@@ -94,6 +94,8 @@
 * 10:00 AM. "Gourmet". A ranking tournament.
   * May 19: 0-25
   * May 26: 0-40
+  * June 2: 0-25
+  * June 9: 0-40
 * 10:00 AM. Residential Club "Leader". A ranking tournament.
   * May 19: 0-5
   * May 26: 0-15
