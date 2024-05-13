@@ -18,13 +18,13 @@ function updateTheme() {
 }
 
 updateTheme();
-prefersDarkMode.addEventListener("change", () => updateTheme());
+prefersDarkMode.addEventListener('change', () => updateTheme());
 
 //
 // Insert the content of news.html at the beginning of 'newsContainer' div.
 //
 $(function(){
-    fetch($('#newsContainer').attr('source') + '?t=' + new Date().getTime(), {})
+    fetch($('#newsContainer').attr('data-src') + '?t=' + new Date().getTime(), {})
         .then(function (response) {
             return response.text();
         })
@@ -46,7 +46,7 @@ const markdown = new remarkable.Remarkable({
 });
 
 $(function(){
-    fetch($('#scheduleContainer').attr('source') + '?t=' + new Date().getTime(), {})
+    fetch($('#scheduleContainer').attr('data-src') + '?t=' + new Date().getTime(), {})
         .then(function (response) {
             return response.text();
         })
