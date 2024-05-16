@@ -57,3 +57,20 @@ $(function(){
             console.log(err);
         });
 });
+
+
+//
+// Increment the counter
+//
+$(function(){
+    fetch('https://count.cab/hit/8CkvG1pF1f', {})
+        .then(function (response) {
+            return response.json();
+        })
+        .then(function (json) {
+            console.log(json);
+        })
+        .catch(function (err) {
+            console.log(err);
+        });
+});
