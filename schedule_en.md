@@ -69,7 +69,6 @@
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
 * 9:30 AM. "Solomianka". A non-ranking tournament 0-100. Register in advance.
 * 10:00 AM. "Breiks". A ranking tournament.
-  * May 18: 0-100
   * May 25: 0-25
   * June 1: 0-100
   * June 8: 0-25
@@ -82,7 +81,6 @@
 * 12:00 PM. "Volia". A ranking tournament 0-20.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A tournament.
-  * May 18: women's non-ranking 0-100
 * 3:00 PM. "Volia". A ranking tournament 0-40.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:30 PM. "KUTT". A tournament (not every Saturday).
