@@ -34,7 +34,11 @@ ul#toc { padding: 0; }
 ul#toc ul { padding-inline-start: 2ch; }
 
 div#newsContainer {
-    margin-top: 130px;
+    height: 300px;
+    overflow: scroll;
+    overflow-x: hidden;
+    border: 1px solid var(--table-border-color);
+    padding: 6px;
 }
 
 div#newsContainer > div {
@@ -43,10 +47,16 @@ div#newsContainer > div {
     color: #888888;
     margin-top: 20px;
 }
+div#newsContainer div:nth-child(1) {
+    margin-top: 0px;
+}
 
-div#newsContainer div.sources {
+div#moreNews {
+    font-size: 0.8em;
+    font-style: italic;
+    color: #888888;
+    margin-top: 20px;
     line-height: 1.5;
-    margin-top: 4px;
 }
 
 div.maps div { display: inline-block; padding-top: 10px; }

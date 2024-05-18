@@ -30,7 +30,6 @@ $(function(){
         })
         .then(function (data) {
             $('#newsContainer').prepend(data);
-            $('#newsContainer').css('margin-top', 0);
             makeAllExternalLinksOpenInNewTab();
         })
         .catch(function (err) {
