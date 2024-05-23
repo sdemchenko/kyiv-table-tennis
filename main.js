@@ -70,7 +70,7 @@ $(function(){
             return response.json();
         })
         .then(function (json) {
-            console.log(json);
+            // console.log(json);
         })
         .catch(function (err) {
             console.log(err);
