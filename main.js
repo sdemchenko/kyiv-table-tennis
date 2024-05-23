@@ -62,6 +62,9 @@ $(function(){
 // Increment the counter
 //
 $(function(){
+    if (window.location.hostname === 'localhost') {
+        return;
+    }
     fetch('https://count.cab/hit/8CkvG1pF1f', {})
         .then(function (response) {
             return response.json();
