@@ -104,7 +104,7 @@
 * 10:00 AM. Residential Club "Leader". A ranking tournament.
   * May 26: 0-15
 * 10:00 AM. "Raketka". A ranking tournament (or two at the same time).
-  * May 26: 0-5
+  * May 26: 0-100 (men and women play separately)
 * 10:00 AM. "Svitlotechnik". A ranking tournament 0-40.
 * 10:30 AM. "KRSP". A non-ranking tournament.
   * May 26: 0-100
