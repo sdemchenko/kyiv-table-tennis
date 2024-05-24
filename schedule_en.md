@@ -49,7 +49,6 @@
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 7:00 PM. "Orion". A non-ranking tournament 0-15.
 * 7:00 PM. "Volia". A ranking tournament 0-20.
-  * May 23: no tournament due to a scheduled power outage.
 * 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Monday+Thursday group).
 
 <h3 id="friday">Friday</h3>
@@ -80,6 +79,7 @@
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
 * 12:00 PM. "Volia". A ranking tournament 0-20.
+  * May 25: no tournament due to lack of votes.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A tournament.
   * May 25: non-ranking doubles 0-25
