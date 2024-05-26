@@ -69,9 +69,10 @@
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
 * 9:30 AM. "Solomianka". A non-ranking tournament 0-100. Register in advance.
 * 10:00 AM. "Breiks". A ranking tournament.
-  * May 25: 0-25
   * June 1: 0-100
   * June 8: 0-25
+  * June 15: 0-100
+  * June 22: 0-25
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00 AM. Residential Club "Leader". A kids tournament. Three difficulty levels.
 * 10:30 AM. "Orion". A 0-25 ranking tournament.
@@ -79,10 +80,9 @@
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
 * 12:00 PM. "Volia". A ranking tournament 0-20.
-  * May 25: no tournament due to lack of votes.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A tournament.
-  * May 25: non-ranking doubles 0-25
+  * June 1: non-ranking doubles 0-25
 * 3:00 PM. "Volia". A ranking tournament 0-40.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:30 PM. "KUTT". A tournament (not every Saturday).
@@ -97,17 +97,20 @@
 * 9:30 AM. Revuts'koho St, 5. A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". A ranking tournament.
-  * May 26: 0-40
   * June 2: 0-25
   * June 9: 0-40
   * June 16: 0-25
+  * June 23: 0-40
+  * June 30: 0-40
 * 10:00 AM. Residential Club "Leader". A ranking tournament.
-  * May 26: 0-15
 * 10:00 AM. "Raketka". A ranking tournament (or two at the same time).
-  * May 26: 0-100 (men and women play separately)
 * 10:00 AM. "Svitlotechnik". A ranking tournament 0-40.
 * 10:30 AM. "KRSP". A non-ranking tournament.
-  * May 26: 0-100
+  * June 2: 0-10
+  * June 9: 0-15
+  * June 16: 0-20
+  * June 23: 0-25
+  * June 30: 0-100
 * 10:30 AM. "Orion". A non-ranking tournament 0-15.
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
