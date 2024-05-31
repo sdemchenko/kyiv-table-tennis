@@ -80,12 +80,12 @@
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
 * 12:00 PM. "Volia". A ranking tournament 0-20.
-  * June 1: ranking 0-10
+  * June 1: ranking 0-10, however it might be cancelled due to lack of players
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A tournament.
   * June 1: non-ranking doubles 0-25
 * 3:00 PM. "Volia". A ranking tournament 0-40.
-  * June 1: ranking 0-25
+  * June 1: ranking 0-25, however it might be cancelled due to lack of players
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:30 PM. "KUTT". A tournament (not every Saturday).
 * 6:20 PM - 9:00 PM. "Orion". A ladder competition.
