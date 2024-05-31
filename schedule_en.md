@@ -74,6 +74,7 @@
   * June 15: 0-100
   * June 22: 0-25
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
+* 10:00 AM. Residential Club "Leader". A kids tournament. Three difficulty levels.
 * 10:30 AM. "Orion". A 0-25 ranking tournament.
 * 11:00 AM. "Himars". A ranking tournament 0-100.
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
