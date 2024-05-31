@@ -102,6 +102,7 @@
   * June 23: 0-40
   * June 30: 0-40
 * 10:00 AM. "Raketka". A ranking tournament (or two at the same time).
+  * June 2: 0-5
 * 10:00 AM. "Svitlotechnik". A ranking tournament 0-40.
 * 10:30 AM. "KRSP". A non-ranking tournament.
   * June 2: 0-10
