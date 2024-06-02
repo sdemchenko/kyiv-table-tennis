@@ -95,20 +95,17 @@
 * 9:30 AM. Revuts'koho St, 5. A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". A ranking tournament.
-  * June 2: 0-25
   * June 9: 0-40
   * June 16: 0-25
   * June 23: 0-40
   * June 30: 0-40
 * 10:00 AM. "Raketka". A ranking tournament (or two at the same time).
-  * June 2: 0-5
   * June 9: 0-20
   * June 16: 0-30
   * June 23: 0-10
   * June 30: 0-40
 * 10:00 AM. "Svitlotechnik". A ranking tournament 0-40.
 * 10:30 AM. "KRSP". A non-ranking tournament.
-  * June 2: 0-10
   * June 9: 0-15
   * June 16: 0-20
   * June 23: 0-25
