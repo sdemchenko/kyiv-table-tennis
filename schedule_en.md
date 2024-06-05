@@ -33,6 +33,7 @@
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Breiks". A ladder competition.
 * 6:00 PM. "Himars". A ranking tournament 0-35.
+  * June 5: no tournament
 * 7:00 PM. Sports School #21. A non-ranking tournament 0-100.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).
 * 7:15 PM - 10:30 PM. "Volia". An evening ladder competition.
