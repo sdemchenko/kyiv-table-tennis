@@ -16,8 +16,7 @@
 <h3 id="tuesday">Tuesday</h3>
 
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
-* 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
-* 4:00 PM - 10:30 PM. "Volia". An evening ladder competition.
+* 5:00 PM - 10:30 PM. "Volia". An evening ladder competition.
 * 5:00 PM - 7:30 PM. Drahomanov University Sports Complex. A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
@@ -33,7 +32,6 @@
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Breiks". A ladder competition.
 * 6:00 PM. "Himars". A ranking tournament 0-35.
-  * June 5: no tournament
 * 7:00 PM. Sports School #21. A non-ranking tournament 0-100.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).
 * 7:15 PM - 10:30 PM. "Volia". An evening ladder competition.
@@ -42,14 +40,14 @@
 <h3 id="thursday">Thursday</h3>
 
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
-* 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
-* 4:00 PM - 10:30 PM. "Volia". An evening ladder competition (on non-tournament tables).
+* 5:00 PM - 10:30 PM. "Volia". An evening ladder competition (on non-tournament tables).
 * 5:00 PM - 7:30 PM. Drahomanov University Sports Complex. A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 7:00 PM. "Orion". A non-ranking tournament 0-15.
 * 7:00 PM. "Volia". A ranking tournament 0-20.
+  * June 6: no tournament
 * 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Monday+Thursday group).
 
 <h3 id="friday">Friday</h3>
