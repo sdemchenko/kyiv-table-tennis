@@ -77,9 +77,7 @@
 * 12:00 PM. "Volia". A ranking tournament 0-20.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A tournament.
-  * June 8: a ranking tournament 0-10
 * 3:00 PM. "Volia". A ranking tournament 0-40.
-  * June 8: no tournament due to lack of players
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:30 PM. "KUTT". A tournament (not every Saturday).
 * 6:20 PM - 9:00 PM. "Orion". A ladder competition.
