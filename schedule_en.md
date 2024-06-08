@@ -67,10 +67,9 @@
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
 * 9:30 AM. "Solomianka". A non-ranking tournament 0-100. Register in advance.
 * 10:00 AM. "Breiks". A ranking tournament.
-  * June 8: 0-100
+  * June 15: 0-25
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00 AM. Residential Club "Leader". A kids tournament. Three difficulty levels.
-  * June 8: no tournament
 * 10:30 AM. "Orion". A 0-25 ranking tournament.
 * 11:00 AM. "Himars". A ranking tournament 0-100.
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
@@ -80,6 +79,7 @@
 * 3:00 PM. "Orion". A tournament.
   * June 8: a ranking tournament 0-10
 * 3:00 PM. "Volia". A ranking tournament 0-40.
+  * June 8: no tournament due to lack of players
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:30 PM. "KUTT". A tournament (not every Saturday).
 * 6:20 PM - 9:00 PM. "Orion". A ladder competition.
