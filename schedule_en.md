@@ -79,7 +79,6 @@
 * 3:00 PM. "Orion". A tournament.
 * 3:00 PM. "Volia". A ranking tournament 0-40.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
-* 4:30 PM. "KUTT". A tournament (not every Saturday).
 * 6:20 PM - 9:00 PM. "Orion". A ladder competition.
 * 7:00 PM - 10:30 PM. "Volia". An evening ladder competition.
 * 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
@@ -91,18 +90,15 @@
 * 9:30 AM. Revuts'koho St, 5. A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". A ranking tournament.
-  * June 9: 0-40
   * June 16: 0-25
   * June 23: 0-40
   * June 30: 0-40
 * 10:00 AM. "Raketka". A ranking tournament (or two at the same time).
-  * June 9: 0-20
   * June 16: 0-30
   * June 23: 0-10
   * June 30: 0-40
 * 10:00 AM. "Svitlotechnik". A ranking tournament 0-40.
 * 10:30 AM. "KRSP". A non-ranking tournament.
-  * June 9: 0-15
   * June 16: 0-20
   * June 23: 0-25
   * June 30: 0-100
@@ -113,5 +109,4 @@
 * 3:00 PM . "Orion". A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". An evening ladder competition.
-* 5:00 PM. "Volia". A non-ranking tournament 0-15 (not every Sunday).
 * 6:20 PM - 9:00 PM. "Orion". A ladder competition.
