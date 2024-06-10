@@ -1,17 +1,17 @@
 
 <h3 id="monday">Monday</h3>
 
-* 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
+* 10:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 11:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 5:00 PM - 8:00 PM. "Gourmet". A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
 * 6:00 PM - 8:30 PM. "Breiks". A ladder competition.
+* 7:00 PM - 9:30 PM. "KRSP". A warm-up + a round-robin + a ladder competition.
 * 7:00 PM. Sports School #21. A non-ranking tournament 0-100.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).
 * 7:15 PM - 10:30 PM. "Volia". An evening ladder competition.
 * 7:30 PM - 11:00 PM. "Raketka". Group games (the Monday+Thursday group).
-* 7:30 PM - 10:00 PM. "KRSP". A warm-up + a round-robin + a ladder competition.
 
 <h3 id="tuesday">Tuesday</h3>
 
@@ -26,7 +26,7 @@
 
 <h3 id="wednesday">Wednesday</h3>
 
-* 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
+* 10:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 11:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 5:00 PM - 8:00 PM. "Gourmet". A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
@@ -51,7 +51,7 @@
 
 <h3 id="friday">Friday</h3>
 
-* 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
+* 10:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 11:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 5:00 PM - 8:00 PM. "Gourmet". A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
