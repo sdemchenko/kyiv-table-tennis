@@ -98,10 +98,6 @@
   * June 23: 0-10
   * June 30: 0-40
 * 10:00 AM. "Svitlotechnik". A ranking tournament 0-40.
-* 10:30 AM. "KRSP". A non-ranking tournament.
-  * June 16: 0-20
-  * June 23: 0-25
-  * June 30: 0-100
 * 10:30 AM. "Orion". A non-ranking tournament 0-15.
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
