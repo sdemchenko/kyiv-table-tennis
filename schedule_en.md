@@ -47,6 +47,7 @@
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 7:00 PM. "Orion". A non-ranking tournament 0-15.
 * 7:00 PM. "Volia". A ranking tournament 0-20.
+  * June 13: 0-15
 * 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Monday+Thursday group).
 
 <h3 id="friday">Friday</h3>
