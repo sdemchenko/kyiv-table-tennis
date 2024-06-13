@@ -10,8 +10,8 @@
 * 7:00 PM - 9:30 PM. "KRSP". A warm-up + a round-robin + a ladder competition.
 * 7:00 PM. Sports School #21. A non-ranking tournament 0-100.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).
+* 7:15 PM - 11:00 PM. "Raketka". Group games (the Monday+Thursday group).
 * 7:15 PM - 10:30 PM. "Volia". An evening ladder competition.
-* 7:30 PM - 11:00 PM. "Raketka". Group games (the Monday+Thursday group).
 
 <h3 id="tuesday">Tuesday</h3>
 
@@ -22,7 +22,7 @@
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
 * 7:00 PM. "Orion". A non-ranking tournament 0-20.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
-* 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Tuesday+Friday group).
+* 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Tuesday+Friday group).
 
 <h3 id="wednesday">Wednesday</h3>
 
@@ -34,8 +34,8 @@
 * 6:00 PM. "Himars". A ranking tournament 0-35.
 * 7:00 PM. Sports School #21. A non-ranking tournament 0-100.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).
+* 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
 * 7:15 PM - 10:30 PM. "Volia". An evening ladder competition.
-* 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
 
 <h3 id="thursday">Thursday</h3>
 
@@ -48,7 +48,7 @@
 * 7:00 PM. "Orion". A non-ranking tournament 0-15.
 * 7:00 PM. "Volia". A ranking tournament 0-20.
   * June 13: 0-15
-* 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Monday+Thursday group).
+* 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Monday+Thursday group).
 
 <h3 id="friday">Friday</h3>
 
@@ -60,8 +60,8 @@
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
 * 6:00 PM. Sports School #21. A non-ranking tournament 0-100.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).
+* 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Tuesday+Friday group).
 * 7:15 PM - 10:30 PM. "Volia". An evening ladder competition.
-* 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Tuesday+Friday group).
 
 <h3 id="saturday">Saturday</h3>
 
@@ -82,7 +82,7 @@
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:20 PM - 9:00 PM. "Orion". A ladder competition.
 * 7:00 PM - 10:30 PM. "Volia". An evening ladder competition.
-* 7:30 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
+* 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
 
 <h3 id="sunday">Sunday</h3>
 
