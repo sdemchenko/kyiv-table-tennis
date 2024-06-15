@@ -67,8 +67,7 @@
 
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
 * 9:30 AM. "Solomianka". A non-ranking tournament 0-100. Register in advance.
-* 10:00 AM. "Breiks". A ranking tournament.
-  * June 15: 0-100
+* 10:00 AM. "Breiks". A ranking tournament 0-25 or 0-100.
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00 AM. Residential Club "Leader". A kids tournament. Three difficulty levels.
 * 10:30 AM. "Orion". A 0-25 ranking tournament.
@@ -76,11 +75,9 @@
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
 * 12:00 PM. "Volia". A ranking tournament 0-20.
-  * June 15: no tournament due to lack of players
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A tournament.
 * 3:00 PM. "Volia". A ranking tournament 0-40.
-  * June 15: probably no tournament due to lack of players
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:20 PM - 9:00 PM. "Orion". A ladder competition.
 * 7:00 PM - 10:30 PM. "Volia". An evening ladder competition.
