@@ -73,7 +73,7 @@
 * 11:00 AM. "Himars". A ranking tournament 0-100.
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
-* 12:00 PM. "Volia". A ranking tournament 0-20.
+* 12:00 PM. "Volia". A ranking tournament 0-15.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A tournament.
 * 3:00 PM. "Volia". A ranking tournament 0-40.
@@ -100,6 +100,7 @@
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
 * 12:00 PM. "Pechersk". A ranking tournament 0-30.
+* 12:00 PM. "Volia". A ranking tournament 0-25.
 * 3:00 PM . "Orion". A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". An evening ladder competition.
