@@ -67,6 +67,7 @@
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
 * 9:30 AM. "Solomianka". A non-ranking tournament 0-100. Register in advance.
 * 10:00 AM. "Breiks". A ranking tournament 0-25 or 0-100.
+  * June 22: 0-100
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00 AM. Residential Club "Leader". A kids tournament. Three difficulty levels.
 * 10:30 AM. "Orion". A 0-25 ranking tournament.
