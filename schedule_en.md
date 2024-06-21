@@ -9,6 +9,7 @@
 * 6:00 PM - 8:30 PM. "Breiks". A ladder competition.
 * 7:00 PM - 9:30 PM. "KRSP". A warm-up + a round-robin + a ladder competition.
 * 7:00 PM. Sports School #21. A non-ranking tournament 0-100.
+  * June 24 through July 21 there will be no tournaments on Mondays
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).
 * 7:15 PM - 11:00 PM. "Raketka". Group games (the Monday+Thursday group).
 * 7:15 PM - 10:30 PM. "Volia". An evening ladder competition.
