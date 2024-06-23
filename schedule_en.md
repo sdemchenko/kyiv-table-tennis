@@ -68,9 +68,9 @@
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
 * 9:30 AM. "Solomianka". A non-ranking tournament 0-100. Register in advance.
 * 10:00 AM. "Breiks". A ranking tournament 0-25 or 0-100.
-  * June 22: 0-100
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00 AM. Residential Club "Leader". A kids tournament. Three difficulty levels.
+  * June 29: Finals (boys 2007 y.o.b. or younger; boys 2013 y.o.b. or younger; girls 2007 y.o.b. or younger)
 * 10:30 AM. "Orion". A 0-25 ranking tournament.
 * 11:00 AM. "Himars". A ranking tournament 0-100.
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
@@ -78,7 +78,6 @@
 * 12:00 PM. "Volia". A ranking tournament 0-15.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A tournament.
-  * June 22:  A 0-10 ranking tournament.
 * 3:00 PM. "Volia". A ranking tournament 0-40.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:20 PM - 9:00 PM. "Orion". A ladder competition.
@@ -92,18 +91,15 @@
 * 9:30 AM. Revuts'koho St, 5. A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". A ranking tournament.
-  * June 23: 0-40
   * June 30: 0-40
   * July 7: 0-25
 * 10:00 AM. "Raketka". A ranking tournament (or two at the same time).
-  * June 23: 0-10
   * June 30: 0-40
 * 10:00 AM. "Svitlotechnik". A ranking tournament 0-40.
 * 10:30 AM. "Orion". A non-ranking tournament 0-15.
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
 * 12:00 PM. "Pechersk". A ranking tournament 0-30.
-* 12:00 PM. "Volia". A ranking tournament 0-25.
 * 3:00 PM . "Orion". A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". An evening ladder competition.
