@@ -78,6 +78,7 @@
 * 12:00 PM. "Volia". A ranking tournament 0-15.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A tournament.
+  * June 29: a 0-10 ranking tournament.
 * 3:00 PM. "Volia". A ranking tournament 0-40.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:20 PM - 9:00 PM. "Orion". A ladder competition.
