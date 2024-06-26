@@ -70,7 +70,7 @@
 * 10:00 AM. "Breiks". A ranking tournament 0-25 or 0-100.
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00 AM. Residential Club "Leader". A kids tournament. Three difficulty levels.
-  * June 29: Finals (boys 2007 y.o.b. or younger; boys 2013 y.o.b. or younger; girls 2007 y.o.b. or younger)
+  * June 29: Finals (separately boys and girls; 2007 y.o.b. or younger; 2013 y.o.b. or younger)
 * 10:30 AM. "Orion". A 0-25 ranking tournament.
 * 11:00 AM. "Himars". A ranking tournament 0-100.
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
