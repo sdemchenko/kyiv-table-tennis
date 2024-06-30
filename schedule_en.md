@@ -89,15 +89,12 @@
 * 9:30 AM. Revuts'koho St, 5. A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". A ranking tournament.
-  * June 30: 0-25
   * July 7: 0-40
 * 10:00 AM. "Raketka". A ranking tournament (or two at the same time).
-  * June 30: 0-40
 * 10:00 AM. "Svitlotechnik". A ranking tournament 0-40.
 * 10:30 AM. "Orion". A non-ranking tournament 0-15.
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
-  * June 30: the tournament will begin at 9:30 AM
 * 12:00 PM. "Pechersk". A ranking tournament 0-30.
 * 3:00 PM . "Orion". A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
