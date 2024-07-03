@@ -1,8 +1,8 @@
 
 <h3 id="monday">Monday</h3>
 
+* 9:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 10:00 AM - 4:00 PM. "Volia". A morning ladder competition.
-* 11:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 5:00 PM - 8:00 PM. "Gourmet". A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
@@ -29,8 +29,8 @@
 
 <h3 id="wednesday">Wednesday</h3>
 
+* 9:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 10:00 AM - 4:00 PM. "Volia". A morning ladder competition.
-* 11:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 5:00 PM - 8:00 PM. "Gourmet". A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Breiks". A ladder competition.
@@ -57,8 +57,8 @@
 
 <h3 id="friday">Friday</h3>
 
+* 9:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 10:00 AM - 4:00 PM. "Volia". A morning ladder competition.
-* 11:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 5:00 PM - 8:00 PM. "Gourmet". A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Breiks". A ladder competition.
@@ -84,7 +84,7 @@
 * 3:00 PM. "Orion". A tournament.
   * July 6: 0-10 ranking tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
-* 6:20 PM - 9:00 PM. "Orion". A ladder competition.
+* 6:00 PM - 9:00 PM. "Orion". A ladder competition.
 * 7:00 PM - 10:30 PM. "Volia". An evening ladder competition.
 * 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
 
@@ -105,4 +105,4 @@
 * 3:00 PM . "Orion". A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". An evening ladder competition.
-* 6:20 PM - 9:00 PM. "Orion". A ladder competition.
+* 6:00 PM - 9:00 PM. "Orion". A ladder competition.
