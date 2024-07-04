@@ -97,6 +97,7 @@
 * 10:00 AM. "Gourmet". A ranking tournament.
   * July 7: 0-40
 * 10:00 AM. "Raketka". A ranking tournament (or two at the same time).
+  * July 7: 0-10
 * 10:00 AM. "Svitlotechnik". A ranking tournament 0-40.
 * 10:30 AM. "Orion". A non-ranking tournament 0-15.
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
