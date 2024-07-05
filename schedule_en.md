@@ -95,7 +95,7 @@
 * 9:30 AM. Revuts'koho St, 5. A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". A ranking tournament.
-  * July 7: 0-40
+  * July 7: 0-25 will start at 9:00
 * 10:00 AM. "Raketka". A ranking tournament (or two at the same time).
   * July 7: 0-10
   * July 14: 0-45
