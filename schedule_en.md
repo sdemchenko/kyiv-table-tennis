@@ -78,6 +78,7 @@
 * 10:30 AM. "Orion". A 0-25 ranking tournament.
 * 11:00 AM. "Himars". A ranking tournament 0-100.
 * 11:00 PM. "Volia". A ranking tournament 0-20.
+  * July 6: most likely, the tournament will be canceled due to lack of players
 * 11:30 AM. "Pokolinnia". A non-ranking tournament 0-100.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
