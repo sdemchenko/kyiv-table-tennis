@@ -93,6 +93,8 @@
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". A ranking tournament.
   * July 14: 0-40
+  * July 21: 0-25
+  * July 28: 0-40
 * 10:00 AM. "Raketka". A ranking tournament.
   * July 14: 0-45
   * July 21: 0-15
