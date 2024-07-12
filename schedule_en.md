@@ -104,6 +104,7 @@
 * 10:30 AM. "Orion". A 0-15 non-ranking tournament.
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". A 0-100 non-ranking tournament.
+  * July 14: the tournament will start at 9:30 AM
 * 12:00 PM. "Pechersk". A 0-30 ranking tournament.
 * 3:00 PM . "Orion". A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
