@@ -90,19 +90,16 @@
 * 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 9:30 AM. Revuts'koho St, 5. A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
-* 10:00 AM. "Gourmet". A ranking tournament.
-  * July 14: 0-40, the tournament will start at 9:00
+* 10:00 AM. "Gourmet". A ranking tournament. A few recent tournaments moved to 9:00 AM.
   * July 21: 0-25
   * July 28: 0-40
 * 10:00 AM. "Raketka". A ranking tournament.
-  * July 14: 0-45
   * July 21: 0-15
   * July 28: 0-25
 * 10:00 AM. "Svitlotechnik". A 0-40 ranking tournament.
 * 10:30 AM. "Orion". A 0-15 non-ranking tournament.
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
-* 11:30 AM. "Pokolinnia". A 0-100 non-ranking tournament.
-  * July 14: the tournament will start at 9:30 AM
+* 11:30 AM. "Pokolinnia". A 0-100 non-ranking tournament. A few recent Sunday tournaments moved to 9:30 AM.
 * 12:00 PM. "Pechersk". A 0-30 ranking tournament.
 * 3:00 PM . "Orion". A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
