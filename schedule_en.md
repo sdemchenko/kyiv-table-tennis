@@ -98,6 +98,7 @@
   * July 28: 0-25
 * 10:00 AM. "Svitlotechnik". A 0-40 ranking tournament.
 * 10:30 AM. "Orion". A 0-15 non-ranking tournament.
+* 11:00 AM. "KRSP". [KRSP JULY OPEN tournament](https://t.me/SmartTT_KRSP/385) on July 28.
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". A 0-100 non-ranking tournament. A few recent Sunday tournaments moved to 9:30 AM.
 * 12:00 PM. "Pechersk". A 0-30 ranking tournament.
