@@ -51,6 +51,7 @@ $(function(){
         })
         .then(function (data) {
             $('#scheduleContainer').html(markdown.render(data));
+            makeAllExternalLinksOpenInNewTab();
         })
         .catch(function (err) {
             console.log(err);
