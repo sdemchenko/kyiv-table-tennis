@@ -76,7 +76,6 @@
 * 10:30 AM. "Orion". A 0-25 ranking tournament.
 * 11:00 AM. "Himars". A 0-100 ranking tournament.
 * 11:30 AM. "Pokolinnia". A 0-100 non-ranking tournament.
-  * July 20: the tournament will start at 12:00 PM.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". A 0-10 ranking tournament.
@@ -89,13 +88,13 @@
 <h3 id="sunday">Sunday</h3>
 
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
+* 9:00 AM. "Gourmet". A ranking tournament.
+  * July 21: 0-25
+  * July 28: 0-40
 * 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 9:30 AM. "Pokolinnia". A 0-100 non-ranking tournament.
 * 9:30 AM. Revuts'koho St, 5. A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
-* 10:00 AM. "Gourmet". A ranking tournament. A few recent tournaments moved to 9:00 AM.
-  * July 21: 0-25
-  * July 28: 0-40
 * 10:00 AM. "Raketka". A ranking tournament.
   * July 21: 0-15
   * July 28: 0-25
