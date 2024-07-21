@@ -46,7 +46,7 @@
 <h3 id="thursday">Thursday</h3>
 
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
-* 5:00 PM - 10:30 PM. "Volia". An evening ladder competition (on non-tournament tables).
+* 5:00 PM - 10:30 PM. "Volia". An evening ladder competition.
 * 5:00 PM - 7:30 PM. Drahomanov University Sports Complex. A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
