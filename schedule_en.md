@@ -103,6 +103,7 @@
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
 * 12:00 PM. "Pechersk". A 0-30 ranking tournament.
 * 3:00 PM . "Orion". A kids' open tournament.
+* 3:00 PM . "Orion". A tournament for players with club's ranking 0-300.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". An evening ladder competition.
 * 6:00 PM - 9:00 PM. "Orion". A ladder competition.
