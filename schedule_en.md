@@ -102,8 +102,8 @@
 * 10:00 AM. "Svitlotechnik". A 0-40 ranking tournament.
 * 10:30 AM. "Orion". A 0-15 non-ranking tournament.
 * 11:00 AM. "KRSP". [KRSP JULY OPEN tournament](https://t.me/SmartTT_KRSP/385) on July 28.
-  * Advanced category starts playing at 11:00 AM (registration at 10:00 AM)
-  * Amateur category starts playing at 3:00 PM (registration at 2:00 PM)
+  * Advanced players start playing at 11:00 AM (registration from 10:00 AM)
+  * Amateur players start playing at 3:00 PM (registration from 2:00 PM)
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
 * 12:00 PM. "Pechersk". A 0-30 ranking tournament.
 * 3:00 PM . "Orion". A kids' open tournament.
