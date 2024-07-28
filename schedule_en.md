@@ -33,7 +33,7 @@
 * 5:00 PM - 8:00 PM. "Gourmet". A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Breiks". A ladder competition.
-* 6:00 PM. "Himars". A 0-35 ranking tournament.
+* 6:10 PM. "Himars". A 0-35 ranking tournament.
 * 6:30 PM - 9:30 PM. "Orion". A ladder competition.
 * 7:30 PM. Sports School #21. A 0-100 non-ranking tournament.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).
@@ -88,7 +88,6 @@
 
 * 8:00 AM. "Grand-Prix Evolution". A non-ranking tournament 0-100. Register in advance.
 * 9:00 AM. "Gourmet". A ranking tournament.
-  * July 28: 0-40
   * August 4: 0-25
   * August 11: 0-40
   * August 18: 0-25
@@ -98,12 +97,8 @@
 * 9:30 AM. Revuts'koho St, 5. A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Raketka". A ranking tournament.
-  * July 28: 0-25
 * 10:00 AM. "Svitlotechnik". A 0-40 ranking tournament.
 * 10:30 AM. "Orion". A 0-15 non-ranking tournament.
-* 11:00 AM. "KRSP". [KRSP JULY OPEN tournament](https://t.me/SmartTT_KRSP/385) on July 28.
-  * Advanced players start playing at 11:00 AM (registration from 10:00 AM)
-  * Amateur players start playing at 3:00 PM (registration from 2:00 PM)
 * 11:00 AM. "Start". A tournament (beginners, amateurs).
 * 12:00 PM. "Pechersk". A 0-30 ranking tournament.
 * 3:00 PM . "Orion". A kids' open tournament.
