@@ -46,6 +46,7 @@
 * 5:00 PM - 10:30 PM. "Volia". An evening ladder competition.
 * 5:00 PM - 7:30 PM. Drahomanov University Sports Complex. A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
+* 5:00 PM - 9:00 PM. August 1. VDNG Urban Park. A [tournament](https://docs.google.com/forms/d/e/1FAIpQLSdLsA0SkosMQk6YQvbLhJkAg2AH5EtKWHJtdYeA8L_jSrrToA/viewform).
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
 * 6:30 PM - 9:30 PM. "Orion". A ladder competition.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
