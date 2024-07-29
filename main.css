@@ -60,7 +60,7 @@ div#moreNews {
     line-height: 1.5;
 }
 
-div.maps div { display: inline-block; padding-top: 10px; }
+div.maps div { display: inline-block; padding-top: 10px; vertical-align: top }
 div.maps img { padding-top: 10px; }
 
 table {
