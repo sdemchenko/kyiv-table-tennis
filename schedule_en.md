@@ -98,7 +98,7 @@
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
-  * August 4: 0-30 and 0-60
+  * August 4: 0-30 and 0-60 at the same time
   * August 11: 0-15
   * August 18: 0-5
   * August 25: 0-25
