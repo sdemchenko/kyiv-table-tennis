@@ -89,7 +89,6 @@
 
 * 7:50 AM. "Himars". 🏆 A non-ranking tournament 0-100. Register in advance in Viber chat "Grand Prix Table Tennis".
 * 9:00 AM. "Gourmet". 🏆 A ranking tournament.
-  * August 4: 0-25
   * August 11: 0-40
   * August 18: 0-25
   * August 25: 0-40
@@ -97,7 +96,6 @@
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
-  * August 4: 0-30 and 0-60 at the same time
   * August 11: 0-15
   * August 18: 0-5
   * August 25: 0-25
@@ -106,7 +104,6 @@
 * 10:30 AM. "Orion". 🏆 A 0-50 ranking tournament.
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * August 4: A 0-25.0 ranking tournament.
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 3:00 PM . "Orion". 🏆 A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
