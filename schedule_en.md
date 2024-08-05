@@ -21,6 +21,7 @@
 * 5:00 PM - 7:30 PM. Drahomanov University Sports Complex. A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
+* 6:00 AM - 9:00 PM. "KRSP". A ladder competition.
 * 6:30 PM - 9:30 PM. "Orion". A ladder competition.
 * 7:00 PM. "Orion". 🏆 A 0-20 ranking tournament.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
@@ -29,6 +30,7 @@
 <h3 id="wednesday">Wednesday</h3>
 
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
+* 10:00 AM - 1:00 PM. "KRSP". A ladder competition.
 * 10:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 5:00 PM - 8:00 PM. "Gourmet". A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
@@ -47,6 +49,7 @@
 * 5:00 PM - 7:30 PM. Drahomanov University Sports Complex. A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
+* 6:00 AM - 9:00 PM. "KRSP". A ladder competition.
 * 6:30 PM - 9:30 PM. "Orion". A ladder competition.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 7:00 PM. "Orion". 🏆 A 0-15 non-ranking tournament.
@@ -55,6 +58,7 @@
 <h3 id="friday">Friday</h3>
 
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
+* 10:00 AM - 1:00 PM. "KRSP". A ladder competition.
 * 10:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 5:00 PM - 8:00 PM. "Gourmet". A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
@@ -91,6 +95,7 @@
   * August 11: 0-40
   * August 18: 0-25
   * August 25: 0-40
+  * September 1: 0-25
 * 9:00 AM - 4:00 PM. "Volia". A morning ladder competition.
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
@@ -99,6 +104,12 @@
   * August 18: 0-5
   * August 25: 0-25
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
+* 10:30 AM. "KRSP". 🏆 "KRSP Open" tournament at the end of each month.
+  * August 25
+  * September 29
+  * October 27
+  * November 24
+  * December 29
 * 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
 * 10:30 AM. "Orion". 🏆 A 0-50 ranking tournament.
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
