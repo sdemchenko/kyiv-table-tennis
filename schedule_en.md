@@ -37,6 +37,7 @@
 * 6:00 PM - 8:30 PM. "Breiks". A ladder competition.
 * 6:10 PM. "Himars". 🏆 A 0-35 ranking tournament.
 * 6:30 PM - 9:30 PM. "Orion". A ladder competition.
+* 7:00 PM. "Volia". 🏆 A 0-20 ranking tournament.
 * 7:30 PM. Sports School #21. 🏆 A 0-100 non-ranking tournament.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Monday+Wednesday+Friday group).
 * 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
