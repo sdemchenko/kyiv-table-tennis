@@ -73,7 +73,7 @@
 
 <h3 id="saturday">Saturday</h3>
 
-* 7:50 AM. "Himars". 🏆 A 0-100 non-ranking tournament. Register in advance in Viber chat "Grand Prix Table Tennis".
+* 7:50 AM. "Grand Prix". 🏆 A 0-100 non-ranking tournament. Register in advance in Viber chat "Grand Prix Table Tennis".
 * 9:30 AM. "Solomianka". 🏆 A 0-100 non-ranking tournament. Register in advance.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
@@ -91,7 +91,7 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 7:50 AM. "Himars". 🏆 A non-ranking tournament 0-100. Register in advance in Viber chat "Grand Prix Table Tennis".
+* 7:50 AM. "Grand Prix". 🏆 A non-ranking tournament 0-100. Register in advance in Viber chat "Grand Prix Table Tennis".
 * 9:00 AM. "Gourmet". 🏆 A ranking tournament.
   * August 11: 0-40
   * August 18: 0-25
