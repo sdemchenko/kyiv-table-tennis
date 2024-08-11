@@ -114,7 +114,7 @@
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
-* 12:00 PM. Holosiivksiy park. 🏆 A 0-100 non-ranking tournament.
+* 12:00 PM. Holosiivksiy park. [August 18](https://t.me/c/1989049646/1288). 🏆 A 0-100 non-ranking tournament.
 * 3:00 PM . "Orion". 🏆 A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". An evening ladder competition.
