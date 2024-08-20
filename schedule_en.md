@@ -18,6 +18,7 @@
 
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 5:00 PM - 10:30 PM. "Volia". A ladder competition.
+  * August 20: all tables are reserved for a 0-20 ranking tournament
 * 5:00 PM - 7:30 PM. Drahomanov University Sports Complex. A ladder competition.
 * 5:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
