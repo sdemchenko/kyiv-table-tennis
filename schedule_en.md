@@ -104,14 +104,14 @@
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
   * August 25: 0-25
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
-* 10:30 AM. "KRSP". 🏆 "KRSP Open" tournament at the end of each month.
+* 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
+* 10:30 AM. "Orion". 🏆 A 0-50 ranking tournament.
+* 11:00 AM. "KRSP". 🏆 A 0-100 non-ranking tournament.
   * August 25: [the tournament starts at 11:00 AM (advanced players) and at 2:00 PM (amateurs)](https://t.me/krsp_tt_tour/179)
   * September 29
   * October 27
   * November 24
   * December 29
-* 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
-* 10:30 AM. "Orion". 🏆 A 0-50 ranking tournament.
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * August 25: men's ranking tournament 0-40.0
