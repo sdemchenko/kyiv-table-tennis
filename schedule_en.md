@@ -105,7 +105,7 @@
   * August 25: 0-25
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 AM. "KRSP". 🏆 "KRSP Open" tournament at the end of each month.
-  * August 25: [the tournament starts at 11:00 AM](https://t.me/krsp_tt_tour/179)
+  * August 25: [the tournament starts at 11:00 AM (advanced players) and at 2:00 PM (amateurs)](https://t.me/krsp_tt_tour/179)
   * September 29
   * October 27
   * November 24
