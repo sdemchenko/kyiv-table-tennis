@@ -101,6 +101,11 @@
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
+  * September 1: 0-50
+  * September 8: Joola Kids
+  * September 15: 0-15
+  * September 22: 0-25
+  * September 29: 0-5
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
 * 10:30 AM. "Orion". 🏆 A 0-50 ranking tournament.
