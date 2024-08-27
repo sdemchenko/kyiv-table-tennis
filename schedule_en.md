@@ -76,6 +76,8 @@
 * 7:50 AM. "Himars". 🏆 A 0-100 non-ranking tournament. Register in advance in Viber chat "Grand Prix Table Tennis".
 * 9:30 AM. "Solomianka". 🏆 A 0-100 non-ranking tournament. Register in advance.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
+* 10:00 AM. RC "Leader". 🏆 A kids tournament. Three difficulty levels.
+  * August 31: no tournament
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:30 AM. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
@@ -100,6 +102,12 @@
 * 9:00 AM - 4:00 PM. "Volia". A ladder competition.
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
+* 10:00 AM. RC "Leader". 🏆 A ranking tournament.
+  * September 1: 0-5
+  * September 8: 0-10
+  * September 15: 0-5
+  * September 22: --
+  * September 29: 0-10
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
   * September 1: 0-50
   * September 8: Joola Kids
