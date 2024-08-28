@@ -110,7 +110,7 @@
   * September 29: 0-10
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
   * September 1: 0-50
-  * September 8: Joola Kids
+  * September 8:  [Joola Kids](https://t.me/c/1617919041/27232)
   * September 15: 0-15
   * September 22: 0-25
   * September 29: 0-5
