@@ -94,14 +94,14 @@
 <h3 id="sunday">Sunday</h3>
 
 * 7:50 AM. "Grand Prix". 🏆 A non-ranking tournament 0-100. Register in advance in Viber chat "Grand Prix Table Tennis".
-* 9:00 AM. "Gourmet". 🏆 A ranking tournament.
+* 9:00 AM - 4:00 PM. "Volia". A ladder competition.
+* 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
+* 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
+* 10:00 AM. "Gourmet". 🏆 A ranking tournament.
   * September 1: 0-25
   * September 8: 0-40
   * September 15: 0-25
   * September 22: 0-40
-* 9:00 AM - 4:00 PM. "Volia". A ladder competition.
-* 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
-* 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. RC "Leader". 🏆 A ranking tournament.
   * September 1: 0-5
   * September 8: 0-10
