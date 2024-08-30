@@ -74,7 +74,7 @@
 <h3 id="saturday">Saturday</h3>
 
 * 7:50 AM. "Himars". 🏆 A 0-100 non-ranking tournament. Register in advance in Viber chat "Grand Prix Table Tennis".
-* 9:30 AM. "Solomianka". 🏆 A 0-100 non-ranking tournament. Register in advance.
+* 9:30 AM. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register in advance.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 AM. RC "Leader". 🏆 A kids tournament. Three difficulty levels.
   * August 31: no tournament
