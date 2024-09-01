@@ -125,6 +125,7 @@
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
+  * September 1: 0-40 ranking tournament.
 * 3:00 PM . "Orion". 🏆 A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". A ladder competition.
