@@ -101,7 +101,7 @@
   * September 15: 0-25
   * September 22: 0-40
 * 10:00 AM. RC "Leader". 🏆 A ranking tournament.
-  * September 8: 0-10
+  * September 8: 0-10. Due to power outage schedule, the tournament will start at 3:00 PM
   * September 15: 0-5
   * September 22: --
   * September 29: 0-10
