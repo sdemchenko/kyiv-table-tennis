@@ -82,9 +82,11 @@
 * 11:00 AM. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:00 AM. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
+* 12:00 PM. "Volia". 🏆 A 0-15 ranking tournament.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". 🏆 A 0-10 ranking tournament.
 * 3:00 PM. "Orion". 🏆 An Orion ranking 0-300 tournament.
+* 3:00 PM. "Volia". 🏆 A 0-40 ranking tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 9:00 PM. "Orion". A ladder competition.
 * 7:00 PM - 10:30 PM. "Volia". A ladder competition.
