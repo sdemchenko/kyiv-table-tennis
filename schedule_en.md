@@ -105,7 +105,7 @@
 * 10:00 AM. RC "Leader". 🏆 A ranking tournament.
   * September 8: 0-10. Due to power outage schedule, the tournament will start at 3:00 PM
   * September 15: 0-5
-  * September 22: --
+  * September 22: ❌
   * September 29: 0-10
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
   * September 8:  [Joola Kids](https://t.me/c/1937753885/1342)
