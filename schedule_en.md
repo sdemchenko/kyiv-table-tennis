@@ -102,6 +102,7 @@
   * September 8: 0-40
   * September 15: 0-25
   * September 22: 0-40
+  * September 29: 0-25
 * 10:00 AM. RC "Leader". 🏆 A ranking tournament.
   * September 8: 0-10. Due to power outage schedule, the tournament will start at 3:00 PM
   * September 15: 0-5
@@ -123,6 +124,10 @@
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
+  * September 8: 0-30
+  * September 15: 0-40
+  * September 22: 0-30
+  * September 29: 0-40
 * 3:00 PM . "Orion". 🏆 A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". A ladder competition.
