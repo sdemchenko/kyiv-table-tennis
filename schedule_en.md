@@ -72,8 +72,8 @@
 
 <h3 id="saturday">Saturday</h3>
 
-* 7:50 AM. "Grand-Prix". 🏆 A 0-100 non-ranking tournament. Register in advance in Viber chat "Grand Prix Table Tennis".
-* 9:30 AM. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register in advance.
+* 7:50 AM. "Grand-Prix". 🏆 A 0-100 non-ranking tournament. Register on the eve.
+* 9:30 AM. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 AM. RC "Leader". 🏆 A kids tournament. Three difficulty levels.
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
@@ -93,7 +93,7 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 7:50 AM. "Grand-Prix". 🏆 A non-ranking tournament 0-100. Register in advance in Viber chat "Grand Prix Table Tennis".
+* 7:50 AM. "Grand-Prix". 🏆 A non-ranking tournament 0-100. Register on the eve.
 * 9:00 AM - 4:00 PM. "Volia". A ladder competition.
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
