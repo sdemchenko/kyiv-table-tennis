@@ -121,6 +121,8 @@
   * October 27
   * November 24
   * December 29
+* 11:00 AM. Sports School "Leader" (15-b Yakuba Kolasa Street). September 8. 🏆 A 0-40 ranking tournament.
+* In case of too many players, they may be split per their ranking into two tournaments (0-20 and 20-40)
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
