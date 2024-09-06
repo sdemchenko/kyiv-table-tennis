@@ -73,7 +73,7 @@
 <h3 id="saturday">Saturday</h3>
 
 * 7:50 AM. "Grand-Prix". 🏆 A 0-100 non-ranking tournament. Register on the eve.
-  * on September 7 the tournament will use the "Himars" facility.
+  * September 7: in the "Himars" hall.
 * 9:30 AM. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 AM. RC "Leader". 🏆 A kids tournament. Three difficulty levels.
