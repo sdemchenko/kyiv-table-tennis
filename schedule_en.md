@@ -98,17 +98,14 @@
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". 🏆 A ranking tournament.
-  * September 8: 0-40
   * September 15: 0-25
   * September 22: 0-40
   * September 29: 0-25
 * 10:00 AM. RC "Leader". 🏆 A ranking tournament.
-  * September 8: 0-10. Due to power outage schedule, the tournament will start at 3:00 PM
   * September 15: 0-5
   * September 22: ❌
   * September 29: 0-10
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
-  * September 8:  [Joola Kids](https://t.me/c/1937753885/1342)
   * September 15: 0-15
   * September 22: 0-25
   * September 29: 0-5
@@ -120,12 +117,9 @@
   * October 27
   * November 24
   * December 29
-* 11:00 AM. Sports School "Leader" (15-b Yakuba Kolasa Street). September 8. 🏆 A 0-40 ranking tournament.
-  * In case of too many players, they may be split per their ranking into two tournaments (0-20 and 20-40)
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
-  * September 8: 0-30
   * September 15: 0-40
   * September 22: 0-30
   * September 29: 0-40
