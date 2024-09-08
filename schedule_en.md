@@ -59,6 +59,7 @@
 <h3 id="friday">Friday</h3>
 
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
+* 10:00. "Himars", September 13. 🏆 A kids' tournament in two age categories: 2011-2012 y.o.b., and 2013 y.o.b. or younger. Participation is free.
 * 10:00 AM - 4:00 PM. "Volia". A ladder competition.
 * 5:00 PM - 8:00 PM. "Gourmet". A ladder competition.
 * 5:30 PM - 8:00 PM. "Pechersk". A ladder competition.
