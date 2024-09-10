@@ -76,7 +76,7 @@
 * 7:50 AM. "Grand-Prix". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 9:30 AM. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
-* 10:00 AM. RC "Leader". 🏆 A kids tournament. Three difficulty levels.
+* 10:00 AM. RC "Leader", September 28. 🏆 A kids tournament. Three difficulty levels.
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:30 AM. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
@@ -102,10 +102,7 @@
   * September 15: 0-25
   * September 22: 0-40
   * September 29: 0-25
-* 10:00 AM. RC "Leader". 🏆 A ranking tournament.
-  * September 15: 0-5
-  * September 22: ❌
-  * September 29: 0-10
+* 10:00 AM. RC "Leader", September 15. 🏆 A kids tournament. Three difficulty levels.
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
   * September 15: 0-15
   * September 22: 0-25
@@ -124,6 +121,10 @@
   * September 15: 0-40
   * September 22: 0-30
   * September 29: 0-40
+* 3:00 PM. RC "Leader". 🏆 A ranking tournament.
+  * September 15: 0-5
+  * September 22: ❌
+  * September 29: 0-10
 * 3:00 PM . "Orion". 🏆 A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". A ladder competition.
