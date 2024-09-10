@@ -112,7 +112,7 @@
   * September 29: 0-5
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
-* 10:30 AM. "Orion". 🏆 A 0-50 ranking tournament.
+* 10:30 AM. "Orion". 🏆 A  tournament for doubles with Orion ranking 0-600.
 * 11:00 AM. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open". Register on the eve.
   * September 29
   * October 27
