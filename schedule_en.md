@@ -79,9 +79,10 @@
 * 10:00 AM. RC "Leader", September 28. 🏆 A kids tournament. Three difficulty levels.
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:30 AM. "Orion". 🏆 A 0-25 ranking tournament.
-* 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 11:00 AM. "Himars". 🏆 A 0-100 ranking tournament.
+* 11:00 AM - 2:00 PM. "KRSP". A ladder competition.
 * 11:00 AM. "Pulse". 🏆 A 0-100 non-ranking tournament.
+* 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". 🏆 A 0-10 ranking tournament.
