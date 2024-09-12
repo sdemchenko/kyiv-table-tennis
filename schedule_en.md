@@ -104,7 +104,6 @@
   * September 15: 0-25
   * September 22: 0-40
   * September 29: 0-25
-* 10:00 AM. RC "Leader", September 15. 🏆 A kids tournament. Three difficulty levels.
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
   * September 15: 0-15
   * September 22: 0-25
@@ -117,6 +116,7 @@
   * October 27
   * November 24
   * December 29
+* 11:00 AM. RC "Leader", September 15. 🏆 A kids tournament. Three difficulty levels.
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
