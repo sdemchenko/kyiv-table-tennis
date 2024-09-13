@@ -54,13 +54,11 @@
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 7:00 PM. "Orion". 🏆 A 0-20 non-ranking tournament.
 * 7:00 PM. "Volia". 🏆 A 0-20 ranking tournament.
-  * September 12: ❌
 * 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Monday+Thursday group).
 
 <h3 id="friday">Friday</h3>
 
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
-* 10:00. "Himars", September 13. 🏆 A kids' tournament in two age categories: 2011-2012 y.o.b., and 2013 y.o.b. or younger. Participation is free.
 * 10:00 AM - 4:00 PM. "Volia". A ladder competition.
 * 5:00 PM - 8:00 PM. "Gourmet". A ladder competition.
 * 5:30 PM - 8:00 PM. "Pechersk". A ladder competition.
@@ -75,6 +73,7 @@
 <h3 id="saturday">Saturday</h3>
 
 * 7:50 AM. "Grand-Prix". 🏆 A 0-100 non-ranking tournament. Register on the eve.
+* 7:50 AM. "Himars" (a group from "Grand-Prix"). 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 9:30 AM. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 AM. RC "Leader", September 28. 🏆 A kids tournament. Three difficulty levels.
