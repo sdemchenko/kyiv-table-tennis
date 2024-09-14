@@ -96,6 +96,7 @@
 <h3 id="sunday">Sunday</h3>
 
 * 7:50 AM. "Grand-Prix". 🏆 A non-ranking tournament 0-100. Register on the eve.
+* 7:50 AM. "Himars" (a group from "Grand-Prix"). 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 9:00 AM - 4:00 PM. "Volia". A ladder competition.
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
