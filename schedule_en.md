@@ -25,6 +25,7 @@
 * 6:30 PM - 9:30 PM. "Orion". A ladder competition.
 * 7:00 PM. "Orion". 🏆 A 0-20 ranking tournament.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
+* 7:00 PM. "Volia". 🏆 A 0-20 ranking tournament.
 * 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Tuesday+Friday group).
 
 <h3 id="wednesday">Wednesday</h3>
@@ -53,7 +54,6 @@
 * 6:30 PM - 9:30 PM. "Orion". A ladder competition.
 * 7:00 PM - 9:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 7:00 PM. "Orion". 🏆 A 0-20 non-ranking tournament.
-* 7:00 PM. "Volia". 🏆 A 0-20 ranking tournament.
 * 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Monday+Thursday group).
 
 <h3 id="friday">Friday</h3>
