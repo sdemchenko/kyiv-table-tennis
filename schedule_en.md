@@ -100,11 +100,9 @@
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". 🏆 A ranking tournament.
-  * September 15: 0-25
   * September 22: 0-40
   * September 29: 0-25
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
-  * September 15: 0-15
   * September 22: 0-25
   * September 29: 0-5
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
@@ -115,16 +113,12 @@
   * October 27
   * November 24
   * December 29
-* 11:00 AM. "Leader" (Residential Club), September 15. 🏆 A kids tournament. Three difficulty levels.
-* 11:00 AM. "Leader" (Sports School), September 15. 🏆 A 0-40 ranking tournament.
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
-  * September 15: 0-40
   * September 22: 0-30
   * September 29: 0-40
 * 3:00 PM. RC "Leader". 🏆 A ranking tournament.
-  * September 15: 0-5
   * September 22: ❌
   * September 29: 0-10
 * 3:00 PM . "Orion". 🏆 A kids' open tournament.
