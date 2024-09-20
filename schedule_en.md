@@ -104,7 +104,7 @@
 * 10:00 AM. RC "Leader". 🏆 A kids tournament. Three difficulty levels.
   * September 22: ❌
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
-  * September 22: 0-25
+  * September 22:  ❌
   * September 29: 0-5
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
