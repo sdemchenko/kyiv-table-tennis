@@ -18,7 +18,6 @@
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 10:00 AM - 1:00 PM. "KRSP". A ladder competition.
 * 5:00 PM - 10:30 PM. "Volia". A ladder competition.
-  * September 17: ❌
 * 5:00 PM - 7:30 PM. Drahomanov University Sports Complex. A ladder competition.
 * 5:30 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
@@ -77,7 +76,6 @@
 * 8:00 AM. "Himars" (a group from "Grand-Prix"). 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 9:30 AM. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
-* 10:00 AM. RC "Leader", September 28. 🏆 A kids tournament. Three difficulty levels.
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:30 AM. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00 AM. "Himars". 🏆 A 0-100 ranking tournament.
@@ -103,6 +101,8 @@
 * 10:00 AM. "Gourmet". 🏆 A ranking tournament.
   * September 22: 0-40
   * September 29: 0-25
+* 10:00 AM. RC "Leader". 🏆 A kids tournament. Three difficulty levels.
+  * September 22: ❌
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
   * September 22: 0-25
   * September 29: 0-5
