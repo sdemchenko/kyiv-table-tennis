@@ -77,6 +77,7 @@
 * 9:30 AM. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 AM - 12:00 PM. Sports School "Leader". A ladder competition (the Tuesday+Thursday+Saturday group).
+* 10:00 AM. "Svitlotechnik", September 21. 🏆 A tournament dedicated to the Day of Brovary.
 * 10:30 AM. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00 AM. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:00 AM - 2:00 PM. "KRSP". A ladder competition.
