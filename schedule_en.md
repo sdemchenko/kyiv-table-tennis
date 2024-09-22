@@ -100,6 +100,10 @@
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". 🏆 A ranking tournament.
   * September 29: 0-25
+  * October 6: 0-25
+  * October 13: 0-40
+  * October 20: 0-25
+  * October 27: 0-40
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
   * September 29: 0-5
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
