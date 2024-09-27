@@ -72,7 +72,6 @@
 
 <h3 id="saturday">Saturday</h3>
 
-* 8:00 AM. "Grand-Prix". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 8:00 AM. "Himars" (a group from "Grand-Prix"). 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 9:30 AM. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
