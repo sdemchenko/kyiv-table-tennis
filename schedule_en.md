@@ -110,7 +110,7 @@
 * 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
 * 10:30 AM. "Orion". 🏆 A  tournament for doubles with Orion ranking 0-800.
 * 11:00 AM. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open". Register on the eve.
-  * September 29
+  * September 29: Advanced players start at 11:00 AM, Amateurs start at 1:15 PM
   * October 27
   * November 24
   * December 29
