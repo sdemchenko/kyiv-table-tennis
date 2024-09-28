@@ -81,7 +81,6 @@
 * 11:00 AM. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 11:10 AM. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * September 28: a 0-40.0 men's ranking tournament.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". 🏆 A 0-10 ranking tournament.
