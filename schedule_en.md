@@ -98,18 +98,15 @@
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". 🏆 A ranking tournament.
-  * September 29: 0-25
   * October 6: 0-25
   * October 13: 0-40
   * October 20: 0-25
   * October 27: 0-40
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
-  * September 29: 0-5
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
 * 10:30 AM. "Orion". 🏆 A  tournament for doubles with Orion ranking 0-800.
 * 11:00 AM. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open". Register on the eve.
-  * September 29: Advanced players start at 11:00 AM, Amateurs start at 1:15 PM
   * October 27
   * November 24
   * December 29
@@ -117,11 +114,8 @@
 * 11:00 AM. "Leader" (RC). 🏆 A kids tournament. Three difficulty levels.
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * September 29: a 0-25.0 ranking tournament.
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
-  * September 29: 0-40
 * 3:00 PM. "Leader" (RC). 🏆 A ranking tournament.
-  * September 29: 0-10
 * 3:00 PM . "Orion". 🏆 A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". A ladder competition.
