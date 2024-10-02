@@ -78,6 +78,7 @@
 * 11:00 AM - 2:00 PM. "KRSP". A ladder competition.
 * 11:00 AM. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 11:10 AM. "Himars". 🏆 A 0-100 ranking tournament.
+* 11:15 AM. "KUTT". October 5. 🏆 A non-ranking tournament (amateurs only).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
@@ -101,6 +102,7 @@
   * October 20: 0-25
   * October 27: 0-40
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
+  * October 6: 0-15
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
 * 10:30 AM. "Orion". 🏆 A  tournament for doubles with Orion ranking 0-800.
