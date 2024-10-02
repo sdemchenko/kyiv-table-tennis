@@ -34,7 +34,6 @@
 * 5:30 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Breiks". A ladder competition.
 * 6:10 PM. "Himars". 🏆 A 0-35 ranking tournament.
-* 6:30 PM - 9:30 PM. "Orion". A ladder competition.
 * 7:30 PM. Sports School #21. 🏆 A 0-100 non-ranking tournament.
 * 7:00 PM - 9:00 PM. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
@@ -49,7 +48,6 @@
 * 5:30 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
 * 6:00 AM - 9:00 PM. "KRSP". A ladder competition.
-* 6:30 PM - 9:30 PM. "Orion". A ladder competition.
 * 7:00 PM - 9:00 PM. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 7:00 PM. "Orion". 🏆 A 0-20 non-ranking tournament.
 * 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Monday+Thursday group).
