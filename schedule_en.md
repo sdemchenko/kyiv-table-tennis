@@ -78,10 +78,10 @@
 * 11:15 AM. "KUTT". October 5. 🏆 A non-ranking tournament (amateurs only).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
+* 12:00 PM. "Volia". 🏆 A 0-20 ranking tournament.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". 🏆 A 0-10 ranking tournament.
 * 3:00 PM. "Orion". 🏆 An Orion ranking 0-300 tournament.
-* 3:00 PM. "Volia". 🏆 A 0-40 ranking tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 9:00 PM. "Orion". A ladder competition.
 * 7:00 PM - 10:30 PM. "Volia". A ladder competition.
@@ -100,6 +100,9 @@
   * October 27: 0-40
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
   * October 6: 0-15
+  * October 13: 0-35
+  * October 20: ❌
+  * October 27: 0-10
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
 * 10:30 AM. "Orion". 🏆 A  tournament for doubles with Orion ranking 0-800.
