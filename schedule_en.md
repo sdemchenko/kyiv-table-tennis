@@ -75,7 +75,6 @@
 * 11:00 AM - 2:00 PM. "KRSP". A ladder competition.
 * 11:00 AM. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 11:10 AM. "Himars". 🏆 A 0-100 ranking tournament.
-* 11:15 AM. "KUTT". October 5. 🏆 A non-ranking tournament (amateurs only).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
 * 12:00 PM. "Volia". 🏆 A 0-20 ranking tournament.
