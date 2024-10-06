@@ -77,7 +77,6 @@
 * 11:10 AM. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM - 2:15 PM. Sports School #23. A ladder competition.
-* 12:00 PM. "Volia". 🏆 A 0-20 ranking tournament.
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". 🏆 A 0-10 ranking tournament.
 * 3:00 PM. "Orion". 🏆 An Orion ranking 0-300 tournament.
@@ -93,12 +92,10 @@
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". 🏆 A ranking tournament.
-  * October 6: 0-25
   * October 13: 0-40
   * October 20: 0-25
   * October 27: 0-40
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
-  * October 6: 0-15
   * October 13: 0-35
   * October 20: ❌
   * October 27: 0-10
@@ -109,17 +106,15 @@
   * October 27
   * November 24
   * December 29
-* 11:00 AM. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
+* 11:00 AM. "Leader" (Sports School). 🏆 A 0-45 ranking tournament.
 * 11:00 AM. "Leader" (RC). 🏆 A kids tournament. Three difficulty levels.
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
-  * October 6: 0-30
   * October 13: 0-40
   * October 20: 0-30
   * October 27: 0-40
 * 3:00 PM. "Leader" (RC). 🏆 A ranking tournament.
-  * October 6: 0-5
   * October 13: 0-10
   * October 20: 0-5
   * October 27: 0-10
