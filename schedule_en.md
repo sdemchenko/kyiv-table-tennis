@@ -111,6 +111,7 @@
   * December 29
 * 11:00 AM. "Leader" (Sports School). 🏆 A 0-45 ranking tournament.
 * 11:00 AM. "Leader" (RC). 🏆 A kids tournament. Three difficulty levels.
+  * October 20: ❌
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
