@@ -121,7 +121,8 @@
   * October 13: 0-10
   * October 20: ❌
   * October 27: 0-5
-* 3:00 PM . "Orion". 🏆 A kids' open tournament.
+* 3:00 PM. "Orion". 🏆 A 0-15 ranking tournament.
+* 3:00 PM. "Orion". 🏆 A kids' open tournament.
 * 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". A ladder competition.
 * 6:00 PM - 9:00 PM. "Orion". A ladder competition.
