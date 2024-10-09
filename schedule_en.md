@@ -97,9 +97,9 @@
   * October 20: 0-25
   * October 27: 0-40
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
-  * October 13: 0-35
+  * October 13: 0-10
   * October 20: ❌
-  * October 27: 0-10
+  * October 27: 0-35
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 AM. "Orion", October 13. 🏆 Kyiv Region Open Table Tennis Cup among athletes with disabilities. Registration: +380987513139.
 * 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
