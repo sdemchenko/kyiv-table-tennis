@@ -111,7 +111,7 @@
   * October 27
   * November 24
   * December 29
-* 11:00 AM. "Leader" (Sports School). 🏆 A 0-45 ranking tournament.
+* 11:00 AM. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00 AM. "Leader" (RC). 🏆 A kids tournament. Three difficulty levels.
   * October 20: ❌
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
