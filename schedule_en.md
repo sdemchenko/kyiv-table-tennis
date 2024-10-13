@@ -88,14 +88,16 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 8:00 AM. "Grand-Prix". 🏆 A 0-100 non-ranking tournament. Register in "[Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)" group.
-  * October 13: the group will play in "Himars".
+* 8:00 AM. "Himars" (a group from "Grand-Prix"). 🏆 A 0-100 non-ranking tournament. Register in "[Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)" group.
 * 9:00 AM - 4:00 PM. "Volia". A ladder competition.
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 AM. "Gourmet". 🏆 A ranking tournament.
   * October 20: 0-25
   * October 27: 0-40
+  * November 3: 0-25
+  * November 10: 0-40
+  * November 17: 0-25
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
   * October 20: ❌
   * October 27: 0-35
