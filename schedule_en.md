@@ -82,7 +82,7 @@
 * 3:00 PM. DBK-4 Sports Complex. A ladder competition.
 * 3:00 PM. "Orion". 🏆 A 0-10 ranking tournament.
 * 3:00 PM. "Orion". 🏆 An Orion ranking 0-300 tournament.
-* 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
+* 4:00 PM - 6:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 9:00 PM. "Orion". A ladder competition.
 * 7:00 PM - 10:30 PM. "Volia". A ladder competition.
 * 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Wednesday+Saturday group).
@@ -119,6 +119,5 @@
   * October 27: 0-5
 * 3:00 PM. "Orion". 🏆 A 0-15 ranking tournament.
 * 3:00 PM. "Orion". 🏆 A kids' open tournament.
-* 4:00 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 4:00 PM - 10:30 PM. "Volia". A ladder competition.
 * 6:00 PM - 9:00 PM. "Orion". A ladder competition.
