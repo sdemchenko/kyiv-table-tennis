@@ -113,6 +113,7 @@
   * October 20: ❌
 * 11:00 AM. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * October 20: 0-10.0
 * 12:00 PM. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 3:00 PM. "Leader" (RC). 🏆 A ranking tournament.
   * October 20: ❌
