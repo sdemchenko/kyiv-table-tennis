@@ -17,13 +17,11 @@
 * 9:00 AM - 3:00 PM. "Orion". A ladder competition.
 * 10:00 AM - 1:00 PM. "KRSP". A ladder competition.
 * 5:00 PM - 10:30 PM. "Volia". A ladder competition.
-  * October 22: ❌
 * 5:00 PM - 7:30 PM. Drahomanov University Sports Complex. A ladder competition.
 * 5:30 PM - 8:00 PM. "Pechersk". A ladder competition.
 * 6:00 PM - 8:30 PM. "Himars". Games in a group.
 * 6:00 AM - 9:00 PM. "KRSP". A ladder competition.
 * 6:30 PM. "Volia". 🏆 A 0-20 ranking tournament.
-  * October 22: a closed tournament Volia - Orion
 * 7:00 PM. "Orion". 🏆 A 0-20 ranking tournament.
 * 7:00 PM - 9:00 PM. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 7:15 PM - 11:00 PM. "Raketka". Games in a group (the Tuesday+Friday group).
