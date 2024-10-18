@@ -77,6 +77,7 @@
 * 10:30 AM. "Orion". 🏆 A tournament for war veterans and combatants.
 * 11:00 AM - 2:00 PM. "KRSP". A ladder competition.
 * 11:00 AM. "Pulse". 🏆 A 0-100 non-ranking tournament.
+  * October 19: ❌
 * 11:10 AM. "Himars". 🏆 A 0-100 ranking tournament.
   * October 19: ❌
 * 11:30 AM. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
