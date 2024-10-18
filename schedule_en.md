@@ -65,8 +65,8 @@
 
 <h3 id="saturday">Saturday</h3>
 
-* 8:00 AM. "Grand-Prix" ([Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)). 🏆 A 0-100 non-ranking tournament.
-* 8:00 AM. "Himars" ([Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)). 🏆 A 0-100 non-ranking tournament.
+* 8:00 AM. "Grand-Prix" ("[Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)" group). 🏆 A 0-100 non-ranking tournament.
+* 8:00 AM. "Himars" ("[Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)" group). 🏆 A 0-100 non-ranking tournament.
 * 9:30 AM. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 AM - 12:00 PM. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
@@ -88,7 +88,7 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 8:00 AM. "Himars" ([Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)). 🏆 A 0-100 non-ranking tournament.
+* 8:00 AM. "Himars" ("[Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)" group). 🏆 A 0-100 non-ranking tournament.
 * 9:00 AM - 4:00 PM. "Volia". A ladder competition.
 * 9:30 AM. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 AM - 2:00 PM. Drahomanov University Sports Complex. A ladder competition.
