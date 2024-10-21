@@ -72,6 +72,7 @@
 * 9:30 AM. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 10:00 AM. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 AM - 12:00 PM. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
+* 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 AM. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00 AM - 2:00 PM. "KRSP". A ladder competition.
 * 11:00 AM. "Pulse". 🏆 A 0-100 non-ranking tournament.
@@ -99,7 +100,6 @@
   * November 17: 0-25
 * 10:00 AM. "Raketka". 🏆 A ranking tournament.
   * October 27: 0-35
-* 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
 * 11:00 AM. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open". Register on the eve.
   * October 27: [advanced players start at 11:00 AM, amateurs start at 2:00 PM](https://t.me/krsp_tt_tour/316)
@@ -113,7 +113,7 @@
 * 3:00 PM, November 3. Drahomanov University Sports Complex. 🏆 A [charity tournament PPOng](https://t.me/ttkiev/464).
 * 3:00 PM. "Leader" (RC). 🏆 A ranking tournament.
   * October 27: 0-5
-* 3:00 PM. "Orion". 🏆 A 0-15 ranking tournament.
 * 3:00 PM. "Orion". 🏆 A kids' open tournament.
+* 3:00 PM. "Orion". 🏆 A tournament for doubles with Orion ranking 0-800.
 * 4:00 PM - 10:30 PM. "Volia". A ladder competition.
 * 6:00 PM - 9:00 PM. "Orion". A ladder competition.
