@@ -102,7 +102,7 @@
 * 10:00 AM. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 AM. "Orion". 🏆 A 0-15 non-ranking tournament.
 * 11:00 AM. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open". Register on the eve.
-  * October 27
+  * October 27: [advanced players start at 11:00 AM, amateurs start at 2:00 PM](https://t.me/krsp_tt_tour/316)
   * November 24
   * December 29
 * 11:00 AM. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
