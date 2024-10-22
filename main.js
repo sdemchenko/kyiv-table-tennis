@@ -1,10 +1,12 @@
 //
 // Open links to external resources in a new tab.
 //
-$(document).ready(makeAllExternalLinksOpenInNewTab);
+$(document).ready(makeLinksOpenInNewTab);
 
-function makeAllExternalLinksOpenInNewTab(){
-    $('a[href^="http://"], a[href^="https://"]').attr('target','_blank');
+/* This web-site is not a usual one, it's a single page reference. So, it makes sense to open all links in new tabs. */
+function makeLinksOpenInNewTab(){
+    // all links except Table of Contents anchors should open in new tab:
+    $('a').not('#toc a').attr('target','_blank');
 }
 
 //
@@ -30,7 +32,7 @@ $(function(){
         })
         .then(function (data) {
             $('#newsContainer').prepend(data);
-            makeAllExternalLinksOpenInNewTab();
+            makeLinksOpenInNewTab();
         })
         .catch(function (err) {
             console.log(err);
@@ -51,7 +53,7 @@ $(function(){
         })
         .then(function (data) {
             $('#scheduleContainer').html(markdown.render(data));
-            makeAllExternalLinksOpenInNewTab();
+            makeLinksOpenInNewTab();
         })
         .catch(function (err) {
             console.log(err);
