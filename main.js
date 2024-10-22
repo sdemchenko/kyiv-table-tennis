@@ -6,7 +6,7 @@ $(document).ready(makeLinksOpenInNewTab);
 /* This web-site is not a usual one, it's a single page reference. So, it makes sense to open all links in new tabs. */
 function makeLinksOpenInNewTab(){
     // all links except Table of Contents anchors should open in new tab:
-    $('a').not('#toc a').attr('target','_blank');
+    $('a').not('#toc a').not('#to_english').not('#to_ukrainian').attr('target','_blank');
 }
 
 //
