@@ -113,6 +113,7 @@
 * 11:00 am. "Leader" (RC). 🏆 A kids tournament. Three difficulty levels (the difficult level is ranked, two others not).
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * October 27: a 0-40 men's ranking tournament 
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 3:00 pm, November 3. Drahomanov University Sports Complex. 🏆 A [charity tournament PPOng](https://t.me/ttkiev/464).
 * 3:00 pm. "Leader" (RC). 🏆 A ranking tournament.
