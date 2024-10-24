@@ -20,7 +20,8 @@
 * 5:00 pm - 7:30 pm. Drahomanov University Sports Complex. A ladder competition.
 * 5:30 pm - 8:00 pm. "Pechersk". A ladder competition.
 * 6:00 pm - 8:30 pm. "Himars". Games in a group.
-* 6:00 am - 9:00 pm. "KRSP". A ladder competition.
+* 6:00 pm - 9:00 pm. "KRSP". A ladder competition.
+* 6:15 pm - 8:40 pm. Sports School #23. A ladder competition.
 * 7:00 pm. "Orion". 🏆 A 0-20 ranking tournament.
 * 7:00 pm - 9:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 7:15 pm - 11:00 pm. "Raketka". Games in a group (the Tuesday+Friday group).
@@ -46,7 +47,8 @@
 * 5:00 pm - 7:30 pm. Drahomanov University Sports Complex. A ladder competition.
 * 5:30 pm - 8:00 pm. "Pechersk". A ladder competition.
 * 6:00 pm - 8:30 pm. "Himars". Games in a group.
-* 6:00 am - 9:00 pm. "KRSP". A ladder competition.
+* 6:00 pm - 9:00 pm. "KRSP". A ladder competition.
+* 6:15 pm - 8:40 pm. Sports School #23. A ladder competition.
 * 7:00 pm - 9:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 18:30 pm. "Volia". 🏆 A 0-20 ranking tournament.
 * 7:00 pm. "Orion". 🏆 A 0-20 non-ranking tournament.
