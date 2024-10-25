@@ -111,6 +111,7 @@
   * November 17: 0-10
   * November 24: 0-5
 * 10:30 am. "Orion". 🏆 A 0-15 non-ranking tournament.
+* 10:30 am, October 27. Yurivsky Lyceum. 🏆 A charity 0-100 ranking tournament.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open". Register on the eve.
   * October 27: [advanced players start at 11:00 am, amateurs start at 2:00 pm](https://t.me/krsp_tt_tour/316)
   * November 24
