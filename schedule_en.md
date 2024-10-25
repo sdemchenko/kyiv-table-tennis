@@ -83,8 +83,8 @@
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
-* 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
 * 03:00 pm. "Orion". 🏆 An Orion ranking 0-300 tournament.
+* 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
 * 03:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 03:00 pm. "Volia". 🏆 A 0-40 ranking tournament.
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
@@ -124,7 +124,7 @@
 * 03:00 pm, November 3. Drahomanov University Sports Complex. 🏆 A [charity tournament PPOng](https://t.me/ttkiev/464).
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
   * October 27: 0-5
-* 03:00 pm. "Orion". 🏆 A kids' open tournament.
 * 03:00 pm. "Orion". 🏆 A tournament for doubles with Orion ranking 0-800.
+* 03:00 pm. "Orion". 🏆 A kids' open tournament.
 * 04:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
