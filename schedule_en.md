@@ -79,6 +79,7 @@
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00 am - 2:00 pm. "KRSP". A ladder competition.
 * 11:00 am. "Volia". 🏆 A 0-20 ranking tournament.
+  * October 26: [few people have registered](https://t.me/skVolyaKvadrat/20965), so the tournament might be cancelled
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
@@ -87,6 +88,7 @@
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
 * 03:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 03:00 pm. "Volia". 🏆 A 0-40 ranking tournament.
+  * October 26: [few people have registered](https://t.me/skVolyaKvadrat/20965), so the tournament might be cancelled
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
 * 07:00 pm - 10:30 pm. "Volia". A ladder competition.
