@@ -70,7 +70,6 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00 am. "Grand-Prix" ("[Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)" group). 🏆 A 0-100 non-ranking tournament.
-  * October 26: all participants will play in "Himars"
 * 08:00 am. "Himars" ("[Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)" group). 🏆 A 0-100 non-ranking tournament.
 * 09:30 am. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 10:00 am. "Breiks". 🏆 A 0-100 ranking tournament.
