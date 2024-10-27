@@ -95,33 +95,25 @@
 * 09:30 am. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 am - 2:00 pm. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 am. "Gourmet". 🏆 A ranking tournament.
-  * October 27: 0-40
   * November 3: 0-25
   * November 10: 0-40
   * November 17: 0-25
 * 10:00 am. "Raketka". 🏆 A ranking tournament.
-  * October 27: 0-35
   * November 3: 0-30 and 0-60
   * November 10: 0-20
   * November 17: 0-10
   * November 24: 0-5
 * 10:30 am. "Orion". 🏆 A 0-15 non-ranking tournament.
-* 10:30 am, October 27. Yurivsky Lyceum. 🏆 A charity 0-100 ranking tournament.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open". Register on the eve.
-  * October 27: [advanced players start at 11:00 am, amateurs start at 2:00 pm](https://t.me/krsp_tt_tour/316)
   * November 24
   * December 29
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
-  * October 27: 0-45
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * October 27: a 0-40.0 men's ranking tournament 
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
-  * October 27: ❌
 * 03:00 pm, November 3. Drahomanov University Sports Complex. 🏆 A [charity tournament PPOng](https://t.me/ttkiev/464).
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
-  * October 27: 0-5
 * 03:00 pm. "Orion". 🏆 A tournament for doubles with Orion ranking 0-800.
 * 03:00 pm. "Orion". 🏆 A kids' open tournament.
 * 04:00 pm - 10:30 pm. "Volia". A ladder competition.
