@@ -114,6 +114,10 @@
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
+  * November 3: ❌
+  * November 10: 0-10
+  * November 17: 0-5
+  * November 24: 0-10
 * 03:00 pm. "Orion". 🏆 A tournament for doubles with Orion ranking 0-800.
 * 03:00 pm. "Orion". 🏆 A kids' open tournament.
 * 03:00 pm, November 3. Drahomanov University Sports Complex. 🏆 A [charity tournament PPOng](https://t.me/ttkiev/464).
