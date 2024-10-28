@@ -80,6 +80,7 @@
 * 11:00 am - 2:00 pm. "KRSP". A ladder competition.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+* 12:00 pm, November 2. "Prestige" (lyceum, Boyarka). 🏆 A [tournament](https://www.facebook.com/share/H8u4ScCSWi3Bz6Fc/).
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
 * 03:00 pm. "Orion". 🏆 An Orion ranking 0-300 tournament.
