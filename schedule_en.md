@@ -100,10 +100,10 @@
   * November 10: 0-40
   * November 17: 0-25
 * 10:00 am. "Raketka". 🏆 A ranking tournament.
-  * November 3: 0-30 and 0-60
-  * November 10: 0-20
+  * November 3: 0-5
+  * November 10: 0-30
   * November 17: 0-10
-  * November 24: 0-5
+  * November 24: 0-20
 * 10:30 am. "Orion". 🏆 A 0-15 non-ranking tournament.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open". Register on the eve.
   * November 24
