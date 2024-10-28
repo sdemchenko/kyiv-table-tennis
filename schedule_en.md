@@ -17,7 +17,7 @@
 * 09:00 am - 03:00 pm. "Orion". A ladder competition.
 * 10:00 am - 01:00 pm. "KRSP". A ladder competition.
 * 05:00 pm - 10:30 pm. "Volia". A ladder competition.
-  * October 29: ❌ (the club is fully booked by "Orion @ Volia" tournament)
+  * October 29: ❌ (all tables are reserved for "Orion @ Volia" tournament)
 * 05:00 pm - 07:30 pm. Drahomanov University Sports Complex. A ladder competition.
 * 05:30 pm - 08:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 08:30 pm. "Himars". Games in a group.
