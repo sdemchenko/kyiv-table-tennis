@@ -23,6 +23,7 @@
 * 06:00 pm - 08:30 pm. "Himars". Games in a group.
 * 06:00 pm - 09:00 pm. "KRSP". A ladder competition.
 * 06:15 pm - 08:40 pm. Sports School #23. A ladder competition.
+* 06:30 pm, November 29. "Volia". 🏆 A 0-20 ranking team tournament "Orion @ Volia".
 * 07:00 pm. "Orion". 🏆 A 0-20 ranking tournament.
 * 07:00 pm - 09:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Tuesday+Friday group).
