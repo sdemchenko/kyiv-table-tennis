@@ -84,8 +84,8 @@
 * 12:00 pm, November 2. "Prestige" (lyceum, Boyarka). 🏆 A [tournament](https://www.facebook.com/share/H8u4ScCSWi3Bz6Fc/).
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
-* 03:00 pm. "Orion". 🏆 An Orion ranking 0-300 tournament.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
+* 03:00 pm. "Orion". 🏆 An Orion ranking 0-300 tournament.
 * 03:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
@@ -121,7 +121,6 @@
   * November 10: 0-10
   * November 17: 0-5
   * November 24: 0-10
-* 03:00 pm. "Orion". 🏆 A tournament for doubles with Orion ranking 0-800.
 * 03:00 pm. "Orion". 🏆 A kids' open tournament.
 * 03:00 pm, November 3. Drahomanov University Sports Complex. 🏆 A [charity tournament PPOng](https://t.me/ttkiev/464).
 * 04:00 pm - 10:30 pm. "Volia". A ladder competition.
