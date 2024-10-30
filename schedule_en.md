@@ -72,8 +72,8 @@
 
 <h3 id="saturday">Saturday</h3>
 
-* 08:00 am. "Grand-Prix" ("[Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)" group). 🏆 A 0-100 non-ranking tournament.
 * 08:00 am. "Himars" ("[Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)" group). 🏆 A 0-100 non-ranking tournament.
+* 09:30 am. "Grand-Prix". 🏆 A 0-100 non-ranking tournament.
 * 09:30 am. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
 * 10:00 am. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 am - 12:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
