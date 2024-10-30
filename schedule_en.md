@@ -79,6 +79,7 @@
 * 10:00 am - 12:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00 am. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
+* 10:30 am, November 2. SC "Gatne". 🏆 A 0-25 charity ranking tournament (details: +380506058208 - Ivan).
 * 11:00 am - 2:00 pm. "KRSP". A ladder competition.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
