@@ -72,9 +72,9 @@
 
 <h3 id="saturday">Saturday</h3>
 
-* 08:00 am. "Himars" ("[Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)" group). 🏆 A 0-100 non-ranking tournament.
+* 08:00 am. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 09:30 am. "Grand-Prix". 🏆 A 0-100 non-ranking tournament.
-* 09:30 am. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Register on the eve.
+* 09:30 am. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 am. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 am - 12:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00 am. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
@@ -95,7 +95,7 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 08:00 am. "Himars" ("[Турніри вихідного дня](https://t.me/+yOOJ3CrdhyBjNzhi)" group). 🏆 A 0-100 non-ranking tournament.
+* 08:00 am. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 09:30 am. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 am - 2:00 pm. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 am. "Gourmet". 🏆 A ranking tournament.
@@ -108,7 +108,7 @@
   * November 17: 0-10
   * November 24: 0-20
 * 10:30 am. "Orion". 🏆 A 0-15 non-ranking tournament.
-* 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open". Register on the eve.
+* 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
   * November 24
   * December 29
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
