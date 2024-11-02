@@ -80,12 +80,10 @@
 * 10:00 am - 12:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00 am. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
-* 10:30 am, November 2. SC "Gatne". 🏆 A 0-25 charity ranking tournament (details: +380506058208 - Ivan).
 * 11:00 am - 2:00 pm. "KRSP". A ladder competition.
 * 11:00 am, November 16. "Podolskiy". 🏆 [Autumn tournament](https://www.facebook.com/clubpodolskiy/posts/pfbid02wcSuuc4C2jjsuKPVu4HDUZbZA89qzacucZTThyRDk1pz9baCREuyfui8dM1sKPZl) for players without a ranking. Advance registration is required.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-* 12:00 pm, November 2. "Prestige" (lyceum, Boyarka). 🏆 A [tournament](https://www.facebook.com/share/H8u4ScCSWi3Bz6Fc/).
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
