@@ -101,7 +101,6 @@
 <h3 id="sunday">Sunday</h3>
 
 * 08:00 am. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
-* 09:30 am. Revuts'koho St, 5. 🏆 A tournament for beginners.
 * 10:00 am - 2:00 pm. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 am. "Gourmet". 🏆 A ranking tournament.
   * November 3: 0-25
@@ -112,6 +111,7 @@
   * November 10: 0-30
   * November 17: 0-10
   * November 24: 0-20
+* 10:00 am. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-15 non-ranking tournament.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
   * November 24
