@@ -110,6 +110,7 @@
   * November 17: 0-10
   * November 24: 0-20
 * 10:00 am. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
+* 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-15 non-ranking tournament.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
   * November 24
