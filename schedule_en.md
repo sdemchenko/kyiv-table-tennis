@@ -24,6 +24,7 @@
 * 06:15 pm - 08:40 pm. Sports School #23. A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". A ladder competition.
 * 06:30 pm. "Volia". 🏆 A 0-20 ranking tournament.
+  * November 5: the tournament might be cancelled due to lack of registrations
 * 07:00 pm. "Orion". 🏆 A 0-20 ranking tournament.
 * 07:00 pm - 09:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Tuesday+Friday group).
@@ -56,7 +57,6 @@
 * 06:30 pm - 10:00 pm. "KUTT". A ladder competition.
 * 07:00 pm - 09:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 07:00 pm. "Orion". 🏆 A 0-20 non-ranking tournament.
-* 07:00 pm. "Volia". 🏆 A 0-20 ranking tournament.
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Monday+Thursday group).
 
 <h3 id="friday">Friday</h3>
