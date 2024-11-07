@@ -83,13 +83,13 @@
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00 am - 2:00 pm. "KRSP". A ladder competition.
 * 11:00 am, November 16. "Podolskiy". 🏆 [Autumn tournament](https://www.facebook.com/clubpodolskiy/posts/pfbid02wcSuuc4C2jjsuKPVu4HDUZbZA89qzacucZTThyRDk1pz9baCREuyfui8dM1sKPZl) for players without a ranking. Advance registration is required.
+* 11:00 am. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
 * 03:00 pm. "Orion". 🏆 An Orion ranking 0-300 tournament.
-* 03:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". A ladder competition.
