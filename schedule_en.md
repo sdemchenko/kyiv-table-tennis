@@ -37,7 +37,6 @@
 * 06:00 pm - 08:30 pm. "Breiks". A ladder competition.
 * 06:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 06:10 pm. "Himars". 🏆 A 0-35 or 0-40 ranking tournament.
-  * November 6: 0-35
 * 06:30 pm - 10:00 pm. "KUTT". A ladder competition.
 * 07:00 pm - 09:00 pm. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Wednesday+Saturday group).
@@ -86,9 +85,7 @@
 * 11:00 am. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-* 12:00 pm, November 9. "Prestige" (lyceum, Boyarka). 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
-* 02:00 pm, November 9. "KUTT". 🏆 [Amateurs tournament](https://t.me/kuttclub/2902).
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
 * 03:00 pm. "Orion". 🏆 An Orion ranking 0-300 tournament.
