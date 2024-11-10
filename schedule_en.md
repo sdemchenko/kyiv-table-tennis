@@ -23,7 +23,6 @@
 * 06:00 pm - 09:00 pm. "KRSP". A ladder competition.
 * 06:15 pm - 08:40 pm. Sports School #23. A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". A ladder competition.
-* 06:30 pm. "Volia". 🏆 A 0-20 ranking tournament.
 * 07:00 pm. "Orion". 🏆 A 0-20 ranking tournament.
 * 07:00 pm - 09:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Tuesday+Friday group).
@@ -87,8 +86,8 @@
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
+* 03:00 pm. "Orion". 🏆 A 0-300 Orion ranking tournament.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
-* 03:00 pm. "Orion". 🏆 An Orion ranking 0-300 tournament.
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". A ladder competition.
@@ -100,12 +99,10 @@
 * 08:00 am. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 am - 2:00 pm. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 am. "Gourmet". 🏆 A ranking tournament.
-  * November 10: 0-40
   * November 17: 0-25
   * November 24: 0-40
   * December 1: 0-25
 * 10:00 am. "Raketka". 🏆 A ranking tournament.
-  * November 10: 0-30
   * November 17: 0-10
   * November 24: 0-20
 * 10:00 am. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
@@ -115,14 +112,11 @@
   * November 24
   * December 29
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
-  * November 10: 0-45
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * November 10: a 0-25.0 ranking tournament.
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
-  * November 10: 0-10
   * November 17: 0-5
   * November 24: 0-10
 * 03:00 pm. "Orion". 🏆 A kids' open tournament.
