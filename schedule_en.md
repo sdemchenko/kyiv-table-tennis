@@ -90,6 +90,7 @@
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
 * 03:00 pm. "Volia". 🏆 A 0-40 ranking tournament.
+  * The tournament is often cancelled due to lack of votes.
 * 03:00 pm. "Orion". 🏆 A 0-300 Orion ranking tournament.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
