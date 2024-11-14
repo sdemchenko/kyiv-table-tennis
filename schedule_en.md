@@ -1,8 +1,8 @@
 
 <h3 id="monday">Monday</h3>
 
-* 09:00 am - 03:00 pm. "Orion". A ladder competition.
 * 10:00 am - 04:00 pm. "Volia". A ladder competition.
+* 11:00 am - 03:00 pm. "Orion". A ladder competition.
 * 05:00 pm - 08:00 pm. "Gourmet". A ladder competition.
 * 05:30 pm - 08:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 08:30 pm. "Breiks". A ladder competition.
@@ -14,8 +14,8 @@
 
 <h3 id="tuesday">Tuesday</h3>
 
-* 09:00 am - 03:00 pm. "Orion". A ladder competition.
 * 10:00 am - 01:00 pm. "KRSP". A ladder competition.
+* 11:00 am - 03:00 pm. "Orion". A ladder competition.
 * 05:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 05:00 pm - 07:30 pm. Drahomanov University Sports Complex. A ladder competition.
 * 05:30 pm - 08:00 pm. "Pechersk". A ladder competition.
@@ -30,8 +30,8 @@
 
 <h3 id="wednesday">Wednesday</h3>
 
-* 09:00 am - 03:00 pm. "Orion". A ladder competition.
 * 10:00 am - 04:00 pm. "Volia". A ladder competition.
+* 11:00 am - 03:00 pm. "Orion". A ladder competition.
 * 05:00 pm - 08:00 pm. "Gourmet". A ladder competition.
 * 05:30 pm - 08:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 08:30 pm. "Breiks". A ladder competition.
@@ -44,8 +44,8 @@
 
 <h3 id="thursday">Thursday</h3>
 
-* 09:00 am - 03:00 pm. "Orion". A ladder competition.
 * 10:00 am - 01:00 pm. "KRSP". A ladder competition.
+* 11:00 am - 03:00 pm. "Orion". A ladder competition.
 * 05:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 05:00 pm - 07:30 pm. Drahomanov University Sports Complex. A ladder competition.
 * 05:30 pm - 08:00 pm. "Pechersk". A ladder competition.
@@ -60,8 +60,8 @@
 
 <h3 id="friday">Friday</h3>
 
-* 09:00 am - 03:00 pm. "Orion". A ladder competition.
 * 10:00 am - 04:00 pm. "Volia". A ladder competition.
+* 11:00 am - 03:00 pm. "Orion". A ladder competition.
 * 05:00 pm - 08:00 pm. "Gourmet". A ladder competition.
 * 05:30 pm - 08:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 08:30 pm. "Breiks". A ladder competition.
