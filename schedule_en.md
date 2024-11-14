@@ -84,7 +84,6 @@
 * 11:00 am - 2:00 pm. "KRSP". A ladder competition.
 * 11:00 am, November 16. "Podolskiy". 🏆 [Autumn tournament](https://www.facebook.com/clubpodolskiy/posts/pfbid02wcSuuc4C2jjsuKPVu4HDUZbZA89qzacucZTThyRDk1pz9baCREuyfui8dM1sKPZl) for players without a ranking. Advance registration is required.
 * 11:00 am. "Pulse". 🏆 A 0-100 non-ranking tournament.
-* 11:00 am. "Volia". 🏆 A non-ranking tournament for beginners.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
   * November 16: ❌
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
