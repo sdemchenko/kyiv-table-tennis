@@ -91,8 +91,10 @@
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
 * 03:00 pm. "Volia". 🏆 A 0-40 ranking tournament.
   * The tournament is often cancelled due to lack of votes.
-* 02:30 pm. "Orion". 🏆 A 0-300 Orion ranking tournament.
-* 02:30 pm. "Orion". 🏆 A 0-10 ranking tournament.
+* 03:00 pm. "Orion". 🏆 A 0-300 Orion ranking tournament.
+  * November 16: the tournament will start at 02:30 pm.
+* 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
+  * November 16: the tournament will start at 02:30 pm.
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
   * November 16: 08:30 pm - 10:00 pm
