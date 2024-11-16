@@ -81,9 +81,7 @@
 * 10:00 am. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 am. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
-* 11:00 am, November 16. "Podolskiy". 🏆 [Autumn tournament](https://www.facebook.com/clubpodolskiy/posts/pfbid02wcSuuc4C2jjsuKPVu4HDUZbZA89qzacucZTThyRDk1pz9baCREuyfui8dM1sKPZl) for players without a ranking. Advance registration is required.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
-  * November 16: ❌
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 02:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
@@ -91,12 +89,9 @@
 * 03:00 pm. "Volia". 🏆 A 0-40 ranking tournament.
   * The tournament is often cancelled due to lack of votes.
 * 03:00 pm. "Orion". 🏆 A 0-300 Orion ranking tournament.
-  * November 16: the tournament will start at 02:30 pm.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
-  * November 16: the tournament will start at 02:30 pm.
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
-  * November 16: 08:30 pm - 10:00 pm
 * 06:30 pm - 10:00 pm. "KUTT". A ladder competition.
 * 07:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Wednesday+Saturday group).
@@ -109,6 +104,7 @@
   * November 17: 0-25
   * November 24: 0-40
   * December 1: 0-25
+  * December 8: 0-40
 * 10:00 am. "Raketka". 🏆 A ranking tournament.
   * November 17: 0-10
   * November 24: 0-20
