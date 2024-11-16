@@ -81,7 +81,6 @@
 * 10:00 am. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 am. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
-* 11:00 am - 2:00 pm. "KRSP". A ladder competition.
 * 11:00 am, November 16. "Podolskiy". 🏆 [Autumn tournament](https://www.facebook.com/clubpodolskiy/posts/pfbid02wcSuuc4C2jjsuKPVu4HDUZbZA89qzacucZTThyRDk1pz9baCREuyfui8dM1sKPZl) for players without a ranking. Advance registration is required.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
   * November 16: ❌
