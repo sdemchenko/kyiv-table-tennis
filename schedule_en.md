@@ -84,8 +84,8 @@
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 02:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
-* 03:00 pm. "Orion". 🏆 A 0-300 Orion ranking tournament.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
+* 03:00 pm. "Orion". 🏆 A 0-300 Orion ranking tournament.
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". A ladder competition.
@@ -105,7 +105,7 @@
   * November 24: 0-20
 * 10:00 am. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
-* 10:30 am. "Orion". 🏆 A 0-15 non-ranking tournament.
+* 10:30 am. "Orion". 🏆 A 0-5 ranking tournament.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
   * November 24
   * December 29
@@ -117,6 +117,7 @@
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
   * November 24: 0-10
 * 03:00 pm. "Orion". 🏆 A kids' open tournament.
+* 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament for kids.
 * 04:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". A ladder competition.
