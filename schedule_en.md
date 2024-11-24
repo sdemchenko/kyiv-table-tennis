@@ -102,7 +102,7 @@
   * December 8: 0-40
   * December 15: 0-25
 * 10:00 am. "Raketka". 🏆 A ranking tournament.
-  * November 24: 0-20
+  * November 24: 0-20 and 0-45
 * 10:00 am. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-5 ranking tournament.
