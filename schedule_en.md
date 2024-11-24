@@ -97,26 +97,22 @@
 * 08:00 am. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 am - 2:00 pm. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 am. "Gourmet". 🏆 A ranking tournament.
-  * November 24: 0-40
   * December 1: 0-25
   * December 8: 0-40
   * December 15: 0-25
+  * December 22: 0-40
 * 10:00 am. "Raketka". 🏆 A ranking tournament.
-  * November 24: 0-20 and 0-45
 * 10:00 am. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-5 ranking tournament.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
-  * November 24: [advanced players start at 11:00 am, amateurs start at 2:30 pm](https://t.me/SmartTT_KRSP/806)
   * December 29
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * November 24: a 0-10.0 ranking tournament
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
-  * November 24: 0-10
 * 03:00 pm. "Orion". 🏆 A kids' open tournament.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament for kids.
 * 04:00 pm - 10:30 pm. "Volia". A ladder competition.
