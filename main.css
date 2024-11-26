@@ -47,6 +47,7 @@ div#newsContainer > div {
     font-style: italic;
     color: #888888;
     margin-top: 20px;
+    padding-bottom: 0.3em;
 }
 div#newsContainer div:nth-child(1) {
     margin-top: 0;
