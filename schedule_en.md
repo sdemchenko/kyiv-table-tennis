@@ -114,6 +114,7 @@
   * December 29
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
+  * December 22: [Lider Cup](https://t.me/c/2053064289/642)
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
@@ -121,7 +122,7 @@
   * December 1: 0-15
   * December 8: 0-10
   * December 15: 0-5
-  * December 22: Lider Cup
+  * December 22: [Lider Cup](https://t.me/c/2053064289/642)
   * December 29: 0-10
 * 03:00 pm. "Orion". 🏆 A kids' open tournament.
 * 03:00 pm. "Orion". 🏆 A 0-100 ranking tournament for kids.
