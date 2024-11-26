@@ -76,6 +76,10 @@
 * 09:30 am. "Grand-Prix". 🏆 A 0-100 non-ranking tournament.
 * 10:00 am. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 am - 12:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
+* 10:00 am, December 21. "Leader" (RC). 🏆 Tournament [Lider Cup Kids](https://t.me/c/2033495364/427).
+  * 10:00 &mdash; 2012 y.o.b and younger (separately girls and boys)
+  * 10:00 &mdash; 2014 y.o.b and younger (separately girls and boys)
+  * 12:00 &mdash; 2006 y.o.b and younger (separately girls and boys)
 * 10:00 am. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 am. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
@@ -114,7 +118,7 @@
   * December 29
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-  * December 22: [Lider Cup](https://t.me/c/2053064289/642)
+  * December 22: ❌
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
@@ -123,6 +127,8 @@
   * December 8: 0-10
   * December 15: 0-5
   * December 22: [Lider Cup](https://t.me/c/2053064289/642)
+    * 12:00 &mdash; вікові категорії 40-50 та 50+
+    * 14:00 &mdash; VIP-турнір
   * December 29: 0-10
 * 03:00 pm. "Orion". 🏆 A kids' open tournament.
 * 03:00 pm. "Orion". 🏆 A 0-100 ranking tournament for kids.
