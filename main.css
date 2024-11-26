@@ -17,7 +17,7 @@
 body {
     background-color: var(--page-bg-color);
     color: var(--page-fg-color);
-    font-family: Arial,sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 100%;
     max-width: 860px;
     padding: 10px;
