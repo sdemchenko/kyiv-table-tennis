@@ -89,6 +89,7 @@
   * November 30: ❌
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
+  * November 30: ❌
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
@@ -108,6 +109,7 @@
   * December 8: 0-40
   * December 15: 0-25
   * December 22: 0-40
+* 10:00 am, December 1. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 10:00 am. "Raketka". 🏆 A ranking tournament.
   * December 1: 0-15
   * December 8: 0-30
