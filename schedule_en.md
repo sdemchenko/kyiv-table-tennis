@@ -119,7 +119,7 @@
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-5 ranking tournament.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
-  * December 29
+  * December 22
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
   * December 1: ❌
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
