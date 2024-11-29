@@ -121,11 +121,13 @@
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
   * December 29
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
+  * December 1: ❌
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
   * December 22: ❌
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
+* 01:00 pm, December 1. "Leader" (Sports School). 🏆 A 0-100 non-ranking tournament.
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
   * December 1: 0-15
   * December 8: 0-10
