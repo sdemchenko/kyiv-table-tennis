@@ -23,6 +23,7 @@
 * 06:00 pm - 09:00 pm. "KRSP". A ladder competition.
 * 06:15 pm - 08:40 pm. Sports School #23. A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
+* 06:30 pm, December 3. "Volia". 🏆 A 0-20 ranking tournament.
 * 07:00 pm. "Orion". 🏆 A 0-25 ranking tournament.
 * 07:00 pm - 09:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Tuesday+Friday group).
@@ -52,7 +53,6 @@
 * 06:00 pm - 09:00 pm. "KRSP". A ladder competition.
 * 06:15 pm - 08:40 pm. Sports School #23. A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
-* 06:30 pm, November 28. "Volia". 🏆 A 0-20 ranking tournament.
 * 07:00 pm - 09:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 07:00 pm. "Orion". 🏆 A 0-25 non-ranking tournament.
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Monday+Thursday group).
@@ -85,10 +85,8 @@
 * 10:00 am. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
-  * November 30: ❌
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
-  * November 30: ❌
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
