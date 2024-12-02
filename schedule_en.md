@@ -123,12 +123,12 @@
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
-  * December 8: 0-10
-  * December 15: 0-5
+  * December 8: 0-5
+  * December 15: 0-10
   * December 22: [Lider Cup](https://t.me/c/2053064289/642)
     * 12:00 &mdash; вікові категорії 40-50 та 50+
     * 14:00 &mdash; VIP-турнір
-  * December 29: 0-10
+  * December 29: ❌
 * 03:00 pm. "Orion". 🏆 A kids' open tournament.
 * 03:00 pm. "Orion". 🏆 A 0-100 ranking tournament for kids.
 * 04:00 pm - 10:30 pm. "Volia". A ladder competition.
