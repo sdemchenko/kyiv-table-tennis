@@ -75,6 +75,7 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00 am. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
+* 09:00 am - 03:00 pm, December 28. National University of Ukraine on Physical Education and Sport. 🏆 [Kyiv open championship among doubles](https://t.me/ttkiev/511). Men. Women.
 * 09:30 am. "Grand-Prix". 🏆 A 0-100 non-ranking tournament.
 * 10:00 am. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 am - 12:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
@@ -92,6 +93,7 @@
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
 * 03:00 pm. "Orion". 🏆 A 0-200 Orion ranking tournament.
+* 04:00 pm - 08:00 pm, December 28. National University of Ukraine on Physical Education and Sport. 🏆 [Kyiv open championship among doubles](https://t.me/ttkiev/511). Mixed pairs.
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
