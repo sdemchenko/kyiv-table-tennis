@@ -111,7 +111,7 @@
   * December 29: 0-25
 * 10:00 am. "Raketka". 🏆 A ranking tournament.
   * December 8: 0-30
-  * December 15: 0-5
+  * December 15: 0-10
   * December 22: 0-60
   * December 29: A kids' tournament (2012 y.o.b.) with unbelievable prizes
 * 10:00 am. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
