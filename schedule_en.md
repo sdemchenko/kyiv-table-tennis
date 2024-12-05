@@ -93,6 +93,7 @@
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 12:00 pm. "Top-Spin". 🏆 A 0-100 non-ranking tournament.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
+* 02:00 pm, December 14. "KUTT". 🏆 A non-ranking tournament.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
 * 03:00 pm. "Orion". 🏆 A 0-200 Orion ranking tournament.
 * 04:00 pm - 08:00 pm, December 28. National University of Ukraine on Physical Education and Sport. 🏆 [Kyiv open championship among doubles](https://t.me/ttkiev/511). Mixed pairs.
