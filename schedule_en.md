@@ -91,6 +91,7 @@
   * December 7: a 0-10.0 ranking tournament.
 * 12:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
+* 12:00 pm. "Top-Spin". 🏆 A 0-100 non-ranking tournament.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
 * 03:00 pm. "Orion". 🏆 A 0-200 Orion ranking tournament.
@@ -139,4 +140,5 @@
 * 03:00 pm. "Orion". 🏆 A 0-100 ranking tournament for kids.
 * 04:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
+* 06:00 pm. "Top-Spin". 🏆 A 0-100 non-ranking tournament.
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
