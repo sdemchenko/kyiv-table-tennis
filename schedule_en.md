@@ -88,6 +88,7 @@
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * December 7: a 0-10.0 ranking tournament.
 * 12:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
@@ -125,6 +126,7 @@
   * December 29: ❌
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * December 8: a 0-25.0 ranking tournament.
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
   * December 8: 0-5
