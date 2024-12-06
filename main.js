@@ -1,31 +1,39 @@
-//
-// Open links to external resources in a new tab.
-//
-$(document).ready(makeLinksOpenInNewTab);
+$(document).ready(function () {
+    useDarkOrLightSystemTheme();
+    makeLinksOpenInNewTab();
+    fetchNews();
+    fetchSchedule();
+    incrementCounter();
+});
 
-/* This web-site is not a usual one, it's a single page reference. So, it makes sense to open all links in new tabs. */
+/**
+ * Automatically switch light / dark themes based on system preferences.
+ */
+function useDarkOrLightSystemTheme() {
+
+    const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)');
+
+    function updateTheme() {
+        const theme = prefersDarkMode.matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+    }
+
+    updateTheme();
+    prefersDarkMode.addEventListener('change', () => updateTheme());
+}
+
+/**
+ * This web-site is not a usual one, it's a single page reference. So, it makes sense to open in a new tab all links,
+ * except Table of Contents links or the language switcher link.
+ */
 function makeLinksOpenInNewTab(){
-    // All links should open in new tab, except links inside Table of Contents or links switching the language:
     $('a').not('#toc a').not('#to_english').not('#to_ukrainian').attr('target','_blank');
 }
 
-//
-// Automatically switch light / dark themes based on system preferences.
-//
-const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)')
-
-function updateTheme() {
-    const theme = prefersDarkMode.matches ? 'dark' : 'light'
-    document.documentElement.setAttribute('data-theme', theme)
-}
-
-updateTheme();
-prefersDarkMode.addEventListener('change', () => updateTheme());
-
-//
-// Insert the content of news.html at the beginning of 'newsContainer' div.
-//
-$(function(){
+/**
+ * Fetch news.html and insert its content at the beginning of 'newsContainer' div.
+ */
+function fetchNews() {
     fetch($('#newsContainer').attr('data-src') + '?t=' + new Date().getTime(), {})
         .then(function (response) {
             return response.text();
@@ -37,34 +45,30 @@ $(function(){
         .catch(function (err) {
             console.log(err);
         });
-});
+}
 
-//
-// Transform the markdown content of schedule.md to HTML, then replace the content of 'scheduleContainer' div with the HTML.
-//
-const markdown = new remarkable.Remarkable({
-    html: true, // Enable HTML tags in source
-});
 
-$(function(){
+/**
+ * Fetch schedule.md, transform its markdown content to HTML, and replace the content of 'scheduleContainer' div with the HTML.
+ */
+function fetchSchedule() {
     fetch($('#scheduleContainer').attr('data-src') + '?t=' + new Date().getTime(), {})
         .then(function (response) {
             return response.text();
         })
         .then(function (data) {
+            const markdown = new remarkable.Remarkable({
+                html: true, // Enable HTML tags in source
+            });
             $('#scheduleContainer').html(markdown.render(data));
             makeLinksOpenInNewTab();
         })
         .catch(function (err) {
             console.log(err);
         });
-});
+}
 
-
-//
-// Increment the counter
-//
-$(function(){
+function incrementCounter() {
     if (window.location.hostname === 'localhost') {
         return;
     }
@@ -78,4 +82,4 @@ $(function(){
         .catch(function (err) {
             console.log(err);
         });
-});
+}
