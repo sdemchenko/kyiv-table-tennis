@@ -36,7 +36,6 @@
 * 06:00 pm - 08:30 pm. "Breiks". A ladder competition.
 * 06:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 06:10 pm. "Himars". 🏆 A 0-35 ranking tournament.
-  * December 4: 0-40
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
 * 07:00 pm - 09:00 pm. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Wednesday+Saturday group).
@@ -53,7 +52,6 @@
 * 06:00 pm - 09:00 pm. "KRSP". A ladder competition.
 * 06:15 pm - 08:40 pm. Sports School #23. A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
-* 06:30 pm, December 5. "Volia". 🏆 A 0-20 ranking tournament.
 * 07:00 pm - 09:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 07:00 pm. "Orion". 🏆 A 0-25 non-ranking tournament.
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Monday+Thursday group).
@@ -100,6 +98,7 @@
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
+  * December 7: ❌
 * 07:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Wednesday+Saturday group).
 
