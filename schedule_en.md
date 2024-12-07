@@ -111,6 +111,7 @@
   * December 15: 0-25
   * December 22: 0-40
   * December 29: 0-25
+* 10:00 am, December 8. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 10:00 am. "Raketka". 🏆 A ranking tournament.
   * December 8: 0-30
   * December 15: 0-10
