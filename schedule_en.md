@@ -128,9 +128,9 @@
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
   * December 15: 0-10
-  * December 22: [Lider Cup](https://t.me/c/2053064289/642)
-    * 12:00 &mdash; вікові категорії 40-50 та 50+
-    * 14:00 &mdash; VIP-турнір
+  * December 22: [Lider Cup](https://t.me/c/2053064289/690)
+    * 12:00 &mdash; age categories 40-50 and 50+, men and women together
+    * 14:00 &mdash; VIP-tournament (any age, any ranking, men and women play separately)
   * December 29: ❌
 * 03:00 pm. "Orion". 🏆 A kids' open tournament.
 * 03:00 pm. "Orion". 🏆 A 0-100 ranking tournament for kids.
