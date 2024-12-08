@@ -86,7 +86,6 @@
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * December 7: a 0-10.0 ranking tournament.
 * 12:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 12:00 pm. "Top-Spin". 🏆 A 0-100 non-ranking tournament.
@@ -98,7 +97,6 @@
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
-  * December 7: ❌
 * 07:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Wednesday+Saturday group).
 
@@ -107,32 +105,28 @@
 * 08:00 am. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 am - 2:00 pm. Drahomanov University Sports Complex. A ladder competition.
 * 10:00 am. "Gourmet". 🏆 A ranking tournament.
-  * December 8: 0-40
   * December 15: 0-25
   * December 22: 0-40
   * December 29: 0-25
-* 10:00 am, December 8. "Pulse". 🏆 A 0-100 non-ranking tournament.
+  * January 5: 0-25
 * 10:00 am. "Raketka". 🏆 A ranking tournament.
-  * December 8: 0-30
   * December 15: 0-10
   * December 22: 0-60
   * December 29: A kids' tournament (2012 y.o.b.) with unbelievable prizes
 * 10:00 am. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
-* 10:30 am, December 8. "Gatne", SC. 🏆 A 0-30 ranking tournament. Info: +380506058208.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-5 ranking tournament.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
   * December 22
+  * January 26
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
   * December 22: ❌ (instead, "Lider Cup Kids" will be on Saturday, December 21)
   * December 29: ❌
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * December 8: a 0-25.0 ranking tournament.
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
-  * December 8: 0-5
   * December 15: 0-10
   * December 22: [Lider Cup](https://t.me/c/2053064289/642)
     * 12:00 &mdash; вікові категорії 40-50 та 50+
