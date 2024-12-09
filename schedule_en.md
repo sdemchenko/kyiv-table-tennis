@@ -92,7 +92,7 @@
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
 * 02:00 pm, December 14. "KUTT". 🏆 A non-ranking tournament.
 * 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
-* 03:00 pm. "Orion". 🏆 A 0-200 Orion ranking tournament.
+* 03:00 pm. "Orion". 🏆 A 0-85.0 non-ranking tournament among doubles.
 * 04:00 pm - 08:00 pm, December 28. National University of Ukraine on Physical Education and Sport. 🏆 [Kyiv open championship among doubles](https://t.me/ttkiev/511). Mixed pairs.
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
