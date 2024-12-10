@@ -86,6 +86,7 @@
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * December 14: A 0-40.0 ranking men's only tournament.
 * 12:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 12:00 pm. "Top-Spin". 🏆 A 0-100 non-ranking tournament.
