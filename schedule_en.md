@@ -85,7 +85,7 @@
 * 10:00 am. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 am. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
-* 11:00 am, December 14. "Quicks". 🏆 A 0-30 tournament.
+* 11:00 am, December 14. "Quicks". 🏆 A 0-30 tournament "Quicks Open".
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * December 14: A 0-40.0 ranking men's only tournament.
