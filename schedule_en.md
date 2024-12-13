@@ -122,7 +122,7 @@
 * 10:00 am. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-5 ranking tournament.
-* 11:00 am, December 15. "Gatne", SC. 🏆 A 0-30 ranking tournament. Info: +380506058208.
+* 11:00 am, December 15. Yurivsky Lyceum. 🏆 A 0-30 charitable ranking tournament. Info: +380506058208.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
   * December 22
   * January 26
