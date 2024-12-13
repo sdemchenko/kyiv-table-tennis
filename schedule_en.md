@@ -124,6 +124,7 @@
   * December 22
   * January 26
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
+  * December 15: 0-50
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
   * December 22: ❌ (instead, "Lider Cup Kids" will be on Saturday, December 21)
   * December 29: ❌
