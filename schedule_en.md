@@ -81,9 +81,9 @@
 * 10:00 am. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 am - 12:00 pm. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00 am, December 21. "Leader" (RC). 🏆 Tournament [Lider Cup Kids](https://t.me/c/2033495364/427).
-  * 10:00 &mdash; 2012 y.o.b. and younger (separately girls and boys)
-  * 10:00 &mdash; 2014 y.o.b. and younger (separately girls and boys)
-  * 12:00 &mdash; 2006 y.o.b. and younger (separately girls and boys)
+  * 09:00 am &mdash; 2012 y.o.b. and younger (separately girls and boys)
+  * 09:00 am &mdash; 2014 y.o.b. and younger (separately girls and boys)
+  * 12:00 pm &mdash; 2006 y.o.b. and younger (separately girls and boys)
 * 10:00 am. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 am. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
