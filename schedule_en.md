@@ -87,6 +87,7 @@
 * 10:00 am. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 am. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
+* 11:00 am, December 21. Yurivsky Lyceum. 🏆 A 0-30 charitable ranking tournament. Info: +380506058208.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
@@ -115,7 +116,6 @@
 * 10:00 am. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-5 ranking tournament.
-* 11:00 am, December 22. Yurivsky Lyceum. 🏆 A 0-30 charitable ranking tournament. Info: +380506058208.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
   * December 22: Advanced players start at 11:00 am; Amateurs start at 02:00 pm.
   * January 26
