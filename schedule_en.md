@@ -117,7 +117,7 @@
 * 10:30 am. "Orion". 🏆 A 0-5 ranking tournament.
 * 11:00 am, December 22. Yurivsky Lyceum. 🏆 A 0-30 charitable ranking tournament. Info: +380506058208.
 * 11:00 am. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
-  * December 22
+  * December 22: Advanced players start at 11:00 am; Amateurs start at 02:00 pm.
   * January 26
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
