@@ -7,7 +7,7 @@
 * 05:30 pm - 08:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 08:30 pm. "Breiks". A ladder competition.
 * 06:00 pm - 08:30 pm. "Himars". Games in a group.
-* 06:00 pm - 08:00 pm. "Quicks". Free play.
+* 06:00 pm - 08:00 pm. "Quiks". Free play.
 * 06:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 07:00 pm - 09:00 pm. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 07:15 pm - 11:00 pm. "Raketka". Group games (the Monday+Thursday group).
@@ -35,7 +35,7 @@
 * 05:00 pm - 08:00 pm. "Gourmet". A ladder competition.
 * 05:30 pm - 08:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 08:30 pm. "Breiks". A ladder competition.
-* 06:00 pm - 08:00 pm. "Quicks". Free play.
+* 06:00 pm - 08:00 pm. "Quiks". Free play.
 * 06:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 06:10 pm. "Himars". 🏆 A 0-35 ranking tournament.
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
@@ -66,7 +66,7 @@
 * 05:30 pm - 08:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 08:30 pm. "Breiks". A ladder competition.
 * 06:00 pm - 08:30 pm. "Himars". Games in a group.
-* 06:00 pm - 08:00 pm. "Quicks". Free play.
+* 06:00 pm - 08:00 pm. "Quiks". Free play.
 * 06:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
 * 06:30 pm. Sports School #21. 🏆 A 0-100 non-ranking tournament.
@@ -126,7 +126,7 @@
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
   * December 22: ❌ (instead, "Lider Cup Kids" will be on Saturday, December 21)
   * December 29: ❌
-* 11:00 am, December 15. "Quicks". 🏆 A 0-15 non-ranking tournament "Quicks Open".
+* 11:00 am, December 15. "Quiks". 🏆 A 0-15 non-ranking tournament "Quiks Open".
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
