@@ -92,9 +92,9 @@
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
+* 02:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
+* 02:00 pm. "Orion". 🏆 A 0-85.0 non-ranking tournament among doubles.
 * 03:00 pm. DBK-4 Sports Complex. A ladder competition.
-* 03:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
-* 03:00 pm. "Orion". 🏆 A 0-85.0 non-ranking tournament among doubles.
 * 04:00 pm - 08:00 pm, December 28. National University of Ukraine on Physical Education and Sport. 🏆 [Kyiv open championship among doubles](https://t.me/ttkiev/511). Mixed pairs.
 * 04:00 pm - 06:00 pm. "Pechersk". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
@@ -126,13 +126,13 @@
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
+* 02:00 pm. "Orion". 🏆 A kids' open tournament.
+* 02:00 pm. "Orion". 🏆 A 0-100 ranking tournament for kids.
 * 03:00 pm. "Leader" (RC). 🏆 A ranking tournament.
   * December 22: [Lider Cup](https://t.me/c/2053064289/690)
     * 12:00 &mdash; age categories 40-50 and 50+, men and women together
     * 14:00 &mdash; VIP-tournament (any age, any ranking, men and women play separately)
   * December 29: ❌
-* 03:00 pm. "Orion". 🏆 A kids' open tournament.
-* 03:00 pm. "Orion". 🏆 A 0-100 ranking tournament for kids.
 * 04:00 pm - 10:30 pm. "Volia". A ladder competition.
 * 06:00 pm - 09:00 pm. "Orion". A ladder competition.
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
