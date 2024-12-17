@@ -89,6 +89,7 @@
 * 10:00 am. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30 am. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00 am, December 21. Yurivsky Lyceum. 🏆 A 0-30 charitable ranking tournament. Info: +380506058208.
+* 11:00 am, December 21. "Quiks". 🏆 A 0-35 ranking tournament.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
@@ -124,6 +125,7 @@
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
   * December 22: ❌ (instead, "Lider Cup Kids" will be on Saturday, December 21)
   * December 29: ❌
+* 11:00 am, December 22. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
