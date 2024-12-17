@@ -38,7 +38,7 @@
 * 06:00 pm - 08:30 pm. "Breiks". A ladder competition.
 * 06:00 pm - 08:00 pm. "Quiks". Free play.
 * 06:00 pm - 10:30 pm. "Volia". A ladder competition.
-* 06:10 pm. "Himars". 🏆 A 0-35 ranking tournament.
+* 06:10 pm. "Himars". 🏆 A 0-40 ranking tournament.
 * 06:30 pm - 10:00 pm. "KUTT". Free play.
 * 07:00 pm - 09:00 pm. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 07:15 pm - 11:00 pm. "Raketka". Games in a group (the Wednesday+Saturday group).
