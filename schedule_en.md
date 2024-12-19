@@ -91,7 +91,6 @@
 * 11:00 am, December 21. "Quiks". 🏆 A 0-35 ranking tournament.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-* 12:00 pm. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 02:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
 * 02:00 pm. "Orion". 🏆 A 0-85.0 non-ranking tournament among doubles.
@@ -125,6 +124,7 @@
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
   * December 22: ❌ (instead, "Lider Cup Kids" will be on Saturday, December 21)
   * December 29: ❌
+* 11:00 am, December 22. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 11:00 am, December 22. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
