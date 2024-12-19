@@ -121,6 +121,7 @@
   * December 22: Advanced players start at 11:00 am; Amateurs start at 02:00 pm.
   * January 26
 * 11:00 am. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
+  * December 22: 0-45
 * 11:00 am. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
   * December 22: ❌ (instead, "Lider Cup Kids" will be on Saturday, December 21)
   * December 29: ❌
