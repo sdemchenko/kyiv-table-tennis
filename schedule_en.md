@@ -91,6 +91,7 @@
 * 11:00 am, December 21. "Quiks". 🏆 A 0-35 ranking tournament.
 * 11:10 am. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * December 21: quarter-final matches of Christmas Grand Final and IT Boss Cup
 * 12:00 pm - 2:15 pm. Sports School #23. A ladder competition.
 * 02:00 pm. "Orion". 🏆 A 0-10 ranking tournament.
 * 02:00 pm. "Orion". 🏆 A 0-85.0 non-ranking tournament among doubles.
@@ -128,6 +129,7 @@
 * 11:00 am, December 22. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:00 am. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30 am. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * December 22: semi-final and final matches of Christmas Grand Final
 * 12:00 pm. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 02:00 pm. "Orion". 🏆 A kids' open tournament.
 * 02:00 pm. "Orion". 🏆 A 0-100 ranking tournament for kids.
