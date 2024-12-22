@@ -112,6 +112,8 @@
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
 * 11:00. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
   * January 26
+  * February 23
+  * March 30
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
   * December 29: ❌
