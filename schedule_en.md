@@ -106,7 +106,7 @@
   * January 12: 0-40
   * January 19: 0-25
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * December 29: A kids' tournament [Raif Kids](https://t.me/c/1981806449/943)
+  * December 29: A kids' tournament [Raif Kids](https://t.me/c/1981806449/943) (2012 y.o.b. and younger)
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
