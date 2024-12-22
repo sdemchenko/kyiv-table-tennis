@@ -111,7 +111,7 @@
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
 * 11:00. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
-  * December 22: Advanced players start at 11:00; Amateurs start at 14:00.
+  * December 22: Advanced players start at 11:00; Amateurs will not play this time.
   * January 26
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
   * December 22: 0-45
