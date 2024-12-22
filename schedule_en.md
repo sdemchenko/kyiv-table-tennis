@@ -111,7 +111,6 @@
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
 * 11:00. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
-  * December 22: Advanced players start at 11:00; Amateurs will not play this time.
   * January 26
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
@@ -122,9 +121,6 @@
 * 14:00. "Orion". 🏆 A kids' open tournament.
 * 14:00. "Orion". 🏆 A 0-100 ranking tournament for kids.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * December 22: [Lider Cup](https://t.me/c/2053064289/690)
-    * 12:00 &mdash; age categories 40-50 and 50+, men and women together
-    * 14:00 &mdash; VIP-tournament (any age, any ranking, men and women play separately)
   * December 29: ❌
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:00 - 21:00. "Orion". A ladder competition.
