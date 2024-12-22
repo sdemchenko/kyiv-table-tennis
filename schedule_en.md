@@ -101,11 +101,11 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * December 22: 0-40
   * December 29: 0-25
   * January 5: 0-25
+  * January 12: 0-40
+  * January 19: 0-25
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * December 22: 0-60
   * December 29: A kids' tournament [Raif Kids](https://t.me/c/1981806449/943)
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
@@ -114,15 +114,10 @@
   * December 22: Advanced players start at 11:00; Amateurs will not play this time.
   * January 26
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
-  * December 22: 0-45
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-  * December 22: ❌ (instead, "Lider Cup Kids" will be on Saturday, December 21)
   * December 29: ❌
-* 11:00, December 22. "Pulse". 🏆 A 0-100 non-ranking tournament.
-* 11:00, December 22. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * December 22: semi-final and final matches of Christmas Grand Final
 * 12:00. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 14:00. "Orion". 🏆 A kids' open tournament.
 * 14:00. "Orion". 🏆 A 0-100 ranking tournament for kids.
