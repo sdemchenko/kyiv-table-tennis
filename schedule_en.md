@@ -86,8 +86,7 @@
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
-* 14:00. "Orion". 🏆 A 0-10 ranking tournament.
-* 14:00. "Orion". 🏆 A 0-85.0 non-ranking tournament among doubles.
+* 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 16:00 - 20:00, December 28. National University of Ukraine on Physical Education and Sport. 🏆 [Kyiv open championship among doubles](https://t.me/ttkiev/511). Mixed pairs.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
@@ -120,8 +119,11 @@
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-30 ranking tournament.
-* 14:00. "Orion". 🏆 A kids' open tournament.
-* 14:00. "Orion". 🏆 A 0-100 ranking tournament for kids.
+* 15:00, December 29. "Orion". [A Charitable New Year Table Tennis Show](https://t.me/chatorion/19296)
+* 15:00. "Orion". 🏆 A kids' open tournament.
+  * December 29: ❌
+* 15:00. "Orion". 🏆 A 0-100 ranking tournament for kids.
+  * December 29: ❌
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
   * December 29: ❌
 * 16:00 - 22:30. "Volia". A ladder competition.
