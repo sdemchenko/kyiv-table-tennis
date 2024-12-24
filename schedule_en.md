@@ -118,6 +118,7 @@
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
   * December 29: ❌
+* 11:00, December 29. "Pulse". 🏆 A 0-100 non-ranking [wrap-up  tournament](https://t.me/pulsetabletennisteam/113).
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-30 ranking tournament.
