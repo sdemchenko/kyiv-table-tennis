@@ -91,6 +91,7 @@
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00, December 28. "Quiks". 🏆 A 0-20 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
+  * December 28: 0-15
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
