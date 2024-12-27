@@ -128,6 +128,7 @@
 * 11:00, December 29. "Pulse". 🏆 A 0-100 non-ranking [wrap-up  tournament](https://t.me/pulsetabletennisteam/113).
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * December 29: 🏆 A 0-40.0 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 15:00, December 29. "Orion". [A Charitable New Year Table Tennis Show](https://t.me/chatorion/19296)
 * 15:00. "Orion". 🏆 A kids' open tournament.
