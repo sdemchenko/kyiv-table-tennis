@@ -124,6 +124,7 @@
   * February 23
   * March 30
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
+  * December 29: ❌
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
   * December 29: ❌
 * 11:00, December 29. "Pulse". 🏆 A 0-100 non-ranking [wrap-up  tournament](https://t.me/pulsetabletennisteam/113).
