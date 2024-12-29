@@ -93,8 +93,8 @@
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
-* 18:00 - 21:00. "Orion". A ladder competition.
 * 18:30 - 22:00. "KUTT". Free play.
+* 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
 
@@ -103,12 +103,10 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * December 29: 0-25
   * January 5: 0-25
   * January 12: 0-40
   * January 19: 0-25
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * December 29: A kids' tournament [Raif Kids](https://t.me/c/1981806449/943) (2012 y.o.b. and younger)
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
@@ -117,13 +115,9 @@
   * February 23
   * March 30
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
-  * December 29: ❌
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-  * December 29: ❌
-* 11:00, December 29. "Pulse". 🏆 A 0-100 non-ranking [wrap-up  tournament](https://t.me/pulsetabletennisteam/113).
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * December 29: 🏆 A 0-40.0 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 15:00, December 29. "Orion". [A Charitable New Year Table Tennis Show](https://t.me/chatorion/19296)
 * 15:00. "Orion". 🏆 A kids' open tournament.
@@ -133,5 +127,5 @@
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
   * December 29: ❌
 * 16:00 - 22:30. "Volia". A ladder competition.
-* 18:00 - 21:00. "Orion". A ladder competition.
 * 18:30 - 22:00. "KUTT". Free play.
+* 18:30 - 21:00. "Orion". A ladder competition.
