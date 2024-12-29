@@ -129,3 +129,4 @@
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". Free play.
 * 18:30 - 21:00. "Orion". A ladder competition.
+  * December 29: 17:30 - 21:00
