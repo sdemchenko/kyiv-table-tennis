@@ -22,6 +22,7 @@
 * 17:00 - 22:30. "Volia". A ladder competition.
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
+  * December 31: the start is at 16:00
 * 18:00 - 20:30. "Himars". Games in a group.
 * 18:00 - 21:00. "KRSP". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
@@ -47,6 +48,7 @@
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
 * 19:30. Sports School #21. 🏆 A 0-100 non-ranking tournament.
+  * January 1: the start is at 17:00
 
 <h3 id="thursday">Thursday</h3>
 
