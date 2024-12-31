@@ -112,6 +112,10 @@
   * January 12: 0-40
   * January 19: 0-25
 * 10:00. "Raketka". 🏆 A ranking tournament.
+  * January 5: 0-15
+  * January 12: 0-25
+  * January 19: 0-5
+  * January 26: 0-45
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
