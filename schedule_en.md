@@ -132,6 +132,10 @@
 * 15:00. "Orion". 🏆 A kids' open tournament.
 * 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
+  * January 5: ❌
+  * January 12: 0-15
+  * January 19: 0-5
+  * January 26: 0-10
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". Free play.
 * 18:30 - 21:00. "Orion". A ladder competition.
