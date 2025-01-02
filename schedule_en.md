@@ -91,6 +91,7 @@
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00, January 4. "Pulse". 🏆 A 0-10 ranking tournament.
+* 11:00, January 4. "Quiks". 🏆 A 0-20 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
   * January 4: 0-40
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
