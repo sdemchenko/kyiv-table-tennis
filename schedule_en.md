@@ -95,6 +95,7 @@
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
   * January 4: 0-40
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * January 4: ❌
 * 12:00 - 14:15. Sports School #23. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00, January 4. "Orion". 🏆 A ranking tournament for seniors. Age: 40+.
@@ -130,6 +131,7 @@
   * January 5: ❌
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * January 5: ❌
 * 12:00. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 15:00. "Orion". 🏆 A kids' open tournament.
 * 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
