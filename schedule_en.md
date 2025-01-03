@@ -88,6 +88,7 @@
 * 10:00. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 - 12:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
+  * January 4: ❌
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00, January 4. "Pulse". 🏆 A 0-10 ranking tournament.
