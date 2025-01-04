@@ -110,6 +110,7 @@
 <h3 id="sunday">Sunday</h3>
 
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
+  * On January 5 this tournament will be in "Grand-Prix"
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
   * January 5: 0-25
