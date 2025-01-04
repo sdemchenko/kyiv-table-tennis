@@ -88,18 +88,12 @@
 * 10:00. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 - 12:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
-  * January 4: ❌
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
-* 11:00, January 4. "Pulse". 🏆 A 0-10 ranking tournament.
-* 11:00, January 4. "Quiks". 🏆 A 0-20 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
-  * January 4: 0-40
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * January 4: ❌
 * 12:00 - 14:15. Sports School #23. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
-* 15:00, January 4. "Orion". 🏆 A ranking tournament for seniors. Age: 40+.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 18:30 - 22:00. "KUTT". Free play.
