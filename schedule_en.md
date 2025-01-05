@@ -104,15 +104,12 @@
 <h3 id="sunday">Sunday</h3>
 
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
-  * On January 5 this tournament will be in "Grand-Prix"
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * January 5: 0-25
   * January 12: 0-40
   * January 19: 0-25
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:10. "Raketka". 🏆 A ranking tournament.
-  * January 5: 0-15
   * January 12: 0-25
   * January 19: 0-5
   * January 26: 0-45
@@ -124,12 +121,8 @@
   * March 30
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-  * January 5: ❌
-* 11:00, January 5. "Pulse". 🏆 A 0-100 non-ranking tournament.
-* 11:00, January 5. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * January 5: ❌
 * 12:00. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 15:00. "Orion". 🏆 A kids' open tournament.
 * 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
