@@ -121,7 +121,6 @@
 * 15:00. "Orion". 🏆 A kids' open tournament.
 * 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * January 5: ❌
   * January 12: 0-15
   * January 19: 0-5
   * January 26: 0-10
