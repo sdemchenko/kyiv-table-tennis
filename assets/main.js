@@ -1,6 +1,5 @@
 $(document).ready(function () {
     useDarkOrLightSystemTheme();
-    makeLinksOpenInNewTab();
     fetchNews();
     fetchSchedule();
     incrementCounter();
@@ -23,14 +22,6 @@ function useDarkOrLightSystemTheme() {
 }
 
 /**
- * This web-site is not a usual one, it's a single page reference. So, it makes sense to open in a new tab all links,
- * except Table of Contents links or the language switcher link.
- */
-function makeLinksOpenInNewTab(){
-    $('a').not('#toc a').not('#to_english').not('#to_ukrainian').attr('target','_blank');
-}
-
-/**
  * Fetch news.html and insert its content at the beginning of 'newsContainer' div.
  */
 function fetchNews() {
@@ -40,7 +31,6 @@ function fetchNews() {
         })
         .then(function (data) {
             $('#newsContainer').prepend(data);
-            makeLinksOpenInNewTab();
         })
         .catch(function (err) {
             console.log(err);
@@ -61,7 +51,6 @@ function fetchSchedule() {
                 html: true, // Enable HTML tags in source
             });
             $('#scheduleContainer').html(markdown.render(data));
-            makeLinksOpenInNewTab();
         })
         .catch(function (err) {
             console.log(err);
