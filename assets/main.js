@@ -30,7 +30,7 @@ function fetchNews() {
             return response.text();
         })
         .then(function (data) {
-            $('#newsContainer').prepend(data);
+            $('#newsContainer').html(data);
         })
         .catch(function (err) {
             console.log(err);
