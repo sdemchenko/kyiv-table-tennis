@@ -25,7 +25,7 @@ function useDarkOrLightSystemTheme() {
  * Fetch news.html and insert its content at the beginning of 'newsContainer' div.
  */
 function fetchNews() {
-    fetch($('#newsContainer').attr('data-src') + '?t=' + new Date().getTime(), {})
+    fetch($('#newsContainer').attr('data-src') + '?t=' + Math.floor(new Date().getTime() / 10000), {})
         .then(function (response) {
             return response.text();
         })
@@ -42,7 +42,7 @@ function fetchNews() {
  * Fetch schedule.md, transform its markdown content to HTML, and replace the content of 'scheduleContainer' div with the HTML.
  */
 function fetchSchedule() {
-    fetch($('#scheduleContainer').attr('data-src') + '?t=' + new Date().getTime(), {})
+    fetch($('#scheduleContainer').attr('data-src') + '?t=' + Math.floor(new Date().getTime() / 10000), {})
         .then(function (response) {
             return response.text();
         })
