@@ -2,7 +2,7 @@ $(document).ready(function () {
     useDarkOrLightSystemTheme();
     fetchNews();
     fetchSchedule();
-    incrementCounter();
+    // incrementCounter();
 });
 
 /**
