@@ -25,7 +25,7 @@ function useDarkOrLightSystemTheme() {
  * Fetch news.html and insert its content at the beginning of 'newsContainer' div.
  */
 function fetchNews() {
-    fetch($('#newsContainer').attr('data-src') + '?t=' + Math.floor(new Date().getTime() / 10000), {})
+    fetch($('#newsContainer').attr('data-src') + '?t=' + timestampNoOlderThanTenSeconds(), {})
         .then(function (response) {
             return response.text();
         })
@@ -37,12 +37,19 @@ function fetchNews() {
         });
 }
 
+/**
+ * Timestamp to append to URLs to fetch fresh news and schedule.
+ * No need to fetch resources on every call though. Ten seconds staleness is just fine.
+ */
+function timestampNoOlderThanTenSeconds() {
+    return Math.floor(new Date().getTime() / 10000);
+}
 
 /**
  * Fetch schedule.md, transform its markdown content to HTML, and replace the content of 'scheduleContainer' div with the HTML.
  */
 function fetchSchedule() {
-    fetch($('#scheduleContainer').attr('data-src') + '?t=' + Math.floor(new Date().getTime() / 10000), {})
+    fetch($('#scheduleContainer').attr('data-src') + '?t=' + timestampNoOlderThanTenSeconds(), {})
         .then(function (response) {
             return response.text();
         })
