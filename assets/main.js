@@ -2,7 +2,6 @@ $(document).ready(function () {
     useDarkOrLightSystemTheme();
     fetchNews();
     fetchSchedule();
-    // incrementCounter();
 });
 
 /**
@@ -22,7 +21,7 @@ function useDarkOrLightSystemTheme() {
 }
 
 /**
- * Fetch news.html and insert its content at the beginning of 'newsContainer' div.
+ * Fetch news.html and replace the content of 'newsContainer' div with the HTML.
  */
 function fetchNews() {
     fetch($('#newsContainer').attr('data-src') + '?t=' + timestampNoOlderThanTenSeconds(), {})
@@ -35,14 +34,6 @@ function fetchNews() {
         .catch(function (err) {
             console.log(err);
         });
-}
-
-/**
- * Timestamp to append to URLs to fetch fresh news and schedule.
- * No need to fetch resources on every call though. Ten seconds staleness is just fine.
- */
-function timestampNoOlderThanTenSeconds() {
-    return Math.floor(new Date().getTime() / 10000);
 }
 
 /**
@@ -64,18 +55,10 @@ function fetchSchedule() {
         });
 }
 
-function incrementCounter() {
-    if (window.location.hostname === 'localhost') {
-        return;
-    }
-    fetch('https://count.cab/hit/8CkvG1pF1f', {})
-        .then(function (response) {
-            return response.json();
-        })
-        .then(function (json) {
-            // console.log(json);
-        })
-        .catch(function (err) {
-            console.log(err);
-        });
+/**
+ * Timestamp to append to URLs to fetch fresh news and schedule.
+ * Using ten seconds staleness if the user hits Refresh button repeatedly.
+ */
+function timestampNoOlderThanTenSeconds() {
+    return Math.floor(new Date().getTime() / 10000);
 }
