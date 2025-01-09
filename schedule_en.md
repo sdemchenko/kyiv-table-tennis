@@ -81,6 +81,7 @@
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00, January 11. "Pulse". 🏆 A 0-50 ranking tournament.
+* 11:00, January 11. "Quiks". 🏆 A 0-25 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
@@ -115,6 +116,7 @@
   * March 30
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
+* 11:00, January 12. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-30 ranking tournament.
