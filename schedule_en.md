@@ -78,8 +78,6 @@
 * 10:00. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
-* 11:00, January 11. "Pulse". 🏆 A 0-50 ranking tournament.
-* 11:00, January 11. "Quiks". 🏆 A 0-25 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
@@ -97,13 +95,11 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * January 12: 0-40
   * January 19: 0-25
   * January 26: 0-40
   * February 2: 0-25
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:10. "Raketka". 🏆 A ranking tournament.
-  * January 12: 0-25
   * January 19: 0-10
   * January 26: [Joola Kids](https://t.me/c/1981806449/1005) (2012 y.o.b; boys and girls separately)
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
@@ -113,19 +109,14 @@
   * February 23
   * March 30
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
-  * January 12: 0-70
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-* 11:00, January 12. "Pulse". 🏆 A 0-100 non-ranking tournament.
-* 11:00, January 12. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-30 ranking tournament.
-  * January 12: 0-35
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
 * 15:00. "Orion". 🏆 A kids' open tournament.
 * 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * January 12: 0-15
   * January 19: 0-5
   * January 26: 0-10
 * 16:00 - 22:30. "Volia". A ladder competition.
