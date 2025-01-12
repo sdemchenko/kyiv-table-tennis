@@ -21,7 +21,7 @@
 * 18:00 - 20:30. "Himars". Games in a group.
 * 18:00 - 20:00, January 14. "Quiks". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
-* 18:30 - 22:00. "KUTT". Free play.
+* 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30, January 14. "Volia". 🏆 A 0-10 non-ranking tournament.
 * 19:00. "Orion". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
@@ -36,7 +36,7 @@
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:10. "Himars". 🏆 A 0-40 ranking tournament.
-* 18:30 - 22:00. "KUTT". Free play.
+* 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30, January 15. "Quiks". 🏆 A 0-15 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
@@ -50,7 +50,7 @@
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
-* 18:30 - 22:00. "KUTT". Free play.
+* 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30, January 16. "Quiks". 🏆 A 0-45 ranking tournament.
 * 18:30, January 16. "Volia". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
@@ -67,7 +67,7 @@
 * 18:00 - 20:30. "Himars". Games in a group.
 * 18:00. Sports School #21. 🏆 A 0-100 non-ranking tournament.
 * 18:00 - 22:30. "Volia". A ladder competition.
-* 18:30 - 22:00. "KUTT". Free play.
+* 18:30 - 22:00. "KUTT". A ladder competition.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Tuesday+Friday group).
 
@@ -89,7 +89,7 @@
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 12:00, January 18. "Volia". 🏆 A 0-20 ranking tournament.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
-* 18:30 - 22:00. "KUTT". Free play.
+* 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
@@ -128,5 +128,5 @@
 * 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 15:00, January 19. "Quiks". 🏆 A 0-40 ranking tournament.
 * 16:00 - 22:30. "Volia". A ladder competition.
-* 18:30 - 22:00. "KUTT". Free play.
+* 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
