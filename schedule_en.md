@@ -7,7 +7,6 @@
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
-* 18:00 - 20:00. "Quiks". Free play.
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Group games (the Monday+Thursday group).
@@ -20,6 +19,7 @@
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
+* 18:00 - 20:00, January 14. "Quiks". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". Free play.
 * 18:30, January 14. "Volia". 🏆 A 0-10 non-ranking tournament.
@@ -34,10 +34,10 @@
 * 17:00 - 20:00. "Gourmet". A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Breiks". A ladder competition.
-* 18:00 - 20:00. "Quiks". Free play.
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:10. "Himars". 🏆 A 0-40 ranking tournament.
 * 18:30 - 22:00. "KUTT". Free play.
+* 18:30, January 15. "Quiks". 🏆 A 0-15 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
 * 19:30. Sports School #21. 🏆 A 0-100 non-ranking tournament.
@@ -51,6 +51,7 @@
 * 18:00 - 20:30. "Himars". Games in a group.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". Free play.
+* 18:30, January 16. "Quiks". 🏆 A 0-45 ranking tournament.
 * 18:30, January 16. "Volia". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 non-ranking tournament.
@@ -64,7 +65,6 @@
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
-* 18:00 - 20:00. "Quiks". Free play.
 * 18:00. Sports School #21. 🏆 A 0-100 non-ranking tournament.
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". Free play.
@@ -102,6 +102,7 @@
   * January 19: 0-25
   * January 26: 0-40
   * February 2: 0-25
+* 10:00, January 19. "Quiks". 🏆 A 0-10 ranking tournament.
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:10. "Raketka". 🏆 A ranking tournament.
   * January 19: 0-10
@@ -119,12 +120,13 @@
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-30 ranking tournament.
 * 12:00, January 19. "Volia". 🏆 A 0-10 non-ranking tournament.
-* 15:00. "Orion". 🏆 A 0-15 ranking tournament.
-* 15:00. "Orion". 🏆 A kids' open tournament.
-* 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
   * January 19: 0-5
   * January 26: 0-10
+* 15:00. "Orion". 🏆 A 0-15 ranking tournament.
+* 15:00. "Orion". 🏆 A kids' open tournament.
+* 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
+* 15:00, January 19. "Quiks". 🏆 A 0-40 ranking tournament.
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". Free play.
 * 18:30 - 21:00. "Orion". A ladder competition.
