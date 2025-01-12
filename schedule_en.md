@@ -106,6 +106,7 @@
 * 10:10. "Raketka". 🏆 A ranking tournament.
   * January 19: 0-10
   * January 26: [Joola Kids](https://t.me/c/1981806449/1005) (2012 y.o.b; boys and girls separately)
+* 10:30, January 19. "Gatne", SC (с.Юрівка, вул. Шевченка 3). 🏆 A 0-10 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
 * 11:00. "KRSP". 🏆 A monthly non-ranking tournament "KRSP Open".
