@@ -3,7 +3,7 @@
 
 * 10:00 - 16:00. "Volia". A ladder competition.
 * 11:00 - 15:00. "Orion". A ladder competition.
-* 17:00 - 20:00. "Gourmet". A ladder competition.
+* 17:00 - 19:00. "Gourmet". A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
@@ -31,7 +31,7 @@
 
 * 10:00 - 16:00. "Volia". A ladder competition.
 * 11:00 - 15:00. "Orion". A ladder competition.
-* 17:00 - 20:00. "Gourmet". A ladder competition.
+* 17:00 - 19:00. "Gourmet". A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 22:30. "Volia". A ladder competition.
@@ -61,7 +61,7 @@
 
 * 10:00 - 16:00. "Volia". A ladder competition.
 * 11:00 - 15:00. "Orion". A ladder competition.
-* 17:00 - 20:00. "Gourmet". A ladder competition.
+* 17:00 - 19:00. "Gourmet". A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
