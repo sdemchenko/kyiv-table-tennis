@@ -10,7 +10,7 @@
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Group games (the Monday+Thursday group).
-* 19:30. Sports School #21. 🏆 A 0-100 non-ranking tournament.
+* 19:00. Sports School #21. 🏆 A 0-100 non-ranking tournament.
 
 <h3 id="tuesday">Tuesday</h3>
 
@@ -40,7 +40,7 @@
 * 18:30, January 15. "Quiks". 🏆 A 0-15 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
-* 19:30. Sports School #21. 🏆 A 0-100 non-ranking tournament.
+* 19:00. Sports School #21. 🏆 A 0-100 non-ranking tournament.
 
 <h3 id="thursday">Thursday</h3>
 
