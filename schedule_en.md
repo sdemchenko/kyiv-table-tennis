@@ -81,6 +81,7 @@
 * 10:00. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
+* 11:00, January 18. "Pulse". 🏆 A 0-15 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * January 18: A 0-40.0 ranking tournament
@@ -118,6 +119,7 @@
   * March 30
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
+* 11:00, January 19. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-30 ranking tournament.
