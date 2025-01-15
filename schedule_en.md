@@ -85,6 +85,7 @@
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * January 18: A 0-40.0 ranking tournament
+* 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
 * 12:00, January 18. "Volia". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
