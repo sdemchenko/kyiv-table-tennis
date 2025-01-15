@@ -83,6 +83,7 @@
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * January 18: 0-40.0
 * 12:00 - 14:15. Sports School #23. A ladder competition.
 * 12:00, January 18. "Volia". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
