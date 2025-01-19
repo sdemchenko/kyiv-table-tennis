@@ -19,6 +19,7 @@
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
+* 18:00 - 21:00, January 21. "KRSP". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 19:00. "Orion". 🏆 A 0-25 ranking tournament.
@@ -46,6 +47,7 @@
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
+* 18:00 - 21:00, January 23. "KRSP". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
