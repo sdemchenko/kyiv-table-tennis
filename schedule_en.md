@@ -91,6 +91,7 @@
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
+  * January 25: 21:00 - 22:00
 * 19:00 - 22:30. "Volia". A ladder competition.
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
 
@@ -123,3 +124,4 @@
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
+  * January 26: 21:00 - 22:00
