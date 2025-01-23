@@ -101,7 +101,7 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * January 26: 0-40
+  * January 26: 0-100
   * February 2: 0-25
   * February 9: 0-40
   * February 16: 0-25
