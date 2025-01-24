@@ -81,7 +81,6 @@
   * January 25: A 0-25.0 ranking tournament
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
-* 12:00, January 25. "Volia". 🏆 A 0-20 ranking tournament.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 A tournament for doubles.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
@@ -114,7 +113,6 @@
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * January 26: A 0-15.0 ranking tournament
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
-* 12:00, January 26. "Volia". 🏆 A 0-10 non-ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
   * January 26: 0-10
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
