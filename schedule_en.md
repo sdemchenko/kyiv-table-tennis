@@ -19,10 +19,8 @@
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
-* 18:00 - 21:00, January 21. "KRSP". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
-* 18:30, January 21. "Volia". 🏆 A 0-10 ranking tournament.
 * 19:00. "Orion". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Tuesday+Friday group).
@@ -36,7 +34,6 @@
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:10. "Himars". 🏆 A 0-40 ranking tournament.
-* 18:15, January 22. "Quiks". 🏆 A 0-15 ranking tournament.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
@@ -49,10 +46,8 @@
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
-* 18:00 - 21:00, January 23. "KRSP". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
-* 18:30, January 23. "Volia". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 non-ranking tournament.
 * 19:15 - 23:00. "Raketka". Games in a group (the Monday+Thursday group).
@@ -80,6 +75,7 @@
 * 10:00. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
+* 11:10, January 25 січня. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * January 25: A 0-25.0 ranking tournament
