@@ -75,10 +75,8 @@
 * 10:00. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
-* 11:10, January 25 січня. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * January 25: A 0-25.0 ranking tournament
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
