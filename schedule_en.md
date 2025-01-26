@@ -93,7 +93,10 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * February 2: 0-25
+  * February 2: A veterans charitable tournament in memory of Oleksander Shcherbakov
+    * 10:00 - 40 y.o or older
+    * 12:00 - 50 y.o or older
+    * 14:00 - 60 y.o or older; 70 y.o or older
   * February 9: 0-40
   * February 16: 0-25
   * February 23: 0-40
