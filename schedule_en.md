@@ -120,6 +120,10 @@
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 12:00, February 2. "Volia". 🏆 A 0-10 non-ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
+  * February 2: 0-15
+  * February 9: 0-5
+  * February 16: 0-10
+  * February 23: 0-5
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
 * 15:00. "Orion". 🏆 A kids' open tournament.
 * 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
