@@ -81,6 +81,7 @@
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
+* 11:30, February 8. "Podolskiy". 🏆 [A non-ranking tournament](https://www.facebook.com/clubpodolskiy/posts/pfbid0wQ36zLrPwX31wWEUKBcyxsPnAu9oTmsKUiY3mkuKLzoW2swNnyNBxzwNTY6DQrMDl).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
@@ -100,9 +101,9 @@
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
   * February 2: A veterans charitable tournament in memory of Oleksander Shcherbakov
-    * 10:00 - 40 y.o or older
-    * 12:00 - 50 y.o or older
-    * 14:00 - 60 y.o or older; 70 y.o or older
+    * 10:00 - 40 y.o. or older
+    * 12:00 - 50 y.o. or older
+    * 14:00 - 60 y.o. or older; 70 y.o. or older
   * February 9: 0-40
   * February 16: 0-25
   * February 23: 0-40
