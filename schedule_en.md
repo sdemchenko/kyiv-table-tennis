@@ -117,6 +117,7 @@
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * February 2: 0-15.0
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 12:00, February 2. "Volia". 🏆 A 0-10 non-ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
