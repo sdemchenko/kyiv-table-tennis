@@ -106,9 +106,9 @@
   * February 23: 0-40
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:10. "Raketka". 🏆 A ranking tournament.
-  * February 2: 0-15
+  * February 2: 0-10
   * February 9: 0-45
-  * February 16: 0-65
+  * February 16: 0-60
   * February 23: 0-5
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
