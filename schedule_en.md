@@ -78,6 +78,7 @@
 * 10:00, February 1. "Tviy tennis". 🏆 A 0-10 non-ranking tournament. Advance registration is required.
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
+* 11:00, February 1. "Quiks". 🏆 A 0-20 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30, February 8. "Podolskiy". 🏆 [A non-ranking tournament](https://www.facebook.com/clubpodolskiy/posts/pfbid0wQ36zLrPwX31wWEUKBcyxsPnAu9oTmsKUiY3mkuKLzoW2swNnyNBxzwNTY6DQrMDl).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
