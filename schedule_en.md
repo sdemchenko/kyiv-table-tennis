@@ -84,7 +84,6 @@
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
-* 12:00, February 1. "Volia". 🏆 A 0-20 ranking tournament.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 A tournament for doubles.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
