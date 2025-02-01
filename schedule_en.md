@@ -111,6 +111,9 @@
   * February 23: 0-5
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
+* 11:00, February 16. "KRSP". 🏆 "KRSP Open" monthly tournament.
+  * 11:00 - category "Advanced"
+  * 14:00 - category "Amateur"
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
 * 11:00, February 2. "Pulse". 🏆 A 0-10 ranking tournament.
