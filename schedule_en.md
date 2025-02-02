@@ -96,16 +96,11 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * February 2: A veterans charitable tournament in memory of Oleksander Shcherbakov
-    * 10:00 - 40 y.o. or older
-    * 12:00 - 50 y.o. or older
-    * 14:00 - 60 y.o. or older; 70 y.o. or older
   * February 9: 0-40
   * February 16: 0-25
   * February 23: 0-40
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:10. "Raketka". 🏆 A ranking tournament.
-  * February 2: 0-10
   * February 9: 0-45
   * February 16: 0-60
   * February 23: 0-5
@@ -116,14 +111,10 @@
   * 14:00 - category "Amateur"
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-* 11:00, February 2. "Pulse". 🏆 A 0-10 ranking tournament.
-* 11:00, February 2. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * February 2: A 0-15.0 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * February 2: 0-15
   * February 9: 0-5
   * February 16: 0-10
   * February 23: 0-5
