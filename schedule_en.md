@@ -86,7 +86,7 @@
 * 15:00. "Orion". 🏆 A tournament for doubles.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
-* 18:30 - 22:00. "KUTT". A ladder competition.
+* 16:00, February 8. "Top-Spin" (Borshchagivka). 🏆 A 0-10 [ranking tournament](https://t.me/tt_topspin/308) 0-10. Advance registration is required.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
