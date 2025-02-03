@@ -117,7 +117,7 @@
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
   * February 9: 0-5
   * February 16: 0-10
-  * February 23: 0-5
+  * February 23: 0-15
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
 * 15:00. "Orion". 🏆 A kids' open tournament.
 * 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
