@@ -45,6 +45,7 @@
 
 * 11:00 - 15:00. "Orion". A ladder competition.
 * 17:00 - 22:30. "Volia". A ladder competition.
+  * February 6: all tables are reserved for "Orion @ Volia" tournament
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
