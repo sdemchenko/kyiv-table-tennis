@@ -108,6 +108,7 @@
   * February 23: 0-5
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
+* 10:30, February 16. "Orion". 🏆 [An open charitable tournament for people with disabilities](https://t.me/ttorion/2803).
 * 11:00, February 16. "KRSP". 🏆 "[KRSP Open](https://t.me/krsp_tt_tour/505)" monthly tournament.
   * 11:00 - category "Advanced"
   * 14:00 - category "Amateur"
