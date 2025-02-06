@@ -78,6 +78,7 @@
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:00. "Tviy tennis". 🏆 A 0-10 non-ranking tournament. Advance registration is required.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
+* 11:00, February 8. "Pulse". 🏆 A 0-10 ranking tournament.
 * 11:00, February 8. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30, February 8. "Podolskiy". 🏆 [A non-ranking tournament](https://www.facebook.com/clubpodolskiy/posts/pfbid0wQ36zLrPwX31wWEUKBcyxsPnAu9oTmsKUiY3mkuKLzoW2swNnyNBxzwNTY6DQrMDl).
@@ -115,6 +116,7 @@
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
   * February 9: A 0-30 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
+* 11:00, February 9. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 11:00, February 9. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
