@@ -126,5 +126,6 @@
 * 15:00. "Orion". 🏆 A kids' open tournament.
 * 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 16:00 - 22:30. "Volia". A ladder competition.
+* 17:00, February 9. "Top-Spin". 🏆 A 0-50 ranking tournament. [Advance registration](https://t.me/tt_topspin_info/37) is required.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
