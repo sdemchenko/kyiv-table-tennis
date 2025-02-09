@@ -78,10 +78,7 @@
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:00. "Tviy tennis". 🏆 A 0-10 non-ranking tournament. Advance registration is required.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
-* 11:00, February 8. "Pulse". 🏆 A 0-10 ranking tournament.
-* 11:00, February 8. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
-* 11:30, February 8. "Podolskiy". 🏆 [A non-ranking tournament](https://www.facebook.com/clubpodolskiy/posts/pfbid0wQ36zLrPwX31wWEUKBcyxsPnAu9oTmsKUiY3mkuKLzoW2swNnyNBxzwNTY6DQrMDl).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
@@ -89,7 +86,6 @@
 * 15:00. "Orion". 🏆 A tournament for doubles.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
-* 16:00, February 8. "Top-Spin" (Borshchagivka). 🏆 A 0-10 [ranking tournament](https://t.me/tt_topspin/308) 0-10. Advance registration is required.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
