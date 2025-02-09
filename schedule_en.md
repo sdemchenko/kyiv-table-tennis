@@ -95,12 +95,10 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * February 9: 0-40
   * February 16: 0-25
   * February 23: 0-40
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:10. "Raketka". 🏆 A ranking tournament.
-  * February 9: 0-45
   * February 16: 0-60 Viktor Roda memorial tournament
   * February 23: 0-5
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
@@ -110,22 +108,16 @@
   * 11:00 - category "Advanced"
   * 14:00 - category "Amateur"
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
-  * February 9: A 0-30 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-* 11:00, February 9. "Pulse". 🏆 A 0-100 non-ranking tournament.
-* 11:00, February 9. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * February 9: A 0-25.0 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * February 9: 0-5
   * February 16: 0-10
   * February 23: 0-15
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
 * 15:00. "Orion". 🏆 A kids' open tournament.
 * 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 16:00 - 22:30. "Volia". A ladder competition.
-* 17:00, February 9. "Top-Spin". 🏆 A 0-50 ranking tournament. [Advance registration](https://t.me/tt_topspin_info/37) is required.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
