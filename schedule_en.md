@@ -98,6 +98,11 @@
   * February 16: 0-25
   * February 23: 0-40
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
+* 10:00, the last Sunday of a month. "Raketka". 🏆 "Raif Kids". 2012 y.o.b. or younger (separately girls and boys).
+  * February 23
+  * March 30
+  * April 27
+  * May 25
 * 10:10. "Raketka". 🏆 A ranking tournament.
   * February 16: 0-60 Viktor Roda memorial tournament
   * February 23: 0-5
