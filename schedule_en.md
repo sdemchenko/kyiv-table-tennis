@@ -55,6 +55,7 @@
 * 18:30, February 13. "Volia". 🏆 A 0-20 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 non-ranking tournament.
+* 19:00 - 22:00. "Top-Spin". A ladder competition.
 * 19:15 - 23:00. "Raketka". Games in a group (the Monday+Thursday group).
 
 <h3 id="friday">Friday</h3>
