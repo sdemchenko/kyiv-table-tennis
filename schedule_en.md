@@ -36,6 +36,7 @@
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:10. "Himars". 🏆 A 0-40 ranking tournament.
+* 11:00, February 12. "Quiks". 🏆 A 0-15 ranking tournament.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
@@ -118,6 +119,7 @@
   * 14:00 - category "Amateur"
 * 11:00. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
+* 11:00, February 16. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
