@@ -103,6 +103,8 @@
 * 10:00. "Gourmet". 🏆 A ranking tournament.
   * February 16: 0-25
   * February 23: 0-40
+  * March 2: 0-25
+  * March 9: 0-40
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:00, the last Sunday of a month. "Raketka". 🏆 "Raif Kids". 2012 y.o.b. or younger (separately girls and boys).
   * February 23
