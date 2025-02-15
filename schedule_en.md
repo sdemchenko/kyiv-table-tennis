@@ -82,7 +82,7 @@
 * 10:00. "Tviy tennis". 🏆 A 0-10 non-ranking tournament. Advance registration is required.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00, February 15. "Pulse". 🏆 A 0-100 non-ranking tournament.
-* 11:00, February 15. "Quiks". 🏆 A ranking tournament [0-15,20](https://t.me/c/2271760126/978).
+* 11:00, February 15. "Quiks". 🏆 A ranking tournament 0-25.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
