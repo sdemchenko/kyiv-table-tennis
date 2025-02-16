@@ -21,7 +21,8 @@ function useDarkOrLightSystemTheme() {
 }
 
 /**
- * Fetch news.html and replace the content of 'newsContainer' div with the HTML.
+ * (1) Fetch news.html,
+ * (2) replace the initial (SEO) content of <tt>div#newsContainer</tt> with the fetched HTML.
  */
 function fetchNews() {
     fetch($('#newsContainer').attr('data-src') + '?t=' + timestampNoOlderThanTenSeconds(), {})
@@ -37,7 +38,9 @@ function fetchNews() {
 }
 
 /**
- * Fetch schedule.md, transform its markdown content to HTML, and replace the content of 'scheduleContainer' div with the HTML.
+ * (1) Fetch schedule.md,
+ * (2) transform the fetched markdown content to HTML,
+ * (3) replace the initial (SEO) content of <tt>div#scheduleContainer</tt> with the HTML.
  */
 function fetchSchedule() {
     fetch($('#scheduleContainer').attr('data-src') + '?t=' + timestampNoOlderThanTenSeconds(), {})
