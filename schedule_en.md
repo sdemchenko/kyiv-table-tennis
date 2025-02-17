@@ -100,7 +100,6 @@
   * February 23: 0-40
   * March 2: 0-25
   * March 9: 0-40
-* 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:00, the last Sunday of a month. "KMShVSM". 🏆 "Raif Kids". 2012 y.o.b. or younger (separately girls and boys).
   * February 23
   * March 30
@@ -108,6 +107,7 @@
   * May 25
 * 10:00. "Raketka". 🏆 A ranking tournament.
   * February 23: 0-5
+* 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
 * 11:00, the last Sunday of a month. "KRSP". 🏆 "KRSP Open" monthly tournament.
