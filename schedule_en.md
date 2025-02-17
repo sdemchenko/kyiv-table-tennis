@@ -97,7 +97,6 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * February 16: 0-25
   * February 23: 0-40
   * March 2: 0-25
   * March 9: 0-40
@@ -108,26 +107,20 @@
   * April 27
   * May 25
 * 10:10. "Raketka". 🏆 A ranking tournament.
-  * February 16: 0-60 Viktor Roda memorial tournament
   * February 23: 0-5
-* 10:30, February 16. "Orion". 🏆 [An open charitable tournament for people with disabilities](https://t.me/ttorion/2803).
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
-  * February 16: ❌
-* 10:30, February 16. "Gatne", SC (3 Shevchenko Street, Yurivka). 🏆 A 0-30 charitable ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
-  * February 16: ❌
-* 11:00, February 16. "KRSP". 🏆 "[KRSP Open](https://t.me/krsp_tt_tour/505)" monthly tournament.
-  * 11:00 - category "Advanced"
-  * 14:00 - category "Amateur"
+* 11:00, the last Sunday of a month. "KRSP". 🏆 "KRSP Open" monthly tournament.
+  * February 23: ❌
+  * March 30
+  * April 27
+  * May 25
 * 11:00. "Leader" (Sports School #26). 🏆 A 0-40 ranking tournament.
-  * February 16: A 0-100 non-ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-* 11:00, February 16. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * February 16: 0-10
   * February 23: 0-15
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
 * 15:00. "Orion". 🏆 A kids' open tournament.
