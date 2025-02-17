@@ -106,7 +106,7 @@
   * March 30
   * April 27
   * May 25
-* 10:10. "Raketka". 🏆 A ranking tournament.
+* 10:00. "Raketka". 🏆 A ranking tournament.
   * February 23: 0-5
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
