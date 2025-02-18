@@ -23,7 +23,6 @@
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 19:00. "Orion". 🏆 A 0-25 ranking tournament.
-* 19:00 - 22:00. "Top-Spin". A ladder competition.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Tuesday+Friday group).
 
