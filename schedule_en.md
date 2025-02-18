@@ -87,7 +87,7 @@
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
-* 15:00. "Orion". 🏆 A tournament for doubles.
+* 15:00. "Orion". 🏆 A 0-50 ranking tournament.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
@@ -125,9 +125,9 @@
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
   * February 23: 0-15
+* 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
+* 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
-* 15:00. "Orion". 🏆 A kids' open tournament.
-* 15:00. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
