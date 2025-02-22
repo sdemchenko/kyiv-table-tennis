@@ -123,6 +123,7 @@
   * April 27
   * May 25
 * 11:00. "Leader" (Sports School #26). 🏆 A 0-40 ranking tournament.
+  * February 23: ❌
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
 * 11:00, February 23. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
