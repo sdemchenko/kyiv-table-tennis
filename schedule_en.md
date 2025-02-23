@@ -98,6 +98,8 @@
 * 10:00. "Gourmet". 🏆 A ranking tournament.
   * March 2: 0-25
   * March 9: 0-40
+  * March 16: 0-25
+  * March 23: 0-40
 * 10:00, the last Sunday of a month. "KMShVSM". 🏆 "Raif Kids". 2012 y.o.b. or younger (separately girls and boys).
   * March 30
   * April 27
@@ -117,7 +119,6 @@
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * February 23: 0-15
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
