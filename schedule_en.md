@@ -86,7 +86,7 @@
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
-* 15:00. "Orion". 🏆 A 0-50 ranking tournament.
+* 15:00. "Orion". 🏆 A non-ranking tournament for players with internal club ranking 0-150.
 * 15:00. "Volia". 🏆 A 0-45 ranking tournament.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
