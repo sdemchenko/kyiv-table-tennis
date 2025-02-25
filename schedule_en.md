@@ -66,6 +66,7 @@
 * 18:00. Sports School #21. 🏆 A 0-100 non-ranking tournament.
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
+* 18:30, February 28. "Volia". 🏆 A 0-45 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Tuesday+Friday group).
 
@@ -87,7 +88,7 @@
 * 12:00 - 14:15. Sports School #23. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 A non-ranking tournament for players with internal club ranking 0-150.
-* 15:00. "Volia". 🏆 A 0-45 ranking tournament.
+* 15:00, March 1. "Top-Spin". 🏆 A 0-15 ranking tournament. [Advance registration](https://t.me/tt_topspin_info/48) is required.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
