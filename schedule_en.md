@@ -110,11 +110,11 @@
 * 10:00. "Raketka". 🏆 A ranking tournament.
   * March 2: 0-10
   * March 9: 0-45
-  * March 16: 0-25
+  * March 16: 0-15
   * March 23:
     * 0-100 starts at 10:00
-    * 0-20 starts at 12:00
-  * March 30: 0-15
+    * 0-35 starts at 12:00
+  * March 30: 0-25
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
