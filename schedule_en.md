@@ -109,7 +109,7 @@
   * May 25
 * 10:00. "Raketka". 🏆 A ranking tournament.
   * March 2: 0-10
-  * March 9: 0-40
+  * March 9: 0-45
   * March 16: 0-25
   * March 23:
     * 0-100 starts at 10:00
