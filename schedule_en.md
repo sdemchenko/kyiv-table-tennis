@@ -91,7 +91,8 @@
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 A non-ranking tournament for players with internal club ranking 0-150.
-* 15:00, March 8. "Top-Spin". 🏆 A 0-15 ranking tournament celebrating March 8. [Advance registration](https://t.me/tt_topspin_info/50) is required.
+* 15:00. "Top-Spin". 🏆 A 0-15 ranking tournament. Advance registration is required.
+  * March 8: A 0-15 ranking tournament [dedicated to March 8](https://t.me/tt_topspin_info/50)
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
