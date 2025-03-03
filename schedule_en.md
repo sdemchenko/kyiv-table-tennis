@@ -130,6 +130,10 @@
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
+  * March 9: 0-25
+  * March 16: 0-10
+  * March 23: 0-15
+  * March 30: 0-5
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
 * 15:00, March 9. "Volia". 🏆 A 0-45 ranking tournament.
 * 16:00 - 22:30. "Volia". A ladder competition.
