@@ -49,6 +49,7 @@
 * 18:00 - 20:30. "Himars". Games in a group.
 * 19:00 - 21:00. "KRSP". A ladder competition.
 * 18:00 - 22:30. "Volia". A ladder competition.
+  * March 6: ❌ (all table are reserved for a tournament)
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30, March 6. "Volia". 🏆 A 0-10 ranking tournament.
