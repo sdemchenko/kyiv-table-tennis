@@ -7,7 +7,6 @@
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
 * 18:00 - 22:30. "Volia". A ladder competition.
-* 18:30, March 3. "Volia". 🏆 A 0-20 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Group games (the Monday+Thursday group).
 * 19:00. Sports School #21. 🏆 A 0-100 non-ranking tournament.
@@ -49,10 +48,8 @@
 * 18:00 - 20:30. "Himars". Games in a group.
 * 19:00 - 21:00. "KRSP". A ladder competition.
 * 18:00 - 22:30. "Volia". A ladder competition.
-  * March 6: ❌ (all table are reserved for a tournament)
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
-* 18:30, March 6. "Volia". 🏆 A 0-10 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 non-ranking tournament.
 * 19:00 - 22:00. "Top-Spin". A ladder competition.
@@ -82,9 +79,7 @@
 * 10:00. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:00. "Tviy tennis". 🏆 A 0-10 non-ranking tournament. Advance registration is required.
-* 10:00, March 8. "Volia". 🏆 A 0-20 ranking tournament. [Only 3 players have registered](https://t.me/skVolyaKvadrat/22245), so the tournament may be cancelled.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
-* 11:00, March 8. "Pulse". 🏆 A 0-30 ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
@@ -94,7 +89,6 @@
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 A non-ranking tournament for players with internal club ranking 0-150.
 * 15:00. "Top-Spin". 🏆 A 0-15 ranking tournament. Advance registration is required.
-  * March 8: A 0-15 ranking tournament [dedicated to March 8](https://t.me/tt_topspin_info/50)
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
