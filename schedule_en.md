@@ -99,9 +99,10 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * March 9: 0-40
+  * March 9: 0-100
   * March 16: 0-25
-  * March 23: 0-40
+  * March 23: 0-100
+  * March 30: 0-25
 * 10:00, the last Sunday of a month. "KMShVSM". 🏆 "Raif Kids". 2012 y.o.b. or younger (separately girls and boys).
   * March 30
   * April 27
