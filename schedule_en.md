@@ -99,7 +99,6 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * March 9: 0-100
   * March 16: 0-25
   * March 23: 0-100
   * March 30: 0-25
@@ -108,7 +107,6 @@
   * April 27
   * May 25
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * March 9: 0-45
   * March 16: 0-15
   * March 23:
     * 0-100 starts at 10:00
@@ -123,21 +121,17 @@
   * May 25
 * 11:00. "Leader" (Sports School #26). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-* 11:00, March 9. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-25 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * March 9: a 0-15.0 ranking tournament
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * March 9: 0-25
   * March 16: 0-10
   * March 23: 0-15
   * March 30: 0-5
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
-* 15:00, March 9. "Volia". 🏆 A 0-45 ranking tournament.
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
