@@ -118,7 +118,7 @@
   * March 30: 0-25
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
-* 10:30. "Orion". 🏆 A 0-5 ranking tournament.
+* 10:30. "Orion". 🏆 A non-ranking tournament for players with internal club ranking 0-200.
 * 11:00, the last Sunday of a month. "KRSP". 🏆 "KRSP Open" monthly tournament.
   * March 30
   * April 27
