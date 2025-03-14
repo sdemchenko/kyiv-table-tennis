@@ -83,7 +83,6 @@
 * 10:00. "Tviy tennis". 🏆 A 0-10 non-ranking tournament. Advance registration is required.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
-* 11:00, March 15. "Volia". 🏆 A 0-25 ranking tournament. It may be cancelled due to lack of registrations.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * March 15: A 0-40.0 ranking tournament.
