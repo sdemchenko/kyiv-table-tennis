@@ -7,7 +7,6 @@
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
 * 18:00 - 22:30. "Volia". A ladder competition.
-* 18:30, March 10. "Volia". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Group games (the Monday+Thursday group).
 * 19:00. Sports School #21. 🏆 A 0-100 non-ranking tournament.
@@ -51,7 +50,6 @@
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
-* 18:30, March 13. "Volia". 🏆 A 0-10 ranking tournament. It may be cancelled due to lack of registrations.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 non-ranking tournament.
 * 19:00 - 22:00. "Top-Spin". A ladder competition.
@@ -85,7 +83,6 @@
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * March 15: A 0-40.0 ranking tournament.
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 12:00 - 14:15. Sports School #23. A ladder competition.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
@@ -93,7 +90,6 @@
 * 15:00. "Orion". 🏆 A non-ranking tournament for players with internal club ranking 0-150.
 * 15:00. "Top-Spin". 🏆 A 0-20 ranking tournament. Advance registration is required.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
-* 16:00, March 15. "Volia". 🏆 A 0-45 ranking tournament. It may be cancelled due to lack of registrations.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
