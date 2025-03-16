@@ -97,7 +97,6 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * March 16: 0-25
   * March 23: 0-100
   * March 30: 0-25
 * 10:00, the last Sunday of a month. "KMShVSM". 🏆 "Raif Kids". 2012 y.o.b. or younger (separately girls and boys).
@@ -105,7 +104,6 @@
   * April 27
   * May 25
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * March 16: 0-15
   * March 23:
     * 0-100 starts at 10:00
     * 0-35 starts at 12:00
@@ -123,11 +121,9 @@
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
-  * March 16: ❌
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * March 16: 0-10
   * March 23: 0-15
   * March 30: 0-5
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
