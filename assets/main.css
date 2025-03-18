@@ -46,7 +46,7 @@ div#newsContainer {
     overflow: scroll;
     overflow-x: hidden;
     border: 1px solid var(--table-border-color);
-    border-radius: 0.75rem;
+    border-radius: 0.5rem;
     padding: 6px;
 }
 
@@ -71,7 +71,7 @@ div#moreNews {
 
 div.maps div { display: inline-block; vertical-align: top }
 div.maps div:nth-child(1) { padding-right: 50px }
-div.maps img { margin-top: 10px; border-radius: 0.75rem; }
+div.maps img { margin-top: 10px; border-radius: 0.5rem; }
 
 table {
     background-color: var(--table-bg-color);
