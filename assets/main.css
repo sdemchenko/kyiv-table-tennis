@@ -1,23 +1,29 @@
 :root, [data-theme="light"] {
+    --font-family-sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --font-family-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
     --page-bg-color: #fafafa;
     --page-fg-color: #333333;
+    --th-bg-color: #f2f2f2;
     --a-fg-color: #1D84C6;
     --table-bg-color: #FFFFFF;
-    --table-border-color: lightgrey;
+    --table-border-color: #e0e0e0;
 }
+
 [data-theme="dark"] {
     --page-bg-color: #212529;
     --page-fg-color: #cccccc;
+    --th-bg-color: #151b23;
     --a-fg-color: #6e9fff;
     --table-bg-color: #2C3034;
-    --table-border-color: dimgrey;
+    --table-border-color: #505050;
     scrollbar-color: #757575 #2E2E2E;
 }
 
 body {
     background-color: var(--page-bg-color);
     color: var(--page-fg-color);
-    font-family: Arial, sans-serif;
+    font-family: var(--font-family-sans);
     font-size: 100%;
     max-width: 860px;
     padding: 10px;
@@ -28,7 +34,8 @@ h1 { font-size: 1.6em; padding-top: 24px; }
 h2 { font-size: 1.4em; padding-top: 22px; }
 h3 { font-size: 1.15em; }
 
-a { color: var(--a-fg-color); }
+a { color: var(--a-fg-color); text-decoration: none; }
+a:hover { text-decoration: underline; }
 
 ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
@@ -39,6 +46,7 @@ div#newsContainer {
     overflow: scroll;
     overflow-x: hidden;
     border: 1px solid var(--table-border-color);
+    border-radius: 0.75rem;
     padding: 6px;
 }
 
@@ -63,20 +71,26 @@ div#moreNews {
 
 div.maps div { display: inline-block; vertical-align: top }
 div.maps div:nth-child(1) { padding-right: 50px }
-div.maps img { padding-top: 10px; }
+div.maps img { margin-top: 10px; border-radius: 0.75rem; }
 
 table {
     background-color: var(--table-bg-color);
     border-collapse: collapse;
     word-break: break-word;
+    border: 1px solid var(--table-border-color);
+}
+
+tr {
+    border-bottom: 1px solid var(--table-border-color);
+}
+
+th {
+    background-color: var(--th-bg-color);
 }
 
 th, td {
     padding: 10px;
-    border-top: 1px solid var(--table-border-color);
-    border-bottom: 1px solid var(--table-border-color);
-    border-left: 0;
-    border-right: 0;
+    border-width: 0;
 }
 
 table.t_courts td:nth-child(3) { text-align:center; }
