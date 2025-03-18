@@ -105,7 +105,7 @@
 * 10:00. "Gourmet". 🏆 A ranking tournament.
   * March 23: 0-100
   * March 30: 0-25
-* 10:00, the last Sunday of a month. "KMShVSM". 🏆 "Raif Kids". 2012 y.o.b. or younger (separately girls and boys).
+* 10:00, the last Sunday of a month. "KMShVSM". 🏆 "Raif Kids" tournament. 2012 y.o.b. or younger (separately girls and boys).
   * March 30
   * April 27
   * May 25
