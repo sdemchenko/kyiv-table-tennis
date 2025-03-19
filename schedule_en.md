@@ -39,7 +39,7 @@
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
 * 19:00. Sports School #21. 🏆 A 0-100 non-ranking tournament.
-* 20:00. "Tviy tennis". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
+* 20:00. "Tviy tennis". 🏆 A 0-100 non-ranking tournament (the real level is 0-20). Advance registration is required.
 
 <h3 id="thursday">Thursday</h3>
 
