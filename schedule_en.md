@@ -118,7 +118,7 @@
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A non-ranking tournament for players with internal club ranking 0-200.
 * 11:00, the last Sunday of a month. "KRSP". 🏆 "KRSP Open" monthly tournament.
-  * March 30
+  * March 30. [Advance registration](https://forms.gle/APUFMEtAiJHA6Z9PA) is required.
     * 10:30 - Advanced (professional) players
     * 14:00 - Amateur players
   * April 27
