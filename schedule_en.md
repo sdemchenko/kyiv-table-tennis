@@ -137,7 +137,7 @@
   * March 23: 0-20
   * March 30: 0-5
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
-* 15:00, March 23. "Volia". 🏆 A 0-50 ranking tournament.
+* 15:00, March 23. "Volia". 🏆 A 0-50 ranking tournament. [Registration](https://t.me/skVolyaKvadrat/22500).
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
