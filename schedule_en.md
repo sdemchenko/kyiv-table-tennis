@@ -122,7 +122,7 @@
 * 11:00. "Leader" (Sports School #26). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
 * 11:00, March 23. "Pulse". 🏆 A 0-100 non-ranking tournament.
-* 11:00. "Quiks". 🏆 A 0-25 ranking tournament.
+* 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * March 23: A 0-25.0 ranking tournament.
@@ -133,6 +133,7 @@
   * March 23: 0-20
   * March 30: 0-5
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
+* 15:00. "Quiks". 🏆 A 0-25 ranking tournament.
 * 15:00, March 23. "Volia". 🏆 A 0-50 ranking tournament. [Registration](https://t.me/skVolyaKvadrat/22500).
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
