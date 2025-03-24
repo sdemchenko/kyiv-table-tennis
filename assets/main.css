@@ -8,6 +8,7 @@
     --a-fg-color: #1D84C6;
     --table-bg-color: #FFFFFF;
     --table-border-color: #e0e0e0;
+    scrollbar-color: #c1c1c1 #fafafa;
 }
 
 [data-theme="dark"] {
