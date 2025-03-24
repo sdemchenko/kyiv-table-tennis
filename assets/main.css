@@ -41,12 +41,15 @@ ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
 ul#toc ul { padding-inline-start: 2ch; }
 
-div#newsContainer {
-    height: 300px;
-    overflow: scroll;
-    overflow-x: hidden;
+div#newsContainerDecorator {
     border: 1px solid var(--table-border-color);
     border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+div#newsContainer {
+    height: 300px;
+    overflow-y: auto;
     padding: 6px;
 }
 
