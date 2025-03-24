@@ -127,6 +127,7 @@
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
+* 14:00, April 6. Cultural center "Spaska 13", sports ground. 🏆 A non-ranking tournament. [Advance registration](https://forms.gle/2cfvYk7zGfUgJhxR9) is required.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
