@@ -66,6 +66,10 @@ function timestampNoOlderThanTenSeconds() {
     return Math.floor(new Date().getTime() / 10000);
 }
 
+/**
+ * A fix for Chrome showing the tables and news unreasonably narrow in portrait mode on mobile devices.
+ * See https://stackoverflow.com/questions/53487190/why-is-chrome-shrinking-the-view-in-responsive-mode
+ */
 screen.orientation.onchange = function() {
     let htmlElement =  $("html");
     let bodyElement = $("body");
