@@ -107,6 +107,7 @@
   * April 13: 0-40
   * April 20: 0-25
 * 10:00, the last Sunday of a month. "KMShVSM". 🏆 "Raif Kids" tournament. 2012 y.o.b. or younger (separately girls and boys).
+  Tournament coordinator: Anastasiya Yepifantseva. +380660162780, +380673823326.
   * March 30
   * April 27
   * May 25
