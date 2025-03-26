@@ -111,7 +111,7 @@
   * April 27
   * May 25
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * March 30: 0-25 and 0-100 at the same time (Vasil Vasilyev memorial tournament).
+  * March 30: 0-25 and 0-100 at the same time ([Vasil Vasilyev memorial tournament](https://t.me/c/1937753885/1895)).
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A non-ranking tournament for players with internal club ranking 0-200.
