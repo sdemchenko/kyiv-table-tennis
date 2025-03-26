@@ -107,7 +107,7 @@
   * April 20: 0-25
 * 10:00, the last Sunday of a month. "KMShVSM". 🏆 "Raif Kids" tournament. 2012 y.o.b. or younger (separately girls and boys).
   To register, write your full name and y.o.b. to Viber/Telegram at +380660162780.
-  * March 30
+  * [March 30](https://t.me/ttkiev/608)
   * April 27
   * May 25
 * 10:00. "Raketka". 🏆 A ranking tournament.
