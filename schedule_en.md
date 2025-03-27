@@ -48,6 +48,7 @@
 * 18:00 - 20:30. "Himars". Games in a group.
 * 19:00 - 21:00. "KRSP". A one-hour training, then a ladder competition.
 * 18:00 - 22:30. "Volia". A ladder competition.
+  * March 27: almost all tables are reserved for a tournament.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30, March 27. "Volia". 🏆 A 0-15 ranking tournament. [Registration](https://t.me/skVolyaKvadrat/22504).
