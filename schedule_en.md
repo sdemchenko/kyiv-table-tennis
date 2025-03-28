@@ -73,14 +73,13 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
-* 09:00. "TviY tennis". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
+* 09:00. "TviY tennis". 🏆 A non-ranking tournament (beginners). Advance registration is required.
 * 09:30. "Grand-Prix". 🏆 A 0-100 non-ranking tournament.
 * 10:00. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 - 12:00. "KRSP". A one-hour training, then a ladder competition.
 * 10:00 - 12:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
-* 10:00. "TviY tennis". 🏆 A 0-10 non-ranking tournament. Advance registration is required.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00, March 29. "Pulse". 🏆 A 0-5 ranking tournament. Winners get sponsor certificates (https://tt-future.prom.ua/).
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
