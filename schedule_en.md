@@ -114,6 +114,7 @@
 * 10:00. "Raketka". 🏆 A ranking tournament.
   * March 30: 0-25 and 0-100 at the same time ([Vasil Vasilyev memorial tournament](https://t.me/c/1937753885/1895)).
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
+* 10:30, March 30. "Gatne", SC. 🏆 A charitable ranking tournament 0-15. +380506058208 (Ivan).
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A non-ranking tournament for players with internal club ranking 0-200.
 * 11:00, the last Sunday of a month. "KRSP". 🏆 "KRSP Open" monthly tournament.
