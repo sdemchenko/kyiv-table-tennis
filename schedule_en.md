@@ -81,7 +81,7 @@
 * 10:00. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
-* 11:00, March 29. "Pulse". 🏆 A 0-5 ranking tournament. Winners get sponsor certificates (https://tt-future.prom.ua/).
+* 11:00, March 29. "Pulse". 🏆 A 0-5 ranking tournament. Winners get sponsor certificates - [tt-future.prom.ua](https://tt-future.prom.ua/).
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:00 - 13:30. Sports School #23. A ladder competition.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
@@ -128,6 +128,7 @@
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
+* 12:00, March 30. "Pulse". 🏆 A 0-100 non-ranking tournament. Winners get sponsor certificates - [tt-future.prom.ua](https://tt-future.prom.ua/).
 * 14:00, April 6. Cultural center "Spaska 13", sports ground. 🏆 A non-ranking tournament. [Advance registration](https://forms.gle/2cfvYk7zGfUgJhxR9) is required.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
