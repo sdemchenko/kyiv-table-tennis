@@ -89,7 +89,6 @@
 * 15:00. "Orion". 🏆 A 0-50 ranking tournament.
 * 15:00. "Top-Spin". 🏆 A 0-20 ranking tournament. Advance registration is required.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
-* 16:00, March 29. "Volia". 🏆 A 0-45 ranking tournament. [Registration](https://t.me/skVolyaKvadrat/22505). Might be cancelled due to lack of votes.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
