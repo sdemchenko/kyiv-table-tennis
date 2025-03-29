@@ -133,7 +133,6 @@
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
   * March 30: 0-10
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
-* 15:00. "Quiks". 🏆 A 0-25 ranking tournament.
 * 15:00, March 30. "Volia". 🏆 A 0-50 ranking tournament. [Registration](https://t.me/skVolyaKvadrat/22506). Might be cancelled due to lack of votes.
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
