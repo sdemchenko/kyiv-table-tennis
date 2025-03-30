@@ -17,10 +17,11 @@
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
-* 19:00 - 21:00. "KRSP". A one-hour training, then a ladder competition.
+* 18:00, April 1. "Gourmet". 🏆 A 0-100 non-ranking tournament.
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition (not on all tables).
+* 19:00 - 21:00. "KRSP". A one-hour training, then a ladder competition.
 * 19:00. "Orion". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Tuesday+Friday group).
