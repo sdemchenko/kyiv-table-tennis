@@ -98,41 +98,36 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * March 30: 0-25
   * April 6: 0-25
   * April 13: 0-40
   * April 20: 0-25
+  * April 27: 0-40
 * 10:00, the last Sunday of a month. "KMShVSM". 🏆 "Raif Kids" tournament. 2012 y.o.b. or younger (separately girls and boys).
   To register, write your full name and y.o.b. to Viber/Telegram at +380660162780.
-  * [March 30](https://t.me/ttkiev/608)
   * April 27
   * May 25
+  * June 29
+  * July 27
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * March 30: 0-25 and 0-100 at the same time ([Vasil Vasilyev memorial tournament](https://t.me/c/1937753885/1895)).
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
-* 10:30, March 30. "Gatne", SC. 🏆 A charitable ranking tournament 0-15. +380506058208 (Ivan).
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A non-ranking tournament for players with internal club ranking 0-200.
 * 11:00, the last Sunday of a month. "KRSP". 🏆 "KRSP Open" monthly tournament.
-  * March 30. [Advance registration](https://forms.gle/APUFMEtAiJHA6Z9PA) is required.
-    * 10:30 - Advanced (professional) players
-    * 14:00 - Amateur players
   * April 27
   * May 25
+  * June 29
+  * July 27
 * 11:00. "Leader" (Sports School #26). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
-* 12:00, March 30. "Pulse". 🏆 A 0-100 non-ranking tournament. Winners get sponsor certificates - [tt-future.prom.ua](https://tt-future.prom.ua/).
 * 14:00, April 6. Cultural center "Spaska 13", sports ground. 🏆 A non-ranking tournament. [Advance registration](https://forms.gle/2cfvYk7zGfUgJhxR9) is required.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * March 30: 0-10
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
-* 15:00, March 30. "Volia". 🏆 A 0-50 ranking tournament. [Registration](https://t.me/skVolyaKvadrat/22506). Might be cancelled due to lack of votes.
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
