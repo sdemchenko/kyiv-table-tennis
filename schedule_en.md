@@ -113,6 +113,14 @@
   * June 29
   * July 27
 * 10:00. "Raketka". 🏆 A ranking tournament.
+  * April 6: 0-45
+  * April 13:
+    * 0-100 starts at 10:00
+    * 0-5 starts at 12:00
+  * April 20:
+    * 0-100 starts at 10:00
+    * 0-30 starts at 12:00
+  * April 27: 0-15
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 ranking tournament.
