@@ -85,7 +85,7 @@
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:00 - 13:30. Sports School #23. A ladder competition.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
-* 11:30, April 12. "Podolskiy". 🏆 A 0-100 non-ranking tournament. Advance registration is required (+380504616178).
+* 11:30, April 12. "Podolskiy". 🏆 A non-ranking tournament for beginners and amateurs. Advance registration is required (+380504616178).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
