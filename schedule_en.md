@@ -21,7 +21,6 @@
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition (not on all tables).
-* 18:30, April 1. "Volia". 🏆 A 0-30 ranking tournament. [Registration](https://t.me/c/1482278621/22646).
 * 19:00 - 21:00. "KRSP". A one-hour training, then a ladder competition.
 * 19:00. "Orion". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
