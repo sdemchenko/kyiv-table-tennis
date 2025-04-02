@@ -58,6 +58,7 @@
 <h3 id="friday">Friday</h3>
 
 * 11:00 - 15:00. "Orion". A ladder competition.
+* 14:00, April 18. "Orion". 🏆 <a href="https://t.me/ttorion/2938">Kyiv Championship for people with disabilities with musculoskeletal system disorder</a>.
 * 17:00 - 19:00. "Gourmet". A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Breiks". A ladder competition.
