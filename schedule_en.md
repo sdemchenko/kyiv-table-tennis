@@ -131,6 +131,10 @@
   * July 27
 * 11:00. "Leader" (Sports School #26). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
+  * April 6: ❌
+  * April 13: 🏆
+  * April 20: ❌
+  * April 27: 🏆
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
