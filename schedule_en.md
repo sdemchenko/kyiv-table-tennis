@@ -85,6 +85,7 @@
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30, April 12. "Podolskiy". 🏆 A non-ranking tournament for beginners and amateurs. Advance registration is required (+380504616178).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * April 5: a 0-40.0 ranking tournament
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
@@ -133,6 +134,7 @@
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+  * April 6: a 0-15.0 ranking tournament
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 14:00, April 6. Cultural center "Spaska 13", sports ground. 🏆 A non-ranking tournament. [Advance registration](https://forms.gle/2cfvYk7zGfUgJhxR9) is required.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
