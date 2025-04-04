@@ -102,7 +102,7 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * April 6: 0-25
+  * April 6: 0-33
   * April 13: 0-40
   * April 20: 0-25
   * April 27: 0-40
