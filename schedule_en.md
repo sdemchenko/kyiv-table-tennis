@@ -135,7 +135,6 @@
   * April 13: 🏆
   * April 20: ❌
   * April 27: 🏆
-* 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * April 6: a 0-15.0 ranking tournament
@@ -150,6 +149,7 @@
   * April 20: ❌
   * April 27: ❌
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
+* 15:00. "Quiks". 🏆 A 0-25 ranking tournament.
 * 15:00, April 6. "Volia". 🏆 A 0-50 ranking tournament. [Registration](https://t.me/c/1482278621/22649)
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
