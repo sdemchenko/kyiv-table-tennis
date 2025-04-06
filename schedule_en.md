@@ -85,14 +85,12 @@
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30, April 12. "Podolskiy". 🏆 A non-ranking tournament for beginners and amateurs. Advance registration is required (+380504616178).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * April 5: a 0-40.0 ranking tournament
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 A 0-50 ranking tournament.
 * 15:00. "Top-Spin". 🏆 A 0-20 ranking tournament. Advance registration is required.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
-* 16:00, April 5. "Volia". 🏆 A 0-45 ranking tournament. The tournament will probably be cancelled.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
@@ -102,7 +100,6 @@
 * 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * April 6: 0-33
   * April 13: 0-40
   * April 20: 0-25
   * April 27: 0-40
@@ -113,7 +110,6 @@
   * June 29
   * July 27
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * April 6: 0-45
   * April 13:
     * 0-100 starts at 10:00
     * 0-5 starts at 12:00
@@ -131,27 +127,21 @@
   * July 27
 * 11:00. "Leader" (Sports School #26). 🏆 A 0-40 ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-  * April 6: ❌
   * April 13: 🏆
   * April 20: ❌
   * April 27: 🏆
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * April 6: a 0-15.0 ranking tournament
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
-* 12:00, April 6. "Pulse". 🏆 A 0-100 non-ranking tournament. Winners get sponsor certificates - [tt-future.prom.ua](https://tt-future.prom.ua/).
-* 14:00, April 6. Cultural center "Spaska 13", sports ground. 🏆 A non-ranking tournament. [Advance registration](https://forms.gle/2cfvYk7zGfUgJhxR9) is required.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * April 6: 0-15
   * April 13: 0-10
   * April 20: ❌
   * April 27: ❌
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
 * 15:00. "Quiks". 🏆 A 0-25 ranking tournament.
-* 15:00, April 6. "Volia". 🏆 A 0-50 ranking tournament. The tournament will probably be cancelled.
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
