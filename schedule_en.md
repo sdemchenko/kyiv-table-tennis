@@ -145,7 +145,6 @@
   * April 20: ❌
   * April 27: ❌
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
-* 15:00. "Quiks". 🏆 A 0-25 ranking tournament.
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
