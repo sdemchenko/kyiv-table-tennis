@@ -86,6 +86,7 @@
 * 10:00. "Svitlotechnik". 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
+  * April 12: ❌
 * 11:00 - 13:30. Sports School #23. A ladder competition.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30, April 12. "Podolskiy". 🏆 A non-ranking tournament for beginners and amateurs. Advance registration is required (+380504616178).
@@ -137,6 +138,7 @@
   * April 20: ❌
   * April 27: 🏆
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
+  * April 13: 🏆 A 0-25 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * April 13: A 0-25.0 ranking tournament.
