@@ -126,7 +126,7 @@
   * April 20: ❌
   * April 27: 🏆
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
-  * April 20: 🏆 A 0-20 ranking tournament.
+  * April 20: ❌
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
