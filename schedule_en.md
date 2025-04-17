@@ -90,6 +90,7 @@
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * April 19: ❌
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
+* 12:00, April 19. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 An unlimited non-ranking doubles tournament.
@@ -132,6 +133,7 @@
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * April 20: ❌
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
+  * April 20: ❌ (moved to Saturday, April 19, 12:00)
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
