@@ -103,3 +103,7 @@ table.t_courts td:nth-child(3) { text-align:center; }
     font-size: small;
     color: red;
 }
+
+#scheduleContainer li {
+    padding-bottom: 0.2em;
+}
