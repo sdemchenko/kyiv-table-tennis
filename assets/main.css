@@ -104,6 +104,6 @@ table.t_courts td:nth-child(3) { text-align:center; }
     color: red;
 }
 
-#scheduleContainer li {
+#scheduleContainer > ul > li {
     padding-bottom: 0.2em;
 }
