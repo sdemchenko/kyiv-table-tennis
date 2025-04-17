@@ -54,6 +54,7 @@
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30. "Volia". 🏆 A 0-15 ranking tournament.
 * 19:00 - 21:00. "KRSP". A one-hour training, then a ladder competition.
+  * April 17: ❌
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 non-ranking tournament.
 * 19:15 - 23:00. "Raketka". Games in a group (the Monday+Thursday group).
