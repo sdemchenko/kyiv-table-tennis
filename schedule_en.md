@@ -22,7 +22,7 @@
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition (not on all tables).
 * 18:30. "Volia". 🏆 A 0-30 ranking tournament.
-* 19:00 - 21:00. "KRSP". A one-hour training, then a ladder competition.
+* 19:00 - 21:00. "KRSP". A one-hour training, then a ladder competition. The game is cancelled if fewer than 4 players register before 12pm.
 * 19:00. "Orion". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:15 - 23:00. "Raketka". Games in a group (the Tuesday+Friday group).
@@ -53,7 +53,7 @@
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30. "Volia". 🏆 A 0-15 ranking tournament.
-* 19:00 - 21:00. "KRSP". A one-hour training, then a ladder competition.
+* 19:00 - 21:00. "KRSP". A one-hour training, then a ladder competition. The game is cancelled if fewer than 4 players register before 12pm.
   * April 17: ❌
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 non-ranking tournament.
