@@ -75,7 +75,7 @@
 
 <h3 id="saturday">Saturday</h3>
 
-* 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
+* 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 09:00. "TviY tennis". 🏆 A non-ranking tournament (beginners). Advance registration is required.
 * 09:30. "Grand-Prix". 🏆 A 0-100 non-ranking tournament.
 * 10:00. "Breiks". 🏆 A 0-100 ranking tournament.
@@ -105,7 +105,7 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 08:00. "Himars". 🏆 A 0-100 non-ranking tournament. [Advance registration](https://t.me/+yOOJ3CrdhyBjNzhi) is required.
+* 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
 * 10:00, the last Sunday of a month. "KMShVSM". 🏆 "Raif Kids" tournament. 2012 y.o.b. or younger (separately girls and boys).
