@@ -94,10 +94,8 @@
   * All participation fees (300₴) [will be spent to fit out the tennis court in Sovky park](https://t.me/tt_topspin_info/81)
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 16:00. "Volia". 🏆 A 0-45 ranking tournament.
-  * April 19: ❌
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
-  * April 19: ❌
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
 
 <h3 id="sunday">Sunday</h3>
