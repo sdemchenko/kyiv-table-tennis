@@ -110,6 +110,7 @@
   * May 25
   * June 29
   * July 27
+* 10:00, May 4. "Orion". 🏆 [A kids' ranking tournament with 15000₴ prize money](https://t.me/ttorion/2993).
 * 10:00. "Raketka". 🏆 A ranking tournament.
   * April 20: 0-30
   * April 27: 0-15
