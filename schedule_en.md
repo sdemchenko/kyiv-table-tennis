@@ -91,7 +91,6 @@
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 An unlimited non-ranking doubles tournament.
 * 15:00. "Top-Spin" (Borshchahivka). 🏆 A 0-20 ranking tournament. No more than 10 participants. Advance registration is welcome.
-  * All participation fees (300₴) [will be spent to fit out the tennis court in Sovky park](https://t.me/tt_topspin_info/81)
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 16:00. "Volia". 🏆 A 0-45 ranking tournament.
 * 18:30 - 21:00. "Orion". A ladder competition.
