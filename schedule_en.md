@@ -16,6 +16,7 @@
 * 11:00 - 15:00. "Orion". A ladder competition.
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
+* 18:00. "Gourmet". 🏆 A 0-15 non-ranking tournament.
 * 18:00 - 20:30. "Himars". Games in a group.
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
