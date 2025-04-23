@@ -82,7 +82,6 @@
 * 10:00 - 12:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00. "Solom'yanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00. "Top Spin" (Brovary). 🏆 A 0-40 ranking tournament.
-  * It looks these tournaments are temporarily on hold
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:00 - 13:30. Sports School #23. A ladder competition.
