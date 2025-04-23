@@ -116,9 +116,8 @@
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 non-ranking tournament.
-* 11:00, the last Sunday of a month. "KRSP". 🏆 "KRSP Open" monthly tournament.
-  * April 27
-  * May 25
+* 11:00, the last Sunday of a month (usually). "KRSP". 🏆 "KRSP Open" monthly tournament.
+  * May 11
   * June 29
   * July 27
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
