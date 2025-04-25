@@ -82,7 +82,6 @@
 * 10:00. "Top Spin" (Brovary). 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
-  * April 26: 0-10
 * 11:00 - 13:30. Sports School #23. A ladder competition.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
   * April 26: ❌
