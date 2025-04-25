@@ -78,7 +78,7 @@
 * 09:30. "Grand-Prix". 🏆 A 0-100 non-ranking tournament.
 * 10:00. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 - 12:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
-* 10:00. "Solomyanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
+* 10:00. "Solomyanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required. The tournament is cancelled if fewer than 6 players register before Saturday.
 * 10:00. "Top Spin" (Brovary). 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
