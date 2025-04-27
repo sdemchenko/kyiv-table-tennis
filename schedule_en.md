@@ -101,16 +101,13 @@
 * 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
-  * April 27: 0-15
 * 10:00, the last Sunday of a month. "KMShVSM". 🏆 "Raif Kids" tournament. 2012 y.o.b. or younger (separately girls and boys).
   To register, write your full name and y.o.b. to Viber/Telegram at +380660162780.
-  * April 27: ❌
   * May 25
   * June 29
   * July 27
 * 10:00, May 4. "Orion". 🏆 [A kids' ranking tournament with 18000₴ prize money](https://www.facebook.com/KntOrionSport/posts/pfbid0mwjsnwYq9gomWybQfYqi8UssqHu9cQvbJCHnCXiumd9QeqpaMNH9NTALoYokByphl).
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * April 27: ❌
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 non-ranking tournament.
@@ -119,19 +116,14 @@
   * June 29
   * July 27
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-  * April 27: ❌
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
-  * April 27: ❌
-* 12:00, April 27. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * April 27: ❌
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
-* 15:00, April 27. "Quiks". 🏆 A 0-25 ranking tournament.
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
