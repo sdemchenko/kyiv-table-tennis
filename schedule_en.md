@@ -105,6 +105,18 @@
   * July 27
 * 10:00, May 4. "Orion". 🏆 [A kids' ranking tournament with 18000₴ prize money](https://www.facebook.com/KntOrionSport/posts/pfbid0mwjsnwYq9gomWybQfYqi8UssqHu9cQvbJCHnCXiumd9QeqpaMNH9NTALoYokByphl).
 * 10:00. "Raketka". 🏆 A ranking tournament.
+  * May 4:
+    * 0-50 at 10:00
+    * 0-15 at 12:00
+  * May 11:
+    * 0-45 at 10:00
+    * 0-5 at 12:00
+  * May 18:
+    * 0-35 at 10:00
+    * 0-25 at 12:00
+  * May 25:
+    * 0-40 at 10:00
+    * 0-10 at 12:00
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
   * May 4: ❌
