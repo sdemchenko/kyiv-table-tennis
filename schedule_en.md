@@ -21,9 +21,9 @@
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition (not on all tables).
-* 19:00 - 21:00. "KRSP". A one-hour training, then a ladder competition. The game is cancelled if fewer than 4 players register before 12pm.
-* 19:00. "Orion". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
+* 19:00. "Orion". 🏆 A 0-25 ranking tournament.
+* 19:00 - 21:00. "RSP". A one-hour training, then a ladder competition. The game is cancelled if fewer than 4 players register before 12pm.
 * 19:15 - 23:00. "Raketka". Games in a group (the Tuesday+Friday group).
 
 <h3 id="wednesday">Wednesday</h3>
@@ -50,9 +50,9 @@
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
-* 19:00 - 21:00. "KRSP". A one-hour training, then a ladder competition. The game is cancelled if fewer than 4 players register before 12pm.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 non-ranking tournament.
+* 19:00 - 21:00. "RSP". A one-hour training, then a ladder competition. The game is cancelled if fewer than 4 players register before 12pm.
 * 19:00. "Top-Spin" (Borshchahivka). 🏆 A 0-20 ranking tournament. No more than 10 participants. Advance registration is welcome.
 * 19:15 - 23:00. "Raketka". Games in a group (the Monday+Thursday group).
 
@@ -108,14 +108,14 @@
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 non-ranking tournament.
-* 11:00, usually the last Sunday of a month. "KRSP". 🏆 "KRSP Open" monthly tournament.
+* 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
+* 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
+* 11:00, usually the last Sunday of a month. "RSP". 🏆 "RSP Table Tennis Open" monthly tournament.
   * May 11
     * Women start at 10:00
     * Men start at 14:00
   * June 29
   * July 27
-* 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-* 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
