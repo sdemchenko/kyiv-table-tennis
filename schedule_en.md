@@ -89,6 +89,7 @@
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
+* 12:00, May 3. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 14:00. "Top-Spin" (Borshchahivka). 🏆 A 0-25 ranking tournament. No more than 10 participants. Advance registration is welcome.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
@@ -140,6 +141,7 @@
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * May 4: A 0-15.0 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
+* 12:00, May 4. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
   * May 4: ❌
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
