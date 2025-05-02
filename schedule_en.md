@@ -106,6 +106,7 @@
 * 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
+  * May 4: the tournament has not been confirmed yet
 * 10:00 - 18:30, June 1. 🏆 "<a href="assets/temp/Raif-Kids-Cup.pdf">Raif Kids Cup</a>", Day 3.
 * 10:00, May 4. "Orion". 🏆 [A kids' ranking tournament with 18000₴ prize money](https://www.facebook.com/KntOrionSport/posts/pfbid0mwjsnwYq9gomWybQfYqi8UssqHu9cQvbJCHnCXiumd9QeqpaMNH9NTALoYokByphl).
 * 10:00. "Raketka". 🏆 A ranking tournament.
