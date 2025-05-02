@@ -144,6 +144,7 @@
   * May 4: A 0-15.0 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 12:00, May 4. "Pulse". 🏆 A 0-100 non-ranking tournament.
+* 14:00, May 4. "KUTT". 🏆 [A non-ranking tournament](https://t.me/kuttclub/4166).
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
   * May 4: ❌
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
