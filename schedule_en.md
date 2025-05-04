@@ -35,7 +35,6 @@
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:00. "Quiks". 🏆 A 0-10 ranking tournament.
-  * April 30: 0-15
 * 18:10. "Himars". 🏆 A 0-40 ranking tournament.
 * 18:30 - 22:00. "KUTT". A ladder competition (not on all tables).
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
@@ -106,11 +105,7 @@
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A 0-15 ranking tournament.
 * 10:00 - 18:30, June 1. 🏆 "<a href="assets/temp/Raif-Kids-Cup.pdf">Raif Kids Cup</a>", Day 3.
-* 10:00, May 4. "Orion". 🏆 [A kids' ranking tournament with 18000₴ prize money](https://www.facebook.com/KntOrionSport/posts/pfbid0mwjsnwYq9gomWybQfYqi8UssqHu9cQvbJCHnCXiumd9QeqpaMNH9NTALoYokByphl).
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * May 4:
-    * 0-50 at 10:00
-    * 0-15 at 12:00
   * May 11:
     * 0-45 at 10:00
     * 0-5 at 12:00
@@ -122,11 +117,8 @@
     * 0-10 at 12:00
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
-  * May 4: ❌
 * 10:30. "Orion". 🏆 A 0-5 non-ranking tournament.
-  * May 4: ❌
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-  * May 4
   * May 11
   * May 18
   * May 25: ❌
@@ -139,21 +131,14 @@
   * July 27
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * May 4: A 0-15.0 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
-* 12:00, May 4. "Pulse". 🏆 A 0-100 non-ranking tournament.
-* 14:00, May 4. "KUTT". 🏆 A non-ranking tournament. [Advance registration is required](https://t.me/kuttclub/4172).
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
-  * May 4: ❌
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
-  * May 4: ❌
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * May 4: 0-5
   * May 11: 0-15
   * May 18: 0-20
   * May 25: ❌
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
-  * May 4: ❌
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
