@@ -124,7 +124,7 @@
   * May 25: ❌
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00, usually the last Sunday of a month. "RSP". 🏆 "RSP Table Tennis Open" monthly tournament.
-  * May 11
+  * May 11 - [Advance registration is required](https://forms.gle/HxEp6MysQHtghiTn6).
     * Women start at 10:00
     * Men start at 14:00
   * June 29
