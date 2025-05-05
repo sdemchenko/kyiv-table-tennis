@@ -107,11 +107,11 @@
 * 10:00 - 18:30, June 1. 🏆 "<a href="assets/temp/Raif-Kids-Cup.pdf">Raif Kids Cup</a>", Day 3.
 * 10:00. "Raketka". 🏆 A ranking tournament.
   * May 11:
-    * 0-45 at 10:00
+    * 0-50 at 10:00
     * 0-5 at 12:00
   * May 18:
-    * 0-35 at 10:00
-    * 0-25 at 12:00
+    * 0-100 at 10:00
+    * 0-35 at 12:00
   * May 25:
     * 0-40 at 10:00
     * 0-10 at 12:00
