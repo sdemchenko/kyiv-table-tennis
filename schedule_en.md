@@ -108,7 +108,7 @@
 * 10:00. "Raketka". 🏆 A ranking tournament.
   * May 11:
     * 0-50 at 10:00
-    * 0-5 at 12:00
+    * 0-10 at 12:00
   * May 18:
     * 0-100 at 10:00
     * 0-35 at 12:00
