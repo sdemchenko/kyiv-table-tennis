@@ -22,6 +22,7 @@
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition (not on all tables).
 * 18:30. "Volia". 🏆 A 0-5 ranking tournament. Participation fee is 150₴. No prize money.
+  * May 6: most likely it will be cancelled due to lack of votes
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "RSP". A one-hour training, then a ladder competition. The game is cancelled if fewer than 4 players register before 12pm.
