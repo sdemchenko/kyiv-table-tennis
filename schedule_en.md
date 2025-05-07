@@ -103,6 +103,7 @@
 <h3 id="sunday">Sunday</h3>
 
 * 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
+* 09:30, May 11. "Leader" (Sports School). 🏆 A 0-15 ranking tournament.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A 0-15 ranking tournament.
 * 10:00 - 18:30, June 1. 🏆 "<a href="assets/temp/Raif-Kids-Cup.pdf">Raif Kids Cup</a>", Day 3.
@@ -132,6 +133,7 @@
   * July 27
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
+* 12:00, May 11. "Leader" (Sports School). 🏆 A 0-40 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
