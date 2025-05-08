@@ -143,6 +143,7 @@
   * May 18: 0-20
   * May 25: ❌
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
+* 15:00, May 11. "Quiks". 🏆 A 0-25 ranking tournament.
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
