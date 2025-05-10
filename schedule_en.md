@@ -106,6 +106,7 @@
 * 09:30, May 11. "Leader" (Sports School). 🏆 A 0-15 ranking tournament.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A 0-15 ranking tournament.
+  * May 11: 0-80
 * 10:00 - 18:30, June 1. 🏆 "<a href="assets/temp/Raif-Kids-Cup.pdf">Raif Kids Cup</a>", Day 3.
 * 10:00. "Raketka". 🏆 A ranking tournament.
   * May 11:
