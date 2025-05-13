@@ -116,8 +116,7 @@
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 non-ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-  * May 18
-  * May 25: ❌
+  * May 18: a 0-5 ranking tournament for adults
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00, usually the last Sunday of a month. "RSP". 🏆 "RSP Table Tennis Open" monthly tournament.
   * June 29
