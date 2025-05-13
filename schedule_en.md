@@ -7,6 +7,7 @@
 * 18:00 - 20:30. "Breiks". A ladder competition.
 * 18:00 - 20:30. "Himars". Games in a group.
 * 18:00 - 22:30. "Volia". A ladder competition.
+* 18:30 - 22:00. "KUTT". A ladder competition.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. "Raketka". Group games (the Monday+Thursday group).
 * 19:00. Sports School #21. 🏆 A 0-100 non-ranking tournament.
