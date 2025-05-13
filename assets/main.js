@@ -1,6 +1,5 @@
 $(document).ready(function () {
     useDarkOrLightSystemTheme();
-    fetchNews();
     fetchSchedule();
 });
 
@@ -18,23 +17,6 @@ function useDarkOrLightSystemTheme() {
 
     updateTheme();
     prefersDarkMode.addEventListener('change', () => updateTheme());
-}
-
-/**
- * (1) Fetch news.html,
- * (2) replace the initial (SEO) content of <tt>div#newsContainer</tt> with the fetched HTML.
- */
-function fetchNews() {
-    fetch($('#newsContainer').attr('data-src') + '?t=' + timestampNoOlderThanTenSeconds(), {})
-        .then(function (response) {
-            return response.text();
-        })
-        .then(function (data) {
-            $('#newsContainer').html(data);
-        })
-        .catch(function (err) {
-            console.log(err);
-        });
 }
 
 /**
