@@ -56,7 +56,7 @@
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 non-ranking tournament.
 * 19:00 - 21:00. "RSP". A one-hour training, then a ladder competition. The game is cancelled if fewer than 4 players register before 12pm.
-* 19:00. "Top-Spin" (Borshchahivka). 🏆 A 0-10 non-ranking tournament. Advance registration is welcome.
+* 19:00. "Top-Spin" (Borshchahivka). 🏆 A 0-10 non-ranking tournament.
 * 19:15 - 23:00. "Raketka". Games in a group (the Monday+Thursday group).
 
 <h3 id="friday">Friday</h3>
