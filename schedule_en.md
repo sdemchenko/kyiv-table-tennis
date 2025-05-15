@@ -51,7 +51,7 @@
 * 18:00 - 22:30. "Volia". A ladder competition.
   * May 15: ❌
 * 18:15 - 20:40. Sports School #23. A ladder competition.
-* 18:30 - 22:00. "KUTT". A ladder competition.
+* 19:30 - 22:00. "KUTT". A ladder competition.
 * 18:30. "Volia". 🏆 A 0-15 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 non-ranking tournament.
