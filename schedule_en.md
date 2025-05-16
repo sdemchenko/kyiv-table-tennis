@@ -86,6 +86,7 @@
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
   * May 17: 0-20
 * 11:00 - 13:30. Sports School #23. A ladder competition.
+  * May 17: ❌
 * 11:00. "TviY tennis". 🏆 A women's non-ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
