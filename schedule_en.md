@@ -84,9 +84,7 @@
 * 10:00. "Top Spin" (Brovary). 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
-  * May 17: 0-20
 * 11:00 - 13:30. Sports School #23. A ladder competition.
-  * May 17: ❌
 * 11:00. "TviY tennis". 🏆 A women's non-ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
@@ -97,6 +95,7 @@
 * 15:00. "Top-Spin" (Borshchahivka). 🏆 A 0-25 ranking tournament. Advance registration is welcome.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 16:00. "Volia". 🏆 A 0-25 ranking tournament
+  * May 17: most likely, it will be cancelled due to lack of votes
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
