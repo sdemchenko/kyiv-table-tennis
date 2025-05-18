@@ -109,8 +109,8 @@
   * May 18: 0-80
 * 10:00 - 18:30, June 1. 🏆 "[Raif Kids Cup](assets/temp/Raif-Kids-Cup.pdf)", Day 3.
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * May 18:
-    * 0-45 at 10:00
+  * May 25:
+    * 0-40 at 09:00
     * 0-10 at 12:00
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30, May 18. "Gatne" SC. 🏆 A charitable 0-30 ranking tournament. +380506058208 - Ivan.
