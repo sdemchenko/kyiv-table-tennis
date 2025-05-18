@@ -113,6 +113,7 @@
     * 0-45 at 10:00
     * 0-10 at 12:00
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
+* 10:30, May 18. "Gatne" SC. 🏆 A 0-30 ranking tournament. +380506058208 - Ivan.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 non-ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
