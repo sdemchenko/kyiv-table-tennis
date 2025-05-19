@@ -127,7 +127,7 @@
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * May 25: ❌
+  * May 25: 0-10
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
 * 16:00, May 25. "Top-Spin" (Borshchahivka). 🏆 A 0-10 non-ranking tournament. Advance registration is welcome.
 * 16:00 - 22:30. "Volia". A ladder competition.
