@@ -56,7 +56,6 @@
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 non-ranking tournament.
 * 19:00 - 21:00. "RSP". A one-hour training, then a ladder competition. The game is cancelled if fewer than 4 players register before 12pm.
-* 19:00. "Top-Spin" (Borshchahivka). 🏆 A 0-10 non-ranking tournament.
 * 19:15 - 23:00. "Raketka". Games in a group (the Monday+Thursday group).
 
 <h3 id="friday">Friday</h3>
@@ -84,6 +83,7 @@
 * 10:00. "Solomyanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required. The tournament is cancelled if fewer than 6 players register before Saturday.
 * 10:00. "Top Spin" (Brovary). 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
+* 10:30, May 24. "Top-Spin" (Borshchahivka). 🏆 A 0-25 ranking tournament. Advance registration is welcome.
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:00 - 13:30. Sports School #23. A ladder competition.
 * 11:00. "TviY tennis". 🏆 A women's non-ranking tournament.
@@ -93,7 +93,6 @@
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 An unlimited non-ranking doubles tournament.
-* 15:00. "Top-Spin" (Borshchahivka). 🏆 A 0-25 ranking tournament. Advance registration is welcome.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 16:00, May 24. "Volia". 🏆 A 0-5 ranking tournament.
 * 18:30 - 22:00. "KUTT". A ladder competition.
@@ -127,6 +126,7 @@
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
   * May 25: ❌
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
+* 16:00, May 25. "Top-Spin" (Borshchahivka). 🏆 A 0-10 non-ranking tournament. Advance registration is welcome.
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
