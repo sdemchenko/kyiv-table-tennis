@@ -31,6 +31,7 @@
 <h3 id="wednesday">Wednesday</h3>
 
 * 11:00 - 15:00. "Orion". A ladder competition.
+* 14:00, May 21. "Gatne" SC. 🏆 A tournament among people with musculoskeletal disabilities. Registration: +380961871934, Dmytro
 * 17:00 - 19:00. "Gourmet". A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
 * 18:00 - 20:30. "Breiks". A ladder competition.
