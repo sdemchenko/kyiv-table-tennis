@@ -110,7 +110,7 @@
 * 10:00 - 18:30, June 1. 🏆 Day 3 of "Raif Kids Cup" ([regulations](assets/temp/Raif-Kids-Cup.pdf); [registration](https://docs.google.com/forms/d/e/1FAIpQLSeZ8X-skGoiDASvUqYm3yG_bCoiCPSo9X16o_LKt_mnP40r_g/viewform)).
 * 10:00. "Raketka". 🏆 A ranking tournament.
   * May 25:
-    * 0-100 at 09:00
+    * 0-100 at 10:00
     * 0-15 at 12:30
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
