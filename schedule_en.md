@@ -89,6 +89,7 @@
 * 11:00 - 13:30. Sports School #23. A ladder competition.
 * 11:00. "TviY tennis". 🏆 A women's non-ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
+  * May 24: ❌
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 12:00, May 24. "Pulse". 🏆 A 0-10 ranking tournament.
