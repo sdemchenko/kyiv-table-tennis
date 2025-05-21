@@ -27,7 +27,7 @@ body {
     font-family: var(--font-family-sans);
     font-size: 100%;
     max-width: 860px;
-    padding: 10px;
+    padding: 0 5px;
     margin: auto;
 }
 
@@ -106,4 +106,9 @@ table.t_courts td:nth-child(3) { text-align:center; }
 
 #scheduleContainer > ul > li {
     padding-bottom: 0.2em;
+}
+
+.lang-switcher {
+    float: right;
+    padding-right: 10px;
 }
