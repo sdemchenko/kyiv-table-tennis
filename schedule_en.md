@@ -60,7 +60,7 @@
 
 <h3 id="friday">Friday</h3>
 
-* 10:00 - 20:00, May 30. 🏆 Day 1 of "Raif Kids Cup" ([regulations](assets/temp/Raif-Kids-Cup.pdf); [registration](https://docs.google.com/forms/d/e/1FAIpQLSeZ8X-skGoiDASvUqYm3yG_bCoiCPSo9X16o_LKt_mnP40r_g/viewform)).
+* 10:00 - 20:00, May 30. 🏆 Day 1 of "Raif Kids Cup" ([regulations](assets/temp/Raif-Kids-Cup.pdf); [registration](https://docs.google.com/forms/d/e/1FAIpQLSeZ8X-skGoiDASvUqYm3yG_bCoiCPSo9X16o_LKt_mnP40r_g/viewform); [updated schedule](assets/temp/raif-kids-cup-May-21-update.jpeg)).
 * 11:00 - 15:00. "Orion". A ladder competition.
 * 17:00 - 19:00. "Gourmet". A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
@@ -79,7 +79,7 @@
 * 09:30. "Grand-Prix". 🏆 A 0-100 non-ranking tournament.
 * 10:00. "Breiks". 🏆 A 0-100 ranking tournament.
 * 10:00 - 12:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
-* 10:00 - 20:00, May 31. 🏆 Day 2 of "Raif Kids Cup" ([regulations](assets/temp/Raif-Kids-Cup.pdf); [registration](https://docs.google.com/forms/d/e/1FAIpQLSeZ8X-skGoiDASvUqYm3yG_bCoiCPSo9X16o_LKt_mnP40r_g/viewform)).
+* 10:00 - 20:00, May 31. 🏆 Day 2 of "Raif Kids Cup" ([regulations](assets/temp/Raif-Kids-Cup.pdf); [registration](https://docs.google.com/forms/d/e/1FAIpQLSeZ8X-skGoiDASvUqYm3yG_bCoiCPSo9X16o_LKt_mnP40r_g/viewform); [updated schedule](assets/temp/raif-kids-cup-May-21-update.jpeg)).
 * 10:00. "Solomyanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required. The tournament is cancelled if fewer than 6 players register before Saturday.
 * 10:00. "Top Spin" (Brovary). 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
@@ -107,7 +107,7 @@
 * 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A 0-15 ranking tournament.
-* 10:00 - 18:30, June 1. 🏆 Day 3 of "Raif Kids Cup" ([regulations](assets/temp/Raif-Kids-Cup.pdf); [registration](https://docs.google.com/forms/d/e/1FAIpQLSeZ8X-skGoiDASvUqYm3yG_bCoiCPSo9X16o_LKt_mnP40r_g/viewform)).
+* 10:00 - 18:30, June 1. 🏆 Day 3 of "Raif Kids Cup" ([regulations](assets/temp/Raif-Kids-Cup.pdf); [registration](https://docs.google.com/forms/d/e/1FAIpQLSeZ8X-skGoiDASvUqYm3yG_bCoiCPSo9X16o_LKt_mnP40r_g/viewform); [updated schedule](assets/temp/raif-kids-cup-May-21-update.jpeg)).
 * 10:00. "Raketka". 🏆 A ranking tournament.
   * May 25:
     * 0-100 at 10:00
