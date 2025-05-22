@@ -69,14 +69,13 @@ screen.orientation.onchange = function() {
 }
 
 function configureBackToTopButton() {
-    const backToTop = document.getElementById('backToTop');
-
-    window.addEventListener('scroll', () => {
-        // Is 300 or document.documentElement.clientHeight better?
-        backToTop.style.display = window.scrollY > 300 ? 'block' : 'none';
+    let backToTop = $("#backToTop");
+    $(window).scroll(function(){
+        let height = 300; // Alternative: document.documentElement.clientHeight
+        $(document).scrollTop() > height ? backToTop.show() : backToTop.hide();
     });
-
-    backToTop.addEventListener('click', () => {
-        window.scrollTo({ top: 0 });
+    backToTop.click(function() {
+        $("html, body").scrollTop(0); // Alternative: $("html, body").animate({ scrollTop: 0 }, "fast");
+        return false;
     });
 }
