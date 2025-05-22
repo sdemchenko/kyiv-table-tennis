@@ -21,6 +21,10 @@
     scrollbar-color: #757575 #2E2E2E;
 }
 
+html, body {
+    overflow-x: hidden;
+}
+
 body {
     background-color: var(--page-bg-color);
     color: var(--page-fg-color);
