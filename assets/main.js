@@ -72,6 +72,7 @@ function configureBackToTopButton() {
     const backToTop = document.getElementById('backToTop');
 
     window.addEventListener('scroll', () => {
+        // Is 300 or document.documentElement.clientHeight better?
         backToTop.style.display = window.scrollY > 300 ? 'block' : 'none';
     });
 
