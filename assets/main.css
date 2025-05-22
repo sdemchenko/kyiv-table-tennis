@@ -118,7 +118,7 @@ table.t_courts td:nth-child(3) { text-align:center; }
     display: none;
     position: fixed;
     top: 20px;
-    right: 20px;
+    right: calc(50% - 430px);
     z-index: 99;
     font-size: 18px;
     border: none;
