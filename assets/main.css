@@ -137,6 +137,8 @@ table.t_courts td:nth-child(3) { text-align:center; }
 
 @media (max-width: 900px) { /* Fallback for narrow screens */
     #backToTop {
-        right: 20px;
+        right: 20px;     /* Move inside screen */
+        left: auto;      /* Cancel any 'left' overrides */
+        transform: none; /* Prevent accidental centering */
     }
 }
