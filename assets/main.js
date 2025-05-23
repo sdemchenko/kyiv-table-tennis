@@ -1,5 +1,6 @@
+useDarkOrLightSystemTheme();
+
 $(document).ready(function () {
-    useDarkOrLightSystemTheme();
     fetchSchedule();
     configureBackToTopButton();
 });
