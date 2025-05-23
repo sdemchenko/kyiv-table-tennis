@@ -3,6 +3,7 @@ useDarkOrLightSystemTheme();
 $(document).ready(function () {
     fetchSchedule();
     configureBackToTopButton();
+    configureCheckboxesFilteringCompetitions();
 });
 
 /**
@@ -59,5 +60,14 @@ function configureBackToTopButton() {
     backToTop.click(function() {
         $("html, body").scrollTop(0); // Alternative: $("html, body").animate({ scrollTop: 0 }, "fast");
         return false;
+    });
+}
+
+function configureCheckboxesFilteringCompetitions() {
+    $('#hideTournaments').click(function () {
+        $("#scheduleContainer > ul > li:contains('🏆')").toggle();
+    });
+    $('#hideOtherCompetitions').click(function () {
+        $("#scheduleContainer > ul > li:not(:contains('🏆'))").toggle();
     });
 }
