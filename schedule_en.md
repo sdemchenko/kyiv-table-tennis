@@ -74,6 +74,7 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
+  * May 24: the tournament will start at 07:30
 * 09:00. "TviY tennis". 🏆 A non-ranking tournament (beginners). Advance registration is required.
 * 09:30. "Grand-Prix". 🏆 A 0-100 non-ranking tournament.
 * 10:00. "Breiks". 🏆 A 0-100 ranking tournament.
