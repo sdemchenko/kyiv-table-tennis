@@ -32,10 +32,10 @@ function fetchSchedule() {
             return response.text();
         })
         .then(function (data) {
-            const markdown = new remarkable.Remarkable({
-                html: true, // Enable HTML tags in source
+            const md = window.markdownit({
+                html: true // Enable HTML tags in source
             });
-            $('#scheduleContainer').html(markdown.render(data));
+            $('#scheduleContainer').html(md.render(data));
         })
         .catch(function (err) {
             console.log(err);
