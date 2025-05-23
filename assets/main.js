@@ -50,25 +50,6 @@ function timestampNoOlderThanTenSeconds() {
     return Math.floor(new Date().getTime() / 10000);
 }
 
-/**
- * A fix for Chrome showing the tables and news unreasonably narrow in portrait mode on mobile devices.
- * See https://stackoverflow.com/questions/53487190/why-is-chrome-shrinking-the-view-in-responsive-mode
- */
-screen.orientation.onchange = function() {
-    let htmlElement =  $("html");
-    let bodyElement = $("body");
-    if($(window).innerWidth() < $(window).innerHeight()) {//landscape to portrait
-        htmlElement.css("overflow-x","hidden");
-        bodyElement.css("overflow-x", "hidden");
-    } else {//portrait to landscape
-        htmlElement.css("overflow","auto");
-        bodyElement.css("overflow", "auto");
-        //below 2 lines makes the UI not shrink in portrait mode
-        htmlElement.css("overflow-x","auto");
-        bodyElement.css("overflow-x", "auto");
-    }
-}
-
 function configureBackToTopButton() {
     let backToTop = $("#backToTop");
     $(window).scroll(function(){
