@@ -74,7 +74,6 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
-  * May 24: the tournament will start at 07:30
 * 09:00. "TviY tennis". 🏆 A non-ranking tournament (beginners). Advance registration is required.
 * 09:30. "Grand-Prix". 🏆 A 0-100 non-ranking tournament.
 * 10:00. "Breiks". 🏆 A 0-100 ranking tournament.
@@ -83,21 +82,16 @@
 * 10:00. "Solomyanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required. The tournament is cancelled if fewer than 6 players register before Saturday.
 * 10:00. "Top Spin" (Brovary). 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
-* 10:30, May 24. "Top-Spin" (Borshchahivka). 🏆 A 0-25 ranking tournament. Advance registration is welcome.
 * 11:00. "Quiks". 🏆 A 0-20 ranking tournament.
 * 11:00 - 13:30. Sports School #23. A ladder competition.
 * 11:00. "TviY tennis". 🏆 A women's non-ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
-  * May 24: ❌
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
-* 12:00, May 24. "Pulse". 🏆 A 0-10 ranking tournament.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 An unlimited non-ranking doubles tournament.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
-* 16:00, May 24. "Volia". 🏆 A 0-5 ranking tournament.
-  * May 24: it will likely be cancelled due to lack of votes
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
