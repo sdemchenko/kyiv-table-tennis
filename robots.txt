@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.tabletennis.kyiv.ua/sitemap.xml
+Sitemap: https://tabletennis.kyiv.ua/sitemap.xml
