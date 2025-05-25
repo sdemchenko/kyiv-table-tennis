@@ -102,32 +102,23 @@
 * 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A 0-15 ranking tournament.
-  * May 25: 0-80
 * 10:00 - 18:30, June 1. 🏆 Day 3 of "Raif Kids Cup" ([regulations](assets/temp/Raif-Kids-Cup.pdf); [registration](https://docs.google.com/forms/d/e/1FAIpQLSeZ8X-skGoiDASvUqYm3yG_bCoiCPSo9X16o_LKt_mnP40r_g/viewform); [updated schedule](assets/temp/raif-kids-cup-May-21-update.jpeg)).
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * May 25:
-    * 0-100 at 10:00
-    * 0-15 at 12:30
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 non-ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-  * May 25: the tournament will start at 10:00
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
 * 11:00, usually the last Sunday of a month. "RSP". 🏆 "RSP Table Tennis Open" monthly tournament.
   * June 29
   * July 27
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * May 25: A 0-40.0 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
-* 12:00, May 25. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * May 25: 0-10
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
-* 16:00, May 25. "Top-Spin" (Borshchahivka). 🏆 A 0-10 non-ranking tournament. Advance registration is welcome.
 * 16:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
