@@ -91,7 +91,7 @@
 * 11:45 - 14:00. "Leader" (RC). Training + a "King of the Table" competition.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
-* 15:00. "Orion". 🏆 An unlimited non-ranking doubles tournament.
+* 15:00. "Orion". 🏆 A 0-50 ranking tournament.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 16:00. "Volia". 🏆 A 0-25 ranking tournament.
 * 18:30 - 22:00. "KUTT". A ladder competition.
