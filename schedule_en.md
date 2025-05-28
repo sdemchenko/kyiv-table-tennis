@@ -81,6 +81,7 @@
 * 10:00 - 20:00, May 31. 🏆 Day 2 of "Raif Kids Cup" ([regulations](assets/temp/Raif-Kids-Cup.pdf); [registration](https://docs.google.com/forms/d/e/1FAIpQLSeZ8X-skGoiDASvUqYm3yG_bCoiCPSo9X16o_LKt_mnP40r_g/viewform); [updated schedule](assets/temp/raif-kids-cup-May-21-update.jpeg)).
 * 10:00. "Solomyanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required. The tournament is cancelled if fewer than 6 players register before Saturday.
 * 10:00. "Top Spin" (Brovary). 🏆 A 0-40 ranking tournament.
+* 10:00, May 31. "Top-Spin" (Borshchahivka). 🏆 A 0-25 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-20 ranking tournament.
 * 11:00 - 13:30. Sports School #23. A ladder competition.
@@ -115,6 +116,7 @@
   * June 29
   * July 27
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
+* 11:00, June 1. "Top-Spin" (Borshchahivka). 🏆 A 0-100 doubles non-ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
