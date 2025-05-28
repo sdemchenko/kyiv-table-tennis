@@ -17,7 +17,6 @@
 * 11:00 - 15:00. "Orion". A ladder competition.
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
-* 18:00. "Gourmet". 🏆 A 0-15 non-ranking tournament.
 * 18:00 - 20:30. "Himars". Games in a group.
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
@@ -103,7 +102,7 @@
 
 * 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
-* 10:00. "Gourmet". 🏆 A 0-15 ranking tournament.
+* 10:00. "Gourmet". 🏆 A 0-80 ranking tournament.
 * 10:00 - 18:30, June 1. 🏆 Day 3 of "Raif Kids Cup" ([regulations](assets/temp/Raif-Kids-Cup.pdf); [registration](https://docs.google.com/forms/d/e/1FAIpQLSeZ8X-skGoiDASvUqYm3yG_bCoiCPSo9X16o_LKt_mnP40r_g/viewform); [updated schedule](assets/temp/raif-kids-cup-May-21-update.jpeg)).
 * 10:00. "Raketka". 🏆 A ranking tournament.
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
