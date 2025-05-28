@@ -36,8 +36,8 @@ body {
     margin: auto;
 }
 
-h1 { font-size: 1.6em; padding-top: 24px; }
-h2 { font-size: 1.4em; padding-top: 22px; }
+h1 { font-size: 1.6em; padding-top: 0.5em; padding-bottom: 0.5em; }
+h2 { font-size: 1.4em; padding-top: 1em; }
 h3 { font-size: 1.15em; }
 
 a { color: var(--a-fg-color); text-decoration: none; }
