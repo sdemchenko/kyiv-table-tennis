@@ -94,6 +94,7 @@
 * 15:00. "Orion". 🏆 A 0-50 ranking tournament.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 16:00. "Volia". 🏆 A 0-25 ranking tournament.
+  * May 31: the tournament will likely be cancelled due to lack of registrations
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
