@@ -126,6 +126,7 @@
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * June 1: A 0-25.0 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
+  * June 1: 0-30
 * 12:00, June 1. "Pulse". 🏆 A 0-100 non-ranking tournament. Advance registration is welcome.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
