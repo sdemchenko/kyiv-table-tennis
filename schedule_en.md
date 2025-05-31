@@ -96,6 +96,7 @@
 * 16:00. "Volia". 🏆 A 0-25 ranking tournament.
   * May 31: the tournament will likely be cancelled due to lack of registrations
 * 18:30 - 22:00. "KUTT". A ladder competition.
+  * May 31: 17:30 - 22:00
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
