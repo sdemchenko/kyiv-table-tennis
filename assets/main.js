@@ -54,12 +54,10 @@ function timestampNoOlderThanTenSeconds() {
 function configureBackToTopButton() {
     let backToTop = $("#backToTop");
     $(window).scroll(function(){
-        let height = 300; // Alternative: document.documentElement.clientHeight
-        $(document).scrollTop() > height ? backToTop.show() : backToTop.hide();
+        $(document).scrollTop() > 300 ? backToTop.show() : backToTop.hide();
     });
     backToTop.click(function() {
-        $("html, body").scrollTop(0); // Alternative: $("html, body").animate({ scrollTop: 0 }, "fast");
-        return false;
+        window.scrollTo(0, 0);
     });
 }
 
