@@ -106,7 +106,7 @@
   * June 22: 0-40
   * June 29: ❌
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
-* 10:30, June 8. "Orion". 🏆 A non-ranking tournament for people with disabilities
+* 10:30, June 8. "Orion". 🏆 A non-ranking tournament for people with disabilities. [Register](https://forms.gle/komrSZfyGAS22gt56).
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
   * June 8: ❌
 * 10:30. "Orion". 🏆 A 0-5 non-ranking tournament.
