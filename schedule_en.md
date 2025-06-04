@@ -79,6 +79,7 @@
 * 10:00 - 12:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 10:00. "Solomyanka". 🏆 A 0-100 non-ranking tournament. Advance registration is required. The tournament is cancelled if fewer than 6 players register before Saturday.
 * 10:00. "Top Spin" (Brovary). 🏆 A 0-40 ranking tournament.
+* 10:00, June 7. Top-Spin (Borshchahivka). 🏆 A 0-25 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-20 ranking tournament.
 * 11:00 - 13:30. Sports School #23. A ladder competition.
@@ -121,6 +122,7 @@
   * June 29
   * July 27
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
+* 11:00, June 8. Top-Spin (Borshchahivka). 🏆 A 0-100 non-ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
