@@ -101,7 +101,7 @@
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A 0-80 ranking tournament.
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * June 8: 0-10
+  * June 8: 0-15
   * June 15: 0-15
   * June 22: 0-40
   * June 29: ❌
