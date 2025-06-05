@@ -44,6 +44,7 @@
 
 <h3 id="thursday">Thursday</h3>
 
+* 09:00, June 12. "Quiks". 🏆 A 0-15 ranking tournament.
 * 11:00 - 15:00. "Orion". A ladder competition.
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
