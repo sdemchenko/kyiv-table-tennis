@@ -13,7 +13,7 @@ h3 { font-size: 1.15em; }
 a { color: var(--a-fg-color); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-#to_home { text-align: left; display: block; font-size: 2em; }
+#to_home { text-align: left; display: block; width: fit-content; font-size: 2em; }
 
 #content {
     display: inline-block;
