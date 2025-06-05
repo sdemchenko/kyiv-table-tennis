@@ -1,0 +1,22 @@
+body {
+    background-color: var(--page-bg-color);
+    color: var(--page-fg-color);
+    /*noinspection CssNoGenericFontName*/
+    font-family: var(--font-family-sans);
+    text-align: center;
+}
+
+h1 { font-size: 2em; padding-top: 0.5em; padding-bottom: 0.5em; text-align: center; }
+h2 { font-size: 1em; padding: 0.1em; }
+h3 { font-size: 1.15em; }
+
+a { color: var(--a-fg-color); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+#to_home { text-align: left; display: block; font-size: 2em; }
+
+#content {
+    display: inline-block;
+    text-align: center;
+    padding: 1em;
+}

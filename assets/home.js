@@ -1,26 +1,8 @@
-useDarkOrLightSystemTheme();
-
 $(document).ready(function () {
     fetchSchedule();
     configureBackToTopButton();
     configureCheckboxesFilteringCompetitions();
 });
-
-/**
- * Automatically switch light / dark themes based on system preferences.
- */
-function useDarkOrLightSystemTheme() {
-
-    const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)');
-
-    function updateTheme() {
-        const theme = prefersDarkMode.matches ? 'dark' : 'light';
-        document.documentElement.setAttribute('data-theme', theme);
-    }
-
-    updateTheme();
-    prefersDarkMode.addEventListener('change', () => updateTheme());
-}
 
 /**
  * (1) Fetch schedule.md,
