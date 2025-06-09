@@ -124,6 +124,7 @@
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
+  * June 15: ❌
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
   * June 15: 0-5
   * June 22: 0-15
