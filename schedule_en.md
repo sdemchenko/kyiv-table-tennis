@@ -21,7 +21,7 @@
 * 18:00 - 22:30. "Volia". A ladder competition.
 * 18:15 - 20:40. Sports School #23. A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
-* 18:30. "Volia". 🏆 A 0-25 ranking tournament.
+* 18:30. "Volia". 🏆 A 0-10 ranking tournament.
 * 19:00 - 21:00. "Leader" (Sports School). A ladder competition (the Tuesday+Thursday+Saturday group).
 * 19:00. "Orion". 🏆 A 0-25 ranking tournament.
 * 19:00 - 21:00. "RSP". A one-hour training, then a ladder competition. The game is cancelled if fewer than 4 players register before 12pm.
@@ -93,6 +93,7 @@
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 An unlimited non-ranking doubles tournament.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
+* 16:00. "Volia". 🏆 A 0-45 ranking tournament.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
