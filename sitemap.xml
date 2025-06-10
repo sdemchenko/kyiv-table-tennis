@@ -56,6 +56,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://tabletennis.kyiv.ua/assets/knuba/index.html</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://tabletennis.kyiv.ua/assets/leader-sc/index.html</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
