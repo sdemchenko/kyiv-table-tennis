@@ -44,7 +44,6 @@
 
 <h3 id="thursday">Thursday</h3>
 
-* 09:00, June 12. "Quiks". 🏆 A 0-100 non-ranking tournament.
 * 11:00 - 15:00. "Orion". A ladder competition.
 * 17:00 - 19:30. Drahomanov University Sports Complex. A ladder competition.
 * 17:30 - 20:00. "Pechersk". A ladder competition.
@@ -82,19 +81,16 @@
 * 10:00. "Top Spin" (Brovary). 🏆 A 0-40 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-25 ranking tournament.
 * 11:00. "Quiks". 🏆 A 0-15 ranking tournament.
-  * June 14: 0-25
 * 11:00 - 13:30. Sports School #23. A ladder competition.
 * 11:00. "TviY tennis". 🏆 A women's non-ranking tournament.
 * 11:10. "Himars". 🏆 A 0-100 ranking tournament.
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
 * 11:45 - 14:00. "Leader" (RC). Training + a ladder competition.
-* 12:00, June 14. "Pulse". 🏆 A 0-10 ranking tournament.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 15:00. "Orion". 🏆 A 0-10 ranking tournament.
 * 15:00. "Orion". 🏆 An unlimited non-ranking doubles tournament.
 * 16:00 - 18:00. "Pechersk". A ladder competition.
 * 16:00. "Volia". 🏆 A 0-45 ranking tournament.
-  * June 14: it can be cancelled due to lack of votes
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
 * 19:00 - 22:30. "Volia". A ladder competition.
