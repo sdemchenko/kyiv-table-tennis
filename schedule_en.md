@@ -105,6 +105,7 @@
 * 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A 0-80 ranking tournament.
+  * June 15: ❌
 * 10:00. "Raketka". 🏆 A ranking tournament.
   * June 15: 0-15
   * June 22: 0-40
