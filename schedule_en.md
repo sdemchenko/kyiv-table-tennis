@@ -102,16 +102,13 @@
 * 08:00. "Spin Up". 🏆 A 0-100 non-ranking tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A 0-80 ranking tournament.
-  * June 15: ❌
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * June 15: 0-15
   * June 22: 0-40
   * June 29: ❌
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 non-ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
-  * June 15: +
   * June 22: ❌
   * June 29: ❌
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
@@ -120,14 +117,10 @@
   * July 27
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
-  * June 15: A 0-15.0 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
-* 12:00, June 15. "Pulse". 🏆 A 0-100 non-ranking tournament.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
-  * June 15: ❌
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
-  * June 15: 0-5
   * June 22: 0-15
   * June 29: 0-20
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
