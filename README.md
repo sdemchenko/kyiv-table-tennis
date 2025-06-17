@@ -1,1 +1,1 @@
-This is the code behind https://tabletennis.kyiv.ua/ 
+This is the content of https://tabletennis.kyiv.ua/ 
