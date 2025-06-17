@@ -106,6 +106,7 @@
   * June 22: 0-40
   * June 29: ❌
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
+* 10:00, July 13. "Orion". 🏆 "ORION Summer Cup" with a prize fund of 40,000₴. [Details](https://t.me/ttorion/3152), [registration](https://forms.gle/myxj1Jx9yEUYTnQ76).
 * 10:30. "Orion". 🏆 A 0-100 ranking tournament.
 * 10:30. "Orion". 🏆 A 0-5 non-ranking tournament.
 * 11:00. "Leader" (RC). 🏆 A kids' tournament. Three difficulty levels (the difficult level is a 0-100 ranking tournament, two others are non-ranking).
