@@ -94,7 +94,7 @@ table.t_courts td:nth-child(3) { text-align:center; }
     padding-bottom: 0.2em;
 }
 
-.lang-switcher {
+#lang-switcher {
     float: right;
     padding-right: 10px;
 }
