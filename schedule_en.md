@@ -103,7 +103,7 @@
 * 10:00 - 14:00. Drahomanov University Sports Complex. A ladder competition.
 * 10:00. "Gourmet". 🏆 A ranking tournament.
 * 10:00. "Raketka". 🏆 A ranking tournament.
-  * June 22: 0-40
+  * June 22: 0-15
   * June 29: ❌
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
 * 10:00, July 13. "Orion". 🏆 "ORION Summer Cup" with a prize fund of 40,000₴. [Details](https://t.me/ttorion/3152), [registration](https://forms.gle/myxj1Jx9yEUYTnQ76).
@@ -120,6 +120,7 @@
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * June 22: A 0-25.0 ranking tournament.
 * 12:00. "Pechersk". 🏆 A 0-35 ranking tournament.
+* 13:00, June 22. "Raketka". 🏆 A 0-45 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' 0-100 ranking tournament.
 * 14:30. "Orion". 🏆 A kids' tournament for beginners.
 * 15:00. "Leader" (RC). 🏆 A ranking tournament.
