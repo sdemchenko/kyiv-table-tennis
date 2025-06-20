@@ -114,9 +114,7 @@
   * June 22: A 0-10 ranking tournament (all ages).
   * June 29: ❌
 * 11:00. "Quiks". 🏆 A 0-10 ranking tournament.
-* 11:00, usually the last Sunday of a month. "RSP". 🏆 "RSP Table Tennis Open" monthly tournament.
-  * June 29
-  * July 27
+* 11:00, usually on the last Sunday of the month. "RSP". 🏆 "RSP Table Tennis Open" monthly tournament.
 * 11:00. "Start". 🏆 A tournament (beginners, amateurs).
 * 11:30. "Pokolinnia". 🏆 A 0-100 non-ranking tournament.
   * June 22: A 0-25.0 ranking tournament.
