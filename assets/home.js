@@ -10,7 +10,7 @@ $(document).ready(function () {
  * (3) replace the initial (SEO) content of <tt>div#scheduleContainer</tt> with the HTML.
  */
 function fetchSchedule() {
-    fetch($('#scheduleContainer').attr('data-src') + '?t=' + timestampNoOlderThanTenSeconds(), {})
+    fetch($('#scheduleContainer').attr('data-src') + '?cacheBuster=' + timestampNoOlderThanTenSeconds(), {})
         .then(function (response) {
             return response.text();
         })
