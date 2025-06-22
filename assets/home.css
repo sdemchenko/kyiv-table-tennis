@@ -135,5 +135,11 @@ div#clubOverlay {
     position:absolute;
     z-index:10000;
     border: 1px solid #ccc;
-    box-shadow:0 4px 12px rgba(0,0,0,0.3);
+}
+
+#clubOverlay table,
+#clubOverlay td,
+#clubOverlay th {
+    background-color: var(--table-bg-color);
+    opacity: 1;
 }

@@ -111,8 +111,16 @@ function linkClubNamesToClubDetails() {
         if ($row) {
             // Populate overlay with the row
             const $clonedRow = $row.clone();
-            $clonedRow.find('td:first').remove(); // Remove the first cell
-            $('#overlayContent').html(`<table><tbody>${$clonedRow.prop('outerHTML')}</tbody></table>`);
+            $clonedRow.find('td:first').remove();
+
+            // Transform the row into a single column multi-row table
+            const overlayTable = $('#overlayContent').html(`<table><tbody></tbody></table>`);
+            $clonedRow.find('td').each(function () {
+                if ($(this).text().trim() === '') { return; }
+                const $newRow = $('<tr></tr>');
+                $newRow.append($(this)); // move the cell into the new row
+                overlayTable.append($newRow);
+            });
 
             // Position overlay below the clicked link and slightly to the right of the line start
             let leftOffset = 50;
