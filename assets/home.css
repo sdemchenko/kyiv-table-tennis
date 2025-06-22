@@ -134,7 +134,8 @@ div#clubOverlay {
     display:none;
     position:absolute;
     z-index:10000;
-    border: 1px solid #ccc;
+    border: 1px solid var(--table-border-color);
+    box-shadow:0 4px 12px rgba(0,0,0,0.3);
 }
 
 #clubOverlay table,

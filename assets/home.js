@@ -54,8 +54,10 @@ function configureCheckboxesFilteringCompetitions() {
 }
 
 function linkClubNamesToClubDetails() {
+    const overlayAnimationPeriod = 100;
     let scheduleContainer = $('#scheduleContainer');
-    
+    let clubOverlay = $('#clubOverlay');
+
     // Step 1: Build map of first-column text → <tr>
     const clubMap = {};
     const clubNames = [];
@@ -114,7 +116,7 @@ function linkClubNamesToClubDetails() {
             $clonedRow.find('td:first').remove();
 
             // Transform the row into a single column multi-row table
-            const overlayTable = $('#overlayContent').html(`<table><tbody></tbody></table>`);
+            const overlayTable = clubOverlay.html(`<table><tbody></tbody></table>`);
             $clonedRow.find('td').each(function () {
                 if ($(this).text().trim() === '') { return; }
                 const $newRow = $('<tr></tr>');
@@ -124,17 +126,17 @@ function linkClubNamesToClubDetails() {
 
             // Position overlay below the clicked link and slightly to the right of the line start
             let leftOffset = 50;
-            $('#clubOverlay').css({
+            clubOverlay.css({
                 top: $(this).offset().top + $(this).outerHeight() + 5,
                 left: scheduleContainer.offset().left + leftOffset,
                 'max-width': (scheduleContainer.outerWidth() - leftOffset) + 'px'
-            }).fadeIn(200);
+            }).fadeIn(overlayAnimationPeriod);
         }
     });
 
     // Step 4: Hide overlay when clicking outside it
     $(document).on('click', function (e) {
-        const $overlay = $('#clubOverlay');
+        const $overlay = clubOverlay;
         const $triggerLink = $(e.target).closest('.scroll-to-club');
 
         if (
@@ -142,14 +144,14 @@ function linkClubNamesToClubDetails() {
             $overlay.has(e.target).length === 0 && // not clicking inside overlay
             !$triggerLink.length                   // not clicking on a scroll-to-club link
         ) {
-            $overlay.fadeOut(200);
+            $overlay.fadeOut(overlayAnimationPeriod);
         }
     });
 
     // Step 5: Hide overlay on Escape key press
     $(document).on('keydown', function (e) {
         if (e.key === 'Escape' || e.keyCode === 27) {
-            $('#clubOverlay').fadeOut(200);
+            clubOverlay.fadeOut(overlayAnimationPeriod);
         }
     });
     
