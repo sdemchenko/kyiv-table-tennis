@@ -8,16 +8,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Настільний теніс Києва</title>
     <link rel="icon" type="image/x-icon" href="favicon.png">
-    <link rel="stylesheet" type="text/css" href="assets/light-or-dark-mode.css">
-    <link rel="stylesheet" type="text/css" href="assets/home.css?cacheBuster=1.1">
+    <link rel="stylesheet" type="text/css" href="assets/light-or-dark-mode.css?cacheBuster=1.2">
+    <link rel="stylesheet" type="text/css" href="assets/home.css?cacheBuster=1.2">
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"
             integrity="sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs"
             crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"
             integrity="sha384-wLhprpjsmjc/XYIcF+LpMxd8yS1gss6jhevOp6F6zhiIoFK6AmHtm4bGKtehTani"
             crossorigin="anonymous"></script>
-    <script src="assets/light-or-dark-mode.js"></script>
-    <script src="assets/home.js"></script>
+    <script src="assets/light-or-dark-mode.js?cacheBuster=1.2"></script>
+    <script src="assets/home.js?cacheBuster=1.2"></script>
 </head>
 <body>
 
@@ -129,7 +129,7 @@
 
 
 <h2 id="clubs">Клуби та зали</h2>
-<table class="t_clubs">
+<table id="t_clubs">
     <thead>
     <tr>
         <th style="width: 20%">Назва</th>
@@ -705,7 +705,7 @@
         <td><a href="https://www.google.com/maps/dir/?api=1&destination=50.4365818,30.4221625">проспект Гузара, 1</a></td>
     </tr>
     <tr>
-        <td>Спорткомплекс НПУ Драгоманова</td>
+        <td>Спорткомплекс УДУ</td>
         <td>
             <a href="https://www.facebook.com/profile.php?id=100057615302136">Facebook</a>,
             <a href="https://www.facebook.com/photo/?fbid=402289102930933&set=a.402300896263087">вигляд</a>.<br>
@@ -749,7 +749,7 @@
 </table>
 
 <h2 id="courts">Майданчики</h2>
-<table class="t_courts">
+<table id="t_courts">
     <thead>
     <tr>
         <th style="width: 20%">Орієнтир</th>
@@ -1527,6 +1527,8 @@
 </div>
 
 <button id="backToTop" title="До початку">↑</button>
+
+<div id="clubOverlay"><div id="overlayContent"></div></div>
 
 </body>
 </html>

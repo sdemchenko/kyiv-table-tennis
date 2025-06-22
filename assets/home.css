@@ -79,7 +79,7 @@ th, td {
     border-width: 0;
 }
 
-table.t_courts td:nth-child(3) { text-align:center; }
+table#t_courts td:nth-child(3) { text-align:center; }
 
 .warn {
     font-size: small;
@@ -128,4 +128,12 @@ div#copyright {
     #backToTop {
         right: 20px;
     }
+}
+
+div#clubOverlay {
+    display:none;
+    position:absolute;
+    z-index:10000;
+    border: 1px solid #ccc;
+    box-shadow:0 4px 12px rgba(0,0,0,0.3);
 }

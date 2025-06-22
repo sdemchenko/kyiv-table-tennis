@@ -19,6 +19,7 @@ function fetchSchedule() {
                 html: true // Enable HTML tags in source
             });
             $('#scheduleContainer').html(md.render(data));
+            linkClubNamesToClubDetails();
         })
         .catch(function (err) {
             console.log(err);
@@ -50,4 +51,98 @@ function configureCheckboxesFilteringCompetitions() {
     $('#hideOtherCompetitions').click(function () {
         $("#scheduleContainer > ul > li:not(:contains('🏆'))").toggle();
     });
+}
+
+function linkClubNamesToClubDetails() {
+    let scheduleContainer = $('#scheduleContainer');
+    
+    // Step 1: Build map of first-column text → <tr>
+    const clubMap = {};
+    const clubNames = [];
+
+    $('#t_clubs tbody tr').each(function () {
+        const $row = $(this);
+        const $cell = $row.find('td:first');
+        const name = $cell.text().trim();
+        if (name) {
+            clubMap[name] = $row.clone();
+            clubNames.push(name);
+        }
+    });
+
+    // Step 2: In each text node in the schedule, make the first occurrence of the club name clickable
+    scheduleContainer
+        .contents()
+        .each(function processNode() {
+            if (this.nodeType === Node.TEXT_NODE) {
+                let nodeText = this.nodeValue;
+                let replaced = false;
+
+                for (const clubName of clubNames) {
+                    const index = nodeText.indexOf(clubName);
+                    if (index !== -1) {
+                        const before = nodeText.slice(0, index);
+                        const match = nodeText.slice(index, index + clubName.length);
+                        const after = nodeText.slice(index + clubName.length);
+
+                        const $link = $(`<a href="#" class="scroll-to-club" data-club="${clubName}">${match}</a>`);
+
+                        // Replace text node with: before + <a> + after
+                        $(this).replaceWith(document.createTextNode(before), $link[0], document.createTextNode(after));
+                        replaced = true;
+                        break; // only one match per node
+                    }
+                }
+
+                if (!replaced) {
+                    // Recurse into children if it's not a pure text node
+                    $(this).contents().each(processNode);
+                }
+            } else if (this.nodeType === Node.ELEMENT_NODE) {
+                $(this).contents().each(processNode);
+            }
+        });
+
+    // Step 3: Show overlay near clicked link
+    $(document).on('click', '.scroll-to-club', function (e) {
+        e.preventDefault();
+        const clubName = $(this).data('club');
+        const $row = clubMap[clubName];
+        if ($row) {
+            // Populate overlay with the row
+            const $clonedRow = $row.clone();
+            $clonedRow.find('td:first').remove(); // Remove the first cell
+            $('#overlayContent').html(`<table><tbody>${$clonedRow.prop('outerHTML')}</tbody></table>`);
+
+            // Position overlay below the clicked link and slightly to the right of the line start
+            let leftOffset = 50;
+            $('#clubOverlay').css({
+                top: $(this).offset().top + $(this).outerHeight() + 5,
+                left: scheduleContainer.offset().left + leftOffset,
+                'max-width': (scheduleContainer.outerWidth() - leftOffset) + 'px'
+            }).fadeIn(200);
+        }
+    });
+
+    // Step 4: Hide overlay when clicking outside it
+    $(document).on('click', function (e) {
+        const $overlay = $('#clubOverlay');
+        const $triggerLink = $(e.target).closest('.scroll-to-club');
+
+        if (
+            !$overlay.is(e.target) &&              // not clicking directly on overlay
+            $overlay.has(e.target).length === 0 && // not clicking inside overlay
+            !$triggerLink.length                   // not clicking on a scroll-to-club link
+        ) {
+            $overlay.fadeOut(200);
+        }
+    });
+
+    // Step 5: Hide overlay on Escape key press
+    $(document).on('keydown', function (e) {
+        if (e.key === 'Escape' || e.keyCode === 27) {
+            $('#clubOverlay').fadeOut(200);
+        }
+    });
+    
 }
