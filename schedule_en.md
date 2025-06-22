@@ -94,7 +94,7 @@
 * 16:00. "Volia". 🏆 A 0-45 ranking tournament.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
-* 19:00 - 22:30. "Volia". A ladder competition.
+* 18:00 - 22:30. "Volia". A ladder competition.
 * 19:15 - 23:00. "Raketka". Games in a group (the Wednesday+Saturday group).
 
 <h3 id="sunday">Sunday</h3>
@@ -125,6 +125,6 @@
   * June 22: 0-25
   * June 29: 0-20
 * 15:00. "Orion". 🏆 A 0-15 ranking tournament.
-* 16:00 - 22:30. "Volia". A ladder competition.
+* 18:00 - 22:30. "Volia". A ladder competition.
 * 18:30 - 22:00. "KUTT". A ladder competition.
 * 18:30 - 21:00. "Orion". A ladder competition.
