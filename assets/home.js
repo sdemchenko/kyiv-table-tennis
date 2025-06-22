@@ -125,7 +125,7 @@ function linkClubNamesToClubDetails() {
             });
 
             // Position overlay below the clicked link and slightly to the right of the line start
-            let leftOffset = 50;
+            let leftOffset = 40;
             clubOverlay.css({
                 top: $(this).offset().top + $(this).outerHeight() + 5,
                 left: scheduleContainer.offset().left + leftOffset,

@@ -8,6 +8,7 @@
     --a-fg-color: #1D84C6;
     --table-bg-color: #FFFFFF;
     --table-border-color: #e0e0e0;
+    --box-shadow-color: rgba(0, 0, 0, 0.3);
     scrollbar-color: #c1c1c1 #fafafa;
 }
 
@@ -18,5 +19,6 @@
     --a-fg-color: #6e9fff;
     --table-bg-color: #2C3034;
     --table-border-color: #505050;
+    --box-shadow-color: rgba(255, 255, 255, 0.3);
     scrollbar-color: #757575 #2E2E2E;
 }
