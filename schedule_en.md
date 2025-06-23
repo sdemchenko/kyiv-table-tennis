@@ -67,6 +67,7 @@
 * 18:00. Sports School #21. 🏆 A 0-100 non-ranking tournament.
 * 18:00 - 22:30. Volia. A ladder competition.
 * 18:30 - 22:00. KUTT. A ladder competition.
+* 18:30. Quiks. 🏆 A 0-5 ranking tournament.
 * 19:00 - 21:00. Leader (Sports School). A ladder competition (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. Raketka. Games in a group (the Tuesday+Friday group).
 
@@ -80,7 +81,6 @@
 * 10:00. Solomyanka. 🏆 A 0-100 non-ranking tournament. Advance registration is required. The tournament is cancelled if fewer than 6 players register before Saturday.
 * 10:00. Top Spin (Brovary). 🏆 A 0-40 ranking tournament.
 * 10:30. Orion. 🏆 A 0-25 ranking tournament.
-* 11:00. Quiks. 🏆 A 0-15 ranking tournament.
 * 11:00 - 13:30. Sports School #23. A ladder competition.
 * 11:00. TviY tennis. 🏆 A women's non-ranking tournament.
 * 11:10. Himars. 🏆 A 0-100 ranking tournament.
