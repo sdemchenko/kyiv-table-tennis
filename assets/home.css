@@ -20,7 +20,7 @@ h3 { font-size: 1.15rem; }
 a { color: var(--a-fg-color); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-a.club-name::before {
+a.place-name::before {
     content: "🏓";
     font-size: 0.85em;
     margin-right: 0.25em;
@@ -136,7 +136,7 @@ div#copyright {
     }
 }
 
-div#clubOverlay {
+div#placeInfoOverlay {
     display:none;
     position:absolute;
     z-index:10000;
@@ -144,9 +144,9 @@ div#clubOverlay {
     box-shadow:0 4px 12px var(--box-shadow-color);
 }
 
-#clubOverlay table,
-#clubOverlay td,
-#clubOverlay th {
+#placeInfoOverlay table,
+#placeInfoOverlay td,
+#placeInfoOverlay th {
     background-color: var(--table-bg-color);
     opacity: 1;
 }
