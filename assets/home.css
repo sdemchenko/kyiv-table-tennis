@@ -24,6 +24,7 @@ a.place-name::before {
     content: "🏓";
     font-size: 0.85em;
     margin-right: 0.25em;
+    font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
 }
 
 ul#toc, ul#toc ul { list-style-type: none; }
