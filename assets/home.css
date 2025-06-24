@@ -25,16 +25,6 @@ a.club-name::before {
     font-size: 0.85em;
     margin-right: 0.25em;
 }
-/*
-a.club-name {
-    text-decoration: none;
-    border-bottom: 1px dotted currentColor;
-}
-
-a.club-name:hover {
-    text-decoration: none;
-    border-bottom: 2px dotted currentColor;
-}*/
 
 ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
