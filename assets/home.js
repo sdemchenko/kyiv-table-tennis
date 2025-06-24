@@ -45,10 +45,10 @@ function configureBackToTopButton() {
 }
 
 function configureCheckboxesFilteringCompetitions() {
-    $('#hideTournaments').click(function () {
+    $('#showTournaments').click(function () {
         $("#scheduleContainer > ul > li:contains('🏆')").toggle();
     });
-    $('#hideOtherCompetitions').click(function () {
+    $('#showOtherCompetitions').click(function () {
         $("#scheduleContainer > ul > li:not(:contains('🏆'))").toggle();
     });
 }
