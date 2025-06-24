@@ -19,8 +19,22 @@ h3 { font-size: 1.15rem; }
 
 a { color: var(--a-fg-color); text-decoration: none; }
 a:hover { text-decoration: underline; }
-a.club-name { text-decoration: underline dashed; text-underline-offset: 3px; text-decoration-thickness: 1px; }
-a.club-name:hover { text-decoration: underline dashed; text-underline-offset: 3px; text-decoration-thickness: 2px; }
+
+a.club-name::before {
+    content: "ⓘ";
+    font-size: 0.85em;
+    margin-right: 0.25em;
+}
+/*
+a.club-name {
+    text-decoration: none;
+    border-bottom: 1px dotted currentColor;
+}
+
+a.club-name:hover {
+    text-decoration: none;
+    border-bottom: 2px dotted currentColor;
+}*/
 
 ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
