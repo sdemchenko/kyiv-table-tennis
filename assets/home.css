@@ -21,7 +21,7 @@ a { color: var(--a-fg-color); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 a.club-name::before {
-    content: "ⓘ";
+    content: "🏓";
     font-size: 0.85em;
     margin-right: 0.25em;
 }
