@@ -19,6 +19,8 @@ h3 { font-size: 1.15rem; }
 
 a { color: var(--a-fg-color); text-decoration: none; }
 a:hover { text-decoration: underline; }
+a.club-name { text-decoration: underline dashed; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+a.club-name:hover { text-decoration: underline dashed; text-underline-offset: 3px; text-decoration-thickness: 2px; }
 
 ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
