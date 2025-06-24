@@ -86,7 +86,7 @@ function linkClubNamesToClubDetails() {
                         const before = nodeText.slice(0, index);
                         const after = nodeText.slice(index + clubName.length);
 
-                        const $link = $(`<a href="#" class="club-name">${clubName}</a>`);
+                        const $link = $(`<a href="#" class="club-name" data-club="${clubName}">${clubName}</a>`);
 
                         // Replace text node with: before + <a> + after
                         $(this).replaceWith(document.createTextNode(before), $link[0], document.createTextNode(after));
@@ -107,7 +107,7 @@ function linkClubNamesToClubDetails() {
     // Step 3: Show overlay near clicked club name
     $(document).on('click', '.club-name', function (e) {
         e.preventDefault();
-        const clubName = $(this).text();
+        const clubName = $(this).data('club');
         const $row = clubMap[clubName];
         if ($row) {
             // Populate overlay with the row
