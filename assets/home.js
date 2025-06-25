@@ -115,6 +115,9 @@ function linkPlaceNamesToPlaceInfo() {
             // Transform the row into a single column multi-row table
             const overlayTable = placeInfoOverlay.html(`<table><tbody></tbody></table>`);
             $clonedRow.find('td').each(function () {
+                $(this).find('a.place-name').each(function () {
+                    $(this).replaceWith($('<span class="place-name">').append($(this).text()));
+                });
                 if ($(this).text().trim() === '') { return; }
                 const $newRow = $('<tr></tr>');
                 $newRow.append($(this)); // move the cell into the new row

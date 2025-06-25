@@ -20,7 +20,7 @@ h3 { font-size: 1.15rem; }
 a { color: var(--a-fg-color); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-a.place-name::before {
+a.place-name::before, span.place-name::before {
     content: "🏓";
     font-size: 0.85em;
     margin-right: 0.25em;
