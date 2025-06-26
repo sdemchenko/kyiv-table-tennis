@@ -84,7 +84,7 @@ function linkPlaceNamesToPlaceInfo() {
                         const before = nodeText.slice(0, index);
                         const after = nodeText.slice(index + clubName.length);
 
-                        const $link = $(`<a class="place-name" data-place="${clubName}">${clubName}</a>`);
+                        const $link = $(`<a href="#" class="place-name" data-place="${clubName}">${clubName}</a>`);
 
                         // Replace the text node with: before + <a> + after
                         $(this).replaceWith(document.createTextNode(before), $link[0], document.createTextNode(after));
@@ -143,7 +143,7 @@ function linkPlaceNamesToPlaceInfo() {
         if (
             !placeInfoOverlay.is(e.target) &&              // not clicking directly on overlay
             placeInfoOverlay.has(e.target).length === 0 && // not clicking inside overlay
-            !$triggerLink.length                           // not clicking on a place-name link
+            !$triggerLink.length                   // not clicking on a place-name link
         ) {
             placeInfoOverlay.fadeOut(animationDuration);
         }
