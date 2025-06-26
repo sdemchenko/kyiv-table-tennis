@@ -86,7 +86,7 @@
 * 11:00. TviY tennis. 🏆 A women's non-ranking tournament.
 * 11:10. Himars. 🏆 A 0-100 ranking tournament.
 * 11:30. Pokolinnia. 🏆 A 0-100 non-ranking tournament.
-* 11:45 - 14:00. Leader (RC). Training + a ladder competition.
+* 11:45 - 14:00. Leader (RC). Training and a ladder competition.
 * 15:00. DBK-4 Sports Complex. A ladder competition.
 * 15:00. Orion. 🏆 A 0-10 ranking tournament.
 * 15:00. Orion. 🏆 A 0-50 ranking tournament.
