@@ -1,3 +1,8 @@
+:root, :host {
+    --fa-style-family-classic: 'Font Awesome 6 Free';
+    --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Free';
+}
+
 html, body {
     overflow-x: hidden;
 }
@@ -20,11 +25,23 @@ h3 { font-size: 1.15rem; }
 a { color: var(--a-fg-color); text-decoration: none; cursor: pointer; }
 a:hover { text-decoration: underline; }
 
+/* A visual clue for clicky 'a' and non-clicky 'span'. */
 [data-place]::before {
     content: "🏓";
     font-size: 0.85em;
     margin-right: 0.25em;
     font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+}
+
+a[href^="https://www.google.com/maps/dir/"]::before {
+    content: "\f3c5";
+    font: var(--fa-font-solid);
+    -webkit-font-smoothing: antialiased;
+
+    font-size: 0.6em;
+    opacity: 0.6;
+    margin-right: 0.25em;
+    vertical-align: middle;
 }
 
 ul#toc, ul#toc ul { list-style-type: none; }
