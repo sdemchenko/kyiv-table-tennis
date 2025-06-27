@@ -107,7 +107,7 @@
 * 10:00. Raketka. 🏆 A ranking tournament.
   * June 29: A 0-20 ranking tournament will start at 11:00.
 * 10:00. Table Tennis at Revutskoho. 🏆 A 0-100 non-ranking tournament.
-* 10:00, July 13. Orion. 🏆 "ORION Summer Cup" with a prize fund of 40,000₴. [Details](https://t.me/ttorion/3152), [registration](https://forms.gle/myxj1Jx9yEUYTnQ76).
+* 10:00, July 13. Orion. 🏆 "ORION Summer Cup" with a prize fund of 40,000₴. [Details](https://t.me/chatorion/21155), [registration](https://forms.gle/myxj1Jx9yEUYTnQ76).
 * 10:30. Orion. 🏆 A 0-100 ranking tournament.
 * 10:30. Orion. 🏆 A non-ranking tournament for players without UTTF ranking.
 * 11:00. Leader (RC). 🏆 A kids' tournament. Three difficulty levels (the challenging level is a 0-100 ranking tournament, two others are non-ranking).
