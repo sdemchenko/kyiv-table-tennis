@@ -17,10 +17,10 @@ h1 { font-size: 1.6rem; margin: 1.6rem 0; }
 h2 { font-size: 1.4rem; margin-top: 2rem; }
 h3 { font-size: 1.15rem; }
 
-a { color: var(--a-fg-color); text-decoration: none; }
+a { color: var(--a-fg-color); text-decoration: none; cursor: pointer; }
 a:hover { text-decoration: underline; }
 
-a.place-name::before, span.place-name::before {
+[data-place]::before {
     content: "🏓";
     font-size: 0.85em;
     margin-right: 0.25em;

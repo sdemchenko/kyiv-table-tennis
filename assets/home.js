@@ -84,7 +84,7 @@ function linkPlaceNamesToPlaceInfo() {
                         const before = nodeText.slice(0, index);
                         const after = nodeText.slice(index + clubName.length);
 
-                        const $link = $(`<a href="#" class="place-name" data-place="${clubName}">${clubName}</a>`);
+                        const $link = $(`<a data-place="${clubName}">${clubName}</a>`);
 
                         // Replace the text node with: before + <a> + after
                         $(this).replaceWith(document.createTextNode(before), $link[0], document.createTextNode(after));
@@ -103,7 +103,7 @@ function linkPlaceNamesToPlaceInfo() {
         });
 
     // Step 3: Show overlay near the clicked place name
-    $(document).on('click', '.place-name', function (e) {
+    $(document).on('click', 'a[data-place]', function (e) {
         e.preventDefault();
         const placeName = $(this).data('place');
         const $row = places.get(placeName);
@@ -115,9 +115,12 @@ function linkPlaceNamesToPlaceInfo() {
             // Transform the row into a single column multi-row table
             const overlayTable = placeInfoOverlay.html(`<table><tbody></tbody></table>`);
             $clonedRow.find('td').each(function () {
-                $(this).find('a.place-name').each(function () {
-                    $(this).replaceWith($('<span class="place-name">').append($(this).text()));
+                
+                // Disable links in overlays to other overlays
+                $(this).find('a[data-place]').each(function () {
+                    $(this).replaceWith($('<span data-place="">').append($(this).text()));
                 });
+
                 if ($(this).text().trim() === '') { return; }
                 const $newRow = $('<tr></tr>');
                 $newRow.append($(this)); // move the cell into the new row
@@ -138,12 +141,12 @@ function linkPlaceNamesToPlaceInfo() {
 
     // Step 4: Hide overlay when clicking outside it
     $(document).on('click', function (e) {
-        const $triggerLink = $(e.target).closest('.place-name');
+        const $triggerLink = $(e.target).closest('a[data-place]');
 
         if (
             !placeInfoOverlay.is(e.target) &&              // not clicking directly on overlay
             placeInfoOverlay.has(e.target).length === 0 && // not clicking inside overlay
-            !$triggerLink.length                   // not clicking on a place-name link
+            !$triggerLink.length                           // not clicking on 'a[data-place]' link
         ) {
             placeInfoOverlay.fadeOut(animationDuration);
         }
