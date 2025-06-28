@@ -45,29 +45,32 @@ function configureBackToTopButton() {
 }
 
 function configureCheckboxesFilteringCompetitions() {
-    let tournamentMarkers = ['🏆', '🏅', 'tournament', 'championship', 'турнір', 'чемпіонат'];
+    let tournamentMarkers = ['tournament', 'турнір', 'cup', 'кубок', 'championship', 'чемпіонат'];
     $('#showTournaments').click(function () {
         $('#scheduleContainer > ul > li').filter(function () {
-            return hasAnyDirectTextCI($(this), tournamentMarkers);
+            return hasAnyDirectWholeWordCI($(this), tournamentMarkers);
         }).toggle();
     });
     $('#showOtherCompetitions').click(function () {
         $('#scheduleContainer > ul > li').filter(function () {
-            return !hasAnyDirectTextCI($(this), tournamentMarkers);
+            return !hasAnyDirectWholeWordCI($(this), tournamentMarkers);
         }).toggle();
     });
 }
 
-function hasAnyDirectTextCI($el, texts) {
-    return Array.from($el[0].childNodes).some(node =>
-        node.nodeType === Node.TEXT_NODE &&
-        texts.some(t => node.textContent.toLowerCase().includes(t.toLowerCase()))
-    );
-}
+function hasAnyDirectWholeWordCI($el, words) {
+    const textNodes = Array.from($el[0].childNodes).filter(node => node.nodeType === Node.TEXT_NODE);
 
-function hasAnyTextCI($el, texts) {
-    const fullText = $el.text().toLowerCase();
-    return texts.some(t => fullText.includes(t.toLowerCase()));
+    return textNodes.some(node => {
+        const text = node.textContent;
+
+        return words.some(word => {
+            // Build a word-boundary-safe regex for the word
+            const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape regex metacharacters
+            const regex = new RegExp(`(^|[^\\p{L}])(${escapedWord})(?!\\p{L})`, 'iu'); // Unicode-aware boundary
+            return regex.test(text);
+        });
+    });
 }
 
 function linkPlaceNamesToPlaceInfo() {

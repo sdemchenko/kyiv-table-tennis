@@ -114,7 +114,6 @@
 * 11:00. Leader (RC). 🏅 A kids' tournament. Three difficulty levels (the challenging level is a 0-100 ranking tournament, two others are non-ranking).
   * June 29: 🏆 A 0-5 ranking tournament (all ages).
 * 11:00. Quiks. 🏆 A 0-10 ranking tournament.
-* 11:00, usually on the last Sunday of the month. RSP. 🏅 "RSP Table Tennis Open" monthly tournament.
 * 11:00. Start. 🏆 A tournament (beginners, amateurs).
 * 11:30. Pokolinnia. 🏅 A 0-100 non-ranking tournament.
   * June 29: 🏆 A 0-25.0 ranking tournament.
