@@ -104,6 +104,7 @@
 * 08:00. Spin Up. 🏅 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. Casual Ladder.
 * 10:00. Gourmet. 🏆 Ranking Tournament.
+  * June 29: 🏆 0-15 and 0-80 Ranking Tournaments
 * 10:00. Raketka. 🏆 Ranking Tournament.
   * June 29: 🏆 0-20 Ranking Tournament will start at 11:00.
 * 10:00. Table Tennis at Revutskoho. 🏅 0-100 Non-Ranking Tournament.
