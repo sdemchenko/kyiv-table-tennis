@@ -18,7 +18,15 @@ function fetchSchedule() {
         .then(function (data) {
             // Markdown with both HTML support and markdown-it-attrs plugin enabled
             const md = window.markdownit({html: true}).use(window.markdownItAttrs);
-            $('#scheduleContainer').html(md.render(data));
+            
+            let html = md.render(data);
+            
+            // Remove empty style attributes inserted by markdown-it-attrs
+            const $parsed = $('<div>').html(html);
+            $parsed.find('[style=""]').removeAttr('style');
+
+            $('#scheduleContainer').html($parsed.html());
+            
             linkPlaceNamesToPlaceInfo();
         })
         .catch(function (err) {
