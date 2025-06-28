@@ -81,7 +81,6 @@
 * 10:00. Solomyanka. 🏅 0-100 Non-Ranking Tournament. Advance registration is required. The Tournament is cancelled if fewer than 6 players register before Saturday.
 * 10:00. Top Spin (Brovary). 🏆 0-40 Ranking Tournament.
 * 10:30. Orion. 🏆 0-25 Ranking Tournament.
-* 11:00, June 28. "Pulse". 🏅 0-100 Non-Ranking Tournament.
 * 11:00 - 13:30. Sports School #23. Casual Ladder.
 * 11:00. TviY tennis. 🏅 A women's Non-Ranking Tournament.
 * 11:10. Himars. 🏆 0-100 Ranking Tournament.
