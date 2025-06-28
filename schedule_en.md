@@ -85,7 +85,6 @@
 * 11:00. TviY tennis. 🏅 A women's Non-Ranking Tournament.
 * 11:10. Himars. 🏆 0-100 Ranking Tournament.
 * 11:30. Pokolinnia. 🏅 0-100 Non-Ranking Tournament.
-  * June 28: 0-15.0 Ranking Tournament.
 * 11:45 - 14:00. Leader (RC). Training and a ladder competition.
 * 15:00. DBK-4 Sports Complex. Casual Ladder.
 * 15:00. Orion. 🏆 0-10 Ranking Tournament.
@@ -93,7 +92,6 @@
 * 15:00. Quiks. 🏆 0-25 Ranking Tournament.
 * 16:00 - 18:00. Pechersk. Casual Ladder.
 * 16:00. Volia. 🏆 0-25 Ranking Tournament.
-  * June 28: the Tournament will likely be canceled due to lack of registrations.
 * 18:30 - 22:00. KUTT. Casual Ladder.
 * 18:30 - 21:00. Orion. Casual Ladder.
 * 18:00 - 22:30. Volia. Casual Ladder.
