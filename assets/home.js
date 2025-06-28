@@ -7,7 +7,8 @@ $(document).ready(function () {
 /**
  * (1) Fetch schedule.md,
  * (2) transform the fetched Markdown content to HTML,
- * (3) replace the initial (SEO) content of <tt>div#scheduleContainer</tt> with the HTML.
+ * (3) replace the initial (SEO) content of <tt>div#scheduleContainer</tt> with the HTML,
+ * (4) makes club / court names in the schedule clicky: they should open an overlay with the place info.
  */
 function fetchSchedule() {
     fetch($('#scheduleContainer').attr('data-src') + '?cacheBuster=' + timestampNoOlderThanTenSeconds(), {})
@@ -15,9 +16,8 @@ function fetchSchedule() {
             return response.text();
         })
         .then(function (data) {
-            const md = window.markdownit({
-                html: true // Enable HTML tags in the source
-            });
+            // Markdown with both HTML support and markdown-it-attrs plugin enabled
+            const md = window.markdownit({html: true}).use(window.markdownItAttrs);
             $('#scheduleContainer').html(md.render(data));
             linkPlaceNamesToPlaceInfo();
         })
@@ -98,13 +98,13 @@ function linkPlaceNamesToPlaceInfo() {
                 let nodeText = this.nodeValue;
                 let replaced = false;
 
-                for (const clubName of places.keys()) {
-                    const index = nodeText.indexOf(clubName);
+                for (const placeName of places.keys()) {
+                    const index = nodeText.indexOf(placeName);
                     if (index !== -1) {
                         const before = nodeText.slice(0, index);
-                        const after = nodeText.slice(index + clubName.length);
+                        const after = nodeText.slice(index + placeName.length);
 
-                        const $link = $(`<a data-place="${clubName}">${clubName}</a>`);
+                        const $link = $(`<a data-place="${placeName}">${placeName}</a>`);
 
                         // Replace the text node with: before + <a> + after
                         $(this).replaceWith(document.createTextNode(before), $link[0], document.createTextNode(after));

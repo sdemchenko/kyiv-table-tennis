@@ -1,23 +1,23 @@
-
-<h3 id="monday">Monday</h3>
+﻿
+### Monday {#monday}
 
 * 11:00 - 15:00. Orion. Casual Ladder.
 * 17:00 - 19:00. Gourmet. Casual Ladder.
 * 17:30 - 20:00. Pechersk. Casual Ladder.
 * 18:00 - 20:30. Breiks. Casual Ladder.
-* 18:00 - 20:30. Himars. Games in a group.
+* 18:00 - 20:30. Himars. Group Games.
 * 18:00 - 22:30. Volia. Casual Ladder.
 * 18:30 - 22:00. KUTT. Casual Ladder.
 * 19:00 - 21:00. Leader (Sports School). Casual Ladder (the Monday+Wednesday+Friday group).
-* 19:15 - 23:00. Raketka. Group games (the Monday+Thursday group).
+* 19:15 - 23:00. Raketka. Group Games (the Monday+Thursday group).
 * 19:00. Sports School #21. 🏅 0-100 Non-Ranking Tournament.
 
-<h3 id="tuesday">Tuesday</h3>
+### Tuesday {#tuesday}
 
 * 11:00 - 15:00. Orion. Casual Ladder.
 * 17:00 - 19:30. Drahomanov University Sports Complex. Casual Ladder.
 * 17:30 - 20:00. Pechersk. Casual Ladder.
-* 18:00 - 20:30. Himars. Games in a group.
+* 18:00 - 20:30. Himars. Group Games.
 * 18:00 - 22:30. Volia. Casual Ladder.
 * 18:15 - 20:40. Sports School #23. Casual Ladder.
 * 18:30 - 22:00. KUTT. Casual Ladder.
@@ -25,9 +25,9 @@
 * 19:00 - 21:00. Leader (Sports School). Casual Ladder (the Tuesday+Thursday+Saturday group).
 * 19:00. Orion. 🏆 0-25 Ranking Tournament.
 * 19:00 - 21:00. RSP. A one-hour training, then a ladder competition. The game is canceled if fewer than 4 players register before 12pm.
-* 19:15 - 23:00. Raketka. Games in a group (the Tuesday+Friday group).
+* 19:15 - 23:00. Raketka. Group Games (the Tuesday+Friday group).
 
-<h3 id="wednesday">Wednesday</h3>
+### Wednesday {#wednesday}
 
 * 11:00 - 15:00. Orion. Casual Ladder.
 * 17:00 - 19:00. Gourmet. Casual Ladder.
@@ -38,16 +38,16 @@
 * 18:10. Himars. 🏆 0-40 Ranking Tournament.
 * 18:30 - 22:00. KUTT. Casual Ladder.
 * 19:00 - 21:00. Leader (Sports School). Casual Ladder (the Monday+Wednesday+Friday group).
-* 19:15 - 23:00. Raketka. Games in a group (the Wednesday+Saturday group).
+* 19:15 - 23:00. Raketka. Group Games (the Wednesday+Saturday group).
 * 19:00. Sports School #21. 🏅 0-100 Non-Ranking Tournament.
 * 20:00. TviY tennis. 🏅 A Non-Ranking Tournament (beginners and amateurs). Advance registration is required.
 
-<h3 id="thursday">Thursday</h3>
+### Thursday {#thursday}
 
 * 11:00 - 15:00. Orion. Casual Ladder.
 * 17:00 - 19:30. Drahomanov University Sports Complex. Casual Ladder.
 * 17:30 - 20:00. Pechersk. Casual Ladder.
-* 18:00 - 20:30. Himars. Games in a group.
+* 18:00 - 20:30. Himars. Group Games.
 * 18:00 - 22:30. Volia. Casual Ladder.
 * 18:15 - 20:40. Sports School #23. Casual Ladder.
 * 19:30 - 22:00. KUTT. Casual Ladder.
@@ -55,23 +55,23 @@
 * 19:00 - 21:00. Leader (Sports School). Casual Ladder (the Tuesday+Thursday+Saturday group).
 * 19:00. Orion. 🏅 0-25 Non-Ranking Tournament.
 * 19:00 - 21:00. RSP. A one-hour training, then a ladder competition. The game is cancelled if fewer than 4 players register before 12pm.
-* 19:15 - 23:00. Raketka. Games in a group (the Monday+Thursday group).
+* 19:15 - 23:00. Raketka. Group Games (the Monday+Thursday group).
 
-<h3 id="friday">Friday</h3>
+### Friday {#friday}
 
 * 11:00 - 15:00. Orion. Casual Ladder.
 * 17:00 - 19:00. Gourmet. Casual Ladder.
 * 17:30 - 20:00. Pechersk. Casual Ladder.
 * 18:00 - 20:30. Breiks. Casual Ladder.
-* 18:00 - 20:30. Himars. Games in a group.
+* 18:00 - 20:30. Himars. Group Games.
 * 18:00. Sports School #21. 🏅 0-100 Non-Ranking Tournament.
 * 18:00 - 22:30. Volia. Casual Ladder.
 * 18:30 - 22:00. KUTT. Casual Ladder.
 * 18:30. Quiks. 🏆 0-5 Ranking Tournament.
 * 19:00 - 21:00. Leader (Sports School). Casual Ladder (the Monday+Wednesday+Friday group).
-* 19:15 - 23:00. Raketka. Games in a group (the Tuesday+Friday group).
+* 19:15 - 23:00. Raketka. Group Games (the Tuesday+Friday group).
 
-<h3 id="saturday">Saturday</h3>
+### Saturday {#saturday}
 
 * 08:00. Spin Up. 🏅 0-100 Non-Ranking Tournament. Advance registration is required.
 * 09:00. TviY tennis. 🏅 A Non-Ranking Tournament (beginners). Advance registration is required.
@@ -97,9 +97,9 @@
 * 18:30 - 22:00. KUTT. Casual Ladder.
 * 18:30 - 21:00. Orion. Casual Ladder.
 * 18:00 - 22:30. Volia. Casual Ladder.
-* 19:15 - 23:00. Raketka. Games in a group (the Wednesday+Saturday group).
+* 19:15 - 23:00. Raketka. Group Games (the Wednesday+Saturday group).
 
-<h3 id="sunday">Sunday</h3>
+### Sunday {#sunday}
 
 * 08:00. Spin Up. 🏅 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. Casual Ladder.
