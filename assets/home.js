@@ -45,12 +45,29 @@ function configureBackToTopButton() {
 }
 
 function configureCheckboxesFilteringCompetitions() {
+    let tournamentMarkers = ['🏆', '🏅', 'tournament', 'championship', 'турнір', 'чемпіонат'];
     $('#showTournaments').click(function () {
-        $("#scheduleContainer > ul > li:contains('🏆')").toggle();
+        $('#scheduleContainer > ul > li').filter(function () {
+            return hasAnyDirectTextCI($(this), tournamentMarkers);
+        }).toggle();
     });
     $('#showOtherCompetitions').click(function () {
-        $("#scheduleContainer > ul > li:not(:contains('🏆'))").toggle();
+        $('#scheduleContainer > ul > li').filter(function () {
+            return !hasAnyDirectTextCI($(this), tournamentMarkers);
+        }).toggle();
     });
+}
+
+function hasAnyDirectTextCI($el, texts) {
+    return Array.from($el[0].childNodes).some(node =>
+        node.nodeType === Node.TEXT_NODE &&
+        texts.some(t => node.textContent.toLowerCase().includes(t.toLowerCase()))
+    );
+}
+
+function hasAnyTextCI($el, texts) {
+    const fullText = $el.text().toLowerCase();
+    return texts.some(t => fullText.includes(t.toLowerCase()));
 }
 
 function linkPlaceNamesToPlaceInfo() {
