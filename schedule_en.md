@@ -40,7 +40,7 @@
 * 19:00 - 21:00. Leader (Sports School). Casual Ladder (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. Raketka. Group Games (the Wednesday+Saturday group).
 * 19:00. Sports School #21. 🏅 0-100 Non-Ranking Tournament.
-* 20:00. TviY tennis. 🏅 A Non-Ranking Tournament (beginners and amateurs). Advance registration is required.
+* 20:00. TviY tennis. 🏅 Non-Ranking Tournament (beginners and amateurs). Advance registration is required.
 
 ### Thursday {#thursday}
 
@@ -74,7 +74,7 @@
 ### Saturday {#saturday}
 
 * 08:00. Spin Up. 🏅 0-100 Non-Ranking Tournament. Advance registration is required.
-* 09:00. TviY tennis. 🏅 A Non-Ranking Tournament (beginners). Advance registration is required.
+* 09:00. TviY tennis. 🏅 Non-Ranking Tournament (beginners). Advance registration is required.
 * 09:30. Grand-Prix. 🏅 0-100 Non-Ranking Tournament.
 * 10:00. Breiks. 🏆 0-100 Ranking Tournament.
 * 10:00 - 12:00. Leader (Sports School). Casual Ladder (the Tuesday+Thursday+Saturday group).
@@ -110,7 +110,7 @@
 * 10:00. Table Tennis at Revutskoho. 🏅 0-100 Non-Ranking Tournament.
 * 10:00, July 13. Orion. 🏆 "ORION Summer Cup" with a prize fund of 40,000₴. [Details](https://t.me/chatorion/21155), [registration](https://forms.gle/myxj1Jx9yEUYTnQ76).
 * 10:30. Orion. 🏆 0-100 Ranking Tournament.
-* 10:30. Orion. 🏅 A Non-Ranking Tournament for players without UTTF Ranking.
+* 10:30. Orion. 🏅 Non-Ranking Tournament for players without UTTF Ranking.
 * 11:00. Leader (RC). 🏅 A kids' Tournament. Three difficulty levels (the challenging level is a 0-100 Ranking Tournament, two others are Non-Ranking).
   * June 29: 🏆 0-5 Ranking Tournament (all ages).
 * 11:00. Quiks. 🏆 0-10 Ranking Tournament.

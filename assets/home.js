@@ -53,7 +53,7 @@ function configureBackToTopButton() {
 }
 
 function configureCheckboxesFilteringCompetitions() {
-    let tournamentMarkers = ['tournament', 'турнір', 'cup', 'кубок', 'championship', 'чемпіонат'];
+    let tournamentMarkers = ['tournament', 'турнір', 'tournaments', 'турніри', 'cup', 'кубок', 'championship', 'чемпіонат'];
     $('#showTournaments').click(function () {
         $('#scheduleContainer > ul > li').filter(function () {
             return hasAnyDirectWholeWordCI($(this), tournamentMarkers);
