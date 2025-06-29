@@ -91,7 +91,6 @@
 * 15:00. Orion. 🏆 0-50 Ranking Tournament.
 * 15:00. Quiks. 🏆 0-25 Ranking Tournament.
 * 16:00 - 18:00. Pechersk. Casual Ladder.
-* 16:00. Volia. 🏆 0-25 Ranking Tournament.
 * 18:30 - 22:00. KUTT. Casual Ladder.
 * 18:30 - 21:00. Orion. Casual Ladder.
 * 18:00 - 22:30. Volia. Casual Ladder.
