@@ -21,7 +21,7 @@
 * 18:00 - 22:30. Volia. Casual Ladder.
 * 18:15 - 20:40. Sports School #23. Casual Ladder.
 * 18:30 - 22:00. KUTT. Casual Ladder.
-* 18:30. Volia. 🏆 0-15 Ranking Tournament.
+* 18:30. Volia. 🏆 0-10 Ranking Tournament.
 * 19:00 - 21:00. Leader (Sports School). Casual Ladder (the Tuesday+Thursday+Saturday group).
 * 19:00. Orion. 🏆 0-25 Ranking Tournament.
 * 19:00 - 21:00. RSP. Coach-Guided Matches. The game is canceled if fewer than 4 players register before 12pm.
@@ -51,7 +51,7 @@
 * 18:00 - 22:30. Volia. Casual Ladder.
 * 18:15 - 20:40. Sports School #23. Casual Ladder.
 * 19:30 - 22:00. KUTT. Casual Ladder.
-* 18:30. Volia. 🏆 0-20 Ranking Tournament.
+* 18:30. Volia. 🏆 0-25 Ranking Tournament.
 * 19:00 - 21:00. Leader (Sports School). Casual Ladder (the Tuesday+Thursday+Saturday group).
 * 19:00. Orion. 🏅 0-25 Non-Ranking Tournament.
 * 19:00 - 21:00. RSP. Coach-Guided Matches. The game is canceled if fewer than 4 players register before 12pm.
