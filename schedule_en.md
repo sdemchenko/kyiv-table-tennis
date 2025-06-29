@@ -101,23 +101,18 @@
 * 08:00. Spin Up. 🏅 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. Casual Ladder.
 * 10:00. Gourmet. 🏆 Ranking Tournament.
-  * June 29: 🏆 0-15 and 0-80 Ranking Tournaments
 * 10:00. Raketka. 🏆 Ranking Tournament.
-  * June 29: 🏆 0-20 Ranking Tournament will start at 11:00.
 * 10:00. Table Tennis at Revutskoho. 🏅 0-100 Non-Ranking Tournament.
 * 10:00, July 13. Orion. 🏆 "ORION Summer Cup" with a prize fund of 40,000₴. [Details](https://t.me/chatorion/21155), [registration](https://forms.gle/myxj1Jx9yEUYTnQ76).
 * 10:30. Orion. 🏆 0-100 Ranking Tournament.
 * 10:30. Orion. 🏅 Non-Ranking Tournament for players without UTTF Ranking.
 * 11:00. Leader (RC). 🏅 A Kids' Tournament. Three difficulty levels (the challenging level is a 0-100 Ranking Tournament, two others are Non-Ranking).
-  * June 29: 🏆 0-5 Ranking Tournament (all ages).
 * 11:00. Quiks. 🏆 0-10 Ranking Tournament.
 * 11:00. Start. 🏆 A Tournament (beginners, amateurs).
 * 11:30. Pokolinnia. 🏅 0-100 Non-Ranking Tournament.
-  * June 29: 🏆 0-25.0 Ranking Tournament.
 * 12:00. Pechersk. 🏆 0-35 Ranking Tournament.
 * 14:30. Orion. 🏆 A kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). 🏆 Ranking Tournament.
-  * June 29: 🏆 0-15
 * 15:00. Orion. 🏆 0-15 Ranking Tournament.
 * 18:00 - 22:30. Volia. Casual Ladder.
 * 18:30 - 22:00. KUTT. Casual Ladder.
