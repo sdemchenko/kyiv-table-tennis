@@ -1,14 +1,19 @@
+// place name → <tr> with info about a club or court
+const places = new Map();
+
 $(document).ready(function () {
-    fetchSchedule();
     configureBackToTopButton();
     configureCheckboxesFilteringCompetitions();
+    populatePlacesMap();
+    configurePlaceNameLinksToOpenPlaceInfoOverlay();
+    fetchSchedule();
 });
 
 /**
  * (1) Fetch schedule.md,
  * (2) transform the fetched Markdown content to HTML,
  * (3) replace the initial (SEO) content of <tt>div#scheduleContainer</tt> with the HTML,
- * (4) makes club / court names in the schedule clicky: they should open an overlay with the place info.
+ * (4) makes club names in the schedule clicky, so that they open an overlay with the club info.
  */
 function fetchSchedule() {
     fetch($('#scheduleContainer').attr('data-src') + '?cacheBuster=' + timestampNoOlderThanTenSeconds(), {})
@@ -18,8 +23,8 @@ function fetchSchedule() {
         .then(function (data) {
             // Markdown with both HTML support and markdown-it-attrs plugin enabled
             const md = window.markdownit({html: true}).use(window.markdownItAttrs);
-            
-            let html = md.render(data);
+
+            const html = md.render(data);
             
             // Remove empty style attributes inserted by markdown-it-attrs
             const $parsed = $('<div>').html(html);
@@ -27,7 +32,7 @@ function fetchSchedule() {
 
             $('#scheduleContainer').html($parsed.html());
             
-            linkPlaceNamesToPlaceInfo();
+            makeClubNamesInTheScheduleClicky();
         })
         .catch(function (err) {
             console.log(err);
@@ -43,7 +48,7 @@ function timestampNoOlderThanTenSeconds() {
 }
 
 function configureBackToTopButton() {
-    let backToTop = $("#backToTop");
+    const backToTop = $("#backToTop");
     $(window).scroll(function(){
         $(document).scrollTop() > 300 ? backToTop.show() : backToTop.hide();
     });
@@ -53,7 +58,7 @@ function configureBackToTopButton() {
 }
 
 function configureCheckboxesFilteringCompetitions() {
-    let tournamentMarkers = ['tournament', 'турнір', 'tournaments', 'турніри', 'cup', 'кубок', 'championship', 'чемпіонат'];
+    const tournamentMarkers = ['tournament', 'турнір', 'tournaments', 'турніри', 'cup', 'кубок', 'championship', 'чемпіонат'];
     $('#showTournaments').click(function () {
         $('#scheduleContainer > ul > li').filter(function () {
             return hasAnyDirectWholeWordCI($(this), tournamentMarkers);
@@ -81,29 +86,16 @@ function hasAnyDirectWholeWordCI($el, words) {
     });
 }
 
-function linkPlaceNamesToPlaceInfo() {
-    const animationDuration = 100;
-    let scheduleContainer = $('#scheduleContainer');
-    let placeInfoOverlay = $('#placeInfoOverlay');
-
-    // Step 1: Build a map of place name → <tr>
-    const places = new Map();
-
-    $('#t_clubs tbody tr, #t_courts tbody tr').each(function () {
-        const $row = $(this);
-        const $cell = $row.find('td:first');
-        const name = $cell.text().trim();
-        if (name) {
-            places.set(name, $row.clone());
-        }
-    });
-
-    // Step 2: In each text node in the schedule, make the first occurrence of the place name clickable
-    scheduleContainer
+/**
+ * In each text node in the schedule, convert the first occurrence of the club name into a link,
+ * e.g. Orion will become <a data-place="Orion">Orion</a>.
+ */
+function makeClubNamesInTheScheduleClicky() {
+    $('#scheduleContainer')
         .contents()
         .each(function processNode() {
             if (this.nodeType === Node.TEXT_NODE) {
-                let nodeText = this.nodeValue;
+                const nodeText = this.nodeValue;
                 let replaced = false;
 
                 for (const placeName of places.keys()) {
@@ -129,8 +121,24 @@ function linkPlaceNamesToPlaceInfo() {
                 $(this).contents().each(processNode);
             }
         });
+}
 
-    // Step 3: Show overlay near the clicked place name
+function populatePlacesMap() {
+    $('#t_clubs tbody tr, #t_courts tbody tr').each(function () {
+        const $row = $(this);
+        const $cell = $row.find('td:first');
+        const name = $cell.text().trim();
+        if (name) {
+            places.set(name, $row.clone());
+        }
+    });
+}
+
+function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
+    const animationDuration = 100;
+    const placeInfoOverlay = $('#placeInfoOverlay');
+
+    // Show overlay near the clicked place name
     $(document).on('click', 'a[data-place]', function (e) {
         e.preventDefault();
         const placeName = $(this).data('place');
@@ -138,25 +146,30 @@ function linkPlaceNamesToPlaceInfo() {
         if ($row) {
             // Populate overlay with the row
             const $clonedRow = $row.clone();
-            $clonedRow.find('td:first').remove();
+            
+            // Is it better to display or hide the title in the overlay?
+            // $clonedRow.find('td:first').remove();
 
             // Transform the row into a single column multi-row table
             const overlayTable = placeInfoOverlay.html(`<table><tbody></tbody></table>`);
             $clonedRow.find('td').each(function () {
-                
+
                 // Disable links in overlays to other overlays
                 $(this).find('a[data-place]').each(function () {
                     $(this).replaceWith($('<span data-place="">').append($(this).text()));
                 });
 
-                if ($(this).text().trim() === '') { return; }
+                if ($(this).text().trim() === '') {
+                    return;
+                }
                 const $newRow = $('<tr></tr>');
                 $newRow.append($(this)); // move the cell into the new row
                 overlayTable.append($newRow);
             });
 
             // Position overlay below the clicked link and slightly to the right of the line start
-            let leftOffset = 40;
+            const leftOffset = 40;
+            const scheduleContainer = $('#scheduleContainer');
             placeInfoOverlay.css({
                 top: $(this).offset().top + $(this).outerHeight() + 5,
                 left: scheduleContainer.offset().left + leftOffset,
@@ -167,7 +180,7 @@ function linkPlaceNamesToPlaceInfo() {
         }
     });
 
-    // Step 4: Hide overlay when clicking outside it
+    // Hide overlay when clicking outside it
     $(document).on('click', function (e) {
         const $triggerLink = $(e.target).closest('a[data-place]');
 
@@ -180,7 +193,7 @@ function linkPlaceNamesToPlaceInfo() {
         }
     });
 
-    // Step 5: Hide overlay on Escape key press
+    // Hide overlay on Escape key press
     $(document).on('keydown', function (e) {
         if (e.key === 'Escape' || e.keyCode === 27) {
             placeInfoOverlay.fadeOut(animationDuration);
