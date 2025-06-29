@@ -88,7 +88,7 @@ function hasAnyDirectWholeWordCI($el, words) {
 
 /**
  * In each text node in the schedule, convert the first occurrence of the club name into a link,
- * e.g. Orion will become <a data-place="Orion">Orion</a>.
+ * e.g., Orion will become <a data-place="Orion">Orion</a>.
  */
 function makeClubNamesInTheScheduleClicky() {
     $('#scheduleContainer')
@@ -147,9 +147,6 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
             // Populate overlay with the row
             const $clonedRow = $row.clone();
             
-            // Is it better to display or hide the title in the overlay?
-            // $clonedRow.find('td:first').remove();
-
             // Transform the row into a single column multi-row table
             const overlayTable = placeInfoOverlay.html(`<table><tbody></tbody></table>`);
             $clonedRow.find('td').each(function () {
