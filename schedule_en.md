@@ -64,10 +64,10 @@
 * 17:30 - 20:00. Pechersk. Casual Ladder.
 * 18:00 - 20:30. Breiks. Casual Ladder.
 * 18:00 - 20:30. Himars. Coach-Guided Matches.
+* 18:00. Quiks. 🏆 0-5 Ranking Tournament.
 * 18:00. Sports School #21. 🏅 0-100 Non-Ranking Tournament.
 * 18:00 - 22:30. Volia. Casual Ladder.
 * 18:30 - 22:00. KUTT. Casual Ladder.
-* 18:30. Quiks. 🏆 0-5 Ranking Tournament.
 * 19:00 - 21:00. Leader (Sports School). Casual Ladder (the Monday+Wednesday+Friday group).
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (the Tuesday+Friday group).
 
@@ -81,6 +81,7 @@
 * 10:00. Solomyanka. 🏅 0-100 Non-Ranking Tournament. Advance registration is required. The tournament is canceled if fewer than six players register before Saturday.
 * 10:00. Top Spin (Brovary). 🏆 0-40 Ranking Tournament.
 * 10:30. Orion. 🏆 0-25 Ranking Tournament.
+* 11:00. Quiks. 🏆 0-15 Ranking Tournament.
 * 11:00 - 13:30. Sports School #23. Casual Ladder.
 * 11:00. TviY tennis. 🏅 A women's Non-Ranking Tournament.
 * 11:10. Himars. 🏆 0-100 Ranking Tournament.
