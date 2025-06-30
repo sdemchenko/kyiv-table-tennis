@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /assets/temp/
 
 Sitemap: https://tabletennis.kyiv.ua/sitemap.xml
