@@ -106,7 +106,7 @@
 * 10:00. Table Tennis at Revutskoho. 🏅 0-100 Non-Ranking Tournament.
 * 10:00, July 13. Orion. 🏆 "ORION Summer Cup" with a prize fund of 40,000₴. [Details](https://t.me/chatorion/21155), [registration](https://forms.gle/myxj1Jx9yEUYTnQ76).
 * 10:30. Orion. 🏆 0-100 Ranking Tournament.
-* 10:30. Orion. 🏅 Non-Ranking Tournament for players without UTTF Ranking.
+* 10:30. Orion. 🏅 0-10 Ranking Tournament.
 * 11:00. Leader (RC). 🏅 A Kids' Tournament. Three difficulty levels (the challenging level is a 0-100 Ranking Tournament, two others are Non-Ranking).
 * 11:00, July 6. "Pulse". 🏅 0-100 Non-Ranking Tournament.
 * 11:00. Quiks. 🏆 0-10 Ranking Tournament.
