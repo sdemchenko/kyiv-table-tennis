@@ -81,7 +81,6 @@
 * 10:00. Solomyanka. 🏅 0-100 Non-Ranking Tournament. Advance registration is required. The tournament is canceled if fewer than six players register before Saturday.
 * 10:00. Top Spin (Brovary). 🏆 0-40 Ranking Tournament.
 * 10:30. Orion. 🏆 0-25 Ranking Tournament.
-* 11:00, July 6. "Pulse". 🏅 0-100 Non-Ranking Tournament.
 * 11:00. Quiks. 🏆 0-15 Ranking Tournament.
 * 11:00 - 13:30. Sports School #23. Casual Ladder.
 * 11:00. TviY tennis. 🏅 A women's Non-Ranking Tournament.
@@ -109,6 +108,7 @@
 * 10:30. Orion. 🏆 0-100 Ranking Tournament.
 * 10:30. Orion. 🏅 Non-Ranking Tournament for players without UTTF Ranking.
 * 11:00. Leader (RC). 🏅 A Kids' Tournament. Three difficulty levels (the challenging level is a 0-100 Ranking Tournament, two others are Non-Ranking).
+* 11:00, July 6. "Pulse". 🏅 0-100 Non-Ranking Tournament.
 * 11:00. Quiks. 🏆 0-10 Ranking Tournament.
 * 11:00. Start. 🏆 A Tournament (beginners, amateurs).
 * 11:30. Pokolinnia. 🏅 0-100 Non-Ranking Tournament.
