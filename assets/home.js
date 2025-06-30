@@ -24,6 +24,8 @@ function fetchSchedule() {
             // Markdown with both HTML support and markdown-it-attrs plugin enabled
             const md = window.markdownit({html: true}).use(window.markdownItAttrs);
 
+            data = replaceEmojisWithGlyphs(data);
+
             const html = md.render(data);
             
             // Remove empty style attributes inserted by markdown-it-attrs
@@ -45,6 +47,12 @@ function fetchSchedule() {
  */
 function timestampNoOlderThanTenSeconds() {
     return Math.floor(new Date().getTime() / 10000);
+}
+
+function replaceEmojisWithGlyphs(schedule) {
+    return schedule
+        .replaceAll('🏆', '<i class="fa-solid fa-trophy"></i>')
+        .replaceAll('🏅', '<i class="fa-solid fa-medal"></i>');
 }
 
 function configureBackToTopButton() {

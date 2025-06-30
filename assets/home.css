@@ -38,9 +38,15 @@ a[href^="https://www.google.com/maps/dir/"]::before {
     font: var(--fa-font-solid);
     -webkit-font-smoothing: antialiased;
 
-    font-size: 0.6em;
+    font-size: 0.7em;
     opacity: 0.8;
-    margin-right: 0.25em;
+    margin-right: 0.2em;
+    vertical-align: middle;
+}
+
+i.fa-solid {
+    font-size: 0.85em;
+    opacity: 0.8;
     vertical-align: middle;
 }
 
