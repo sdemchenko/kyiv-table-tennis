@@ -24,13 +24,12 @@ function fetchSchedule() {
             // Markdown with both HTML support and markdown-it-attrs plugin enabled
             const md = window.markdownit({html: true}).use(window.markdownItAttrs);
 
-            data = replaceEmojisWithGlyphs(data);
-
             const html = md.render(data);
-            
-            // Remove empty style attributes inserted by markdown-it-attrs
+
+            // Minor prettification
             const $parsed = $('<div>').html(html);
             $parsed.find('[style=""]').removeAttr('style');
+            decorate($parsed);
 
             $('#scheduleContainer').html($parsed.html());
             
@@ -49,10 +48,30 @@ function timestampNoOlderThanTenSeconds() {
     return Math.floor(new Date().getTime() / 10000);
 }
 
-function replaceEmojisWithGlyphs(schedule) {
-    return schedule
-        .replaceAll('🏆', '<i class="fa-solid fa-trophy"></i>')
-        .replaceAll('🏅', '<i class="fa-solid fa-medal"></i>');
+function decorate(schedule) {
+    function insertGlyphs(schedule, word, replacement, keepWord) {
+        const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape regex metacharacters
+        const regex = new RegExp(`(^|[^\\p{L}-])(${escapedWord})`, 'iu'); // Unicode-aware boundary
+
+        schedule.contents().each(function processNode() {
+            if (this.nodeType === Node.TEXT_NODE && this.nodeValue.trim() !== '') {
+                const replaced = this.nodeValue.replace(regex, replacement + (keepWord ? '$2' : ''));
+                if (replaced !== this.nodeValue) {
+                    $(this).replaceWith(replaced);
+                }
+            } else if (this.nodeType === Node.ELEMENT_NODE) {
+                $(this).contents().each(processNode);
+            }
+        })
+    }
+    const glyphRanking = ' <i class="fa-solid fa-trophy"></i> ';
+    const glyphNonRanking = ' <i class="fa-solid fa-medal"></i> ';
+    insertGlyphs(schedule, '🏆', glyphRanking, false);
+    insertGlyphs(schedule, 'ranking', glyphRanking, true);
+    insertGlyphs(schedule, 'рейтингов', glyphRanking, true);
+    insertGlyphs(schedule, '🏅', glyphNonRanking, false);
+    insertGlyphs(schedule, 'non-ranking', glyphNonRanking, true);
+    insertGlyphs(schedule, 'нерейтингов', glyphNonRanking, true);
 }
 
 function configureBackToTopButton() {
