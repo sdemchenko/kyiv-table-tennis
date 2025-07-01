@@ -64,13 +64,13 @@ function decorate(schedule) {
             }
         })
     }
-    const glyphRanking = ' <i class="fa-solid fa-trophy"></i> ';
-    const glyphNonRanking = ' <i class="fa-solid fa-medal"></i> ';
+    const glyphRanking = ' <i class="fas fa-trophy ranking-tournament"></i> ';
+    const glyphNonRanking = ' <i class="fas fa-trophy non-ranking-tournament"></i> ';
     insertGlyphs(schedule, '🏆', glyphRanking, false);
-    insertGlyphs(schedule, 'ranking', glyphRanking, true);
+    insertGlyphs(schedule, 'ranking tournament', glyphRanking, true);
     insertGlyphs(schedule, 'рейтингов', glyphRanking, true);
     insertGlyphs(schedule, '🏅', glyphNonRanking, false);
-    insertGlyphs(schedule, 'non-ranking', glyphNonRanking, true);
+    insertGlyphs(schedule, 'non-ranking tournament', glyphNonRanking, true);
     insertGlyphs(schedule, 'нерейтингов', glyphNonRanking, true);
 }
 

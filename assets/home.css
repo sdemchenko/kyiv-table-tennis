@@ -44,11 +44,6 @@ a[href^="https://www.google.com/maps/dir/"]::before {
     vertical-align: middle;
 }
 
-i.fa-solid {
-    font-size: 0.85em;
-    vertical-align: middle;
-}
-
 ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
 ul#toc ul { padding-inline-start: 2ch; }
@@ -125,6 +120,18 @@ table#t_courts td:nth-child(3) { text-align:center; }
 
 #scheduleContainer > ul {
     padding-left: 1em;
+}
+
+i.ranking-tournament {
+    font-size: 0.85em;
+    vertical-align: middle;
+    color: var(--ranking-tournament-color);
+}
+
+i.non-ranking-tournament {
+    font-size: 0.85em;
+    vertical-align: middle;
+    opacity: 0.7;
 }
 
 #lang-switcher {
