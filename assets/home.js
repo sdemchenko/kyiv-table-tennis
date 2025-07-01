@@ -193,7 +193,7 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
             });
 
             // Position overlay below the clicked link and slightly to the right of the line start
-            const leftOffset = 40;
+            const leftOffset = 20;
             const scheduleContainer = $('#scheduleContainer');
             placeInfoOverlay.css({
                 top: $(this).offset().top + $(this).outerHeight() + 5,
