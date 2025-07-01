@@ -26,7 +26,7 @@
 * 18:30. Volia. 0-10 Ranking Tournament.
 * 19:00 - 21:00. Leader (Sports School). Ladder (the Tuesday+Thursday+Saturday group).
 * 19:00. Orion. 0-25 Ranking Tournament.
-* 19:00 - 21:00. RSP. Coach-Guided Matches. The game is canceled if fewer than 4 players register before 12pm.
+* 19:00 - 21:00. RSP. Coach-Guided Matches.
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (the Tuesday+Friday group).
 
 ### Wednesday {#wednesday}
@@ -56,7 +56,7 @@
 * 18:30. Volia. 0-25 Ranking Tournament.
 * 19:00 - 21:00. Leader (Sports School). Ladder (the Tuesday+Thursday+Saturday group).
 * 19:00. Orion. 0-25 Non-Ranking Tournament.
-* 19:00 - 21:00. RSP. Coach-Guided Matches. The game is canceled if fewer than 4 players register before 12pm.
+* 19:00 - 21:00. RSP. Coach-Guided Matches.
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (the Monday+Thursday group).
 
 ### Friday {#friday}
