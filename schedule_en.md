@@ -24,7 +24,6 @@
 * 18:15 - 20:40. Sports School #23. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
 * 18:30. Volia. 0-10 Ranking Tournament.
-  * July 1: ❌
 * 19:00 - 21:00. Leader (Sports School). Ladder (the Tuesday+Thursday+Saturday group).
 * 19:00. Orion. 0-25 Ranking Tournament.
 * 19:00 - 21:00. RSP. Coach-Guided Matches. The game is canceled if fewer than 4 players register before 12pm.
