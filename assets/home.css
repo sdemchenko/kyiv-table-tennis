@@ -131,7 +131,7 @@ i.ranking-tournament {
 i.non-ranking-tournament {
     font-size: 0.85em;
     vertical-align: middle;
-    opacity: 0.7;
+    opacity: var( --non-ranking-tournament-opacity);
 }
 
 #lang-switcher {
