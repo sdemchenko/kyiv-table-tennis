@@ -118,12 +118,15 @@ function hasAnyDirectWholeWordCI($el, words) {
  * e.g., Orion will become <a data-place="Orion">Orion</a>.
  */
 function makeClubNamesInTheScheduleClicky() {
-    $('#scheduleContainer')
-        .contents()
-        .each(function processNode() {
+    $('#scheduleContainer > ul > li').each(function () {
+        let replaced = false;
+
+        function processNode() {
+            // `this` refers to the DOM node
+            if (replaced) return;
+
             if (this.nodeType === Node.TEXT_NODE) {
                 const nodeText = this.nodeValue;
-                let replaced = false;
 
                 for (const placeName of places.keys()) {
                     const index = nodeText.indexOf(placeName);
@@ -136,18 +139,16 @@ function makeClubNamesInTheScheduleClicky() {
                         // Replace the text node with: before + <a> + after
                         $(this).replaceWith(document.createTextNode(before), $link[0], document.createTextNode(after));
                         replaced = true;
-                        break; // only one match per node
+                        break;
                     }
-                }
-
-                if (!replaced) {
-                    // Recurse into children if it's not a pure text node
-                    $(this).contents().each(processNode);
                 }
             } else if (this.nodeType === Node.ELEMENT_NODE) {
                 $(this).contents().each(processNode);
             }
-        });
+        }
+
+        $(this).contents().each(processNode);
+    });
 }
 
 function populatePlacesMap() {
