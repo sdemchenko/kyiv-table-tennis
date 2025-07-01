@@ -115,7 +115,11 @@
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
 * 10:30. Orion. 0-100 Ranking Tournament.
 * 10:30. Orion. 0-10 Ranking Tournament.
-* 11:00. Leader (RC). Kids' Tournament. Three difficulty levels (the challenging level is a 0-100 Ranking Tournament, two others are Non-Ranking).
+* 11:00. Leader (RC). Ranking Tournament.
+  * July 6: 0-20
+  * July 13: 0-15
+  * July 20: 0-30
+  * July 27: 0-5
 * 11:00, July 6. "Pulse". 0-100 Non-Ranking Tournament.
 * 11:00. Quiks. 0-10 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
@@ -129,6 +133,10 @@
 * 13:30, July 13. RSP. "RSP Table Tennis Open" monthly 🏅 tournament. Category "Advanced" (professionals). [Details](https://t.me/krsp_tt_tour/600), [registration](https://forms.gle/4k2uKjqEUrnbioum7).
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
+  * July 6: 0-10
+  * July 13: 0-5
+  * July 20: 0-10
+  * July 27: 0-15
 * 15:00. Orion. 0-15 Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
