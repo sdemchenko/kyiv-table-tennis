@@ -176,7 +176,7 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
             const $clonedRow = $row.clone();
             
             // Transform the row into a single column multi-row table
-            const overlayTable = placeInfoOverlay.html(`<table><tbody></tbody></table>`);
+            const overlayTable = placeInfoOverlay.html(`<table><tbody></tbody></table>`).find('tbody');
             $clonedRow.find('td').each(function () {
 
                 // Disable links in overlays to other overlays

@@ -184,3 +184,5 @@ div#placeInfoOverlay {
     background-color: var(--table-bg-color);
     opacity: 1;
 }
+
+#placeInfoOverlay tr:nth-child(1) td { font-weight: bold; }
