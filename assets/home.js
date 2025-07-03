@@ -49,13 +49,13 @@ function timestampNoOlderThanTenSeconds() {
 }
 
 function decorate(schedule) {
-    function insertGlyphs(schedule, word, replacement, keepWord) {
+    function insertGlyphs(schedule, word, glyph, keepFoundWord) {
         const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape regex metacharacters
         const regex = new RegExp(`(^|[^\\p{L}-])(${escapedWord})`, 'iu'); // Unicode-aware boundary
 
         schedule.contents().each(function processNode() {
             if (this.nodeType === Node.TEXT_NODE && this.nodeValue.trim() !== '') {
-                const replaced = this.nodeValue.replace(regex, replacement + (keepWord ? '$2' : ''));
+                const replaced = this.nodeValue.replace(regex, glyph + (keepFoundWord ? '$2' : ''));
                 if (replaced !== this.nodeValue) {
                     $(this).replaceWith(replaced);
                 }
