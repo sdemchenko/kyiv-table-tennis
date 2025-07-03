@@ -64,8 +64,8 @@ function decorate(schedule) {
             }
         })
     }
-    const glyphRanking = ' <i class="fas fa-trophy ranking-tournament"></i> ';
-    const glyphNonRanking = ' <i class="fas fa-trophy non-ranking-tournament"></i> ';
+    const glyphRanking = ' <i class="fas fa-trophy tournament ranking"></i> ';
+    const glyphNonRanking = ' <i class="fas fa-trophy tournament non-ranking"></i> ';
     insertGlyphs(schedule, '🏆', glyphRanking, false);
     insertGlyphs(schedule, 'ranking tournament', glyphRanking, true);
     insertGlyphs(schedule, 'рейтингов', glyphRanking, true);
@@ -85,31 +85,15 @@ function configureBackToTopButton() {
 }
 
 function configureCheckboxesFilteringCompetitions() {
-    const tournamentMarkers = ['tournament', 'турнір', 'tournaments', 'турніри', 'cup', 'кубок', 'championship', 'чемпіонат'];
     $('#showTournaments').click(function () {
         $('#scheduleContainer > ul > li').filter(function () {
-            return hasAnyDirectWholeWordCI($(this), tournamentMarkers);
+            return $(this).find('i.tournament').length > 0;
         }).toggle();
     });
     $('#showOtherCompetitions').click(function () {
         $('#scheduleContainer > ul > li').filter(function () {
-            return !hasAnyDirectWholeWordCI($(this), tournamentMarkers);
+            return $(this).find('i.tournament').length === 0;
         }).toggle();
-    });
-}
-
-function hasAnyDirectWholeWordCI($el, words) {
-    const textNodes = Array.from($el[0].childNodes).filter(node => node.nodeType === Node.TEXT_NODE);
-
-    return textNodes.some(node => {
-        const text = node.textContent;
-
-        return words.some(word => {
-            // Build a word-boundary-safe regex for the word
-            const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape regex metacharacters
-            const regex = new RegExp(`(^|[^\\p{L}])(${escapedWord})(?!\\p{L})`, 'iu'); // Unicode-aware boundary
-            return regex.test(text);
-        });
     });
 }
 

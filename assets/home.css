@@ -122,13 +122,13 @@ table#t_courts td:nth-child(3) { text-align:center; }
     padding-left: 1em;
 }
 
-i.ranking-tournament {
+i.tournament.ranking {
     font-size: 0.85em;
     vertical-align: middle;
     color: var(--ranking-tournament-color);
 }
 
-i.non-ranking-tournament {
+i.tournament.non-ranking {
     font-size: 0.85em;
     vertical-align: middle;
     opacity: var( --non-ranking-tournament-opacity);
