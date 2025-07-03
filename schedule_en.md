@@ -120,6 +120,7 @@
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
+  * July 6: ❌
 * 12:00. Pechersk. 0-35 Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
   * July 6: 0-45
