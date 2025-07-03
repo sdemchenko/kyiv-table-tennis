@@ -85,7 +85,6 @@
 * 10:30. Orion. 0-25 Ranking Tournament.
 * 11:00. Quiks. 0-15 Ranking Tournament.
 * 11:00 - 13:30. Sports School #23. Ladder.
-* 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:10. Himars. 0-100 Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
 * 11:45 - 14:00. Leader (RC). Coach-Guided Matches.
@@ -122,6 +121,7 @@
 * 11:00, July 6. "Pulse". 0-100 Non-Ranking Tournament.
 * 11:00. Quiks. 0-10 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
+* 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
 * 12:00. Pechersk. 0-35 Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
