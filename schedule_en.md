@@ -114,13 +114,13 @@
   * July 13: 0-15
   * July 20: 0-30
   * July 27: 0-5
-* 11:00, July 6. "Pulse". 0-100 Non-Ranking Tournament.
 * 11:00. Quiks. 0-10 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
   * July 6: ❌
 * 12:00. Pechersk. 0-35 Ranking Tournament.
+* 12:00, July 6. "Pulse". 0-100 Non-Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
   * July 6: 0-45
   * July 13: 0-35
