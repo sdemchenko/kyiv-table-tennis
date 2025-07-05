@@ -13,6 +13,20 @@ https://docs.fontawesome.com/web/add-icons/pseudo-elements
     opacity: 0.6;
 }*/
 
+/* A visual clue for clicky 'a' and non-clicky 'span'. */
+[data-place]::before {
+    content: "\f45d";
+    font: var(--fa-font-solid);
+    -webkit-font-smoothing: antialiased;
+
+    font-size: 0.8em;
+    vertical-align: middle;
+    margin-right: 0.25em;
+}
+
+
+
+
 a[href^="https://t.me/"]::before {
     content: "\f3fe";
     font-family: "Font Awesome\ 5 Brands";

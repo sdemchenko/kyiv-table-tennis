@@ -109,6 +109,7 @@
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
 * 10:30. Orion. 0-100 Ranking Tournament.
 * 10:30. Orion. 0-10 Ranking Tournament.
+* 10:30, July 6. Solomyanka. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 11:00. Leader (RC). Ranking Tournament.
   * July 6: 0-20
   * July 13: 0-15
