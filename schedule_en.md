@@ -98,7 +98,7 @@
 
 * 08:00. Spin Up. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
-* 10:00. Gourmet. Ranking Tournament.
+* 10:00. Gourmet. Ranking Tournaments 0-15 and 0-80.
 * 10:00, July 13. Orion. 🏆 "ORION Summer Cup" with a prize fund of 40,000₴. [Details](https://t.me/chatorion/21155), [registration](https://forms.gle/myxj1Jx9yEUYTnQ76).
 * 10:00. Raketka. Ranking Tournament.
   * July 6: 0-10
