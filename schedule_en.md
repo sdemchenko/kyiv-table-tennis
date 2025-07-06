@@ -124,7 +124,6 @@
 * 13:30, July 13. RSP. "RSP Table Tennis Open" monthly 🏅 tournament. Category "Advanced" (professionals). [Details](https://t.me/krsp_tt_tour/600), [registration](https://forms.gle/4k2uKjqEUrnbioum7).
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
-  * July 6: 0-10
   * July 13: 0-5
   * July 20: 0-10
   * July 27: 0-15
