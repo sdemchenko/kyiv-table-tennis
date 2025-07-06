@@ -7,6 +7,7 @@ $(document).ready(function () {
     populatePlacesMap();
     configurePlaceNameLinksToOpenPlaceInfoOverlay();
     fetchSchedule();
+    incrementCounter();
 });
 
 /**
@@ -29,7 +30,7 @@ function fetchSchedule() {
             // Minor prettification
             const $parsed = $('<div>').html(html);
             $parsed.find('[style=""]').removeAttr('style');
-            decorate($parsed);
+            insertTournamentMarkers($parsed);
 
             $('#scheduleContainer').html($parsed.html());
             
@@ -40,6 +41,15 @@ function fetchSchedule() {
         });
 }
 
+function incrementCounter() {
+    if (!location.hostname.includes('localhost') && location.hostname !== '127.0.0.1') {
+        const img = document.createElement('img');
+        img.src = 'https://script.google.com/macros/s/AKfycbyzKAk-NftzR3dXIcZCx870WRzlF0gay5_rlC1MjaMHm9suCX5CAFKTmECaStJ89AS9/exec';
+        img.style.display = 'none';
+        document.body.appendChild(img);
+    }
+}
+
 /**
  * Timestamp to append to URLs to fetch fresh news and schedule.
  * Using ten-second staleness if the user hits the Refresh button repeatedly.
@@ -48,7 +58,7 @@ function timestampNoOlderThanTenSeconds() {
     return Math.floor(new Date().getTime() / 10000);
 }
 
-function decorate(schedule) {
+function insertTournamentMarkers(schedule) {
     function insertGlyphs(schedule, word, glyph, keepFoundWord) {
         const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape regex metacharacters
         const regex = new RegExp(`(^|[^\\p{L}-])(${escapedWord})`, 'iu'); // Unicode-aware boundary
