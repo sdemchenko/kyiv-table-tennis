@@ -90,7 +90,6 @@
 * 15:00. Quiks. 0-25 Ranking Tournament.
 * 16:00 - 18:00. Pechersk. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
-  * July 5: ❌
 * 18:30 - 21:00. Orion. Ladder.
 * 18:00 - 22:30. Volia. Ladder.
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Wednesday and Saturday group).
@@ -102,7 +101,6 @@
 * 10:00. Gourmet. Ranking Tournaments 0-15 and 0-80.
 * 10:00, July 13. Orion. 🏆 "ORION Summer Cup" with a prize fund of 40,000₴. [Details](https://t.me/chatorion/21155), [registration](https://forms.gle/myxj1Jx9yEUYTnQ76).
 * 10:00. Raketka. Ranking Tournament.
-  * July 6: 0-10
   * July 13: 0-5
   * July 20: 0-20
   * July 27: 0-25
@@ -110,9 +108,7 @@
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
 * 10:30. Orion. 0-100 Ranking Tournament.
 * 10:30. Orion. 0-10 Ranking Tournament.
-* 10:30, July 6. Solomyanka. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 11:00. Leader (RC). Ranking Tournament.
-  * July 6: 0-20
   * July 13: 0-15
   * July 20: 0-30
   * July 27: 0-5
@@ -120,12 +116,8 @@
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
-  * July 6: ❌
 * 12:00. Pechersk. 0-35 Ranking Tournament.
-  * July 6: ❌
-* 12:00, July 6. "Pulse". 0-100 Non-Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
-  * July 6: 0-45
   * July 13: 0-35
   * July 20: 0-40
   * July 27: 0-100
