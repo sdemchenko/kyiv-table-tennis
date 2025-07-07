@@ -7,7 +7,6 @@ $(document).ready(function () {
     populatePlacesMap();
     configurePlaceNameLinksToOpenPlaceInfoOverlay();
     fetchSchedule();
-    incrementCounter();
 });
 
 /**
@@ -39,18 +38,6 @@ function fetchSchedule() {
         .catch(function (err) {
             console.log(err);
         });
-}
-
-function incrementCounter() {
-    if (!location.hostname.includes('localhost') && location.hostname !== '127.0.0.1') {
-        fetch('https://script.google.com/macros/s/AKfycbyzKAk-NftzR3dXIcZCx870WRzlF0gay5_rlC1MjaMHm9suCX5CAFKTmECaStJ89AS9/exec', {
-            method: 'GET',
-            mode: 'no-cors'
-        }).catch((err) => {
-            // Ignore errors — we don’t need a response
-            console.warn('Counter fetch failed silently:', err);
-        });
-    }
 }
 
 /**
