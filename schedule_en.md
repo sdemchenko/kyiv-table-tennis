@@ -62,10 +62,10 @@
 * 17:30 - 20:00. Pechersk. Ladder.
 * 18:00 - 20:30. Breiks. Ladder.
 * 18:00 - 20:30. Himars. Coach-Guided Matches.
-* 18:00. Quiks. 0-5 Ranking Tournament.
 * 18:00. Sports School #21. 0-100 Non-Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
+* 18:30. Quiks. 0-5 Ranking Tournament.
 * 19:00 - 21:00. Leader (Sports School). Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Tuesday and Friday group).
 
@@ -87,7 +87,6 @@
 * 15:00. DBK-4 Sports Complex. Ladder.
 * 15:00. Orion. 0-10 Ranking Tournament.
 * 15:00. Orion. 0-50 Ranking Tournament.
-* 15:00. Quiks. 0-25 Ranking Tournament.
 * 16:00 - 18:00. Pechersk. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
 * 18:30 - 21:00. Orion. Ladder.
@@ -132,6 +131,7 @@
   * July 27: 0-15
 * 15:00. Orion. 0-15 Ranking Tournament.
   * July 13: ❌
+* 15:00. Quiks. 0-5 Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
 * 18:30 - 21:00. Orion. Ladder.
