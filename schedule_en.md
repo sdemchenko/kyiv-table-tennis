@@ -80,6 +80,7 @@
 * 10:00. Solomyanka. 0-100 Non-Ranking Tournament. Advance registration is required. The tournament is canceled if fewer than six players register before Saturday.
 * 10:00. Top Spin (Brovary). 0-40 Ranking Tournament.
 * 10:30. Orion. 0-25 Ranking Tournament.
+* 10:30. Top-Spin (Borshchahivka). 0-20 Ranking Tournament.
 * 11:00. Quiks. 0-15 Ranking Tournament.
 * 11:00 - 13:30. Sports School #23. Ladder.
 * 11:10. Himars. 0-100 Ranking Tournament.
