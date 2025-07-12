@@ -122,6 +122,7 @@
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
   * July 13: 0-25.0 Ranking Tournament.
 * 12:00. Pechersk. 0-35 Ranking Tournament.
+  * July 13: ❌
 * 13:00. Raketka. Ranking Tournament.
   * July 13: 0-35
   * July 20: 0-40
