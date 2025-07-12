@@ -85,7 +85,6 @@
 * 11:00 - 13:30. Sports School #23. Ladder.
 * 11:10. Himars. 0-100 Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
-  * July 12: 0-15.0 Ranking Tournament.
 * 11:45 - 14:00. Leader (RC). Coach-Guided Matches.
 * 15:00. DBK-4 Sports Complex. Ladder.
 * 15:00. Orion. 0-10 Ranking Tournament.
