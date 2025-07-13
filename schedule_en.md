@@ -100,41 +100,28 @@
 * 08:00. Spin Up. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
 * 10:00. Gourmet. Ranking Tournaments 0-15 and 0-80.
-* 10:00, July 13. Orion. 🏆 "ORION Summer Cup" with a prize fund of 40,000₴. [Details](https://t.me/chatorion/21155), [regulations](https://docs.google.com/document/d/1H_1tqPxbt1EUX4-fmQ8Z3yQGNkVp7nmxnNMALzhPGPw/edit?tab=t.0), [registration](https://forms.gle/myxj1Jx9yEUYTnQ76).
 * 10:00. Raketka. Ranking Tournament.
-  * July 13: 0-5
   * July 20: 0-20
   * July 27: 0-25
-* 10:00, July 13. RSP. "RSP Table Tennis Open" monthly 🏅 tournament. Category "Advanced" (professionals). [Details](https://t.me/krsp_tt_tour/600), [registration](https://forms.gle/4k2uKjqEUrnbioum7).
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
 * 10:30. Orion. 0-100 Ranking Tournament.
-  * July 13: ❌
 * 10:30. Orion. 0-10 Ranking Tournament.
-  * July 13: ❌
 * 11:00. Leader (RC). Ranking Tournament.
-  * July 13: 0-15
   * July 20: 0-30
   * July 27: 0-5
 * 11:00. Quiks. 0-10 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
-  * July 13: 0-25.0 Ranking Tournament.
 * 12:00. Pechersk. 0-35 Ranking Tournament.
-  * July 13: ❌
 * 13:00. Raketka. Ranking Tournament.
-  * July 13: 0-35
   * July 20: 0-40
   * July 27: 0-100
-* 13:30, July 13. RSP. "RSP Table Tennis Open" monthly 🏅 tournament. Category "Amateur" (amateurs without UTTF ranking). [Details](https://t.me/krsp_tt_tour/600), [registration](https://forms.gle/4k2uKjqEUrnbioum7).
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
-  * July 13: ❌
 * 15:00. Leader (RC). Ranking Tournament.
-  * July 13: 0-5
   * July 20: 0-10
   * July 27: 0-15
 * 15:00. Orion. 0-15 Ranking Tournament.
-  * July 13: ❌
 * 15:00. Quiks. 0-5 Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
