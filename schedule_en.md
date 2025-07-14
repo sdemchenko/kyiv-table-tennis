@@ -66,7 +66,7 @@
 * 18:00. Sports School #21. 0-100 Non-Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
-* 18:30. Quiks. 0-5 Ranking Tournament.
+* 18:00. Quiks. 0-5 Ranking Tournament.
 * 19:00 - 21:00. Leader (Sports School). Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Tuesday and Friday group).
 
@@ -81,7 +81,7 @@
 * 10:00. Top Spin (Brovary). 0-40 Ranking Tournament.
 * 10:30. Orion. 0-25 Ranking Tournament.
 * 10:30. Top-Spin (Borshchahivka). 0-20 Ranking Tournament.
-* 11:00. Quiks. 0-15 Ranking Tournament.
+* 11:00. Quiks. 0-20 Ranking Tournament.
 * 11:00 - 13:30. Sports School #23. Ladder.
 * 11:10. Himars. 0-100 Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
@@ -109,7 +109,7 @@
 * 11:00. Leader (RC). Ranking Tournament.
   * July 20: 0-30
   * July 27: 0-5
-* 11:00. Quiks. 0-10 Ranking Tournament.
+* 11:00. Quiks. 0-15 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
