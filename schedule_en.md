@@ -87,6 +87,7 @@
 * 11:10. Himars. 0-100 Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
 * 11:45 - 14:00. Leader (RC). Coach-Guided Matches.
+* 12:00, July 19. Pulse. 0-100 Non-Ranking Tournament.
 * 15:00. DBK-4 Sports Complex. Ladder.
 * 15:00. Orion. 0-10 Ranking Tournament.
 * 15:00. Orion. 0-50 Ranking Tournament.
@@ -116,6 +117,7 @@
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
 * 12:00. Pechersk. 0-35 Ranking Tournament.
+* 12:00, July 20. Pulse. 0-100 Non-Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
   * July 20: 0-40
   * July 27: 0-100
