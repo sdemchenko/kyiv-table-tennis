@@ -15,6 +15,7 @@
 
 ### Tuesday {#tuesday}
 
+* 10:00. 🏅 Tournament in honor of the fallen soldiers of the Special Operations Forces. [Announcement](https://t.me/ttkiev/669), [registration](https://surl.lu/xeztym).
 * 11:00 - 15:00. Orion. Ladder.
 * 17:00 - 19:30. Drahomanov University Sports Complex. Ladder.
 * 17:30 - 20:00. Pechersk. Ladder.
