@@ -85,14 +85,21 @@ function configureBackToTopButton() {
 }
 
 function configureCheckboxesFilteringCompetitions() {
+    const tournamentKeywords = ['tournament', 'турнір', 'кубок', 'чемпіонат', 'championship'];
+
+    function isTournament($item) {
+        const itemText = $item.text().toLowerCase();
+        return $item.find('i.tournament').length > 0 || tournamentKeywords.some(word => itemText.includes(word));
+    }
+
     $('#showTournaments').click(function () {
         $('#scheduleContainer > ul > li').filter(function () {
-            return $(this).find('i.tournament').length > 0;
+            return isTournament($(this));
         }).toggle();
     });
     $('#showOtherCompetitions').click(function () {
         $('#scheduleContainer > ul > li').filter(function () {
-            return $(this).find('i.tournament').length === 0;
+            return !isTournament($(this));
         }).toggle();
     });
 }
