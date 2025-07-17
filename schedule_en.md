@@ -78,7 +78,7 @@
 * 09:30. Grand-Prix. 0-100 Non-Ranking Tournament.
 * 10:00. Breiks. 0-100 Ranking Tournament.
 * 10:00 - 12:00. Leader (Sports School). Ladder (Tuesday, Thursday, Saturday group).
-* 10:00. Solomyanka. 0-100 Non-Ranking Tournament. Advance registration is required. The tournament is canceled if fewer than six players register before Saturday.
+* 10:00. Solomyanka. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00. Top Spin (Brovary). 0-40 Ranking Tournament.
 * 10:30. Orion. 0-25 Ranking Tournament.
 * 10:30. Top-Spin (Borshchahivka). 0-20 Ranking Tournament.
