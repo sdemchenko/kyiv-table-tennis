@@ -134,6 +134,11 @@ i.tournament.non-ranking {
     opacity: var( --non-ranking-tournament-opacity);
 }
 
+i.fa-cart-shopping {
+    font-size: 0.85em;
+    vertical-align: middle;
+}
+
 #lang-switcher {
     float: right;
     padding-right: 10px;
