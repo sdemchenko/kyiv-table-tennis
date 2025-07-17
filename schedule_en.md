@@ -104,6 +104,7 @@
 * 08:00. Spin Up. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
 * 10:00. Gourmet. Ranking Tournaments 0-15 and 0-80.
+  * July 20: Ranking Tournaments 0-15 and 0-30.
 * 10:00. Raketka. Ranking Tournament.
   * July 20: 0-20
   * July 27: 0-25
