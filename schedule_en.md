@@ -86,14 +86,11 @@
 * 11:00 - 13:30. Sports School #23. Ladder.
 * 11:10. Himars. 0-100 Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
-  * July 19: 0-15.0 Ranking Tournament.
 * 11:45 - 14:00. Leader (RC). Coach-Guided Matches.
-* 12:00, July 19. Pulse. 0-100 Non-Ranking Tournament.
 * 15:00. DBK-4 Sports Complex. Ladder.
 * 15:00. Orion. 0-10 Ranking Tournament.
 * 15:00. Orion. 0-50 Ranking Tournament.
 * 16:00 - 18:00. Pechersk. Ladder.
-* 17:00, July 19. VDNG. 🏅 Tournament. Advance [registration](https://docs.google.com/forms/d/1EYzKQpWajrf1f6jqTVTO65nsdXeSMCoitioM-TYVocw/viewform?edit_requested=true) is required.
 * 18:30 - 22:00. KUTT. Ladder.
   * July 19: ❌
 * 18:30 - 21:00. Orion. Ladder.
