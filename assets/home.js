@@ -16,7 +16,7 @@ $(document).ready(function () {
  * (4) makes club names in the schedule clicky, so that they open an overlay with the club info.
  */
 function fetchSchedule() {
-    fetch($('#scheduleContainer').attr('data-src') + '?cacheBuster=' + timestampNoOlderThanTenSeconds(), {})
+    fetch($('#scheduleContainer').attr('data-src') + '?cacheBuster=' + getCacheKey())
         .then(function (response) {
             return response.text();
         })
@@ -41,11 +41,11 @@ function fetchSchedule() {
 }
 
 /**
- * Timestamp to append to URLs to fetch fresh news and schedule.
- * Using ten-second staleness if the user hits the Refresh button repeatedly.
+ * Returns a timestamp-based number.
+ *  Use it to make the browser use a cached resource version for some milliseconds.
  */
-function timestampNoOlderThanTenSeconds() {
-    return Math.floor(new Date().getTime() / 10000);
+function getCacheKey(ttlMs = 1000 * 60 * 10) {
+    return Math.floor(Date.now() / ttlMs);
 }
 
 function insertTournamentMarkers(schedule) {

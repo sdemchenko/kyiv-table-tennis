@@ -48,16 +48,12 @@ ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
 ul#toc ul { padding-inline-start: 2ch; }
 
-div#newsContainerDecorator {
-    border: 1px solid var(--table-border-color);
-    border-radius: 0.5rem;
-    overflow: hidden;
-}
-
 div#newsContainer {
     max-height: 300px;
     overflow-y: auto;
     padding: 6px;
+    border-radius: 0.5rem;
+    border: 1px solid var(--table-border-color);
 }
 
 div#newsContainer > div {
@@ -103,7 +99,21 @@ th, td {
     border-width: 0;
 }
 
-table#t_courts td:nth-child(3) { text-align:center; }
+/* START rounding borders of tables 'Clubs' and 'Courts'. */
+table#t_clubs { border-collapse: separate; border-spacing: 0; border-radius: 0.5rem; }
+table#t_clubs th:first-of-type { border-top-left-radius: 0.5rem; }
+table#t_clubs th:last-of-type { border-top-right-radius: 0.5rem; }
+table#t_clubs th, td { border-bottom: 1px solid var(--table-border-color); }
+table#t_clubs tr:last-of-type td { border-bottom: 0; }
+
+table#t_courts { border-collapse: separate; border-spacing: 0; border-radius: 0.5rem; }
+table#t_courts th:first-of-type { border-top-left-radius: 0.5rem; }
+table#t_courts th:last-of-type { border-top-right-radius: 0.5rem; }
+table#t_courts th, td { border-bottom: 1px solid var(--table-border-color); }
+table#t_courts tr:last-of-type td { border-bottom: 0; }
+/* END rounding borders of tables 'Clubs' and 'Courts'. */
+
+table#t_courts td:last-of-type { text-align:center; }
 
 .warn {
     font-size: small;
