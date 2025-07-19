@@ -76,12 +76,16 @@ function insertTournamentMarkers(schedule) {
 
 function configureBackToTopButton() {
     const backToTop = $("#backToTop");
-    $(window).scroll(function(){
+    function showOrHideBackToTop() {
         $(document).scrollTop() > 300 ? backToTop.show() : backToTop.hide();
+    }
+    $(window).scroll(function(){
+        showOrHideBackToTop();
     });
     backToTop.click(function() {
         window.scrollTo(0, 0);
     });
+    showOrHideBackToTop();
 }
 
 function configureCheckboxesFilteringCompetitions() {
