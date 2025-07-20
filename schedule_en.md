@@ -101,29 +101,22 @@
 * 08:00. Spin Up. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
 * 10:00. Gourmet. Ranking Tournaments 0-15 and 0-80.
-  * July 20: Ranking Tournaments 0-15 and 0-30.
 * 10:00. Raketka. Ranking Tournament.
-  * July 20: 0-20
   * July 27: 0-25
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
 * 10:30. Orion. 0-100 Ranking Tournament.
 * 10:30. Orion. 0-10 Ranking Tournament.
 * 11:00. Leader (RC). Ranking Tournament.
-  * July 20: 0-30
   * July 27: 0-5
 * 11:00. Quiks. 0-15 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
-  * July 20: 0-25.0 Ranking Tournament.
 * 12:00. Pechersk. 0-35 Ranking Tournament.
-* 12:00, July 20. Pulse. 0-100 Non-Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
-  * July 20: 0-40
   * July 27: 0-100
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
-  * July 20: 0-10
   * July 27: 0-15
 * 15:00. Orion. 0-15 Ranking Tournament.
 * 15:00. Quiks. 0-5 Ranking Tournament.
