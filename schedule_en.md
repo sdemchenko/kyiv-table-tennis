@@ -90,6 +90,7 @@
 * 15:00. DBK-4 Sports Complex. Ladder.
 * 15:00. Orion. 0-10 Ranking Tournament.
 * 15:00. Orion. 0-50 Ranking Tournament.
+* 15:00 - 21:00. Quiks. Unlimited play.
 * 16:00 - 18:00. Pechersk. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
 * 18:30 - 21:00. Orion. Ladder.
