@@ -23,7 +23,6 @@
 * 18:00 - 22:30. Volia. Ladder.
 * 18:15 - 20:40. Sports School #23. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
-* 18:30. Volia. 0-15 Ranking Tournament.
 * 19:00 - 21:00. Leader (Sports School). Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. Orion. 0-25 Ranking Tournament.
 * 19:00 - 21:00. RSP. Coach-Guided Matches.
