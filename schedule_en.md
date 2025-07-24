@@ -116,6 +116,7 @@
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
   * July 27: 0-25.0
 * 12:00. Pechersk. 0-35 Ranking Tournament.
+* 12:00, July 27. Pulse. 0-100 Non-Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
   * July 27: 0-100
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
