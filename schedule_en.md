@@ -121,7 +121,7 @@
   * July 27: 0-100
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
-  * July 27: 0-25
+  * July 27: ❌
 * 15:00. Orion. 0-15 Ranking Tournament.
 * 15:00. Quiks. 0-5 Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
