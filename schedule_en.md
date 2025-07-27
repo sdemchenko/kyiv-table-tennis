@@ -81,12 +81,10 @@
 * 10:00. Top Spin (Brovary). 0-40 Ranking Tournament.
 * 10:30. Orion. 0-25 Ranking Tournament.
 * 10:30. Top-Spin (Borshchahivka). 0-20 Ranking Tournament.
-* 11:00, July 26. Pulse. 0-100 Ranking Tournament.
 * 11:00. Quiks. 0-20 Ranking Tournament.
 * 11:00 - 13:30. Sports School #23. Ladder.
 * 11:10. Himars. 0-100 Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
-  * July 26: 0-15.0
 * 11:45 - 14:00. Leader (RC). Coach-Guided Matches.
 * 15:00. DBK-4 Sports Complex. Ladder.
 * 15:00. Orion. 0-10 Ranking Tournament.
@@ -104,24 +102,18 @@
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
 * 10:00. Gourmet. Ranking Tournaments 0-15 and 0-30.
 * 10:00. Raketka. Ranking Tournament.
-  * July 27: 0-25
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
 * 10:30. Orion. 0-100 Ranking Tournament.
 * 10:30. Orion. 0-10 Ranking Tournament.
 * 11:00. Leader (RC). Ranking Tournament.
-  * July 27: 0-10
 * 11:00. Quiks. 0-15 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
-  * July 27: 0-25.0
 * 12:00. Pechersk. 0-35 Ranking Tournament.
-* 12:00, July 27. Pulse. 0-100 Non-Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
-  * July 27: 0-100
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
-  * July 27: ❌
 * 15:00. Orion. 0-15 Ranking Tournament.
 * 15:00. Quiks. 0-5 Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
