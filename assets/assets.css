@@ -20,3 +20,5 @@ a:hover { text-decoration: underline; }
     text-align: center;
     padding: 1em;
 }
+
+img, video { padding-bottom: 10px; }
