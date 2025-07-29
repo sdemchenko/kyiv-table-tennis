@@ -85,7 +85,7 @@
 * 11:10. Himars. 0-100 Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
 * 11:45 - 14:00. Leader (RC). Coach-Guided Matches.
-* 14:00 - 21:00. Quiks. 0-5 Ranking Tournament.
+* 14:00. Quiks. 0-5 Ranking Tournament.
 * 15:00. DBK-4 Sports Complex. Ladder.
 * 15:00. Orion. 0-10 Ranking Tournament.
 * 15:00. Orion. 0-50 Ranking Tournament.
@@ -124,7 +124,6 @@
   * August 24: 0-20
   * August 31: 0-25
 * 15:00. Orion. 0-15 Ranking Tournament.
-* 15:00. Quiks. 0-5 Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
 * 18:30 - 21:00. Orion. Ladder.
