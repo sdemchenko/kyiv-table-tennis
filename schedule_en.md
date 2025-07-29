@@ -15,7 +15,6 @@
 
 ### Tuesday {#tuesday}
 
-* 10:00, July 29. 🏅 Tournament in honor of the fallen soldiers of the Special Operations Forces. [Announcement](https://t.me/ttkiev/669), [registration](https://docs.google.com/forms/d/e/1FAIpQLSdOHdkPZSU6Xi0JCDuHojN4NmycbOlLpWI9BBcPb4kEpn2D9Q/viewform).
 * 11:00 - 15:00. Orion. Ladder.
 * 17:00 - 19:30. Drahomanov University Sports Complex. Ladder.
 * 17:30 - 20:00. Pechersk. Ladder.
