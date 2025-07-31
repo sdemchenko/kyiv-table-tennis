@@ -103,6 +103,11 @@
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
 * 10:00. Gourmet. Ranking Tournaments 0-15 and 0-30.
 * 10:00. Raketka. Ranking Tournament.
+  * August 3: 0-15
+  * August 10: 0-25
+  * August 17: 0-10
+  * August 24: 0-25
+  * August 31: 0-25
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
 * 10:30. Orion. 0-100 Ranking Tournament.
 * 10:30. Orion. 0-10 Ranking Tournament.
@@ -120,6 +125,11 @@
 * 12:00. Pechersk. 0-35 Ranking Tournament.
 * 12:00, August 3. Pulse. 0-100 Non-Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
+  * August 3: 0-100
+  * August 10: 0-100
+  * August 17: 0-100
+  * August 24: ❌
+  * August 31: 0-100
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
   * August 3: 0-15
