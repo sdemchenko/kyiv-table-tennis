@@ -116,6 +116,7 @@
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
 * 12:00. Pechersk. 0-35 Ranking Tournament.
+* 12:00, August 3. Pulse. 0-100 Non-Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
