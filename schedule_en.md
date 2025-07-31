@@ -107,7 +107,7 @@
   * August 10: 0-25
   * August 17: 0-10
   * August 24: 0-25
-  * August 31: 0-25
+  * August 31: 0-20
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
 * 10:30. Orion. 0-100 Ranking Tournament.
 * 10:30. Orion. 0-10 Ranking Tournament.
