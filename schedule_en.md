@@ -79,10 +79,10 @@
 * 10:00. Solomyanka. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00. Top Spin (Brovary). 0-40 Ranking Tournament.
 * 10:30. Orion. 0-25 Ranking Tournament.
-* 10:30. Top-Spin (Borshchahivka). 0-20 Ranking Tournament.
 * 11:00, August 2. Pulse. 0-10 Ranking Tournament.
 * 11:00. Quiks. 0-15 Ranking Tournament.
 * 11:00 - 13:30. Sports School #23. Ladder.
+* 11:00. Top-Spin (Borshchahivka). 0-20 Ranking Tournament.
 * 11:10. Himars. 0-100 Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
   * August 2: 0-25.0 Ranking Tournament.
