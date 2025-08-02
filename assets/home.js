@@ -49,13 +49,14 @@ function getCacheKey(ttlMs = 1000 * 60 * 10) {
 }
 
 function insertTournamentMarkers(schedule) {
-    function insertGlyphs(schedule, word, glyph, keepFoundWord) {
-        const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape regex metacharacters
+    
+    function insertGlyphs(schedule, textToFind, glyph, keepFoundText) {
+        const escapedWord = textToFind.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape regex metacharacters
         const regex = new RegExp(`(^|[^\\p{L}-])(${escapedWord})`, 'iu'); // Unicode-aware boundary
 
         schedule.contents().each(function processNode() {
             if (this.nodeType === Node.TEXT_NODE && this.nodeValue.trim() !== '') {
-                const replaced = this.nodeValue.replace(regex, glyph + (keepFoundWord ? '$2' : ''));
+                const replaced = this.nodeValue.replace(regex, glyph + (keepFoundText ? '$2' : ''));
                 if (replaced !== this.nodeValue) {
                     $(this).replaceWith(replaced);
                 }
@@ -64,14 +65,16 @@ function insertTournamentMarkers(schedule) {
             }
         })
     }
-    const glyphRanking = ' <i class="fas fa-trophy tournament ranking"></i> ';
-    const glyphNonRanking = ' <i class="fas fa-trophy tournament non-ranking"></i> ';
-    insertGlyphs(schedule, '🏆', glyphRanking, false);
-    insertGlyphs(schedule, 'ranking tournament', glyphRanking, true);
-    insertGlyphs(schedule, 'рейтингов', glyphRanking, true);
-    insertGlyphs(schedule, '🏅', glyphNonRanking, false);
-    insertGlyphs(schedule, 'non-ranking tournament', glyphNonRanking, true);
-    insertGlyphs(schedule, 'нерейтингов', glyphNonRanking, true);
+    
+    const markRanking = ' <i class="fas fa-trophy tournament ranking"></i> ';
+    const markNonRanking = ' <i class="fas fa-trophy tournament non-ranking"></i> ';
+    
+    insertGlyphs(schedule, '🏆', markRanking, false);
+    insertGlyphs(schedule, 'ranking tournament', markRanking, true);
+    insertGlyphs(schedule, 'рейтингов', markRanking, true);
+    insertGlyphs(schedule, '🏅', markNonRanking, false);
+    insertGlyphs(schedule, 'non-ranking tournament', markNonRanking, true);
+    insertGlyphs(schedule, 'нерейтингов', markNonRanking, true);
 }
 
 function configureBackToTopButton() {
