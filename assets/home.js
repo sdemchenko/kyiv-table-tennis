@@ -7,6 +7,7 @@ $(document).ready(function () {
     populatePlacesMap();
     configurePlaceNameLinksToOpenPlaceInfoOverlay();
     fetchSchedule();
+    setInterval(fetchSchedule, 10 * 60 * 1000);
     incrementCounter();
 });
 
@@ -35,6 +36,8 @@ function fetchSchedule() {
             $('#scheduleContainer').html($parsed.html());
             
             makeClubNamesInTheScheduleClicky();
+            updateTournamentsVisibility();
+            updateOtherCompetitionsVisibility();
         })
         .catch(function (err) {
             console.log(err);
@@ -93,23 +96,27 @@ function configureBackToTopButton() {
 }
 
 function configureCheckboxesFilteringCompetitions() {
+    $('#showTournaments').click(updateTournamentsVisibility);
+    $('#showOtherCompetitions').click(updateOtherCompetitionsVisibility);
+}
+
+function updateTournamentsVisibility() {
+    const visible = $('#showTournaments').prop('checked');
+    $('#scheduleContainer > ul > li')
+        .filter((_, el) => isTournament($(el)))
+        .toggle(visible);
+}
+
+function updateOtherCompetitionsVisibility() {
+    const visible = $('#showOtherCompetitions').prop('checked');
+    $('#scheduleContainer > ul > li')
+        .filter((_, el) => !isTournament($(el)))
+        .toggle(visible);
+}
+
+function isTournament($item) {
     const tournamentKeywords = ['tournament', 'турнір', 'кубок', 'чемпіонат', 'championship'];
-
-    function isTournament($item) {
-        const itemText = $item.text().toLowerCase();
-        return $item.find('i.tournament').length > 0 || tournamentKeywords.some(word => itemText.includes(word));
-    }
-
-    $('#showTournaments').click(function () {
-        $('#scheduleContainer > ul > li').filter(function () {
-            return isTournament($(this));
-        }).toggle();
-    });
-    $('#showOtherCompetitions').click(function () {
-        $('#scheduleContainer > ul > li').filter(function () {
-            return !isTournament($(this));
-        }).toggle();
-    });
+    return $item.find('i.tournament').length > 0 || tournamentKeywords.some(word => $item.text().toLowerCase().includes(word));
 }
 
 /**
