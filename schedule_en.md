@@ -106,6 +106,7 @@
   * August 17: 0-10
   * August 24: 0-25
   * August 31: 0-20
+* 10:00, August 17. RSP. "RSP Table Tennis Open" monthly 🏅 tournament. Category "Advanced" (professionals). [Details](https://t.me/krsp_tt_tour/620), [registration](https://forms.gle/ShDZv16jJvuPuenb8).
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
 * 10:30. Orion. 0-100 Ranking Tournament.
 * 10:30. Orion. 0-10 Ranking Tournament.
@@ -125,6 +126,7 @@
   * August 17: 0-100
   * August 24: ❌
   * August 31: 0-100
+* 13:30, August 17. RSP. "RSP Table Tennis Open" monthly 🏅 tournament. Category "Amateur" (amateurs without UTTF ranking). [Details](https://t.me/krsp_tt_tour/620), [registration](https://forms.gle/ShDZv16jJvuPuenb8).
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
   * August 10: 0-20
