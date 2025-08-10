@@ -131,5 +131,4 @@
 * 15:00. Quiks. 0-5 Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 22:00. KUTT. Ladder.
-  * August 10: ❌
 * 18:30 - 21:00. Orion. Ladder.
