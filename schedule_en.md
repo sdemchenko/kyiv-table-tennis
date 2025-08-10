@@ -101,7 +101,6 @@
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
 * 10:00. Gourmet. Ranking Tournament 0-30.
 * 10:00. Raketka. Ranking Tournament.
-  * August 10: 0-25
   * August 17: 0-10
   * August 24: 0-25
   * August 31: 0-20
@@ -110,7 +109,6 @@
 * 10:30. Orion. 0-100 Ranking Tournament.
 * 10:30. Orion. 0-10 Ranking Tournament.
 * 11:00. Leader (RC). Ranking Tournament.
-  * August 10: 0-10
   * August 17: 0-5
   * August 24: 0-10
 * August 31: 0-5
@@ -118,18 +116,14 @@
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-100 Non-Ranking Tournament.
-  * August 10: 0-15.0 Ranking Tournament.
 * 12:00. Pechersk. 0-35 Ranking Tournament.
-* 12:00, August 10. Pulse. 0-100 Non-Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
-  * August 10: 0-100
   * August 17: 0-100
   * August 24: ❌
   * August 31: 0-100
 * 13:30, August 17. RSP. "RSP Table Tennis Open" monthly 🏅 tournament. Category "Amateur" (amateurs without UTTF ranking). [Details](https://t.me/krsp_tt_tour/620), [registration](https://forms.gle/ShDZv16jJvuPuenb8).
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
-  * August 10: 0-20
   * August 17: 0-15
   * August 24: 0-20
   * August 31: 0-25
