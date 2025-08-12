@@ -1,7 +1,7 @@
 ﻿
 [//]: # (Use 🏆 for ranking events, 🏅 for non-ranking events, ❌ for canceled events)
 
-### Monday {#monday}
+<h3 id="monday">Monday</h3>
 
 * 11:00 - 15:00. Orion. Ladder.
 * 17:00 - 19:00. Gourmet. Ladder.
@@ -13,7 +13,7 @@
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Monday and Thursday group).
 * 19:00. Sports School #21. 0-100 Non-Ranking Tournament.
 
-### Tuesday {#tuesday}
+<h3 id="tuesday">Tuesday</h3>
 
 * 11:00 - 15:00. Orion. Ladder.
 * 17:00 - 19:30. Drahomanov University Sports Complex. Ladder.
@@ -27,7 +27,7 @@
 * 19:00 - 21:00. RSP. Coach-Guided Matches.
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Tuesday and Friday group).
 
-### Wednesday {#wednesday}
+<h3 id="wednesday">Wednesday</h3>
 
 * 11:00 - 15:00. Orion. Ladder.
 * 17:00 - 19:00. Gourmet. Ladder.
@@ -42,7 +42,7 @@
 * 19:30 - 22:00. KUTT. Ladder.
 * 20:00. TviY tennis. Non-Ranking Tournament (beginners and amateurs). Advance registration is required.
 
-### Thursday {#thursday}
+<h3 id="thursday">Thursday</h3>
 
 * 11:00 - 15:00. Orion. Ladder.
 * 17:00 - 19:30. Drahomanov University Sports Complex. Ladder.
@@ -55,7 +55,7 @@
 * 19:00 - 21:00. RSP. Coach-Guided Matches.
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Monday and Thursday group).
 
-### Friday {#friday}
+<h3 id="friday">Friday</h3>
 
 * 11:00 - 15:00. Orion. Ladder.
 * 17:00 - 19:00. Gourmet. Ladder.
@@ -69,7 +69,7 @@
 * 19:00 - 21:00. Leader (Sports School). Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Tuesday and Friday group).
 
-### Saturday {#saturday}
+<h3 id="saturday">Saturday</h3>
 
 * 08:00. Spin Up. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 09:00. TviY tennis. Non-Ranking Tournament (beginners). Advance registration is required.
@@ -95,7 +95,7 @@
 * 18:00 - 22:30. Volia. Ladder.
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Wednesday and Saturday group).
 
-### Sunday {#sunday}
+<h3 id="sunday">Sunday</h3>
 
 * 08:00. Spin Up. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 09:00, August 17. VDNG Urban-Park. Charitable Non-Ranking Tournament. [Announcement](https://t.me/ttkiev/675), [registration](https://athletic-events.com/en/event/118).

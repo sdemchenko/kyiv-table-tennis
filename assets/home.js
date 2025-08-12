@@ -23,8 +23,8 @@ function fetchSchedule() {
             return response.text();
         })
         .then(function (data) {
-            // Markdown with both HTML support and markdown-it-attrs plugin enabled
-            const md = window.markdownit({html: true}).use(window.markdownItAttrs);
+            // Markdown with HTML support
+            const md = window.markdownit({html: true});
 
             const html = md.render(data);
 
