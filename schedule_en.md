@@ -110,9 +110,9 @@
 * 10:30. Orion. 0-100 Ranking Tournament.
 * 10:30. Orion. 0-10 Ranking Tournament.
 * 11:00. Leader (RC). Ranking Tournament.
-  * August 17: 0-5
+  * August 17: ❌
   * August 24: 0-10
-* August 31: 0-5
+  * August 31: 0-5
 * 11:00. Quiks. 0-10 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
@@ -125,7 +125,7 @@
 * 13:30, August 17. RSP. "RSP Table Tennis Open" monthly 🏅 tournament. Category "Amateur" (amateurs without UTTF ranking). [Details](https://t.me/krsp_tt_tour/620), [registration](https://forms.gle/ShDZv16jJvuPuenb8).
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
-  * August 17: 0-15
+  * August 17: ❌
   * August 24: 0-20
   * August 31: 0-25
 * 15:00. Orion. 0-15 Ranking Tournament.
