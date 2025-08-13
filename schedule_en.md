@@ -9,6 +9,7 @@
 * 18:00 - 20:30. Breiks. Ladder.
 * 18:00 - 20:30. Himars. Coach-Guided Matches.
 * 18:00 - 22:30. Volia. Ladder.
+* 18:45 - 22:00. KUTT. Ladder.
 * 19:00 - 21:00. Leader (Sports School). Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Monday and Thursday group).
 * 19:00. Sports School #21. 0-100 Non-Ranking Tournament.
@@ -21,7 +22,7 @@
 * 18:00 - 20:30. Himars. Coach-Guided Matches.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:15 - 20:40. Sports School #23. Ladder.
-* 18:30 - 22:00. KUTT. Ladder.
+* 18:45 - 22:00. KUTT. Ladder.
 * 19:00 - 21:00. Leader (Sports School). Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. Orion. 0-25 Ranking Tournament.
 * 19:00 - 21:00. RSP. Coach-Guided Matches.
@@ -36,10 +37,10 @@
 * 18:00 - 22:30. Volia. Ladder.
 * 18:00. Quiks. 0-15 Ranking Tournament.
 * 18:10. Himars. 0-40 Ranking Tournament.
+* 18:45 - 22:00. KUTT. Ladder.
 * 19:00 - 21:00. Leader (Sports School). Ladder (Monday, Wednesday, Friday group).
 * 19:00. Sports School #21. 0-100 Non-Ranking Tournament.
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Wednesday and Saturday group).
-* 19:30 - 22:00. KUTT. Ladder.
 * 20:00. TviY tennis. Non-Ranking Tournament (beginners and amateurs). Advance registration is required.
 
 <h3 id="thursday">Thursday</h3>
@@ -50,6 +51,7 @@
 * 18:00 - 20:30. Himars. Coach-Guided Matches.
 * 18:15 - 20:40. Sports School #23. Ladder.
 * 18:30. Volia. 0-30 Ranking Tournament.
+* 18:45 - 22:00. KUTT. Ladder.
 * 19:00 - 21:00. Leader (Sports School). Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. Orion. 0-25 Non-Ranking Tournament.
 * 19:00 - 21:00. RSP. Coach-Guided Matches.
@@ -64,8 +66,8 @@
 * 18:00 - 20:30. Himars. Coach-Guided Matches.
 * 18:00. Sports School #21. 0-100 Non-Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
-* 18:30 - 22:00. KUTT. Ladder.
 * 18:00. Quiks. 0-5 Ranking Tournament.
+* 18:45 - 22:00. KUTT. Ladder.
 * 19:00 - 21:00. Leader (Sports School). Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Tuesday and Friday group).
 
@@ -90,9 +92,8 @@
 * 15:00. Orion. 0-50 Ranking Tournament.
 * 15:00. Quiks. 0-5 Ranking Tournament.
 * 16:00 - 18:00. Pechersk. Ladder.
-* 18:30 - 22:00. KUTT. Ladder.
-* 18:30 - 21:00. Orion. Ladder.
 * 18:00 - 22:30. Volia. Ladder.
+* 18:30 - 21:00. Orion. Ladder.
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Wednesday and Saturday group).
 
 <h3 id="sunday">Sunday</h3>
@@ -131,5 +132,4 @@
   * August 31: 0-25
 * 15:00. Orion. 0-15 Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
-* 18:30 - 22:00. KUTT. Ladder.
 * 18:30 - 21:00. Orion. Ladder.
