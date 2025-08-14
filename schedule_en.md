@@ -103,6 +103,7 @@
 * 09:00, August 17. VDNG Urban-Park. Charitable Non-Ranking Tournament. [Announcement](https://t.me/ttkiev/679), [registration](https://athletic-events.com/en/event/118).
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
 * 10:00. Gourmet. Ranking Tournament 0-30.
+  * August 17: Ranking Tournament 0-25.
 * 10:00. Raketka. Ranking Tournament.
   * August 17: 0-10
   * August 24: 0-25
@@ -121,6 +122,7 @@
 * 11:30. Pokolinnia. 0-15.0 Ranking Tournament.
 * 12:00. Pechersk. 0-35 Ranking Tournament.
 * 12:00, August 17. Pulse. 0-100 Non-Ranking Tournament.
+* 13:00, August 17. Gourmet. Ranking Tournament 0-40.
 * 13:00. Raketka. Ranking Tournament.
   * August 17: 0-100
   * August 24: ❌
