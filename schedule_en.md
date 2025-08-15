@@ -101,8 +101,8 @@
 * 08:00. Spin Up. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 09:00, August 17. VDNG Urban-Park. Charitable Non-Ranking Tournament. [Announcement](https://t.me/ttkiev/679), [registration](https://athletic-events.com/en/event/118).
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
-* 10:00. Gourmet. Ranking Tournament 0-30.
-  * August 17: Ranking Tournament 0-25.
+* 10:00. Gourmet. Ranking Tournament.
+  * August 17: 0-25.
 * 10:00. Raketka. Ranking Tournament.
   * August 17: 0-10
   * August 24: 0-25
