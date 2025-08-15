@@ -104,9 +104,9 @@
 * 10:00. Gourmet. Ranking Tournament.
   * August 17: 0-25.
 * 10:00. Raketka. Ranking Tournament.
-  * August 17: 0-10
+  * August 17: 0-20
   * August 24: 0-25
-  * August 31: 0-20
+  * August 31: 0-10
 * 10:00, August 17. RSP. "RSP Table Tennis Open" monthly 🏅 tournament. Category "Advanced" (professionals). [Details](https://t.me/krsp_tt_tour/620), [registration](https://forms.gle/ShDZv16jJvuPuenb8).
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
 * 10:30. Orion. 0-100 Ranking Tournament.
