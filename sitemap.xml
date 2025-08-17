@@ -11,92 +11,102 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/breiks/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/breiks/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/changelog/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/changelog/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/dashkevycha/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/dashkevycha/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/hydropark-behind-weights-1/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/holosiivsky-park/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/hydropark-behind-weights-2/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/hydropark-behind-weights-1/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/hydropark-behind-weights-3/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/hydropark-behind-weights-2/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/hydropark-venice/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/hydropark-behind-weights-3/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/hydropark-veterans/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/hydropark-venice/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/kolorit/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/hydropark-veterans/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/knuba/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/knuba/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/leader-sc/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/kolorit/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/livoberezhna/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/leader-sc/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/mykilsko-slobidska/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/livoberezhna/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/radunka/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/mykilsko-slobidska/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/rudnytskoho/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/park-peremoha/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/quiks/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/quiks/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/top-spin/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/radunka/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/tvoya-podacha/index.html</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/rudnytskoho/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/top-spin/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/tvoya-podacha/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
