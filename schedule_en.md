@@ -90,7 +90,6 @@
 * 15:00. DBK-4 Sports Complex. Ladder.
 * 15:00. Orion. 0-10 Ranking Tournament.
 * 15:00. Orion. 0-50 Ranking Tournament.
-* 15:00. Quiks. 0-25 Ranking Tournament.
 * 16:00 - 18:00. Pechersk. Ladder.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 21:00. Orion. Ladder.
@@ -110,7 +109,7 @@
 * 11:00. Leader (RC). Ranking Tournament.
   * August 24: 0-10
   * August 31: 0-5
-* 11:00. Quiks. 0-10 Ranking Tournament.
+* 11:00. Quiks. 0-20 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-15.0 Ranking Tournament.
@@ -123,5 +122,6 @@
   * August 24: 0-20
   * August 31: 0-25
 * 15:00. Orion. 0-15 Ranking Tournament.
+* 15:00. Quiks. 0-5 Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 21:00. Orion. Ladder.
