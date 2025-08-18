@@ -10,7 +10,6 @@
 * 18:00 - 20:30. Himars. Coach-Guided Matches.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:45 - 22:00. KUTT. Ladder.
-  * August 18: 19:30 - 22:00
 * 19:00 - 21:00. Leader (Sports School). Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Monday and Thursday group).
 * 19:00. Sports School #21. 0-100 Non-Ranking Tournament.
