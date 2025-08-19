@@ -67,12 +67,14 @@ div#newsContainer div:nth-child(1) {
     margin-top: 0;
 }
 
-div#moreNews {
+ul#moreNews {
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 0;
+    line-height: 1.5;
     font-size: 0.8rem;
     font-style: italic;
     color: #888888;
-    margin-top: 20px;
-    line-height: 1.5;
 }
 
 div.maps div { display: inline-block; vertical-align: top }
