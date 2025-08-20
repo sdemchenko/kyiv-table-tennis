@@ -102,7 +102,7 @@
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
 * 10:00. Gourmet. Ranking Tournament.
 * 10:00. Raketka. Ranking Tournament.
-  * August 24: 0-25
+  * August 24: 0-100
   * August 31: 0-10
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
 * 10:30. Orion. 0-100 Ranking Tournament.
