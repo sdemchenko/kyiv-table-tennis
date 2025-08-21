@@ -120,7 +120,7 @@
   * August 31: 0-100
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
-  * August 24: 0-20
+  * August 24: ❌
   * August 31: 0-25
 * 15:00. Orion. 0-15 Ranking Tournament.
 * 15:00. Quiks. 🏅 Free Charity Independence Day Tournament for Veterans and Active Service Members.
