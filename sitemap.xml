@@ -110,4 +110,9 @@
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/verkhovnoi_rady/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
