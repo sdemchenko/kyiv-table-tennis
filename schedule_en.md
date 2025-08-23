@@ -100,6 +100,7 @@
 * 08:00. Spin Up. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
 * 10:00. Gourmet. Ranking Tournament.
+  * August 24: 0-25
 * 10:00. Raketka. Ranking Tournament.
   * August 24: 0-100
   * August 31: 0-10
@@ -115,6 +116,7 @@
 * 11:30. Pokolinnia. 0-15.0 Ranking Tournament.
 * 12:00. Pechersk. 0-35 Ranking Tournament.
 * 12:00, August 24. Pulse. 0-100 Non-Ranking Tournament.
+* 13:00, August 24. Gourmet. 0-40 Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
   * August 24: ❌
   * August 31: 0-100
