@@ -58,3 +58,25 @@ a[href^="https://www.instagram.com/"]::before {
 /*    font-weight: 900;*/
 /*    margin-right: 0.3em;*/
 /*}*/
+
+
+
+summary h2 {
+    display: inline;      /* keep h2 inline so icon sits nicely */
+    user-select: none;    /* prevent text highlighting */
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none;    /* Firefox */
+}
+details table {margin-top: 1em;}
+summary {list-style: none;}
+summary::-webkit-details-marker {display: none;}
+summary, summary h2 {user-select: none;cursor: pointer;} /* prevent text highlighting */
+/* add arrow *after* the h2 */
+summary h2::after {
+    content: "▶";   /* closed state */
+    margin-left: 0.5em;
+    font-size: 0.9em;
+    transition: transform 0.2s;
+}
+details[open] summary h2::after {content: "▼";} /* rotate/change arrow when open */
+details {margin-top: 2rem;}

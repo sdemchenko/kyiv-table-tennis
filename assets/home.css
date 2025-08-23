@@ -101,6 +101,14 @@ th, td {
     border-width: 0;
 }
 
+caption {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    text-align: left;
+    padding-bottom: 1rem;
+}
+
 /* START rounding borders of tables 'Clubs' and 'Courts'. */
 table#t_clubs { border-collapse: separate; border-spacing: 0; border-radius: 0.5rem; }
 table#t_clubs th:first-of-type { border-top-left-radius: 0.5rem; }
