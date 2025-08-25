@@ -98,7 +98,7 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 08:00. Spin Up (on the premises of Himars). 0-10 Ranking Tournament. [Advance registration is required](https://t.me/+yOOJ3CrdhyBjNzhi).
+* 08:00. Spin Up (at the Himars hall). 0-10 Ranking Tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
 * 10:00. Gourmet. Ranking Tournament.
 * 10:00. Raketka. Ranking Tournament.
