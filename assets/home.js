@@ -125,31 +125,51 @@ function isTournament($item) {
  */
 function makeClubNamesInTheScheduleClicky() {
     $('#scheduleContainer > ul > li').each(function () {
-        let replaced = false;
-
         function processNode() {
-            // `this` refers to the DOM node
-            if (replaced) return;
-
             if (this.nodeType === Node.TEXT_NODE) {
-                const nodeText = this.nodeValue;
+                let node = this;
 
-                for (const placeName of places.keys()) {
-                    const index = nodeText.indexOf(placeName);
-                    if (index !== -1) {
-                        const before = nodeText.slice(0, index);
-                        const after = nodeText.slice(index + placeName.length);
+                // Keep replacing the earliest match until none remain in this text node
+                while (true) {
+                    const text = node.nodeValue;
+                    let bestIndex = Infinity;
+                    let bestName = null;
 
-                        const $link = $(`<a data-place="${placeName}">${placeName}</a>`);
-
-                        // Replace the text node with: before + <a> + after
-                        $(this).replaceWith(document.createTextNode(before), $link[0], document.createTextNode(after));
-                        replaced = true;
-                        break;
+                    for (const placeName of places.keys()) {
+                        const idx = text.indexOf(placeName);
+                        if (idx !== -1) {
+                            if (idx < bestIndex) {
+                                bestIndex = idx;
+                                bestName = placeName;
+                            } else if (idx === bestIndex && bestName && placeName.length > bestName.length) {
+                                // tie at the same position: prefer the longer name
+                                bestName = placeName;
+                            }
+                        }
                     }
+
+                    if (bestName == null) break; // no more matches in this node
+
+                    const before = text.slice(0, bestIndex);
+                    const after  = text.slice(bestIndex + bestName.length);
+
+                    const $link = $(`<a data-place="${bestName}">${bestName}</a>`);
+                    const afterNode = document.createTextNode(after);
+
+                    $(node).replaceWith(
+                        document.createTextNode(before),
+                        $link[0],
+                        afterNode
+                    );
+
+                    // continue scanning the remaining text
+                    node = afterNode;
                 }
             } else if (this.nodeType === Node.ELEMENT_NODE) {
-                $(this).contents().each(processNode);
+                // Avoid re-linking inside existing links
+                if (this.tagName !== 'A') {
+                    $(this).contents().each(processNode);
+                }
             }
         }
 
