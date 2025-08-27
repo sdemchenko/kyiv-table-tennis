@@ -78,10 +78,10 @@
 * 09:30. Grand-Prix. 0-100 Non-Ranking Tournament.
 * 10:00. Breiks. 0-100 Ranking Tournament.
 * 10:00 - 12:00. Leader (Sports School). Ladder (Tuesday, Thursday, Saturday group).
+* 10:00. Quiks. 0-20 Ranking Tournament.
 * 10:00. Solomyanka. 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00. Top Spin (Brovary). 0-40 Ranking Tournament.
 * 10:30. Orion. 0-25 Ranking Tournament.
-* 11:00. Quiks. 0-10 Ranking Tournament.
 * 11:00 - 13:30. Sports School #23. Ladder.
 * 11:00. Top-Spin (Borshchahivka). 0-20 Ranking Tournament.
 * 11:10. Himars. 0-100 Ranking Tournament.
@@ -90,6 +90,7 @@
 * 15:00. DBK-4 Sports Complex. Ladder.
 * 15:00. Orion. 0-10 Ranking Tournament.
 * 15:00. Orion. 0-50 Ranking Tournament.
+* 15:00. Quiks. 0-10 Ranking Tournament.
 * 16:00 - 18:00. Pechersk. Ladder.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 21:00. Orion. Ladder.
@@ -108,7 +109,7 @@
 * 10:30. Orion. 0-10 Ranking Tournament.
 * 11:00. Leader (RC). Ranking Tournament.
   * August 31: 0-5
-* 11:00. Quiks. 0-20 Ranking Tournament.
+* 11:00. Quiks. 0-15 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-15.0 Ranking Tournament.
@@ -119,7 +120,6 @@
 * 15:00. Leader (RC). Ranking Tournament.
   * August 31: 0-25
 * 15:00. Orion. 0-15 Ranking Tournament.
-* 15:00. Quiks. 🏅 Free Charity Independence Day Tournament for Veterans and Active Service Members.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 21:00. Orion. Ladder.
 * 18:45 - 22:00. KUTT. Ladder.
