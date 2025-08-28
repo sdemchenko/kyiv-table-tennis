@@ -108,7 +108,7 @@
 * 10:30. Orion. 0-100 Ranking Tournament.
 * 10:30. Orion. 0-10 Ranking Tournament.
 * 11:00. Leader (RC). Ranking Tournament.
-  * August 31: 0-5
+  * August 31: 0-10
 * 11:00. Quiks. 0-15 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
 * 11:00. TviY tennis. Women's Non-Ranking Tournament.
@@ -118,7 +118,7 @@
   * August 31: 0-100
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
 * 15:00. Leader (RC). Ranking Tournament.
-  * August 31: 0-25
+  * August 31: ❌
 * 15:00. Orion. 0-15 Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
 * 18:30 - 21:00. Orion. Ladder.
