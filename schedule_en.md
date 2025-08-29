@@ -111,7 +111,7 @@
   * August 31: 0-10
 * 11:00. Quiks. 0-15 Ranking Tournament.
 * 11:00. Start. Non-Ranking Tournament (beginners, amateurs).
-* 11:00. TviY tennis. Women's Non-Ranking Tournament.
+* 11:00. TviY tennis. 0-10 Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-15.0 Ranking Tournament.
 * 12:00. Pechersk. 0-35 Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
