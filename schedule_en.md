@@ -102,6 +102,7 @@
 * 08:00. Spin Up (at the Himars hall). 0-10 Ranking Tournament. Advance registration is required.
 * 10:00 - 14:00. Drahomanov University Sports Complex. Ladder.
 * 10:00. Gourmet. Ranking Tournament.
+  * August 31: 0-25
 * 10:00. Raketka. Ranking Tournament.
   * August 31: 0-10
 * 10:00. Table Tennis at Revutskoho. 0-100 Non-Ranking Tournament.
@@ -114,6 +115,7 @@
 * 11:00. TviY tennis. 0-10 Non-Ranking Tournament.
 * 11:30. Pokolinnia. 0-15.0 Ranking Tournament.
 * 12:00. Pechersk. 0-35 Ranking Tournament.
+* 13:00, August 31. Gourmet. 0-40 Ranking Tournament.
 * 13:00. Raketka. Ranking Tournament.
   * August 31: 0-100
 * 14:30. Orion. Kids' 0-100 Ranking Tournament.
