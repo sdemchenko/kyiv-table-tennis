@@ -64,9 +64,9 @@
 * 17:30 - 20:00. Pechersk. Ladder.
 * 18:00 - 20:30. Breiks. Ladder.
 * 18:00 - 20:30. Himars. Coach-Guided Matches.
+* 18:00. Quiks. 0-5 Ranking Tournament.
 * 18:00. Sports School #21. 0-100 Non-Ranking Tournament.
 * 18:00 - 22:30. Volia. Ladder.
-* 18:00. Quiks. 0-5 Ranking Tournament.
 * 18:45 - 22:00. KUTT. Ladder.
 * 19:00 - 21:00. Leader (Sports School). Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. Raketka. Coach-Guided Matches (Tuesday and Friday group).
