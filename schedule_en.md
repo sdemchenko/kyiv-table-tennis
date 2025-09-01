@@ -12,7 +12,7 @@
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
-* 19:00. "Sports School #21". 0-100 Non-Ranking Tournament.
+* 19:45. "Sports School #21". 0-100 Non-Ranking Tournament.
 
 <h3 id="tuesday">Tuesday</h3>
 
@@ -39,7 +39,7 @@
 * 18:10. "Himars". 0-40 Ranking Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
-* 19:00. "Sports School #21". 0-100 Non-Ranking Tournament.
+* 19:45. "Sports School #21". 0-100 Non-Ranking Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 * 20:00. "TviY tennis". Non-Ranking Tournament (beginners and amateurs). Advance registration is required.
 
