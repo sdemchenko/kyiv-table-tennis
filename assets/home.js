@@ -136,7 +136,7 @@ function makeClubNamesInTheScheduleClicky() {
                     let bestName = null;
 
                     for (const placeName of places.keys()) {
-                        const idx = text.indexOf(placeName);
+                        const idx = text.indexOf("\"" + placeName + "\"");
                         if (idx !== -1) {
                             if (idx < bestIndex) {
                                 bestIndex = idx;
@@ -150,14 +150,12 @@ function makeClubNamesInTheScheduleClicky() {
 
                     if (bestName == null) break; // no more matches in this node
 
-                    const before = text.slice(0, bestIndex);
-                    const after  = text.slice(bestIndex + bestName.length);
-
+                    const beforeNode = document.createTextNode(text.slice(0, bestIndex));
                     const $link = $(`<a data-place="${bestName}">${bestName}</a>`);
-                    const afterNode = document.createTextNode(after);
+                    const afterNode = document.createTextNode(text.slice(bestIndex + bestName.length + 2));
 
                     $(node).replaceWith(
-                        document.createTextNode(before),
+                        beforeNode,
                         $link[0],
                         afterNode
                     );
