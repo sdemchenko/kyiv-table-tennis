@@ -107,7 +107,7 @@
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". 0-10 Ranking Tournament.
-* 11:00. "Leader (RC)". Ranking Tournament.
+* 11:00. "Leader (RC)". 🏆 Kids' Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 11:00. "TviY tennis". 0-10 Non-Ranking Tournament.
