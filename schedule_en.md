@@ -108,6 +108,10 @@
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". 0-10 Ranking Tournament.
 * 11:00. "Leader (RC)". 🏆 Kids' Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
+    * September 7: Kids' Tournament
+    * September 14: ❌
+    * September 21: Kids' Tournament
+    * September 28: Kids' Tournament
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 11:00. "TviY tennis". 0-10 Non-Ranking Tournament.
@@ -117,6 +121,10 @@
 * 13:30, September 21. "RSP". "RSP Table Tennis Open" Monthly Non-Ranking Tournament. Category "Amateur" (amateurs without UTTF ranking). [Details](https://t.me/krsp_tt_tour/636), [registration](https://forms.gle/aTMgpNBJN9rz5ytX8).
 * 14:30. "Orion". Kids' 0-100 Ranking Tournament.
 * 15:00. "Leader (RC)". Ranking Tournament.
+    * September 7: 0-10
+    * September 14: ❌
+    * September 21: 0-15
+    * September 28: 0-10
 * 15:00. "Orion". 0-15 Ranking Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
