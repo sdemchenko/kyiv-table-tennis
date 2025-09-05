@@ -118,6 +118,7 @@
 * 11:00. "TviY tennis". 0-10 Non-Ranking Tournament.
 * 11:30. "Pokolinnia". 0-15.0 Ranking Tournament.
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
+* 12:00, September 7. "Pulse". 0-100 Non-Ranking Tournament.
 * 13:00. "Gourmet". 0-40 Ranking Tournament.
 * 13:00. "Raketka". Ranking Tournament.
   * September 7: 0-100
