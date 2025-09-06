@@ -78,10 +78,10 @@
 * 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
 * 10:00. "Breiks". 0-100 Ranking Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 10:00. "Quiks". 0-20 Ranking Tournament.
 * 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Advance registration is required.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
 * 10:30. "Orion". 0-25 Ranking Tournament.
+* 11:00. "Quiks". 0-20 Ranking Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:00. "Top-Spin (Borshchahivka)". 0-20 Ranking Tournament.
 * 11:10. "Himars". 0-100 Ranking Tournament.
