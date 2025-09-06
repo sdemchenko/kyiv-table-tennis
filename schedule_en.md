@@ -104,6 +104,7 @@
 * 10:00. "Gourmet". 0-25 Ranking Tournament.
 * 10:00. "Raketka". Ranking Tournament.
   * September 7: 0-20
+  * September 14: ❌
 * 10:00, September 21. "RSP". "RSP Table Tennis Open" Monthly Non-Ranking Tournament. Category "Advanced" (professionals). [Details](https://t.me/krsp_tt_tour/636), [registration](https://forms.gle/aTMgpNBJN9rz5ytX8).
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
@@ -122,6 +123,7 @@
 * 13:00. "Gourmet". 0-40 Ranking Tournament.
 * 13:00. "Raketka". Ranking Tournament.
   * September 7: 0-100
+  * September 14: ❌
 * 13:30, September 21. "RSP". "RSP Table Tennis Open" Monthly Non-Ranking Tournament. Category "Amateur" (amateurs without UTTF ranking). [Details](https://t.me/krsp_tt_tour/636), [registration](https://forms.gle/aTMgpNBJN9rz5ytX8).
 * 14:30. "Orion". Kids' 0-100 Ranking Tournament.
 * 15:00. "Leader (RC)". Ranking Tournament.
