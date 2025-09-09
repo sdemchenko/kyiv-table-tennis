@@ -26,6 +26,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Ranking Tournament.
 * 19:00 - 21:00. "RSP". Coach-Guided Matches.
+  * "RSP" paused group training till September 17
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
 
 <h3 id="wednesday">Wednesday</h3>
@@ -55,6 +56,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Non-Ranking Tournament.
 * 19:00 - 21:00. "RSP". Coach-Guided Matches.
+  * "RSP" paused group training till September 17
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 
 <h3 id="friday">Friday</h3>
