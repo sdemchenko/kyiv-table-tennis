@@ -87,7 +87,9 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:00. "Top-Spin (Borshchahivka)". 0-20 Ranking Tournament.
 * 11:10. "Himars". 0-100 Ranking Tournament.
+  * September 13: ❌
 * 11:30. "Pokolinnia". 0-25.0 Ranking Tournament.
+  * September 13: ❌
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranking Tournament.
@@ -118,6 +120,7 @@
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 11:00. "TviY tennis". 0-10 Non-Ranking Tournament.
 * 11:30. "Pokolinnia". 0-15.0 Ranking Tournament.
+  * September 14: ❌
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
 * 13:00. "Gourmet". 0-40 Ranking Tournament.
 * 13:00. "Raketka". Ranking Tournament.
