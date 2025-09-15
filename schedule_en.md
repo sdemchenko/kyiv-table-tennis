@@ -91,7 +91,7 @@
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranking Tournament.
-* 15:00. "Orion". 0-50 Ranking Tournament.
+* 15:00. "Orion". Doubles Non-Ranking Tournament.
 * 15:00. "Quiks". 0-10 Ranking Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
@@ -108,7 +108,7 @@
 * 10:00, September 21. "RSP". "RSP Table Tennis Open" Monthly Non-Ranking Tournament. Category "Advanced" (professionals). [Details](https://t.me/krsp_tt_tour/636), [registration](https://forms.gle/aTMgpNBJN9rz5ytX8).
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
-* 10:30. "Orion". 0-10 Ranking Tournament.
+* 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
 * 11:00. "Leader (RC)". 🏆 Kids' Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
