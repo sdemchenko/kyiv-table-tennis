@@ -89,6 +89,7 @@
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:30. "Pokolinnia". 0-25.0 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
+* 12:00, September 20. "Pulse". 0-15 Ranking Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranking Tournament.
 * 15:00. "Orion". Doubles Non-Ranking Tournament.
