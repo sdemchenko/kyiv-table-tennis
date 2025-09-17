@@ -84,6 +84,7 @@
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
 * 10:30. "Orion". 0-25 Ranking Tournament.
 * 11:00. "Quiks". 0-20 Ranking Tournament.
+* 11:00, September 20. "RSP". Women's Non-Ranking Tournament. [Advance registration](https://forms.gle/rxCaoMT4s6xronD29) is required.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:00. "Top-Spin (Borshchahivka)". 0-20 Ranking Tournament.
 * 11:10. "Himars". 0-100 Ranking Tournament.
