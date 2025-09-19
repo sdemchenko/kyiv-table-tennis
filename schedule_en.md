@@ -112,6 +112,7 @@
   * September 21: 0-25
 * 10:00, September 21. "RSP". "RSP Table Tennis Open" Monthly Non-Ranking Tournament. Category "Advanced" (professionals). [Details](https://t.me/krsp_tt_tour/636), [registration](https://forms.gle/aTMgpNBJN9rz5ytX8).
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
+* 10:00, September 21. "Leader (Sports School)". Non-Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
 * 11:00. "Leader (RC)". 🏆 Kids' Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
