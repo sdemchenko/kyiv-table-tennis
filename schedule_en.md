@@ -92,6 +92,7 @@
   * September 20: 0-40.0
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00, September 20. "Pulse". 0-15 Ranking Tournament.
+* 14:00, September 20. "KUTT". Non-Ranking Tournament (amateur/semi-pro). [Реєстрація](https://forms.gle/JtQXZLDLmfrF6V1V9).
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranking Tournament.
 * 15:00. "Orion". Doubles Non-Ranking Tournament.
