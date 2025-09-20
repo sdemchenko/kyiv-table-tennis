@@ -127,7 +127,7 @@
 * 12:00, September 21. "Pulse". 0-100 Non-Ranking Tournament.
 * 13:00. "Gourmet". 0-40 Ranking Tournament.
 * 13:00. "Raketka". Ranking Tournament.
-  * September 21: 0-100
+  * September 21: ❌
 * 13:30, September 21. "RSP". "RSP Table Tennis Open" Monthly Non-Ranking Tournament. Category "Amateur" (amateurs without UTTF ranking). [Details](https://t.me/krsp_tt_tour/636), [registration](https://forms.gle/aTMgpNBJN9rz5ytX8).
 * 14:30. "Orion". Kids' 0-100 Ranking Tournament.
 * 15:00. "Leader (RC)". Ranking Tournament.
