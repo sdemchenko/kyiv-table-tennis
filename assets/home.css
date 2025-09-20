@@ -67,8 +67,8 @@ div#newsContainer div:nth-child(1) { margin-top: 0.2rem; }
 
 div#newsContainer details > summary { list-style: none; }
 div#newsContainer summary::-webkit-details-marker { display: none; }
-div#newsContainer summary::after { content: ' ▶▶▶'; }
-div#newsContainer details[open] summary:after { content: " ▼"; }
+div#newsContainer summary::after { content: '...▶'; }
+div#newsContainer details[open] summary:after { content: "▼"; }
 
 ul#moreNews {
     list-style-type: none;
