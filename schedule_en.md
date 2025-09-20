@@ -79,7 +79,7 @@
 * 09:00. "TviY tennis". 0-10 Non-Ranking Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
 * 10:00. "Breiks". 0-100 Ranking Tournament.
-* 10:00, September 27. [KSE campus](https://www.google.com/maps/dir/?api=1&destination=50.501033850407296,30.518866615665967). Obolon Cup among veterans and students. [Prior registration](https://forms.gle/jHWTDiE2eixvvUoQ7) is mandatory.
+* 10:00, September 27. [KSE campus](https://www.google.com/maps/dir/?api=1&destination=50.501033850407296,30.518866615665967). Obolon Cup among war veterans and students. [Prior registration](https://forms.gle/jHWTDiE2eixvvUoQ7) is mandatory.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
