@@ -122,6 +122,7 @@
 * 11:30. "Pokolinnia". 0-15.0 Ranking Tournament.
   * September 21: 0-25.0
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
+  * September 21: ❌
 * 12:00, September 21. "Pulse". 0-100 Non-Ranking Tournament.
 * 13:00. "Gourmet". 0-40 Ranking Tournament.
 * 13:00. "Raketka". Ranking Tournament.
