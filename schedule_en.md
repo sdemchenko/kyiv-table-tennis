@@ -42,7 +42,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:45. "Sports School #21". 0-100 Non-Ranking Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
-* 20:00. "TviY tennis". Non-Ranking Tournament (beginners and amateurs). Advance registration is required.
+* 20:00. "TviY tennis". Non-Ranking Tournament (beginners and amateurs). Prior registration is mandatory.
 
 <h3 id="thursday">Thursday</h3>
 
@@ -75,16 +75,17 @@
 
 <h3 id="saturday">Saturday</h3>
 
-* 08:00. "Spin Up". 0-100 Non-Ranking Tournament. Advance registration is required.
-* 09:00. "TviY tennis". 0-10 Non-Ranking Tournament. Advance registration is required.
+* 08:00. "Spin Up". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
+* 09:00. "TviY tennis". 0-10 Non-Ranking Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
 * 10:00. "Breiks". 0-100 Ranking Tournament.
+* 10:00, September 27. [KSE campus](https://www.google.com/maps/dir/?api=1&destination=50.501033850407296,30.518866615665967). Obolon Cup among veterans and students. [Prior registration](https://forms.gle/jHWTDiE2eixvvUoQ7) is mandatory.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Advance registration is required.
+* 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
 * 10:30. "Orion". 0-25 Ranking Tournament.
 * 11:00. "Quiks". 0-20 Ranking Tournament.
-* 11:00, September 20. "RSP". Women's Non-Ranking Tournament. [Advance registration](https://forms.gle/rxCaoMT4s6xronD29) is required.
+* 11:00, September 20. "RSP". Women's Non-Ranking Tournament. [Prior registration](https://forms.gle/rxCaoMT4s6xronD29) is mandatory.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:00. "Top-Spin (Borshchahivka)". 0-20 Ranking Tournament.
 * 11:10. "Himars". 0-100 Ranking Tournament.
@@ -105,7 +106,7 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 08:00. "Spin Up" (at the "Himars" hall). 0-10 Ranking Tournament. Advance registration is required.
+* 08:00. "Spin Up" (at the "Himars" hall). 0-10 Ranking Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-25 Ranking Tournament.
 * 10:00. "Raketka". Ranking Tournament.
