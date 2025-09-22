@@ -91,7 +91,7 @@
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranking Tournament.
-* 15:00. "Orion". Doubles Non-Ranking Tournament.
+* 15:00. "Orion". 0-50 Ranking Tournament.
 * 15:00, September 27. "Pechersk". 0-15 Ranking Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 17:00. "Quiks". 0-10 Ranking Tournament.
@@ -109,7 +109,7 @@
   * September 28: 0-10
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
-* 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
+* 10:30. "Orion". Womens's Non-Ranking Tournament.
 * 11:00. "Leader (RC)". 🏆 Kids' Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
