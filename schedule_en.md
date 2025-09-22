@@ -92,6 +92,7 @@
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranking Tournament.
 * 15:00. "Orion". Doubles Non-Ranking Tournament.
+* 15:00, September 27. "Pechersk". 0-15 Ranking Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 17:00. "Quiks". 0-10 Ranking Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
@@ -115,6 +116,7 @@
 * 11:00. "TviY tennis". 0-10 Non-Ranking Tournament.
 * 11:30. "Pokolinnia". 0-15.0 Ranking Tournament.
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
+  * September 28: 0-30
 * 13:00. "Gourmet". 0-40 Ranking Tournament.
 * 13:00. "Raketka". Ranking Tournament.
   * September 28: ❌
