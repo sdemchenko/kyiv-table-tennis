@@ -84,7 +84,6 @@
 * 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
 * 10:30. "Orion". 0-25 Ranking Tournament.
-* 11:00. "Quiks". 0-20 Ranking Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:00. "Top-Spin (Borshchahivka)". 0-20 Ranking Tournament.
 * 11:10. "Himars". 0-100 Ranking Tournament.
@@ -93,8 +92,8 @@
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranking Tournament.
 * 15:00. "Orion". Doubles Non-Ranking Tournament.
-* 15:00. "Quiks". 0-10 Ranking Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
+* 17:00. "Quiks". 0-10 Ranking Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
