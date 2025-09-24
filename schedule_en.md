@@ -74,6 +74,8 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
+* 09:00, September 27. "Pokolinnia". 45+ Ranking Tournament (by club invitation only).
+* 09:00, September 27. "Pokolinnia". Non-Ranking Tournament for beginners without ranking.
 * 09:00. "TviY tennis". 0-10 Non-Ranking Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
 * 10:00. "Breiks". 0-100 Ranking Tournament.
@@ -87,8 +89,10 @@
 * 11:00. "Top-Spin (Borshchahivka)". 0-20 Ranking Tournament.
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:30. "Pokolinnia". 0-25.0 Ranking Tournament.
+  * September 27: ❌
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
   * September 27: ❌
+* 12:00, September 27. "Pokolinnia". 0-40.0 Ranking Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranking Tournament.
 * 15:00. "Orion". 0-50 Ranking Tournament.
@@ -104,6 +108,7 @@
 <h3 id="sunday">Sunday</h3>
 
 * 08:00. "Spin Up" (at the "Himars" hall). 0-10 Ranking Tournament. Prior registration is mandatory.
+* 09:00, September 28. "Pokolinnia". 20+ Ranking Tournament (by club invitation only).
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-25 Ranking Tournament.
 * 10:00. "Raketka". Ranking Tournament.
@@ -117,8 +122,10 @@
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 11:00. "TviY tennis". 0-10 Non-Ranking Tournament.
 * 11:30. "Pokolinnia". 0-15.0 Ranking Tournament.
+    * September 28: ❌
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
   * September 28: 0-30
+* 12:00, September 28. "Pokolinnia". 0-25.0 Ranking Tournament.
 * 13:00. "Gourmet". 0-40 Ranking Tournament.
 * 13:00. "Raketka". Ranking Tournament.
   * September 28: ❌
