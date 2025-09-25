@@ -112,7 +112,7 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-25 Ranking Tournament.
 * 10:00. "Raketka". Ranking Tournament.
-  * September 28: 0-10
+  * September 28: 0-25
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Womens's Non-Ranking Tournament.
