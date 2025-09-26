@@ -97,6 +97,7 @@
 * 15:00, September 27. "Pechersk". 0-15 Ranking Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
   * September 27: ❌
+* 16:00, September 27. "Volia". 0-40 Ranking Tournament.
 * 17:00. "Quiks". 0-10 Ranking Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
