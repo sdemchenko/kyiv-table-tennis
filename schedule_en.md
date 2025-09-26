@@ -109,6 +109,7 @@
 * 09:00, September 28. "Pokolinnia". 20+ Ranking Tournament (by club invitation only).
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-25 Ranking Tournament.
+  * September 28: 0-45
 * 10:00. "Raketka". Ranking Tournament.
   * September 28: 0-25
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
@@ -125,6 +126,7 @@
   * September 28: 0-30
 * 12:00, September 28. "Pokolinnia". 0-25.0 Ranking Tournament.
 * 13:00. "Gourmet". 0-40 Ranking Tournament.
+  * September 28: ❌
 * 13:00. "Raketka". Ranking Tournament.
   * September 28: ❌
 * 14:30. "Orion". Kids' 0-100 Ranking Tournament.
