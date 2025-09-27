@@ -116,7 +116,7 @@
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Womens's Non-Ranking Tournament.
-* 11:00. "Leader (RC)". 🏆 Kids' Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
+* 11:00. "Leader (RC)". 🏆 Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
   * September 28: ❌
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
@@ -130,7 +130,7 @@
   * September 28: ❌
 * 13:00. "Raketka". Ranking Tournament.
   * September 28: ❌
-* 14:30. "Orion". Kids' 0-100 Ranking Tournament.
+* 14:30. "Orion". Children's 0-100 Ranking Tournament.
 * 15:00. "Leader (RC)". Ranking Tournament.
   * September 28: ❌
 * 15:00. "Orion". 0-15 Ranking Tournament.
