@@ -72,13 +72,9 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
-* 09:00, September 27. "Pokolinnia". 45+ Ranking Tournament (by club invitation only).
-* 09:00, September 27. "Pokolinnia". Non-Ranking Tournament for beginners without ranking.
 * 09:00. "TviY tennis". 0-10 Non-Ranking Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
 * 10:00. "Breiks". 0-100 Ranking Tournament.
-* 10:00, September 27. [KSE campus](https://www.google.com/maps/dir/?api=1&destination=50.501033850407296,30.518866615665967). Obolon Cup among war veterans and students. [Prior registration](https://forms.gle/jHWTDiE2eixvvUoQ7) is mandatory.
-* 10:00, September 27. "Leader (RC)". 0-10 Ranking Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
@@ -87,17 +83,11 @@
 * 11:00. "Top-Spin (Borshchahivka)". 0-20 Ranking Tournament.
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:30. "Pokolinnia". 0-25.0 Ranking Tournament.
-  * September 27: ❌
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
-  * September 27: ❌
-* 12:00, September 27. "Pokolinnia". 0-40.0 Ranking Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranking Tournament.
 * 15:00. "Orion". 0-50 Ranking Tournament.
-* 15:00, September 27. "Pechersk". 0-15 Ranking Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
-  * September 27: ❌
-* 16:00, September 27. "Volia". 0-40 Ranking Tournament.
 * 17:00. "Quiks". 0-10 Ranking Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
