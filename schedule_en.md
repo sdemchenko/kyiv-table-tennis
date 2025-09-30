@@ -110,6 +110,7 @@
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
 * 11:00. "Leader (RC)". 🏆 Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
+  * October 5: ❌
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 11:00. "TviY tennis". 0-10 Non-Ranking Tournament.
@@ -120,6 +121,7 @@
 * 13:00. "Raketka". Ranking Tournament.
 * 14:30. "Orion". Children's 0-100 Ranking Tournament.
 * 15:00. "Leader (RC)". Ranking Tournament.
+  * October 5: ❌
 * 15:00. "Orion". 0-15 Ranking Tournament.
 * 15:00. "Quiks". 0-5 Ranking Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
