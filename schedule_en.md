@@ -78,6 +78,7 @@
 * 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
 * 10:00. "Breiks". 0-100 Ranking Tournament.
 * 10:00, October 4. "KMShVSM". Kyiv Junior 🏆 Championship for those born in 2007 and younger. Boys.
+* 10:00, October 4. "Leader (RC)". 0-5 Ranking Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
