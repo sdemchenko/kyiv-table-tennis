@@ -37,6 +37,7 @@
 * 18:00. "Quiks". 0-15 Ranking Tournament.
 * 18:10. "Himars". 0-40 Ranking Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
+  * October 1: Non-Ranking Tournament for players without ranking.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:45. "Sports School #21". 0-100 Non-Ranking Tournament.
   * October 1: the start is at 19:00
