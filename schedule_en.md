@@ -83,7 +83,6 @@
 * 10:30. "Orion". 0-25 Ranking Tournament.
 * 15:00. "Quiks". 0-20 Ranking Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
-* 11:00. "Top-Spin (Borshchahivka)". 0-20 Ranking Tournament.
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
   * October 4: ❌
