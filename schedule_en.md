@@ -85,9 +85,9 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:00. "Top-Spin (Borshchahivka)". 0-20 Ranking Tournament.
 * 11:10. "Himars". 0-100 Ranking Tournament.
-* 11:30. "Pokolinnia". 0-25.0 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
   * October 4: ❌
+* 12:00. "Pokolinnia". 0-50.0 Ranking Tournament.
 * 14:00, October 4. "KMShVSM". Kyiv Junior 🏆 Championship for those born in 2007 and younger. Girls.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranking Tournament.
@@ -102,6 +102,8 @@
 <h3 id="sunday">Sunday</h3>
 
 * 08:00. "Spin Up" (at the "Himars" hall). 0-10 Ranking Tournament. Prior registration is mandatory.
+* 09:00. "Pokolinnia". Non-Ranking Tournament for beginners without ranking.
+* 09:00. "Pokolinnia". 20+ Ranking Tournament (by club invitation only).
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-25 Ranking Tournament.
 * 10:00. "Raketka". Ranking Tournament.
@@ -114,7 +116,7 @@
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 11:00. "TviY tennis". 0-10 Non-Ranking Tournament.
-* 11:30. "Pokolinnia". 0-15.0 Ranking Tournament.
+* 12:00. "Pokolinnia". 0-25.0 Ranking Tournament.
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
 * 12:00, October 5. "Pulse". 0-100 Non-Ranking Tournament.
 * 13:00. "Gourmet". 0-40 Ranking Tournament.
