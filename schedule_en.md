@@ -105,6 +105,7 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-25 Ranking Tournament.
 * 10:00. "Raketka". Ranking Tournament.
+  * October 5: 0-10
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
@@ -118,6 +119,7 @@
 * 12:00, October 5. "Pulse". 0-100 Non-Ranking Tournament.
 * 13:00. "Gourmet". 0-40 Ranking Tournament.
 * 13:00. "Raketka". Ranking Tournament.
+  * October 5: 0-40
 * 14:30. "Orion". Children's 0-100 Ranking Tournament.
 * 15:00. "Leader (RC)". Ranking Tournament.
   * October 5: ❌
