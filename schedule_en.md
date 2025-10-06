@@ -79,7 +79,7 @@
 * 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
 * 10:30. "Orion". 0-25 Ranking Tournament.
-* 15:00. "Quiks". 0-20 Ranking Tournament.
+* 11:00. "Quiks". 0-25 Ranking Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
@@ -106,7 +106,7 @@
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
 * 11:00. "Leader (RC)". 🏆 Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
-* 11:00. "Quiks". 0-15 Ranking Tournament.
+* 11:00. "Quiks". 0-20 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 12:00. "Pokolinnia". 0-25.0 Ranking Tournament.
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
