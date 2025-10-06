@@ -40,7 +40,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:45. "Sports School #21". 0-100 Non-Ranking Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
-* 20:00. "TviY tennis". Non-Ranking Tournament (beginners and amateurs). Prior registration is mandatory.
+* 20:00 - 22:00. "TviY tennis". Non-Ranking Tournament (beginners and amateurs). Prior registration is mandatory.
 
 <h3 id="thursday">Thursday</h3>
 
@@ -72,7 +72,7 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
-* 09:00. "TviY tennis". 0-10 Non-Ranking Tournament. Prior registration is mandatory.
+* 09:00 - 11:00. "TviY tennis". 0-10 Non-Ranking Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
 * 10:00. "Breiks". 0-100 Ranking Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
@@ -108,7 +108,6 @@
 * 11:00. "Leader (RC)". 🏆 Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
-* 11:00. "TviY tennis". 0-10 Non-Ranking Tournament.
 * 12:00. "Pokolinnia". 0-25.0 Ranking Tournament.
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
 * 13:00. "Raketka". Ranking Tournament.
