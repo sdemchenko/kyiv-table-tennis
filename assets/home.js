@@ -20,6 +20,7 @@ $(document).ready(function () {
 function fetchSchedule() {
     fetch($('#scheduleContainer').attr('data-src') + '?cacheBuster=' + getCacheKey())
         .then(function (response) {
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
             return response.text();
         })
         .then(function (data) {
@@ -38,8 +39,14 @@ function fetchSchedule() {
             makeClubNamesInTheScheduleClicky();
             updateTournamentsVisibility();
             updateOtherCompetitionsVisibility();
+            $('#schedule_error').hide();
         })
         .catch(function (err) {
+            const pad = n => String(n).padStart(2, '0');
+            const d = new Date();
+            const s = `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`;
+            $('#schedule_error_time').html(s);
+            $('#schedule_error').show();
             console.log(err);
         });
 }

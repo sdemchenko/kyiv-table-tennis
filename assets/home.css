@@ -137,6 +137,9 @@ table#t_courts td:last-of-type { text-align:center; }
     margin-block-end: 0.3rem
 }
 
+#schedule_error { color: red; padding-top: 1rem; display: none; }
+#schedule_error_time { padding-right: 1rem; }
+
 #scheduleContainer > ul > li {
     padding-bottom: 0.2em;
 }
