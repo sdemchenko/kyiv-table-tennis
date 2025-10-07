@@ -149,14 +149,12 @@ table#t_courts td:last-of-type { text-align:center; }
 }
 
 i.tournament.ranking {
-    font-size: 0.85em;
-    vertical-align: middle;
+    font-size: 0.85rem;
     color: var(--ranking-tournament-color);
 }
 
 i.tournament.non-ranking {
-    font-size: 0.85em;
-    vertical-align: middle;
+    font-size: 0.85rem;
     opacity: var( --non-ranking-tournament-opacity);
 }
 

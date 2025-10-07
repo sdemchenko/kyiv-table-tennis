@@ -17,11 +17,11 @@ https://docs.fontawesome.com/web/add-icons/pseudo-elements
 [data-place]::before {
     content: "\f45d";
     font: var(--fa-font-solid);
+    color: #DE3163;
     -webkit-font-smoothing: antialiased;
 
-    font-size: 0.8em;
-    vertical-align: middle;
-    margin-right: 0.25em;
+    font-size: 0.8rem;
+    margin-right: 0.2rem;
 }
 
 
