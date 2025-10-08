@@ -102,17 +102,16 @@
 * 09:00. "Pokolinnia". 20+ Ranking Tournament (by club invitation only).
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranking Tournament.
-* 10:00. "Raketka". Ranking Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
 * 11:00. "Leader (RC)". 🏆 Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
 * 11:00. "Quiks". 0-20 Ranking Tournament.
+* 11:00. "Raketka". 0-25 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 12:00. "Pokolinnia". 0-25.0 Ranking Tournament.
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
 * 12:00, October 12. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor ([TT Future](https://prom.ua/c3754181-future-tovary-dlya.html)).
-* 13:00. "Raketka". Ranking Tournament.
 * 14:30. "Orion". Children's 0-100 Ranking Tournament.
 * 15:00. "Leader (RC)". Ranking Tournament.
 * 15:00. "Orion". 0-15 Ranking Tournament.
