@@ -36,7 +36,7 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:00. "Quiks". 0-15 Ranking Tournament.
 * 18:10. "Himars". 0-40 Ranking Tournament.
-* 18:30, October 8. "Top-Spin". 0-40 Ranking Tournament.
+* 18:30. "Top-Spin". 0-40 Ranking Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:45. "Sports School #21". 0-100 Non-Ranking Tournament.
@@ -82,6 +82,7 @@
 * 10:30. "Orion". 0-25 Ranking Tournament.
 * 11:00. "Quiks". 0-25 Ranking Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
+* 11:00. "Top-Spin". 0-20 Ranking Tournament.
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00. "Pokolinnia". 0-50.0 Ranking Tournament.
@@ -90,6 +91,7 @@
 * 15:00. "Orion". 0-10 Ranking Tournament.
 * 15:00. "Orion". 0-50 Ranking Tournament.
 * 15:00. "Quiks". 0-10 Ranking Tournament.
+* 15:30. "Top-Spin". 0-10 Ranking Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
@@ -104,6 +106,7 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranking Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
+* 10:00. "Top-Spin". 0-30 Ranking Tournament.
 * 10:30, October 12. "Gatne, SC". 0-30 Charitable Ranking Tournament. Information by phone +380506058208 - Ivan.
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
@@ -120,6 +123,7 @@
   * October 12: ❌
 * 15:00. "Orion". 0-15 Ranking Tournament.
 * 15:00. "Quiks". 0-5 Ranking Tournament.
+* 16:00. "Top-Spin". 0-5 Ranking Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
