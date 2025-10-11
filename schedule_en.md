@@ -88,7 +88,6 @@
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, October 11. "Leader (RC)". 0-20 Ranking Tournament.
 * 15:00. "Orion". 0-10 Ranking Tournament.
 * 15:00. "Orion". 0-50 Ranking Tournament.
 * 15:00. "Quiks". 0-10 Ranking Tournament.
