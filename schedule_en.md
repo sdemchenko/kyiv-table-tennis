@@ -88,6 +88,7 @@
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
+* 15:00. "Leader (RC)". 0-10 Ranking Tournament.
 * 15:00. "Orion". 0-10 Ranking Tournament.
 * 15:00. "Orion". 0-50 Ranking Tournament.
 * 15:00. "Quiks". 0-10 Ranking Tournament.
@@ -109,14 +110,12 @@
 * 10:00. "Top-Spin". 0-30 Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
-* 11:00. "Leader (RC)". 🏆 Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
 * 11:00. "Quiks". 0-20 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
 * 13:00. "Raketka". 0-50 Ranking Tournament.
 * 14:30. "Orion". Children's 0-100 Ranking Tournament.
-* 15:00. "Leader (RC)". Ranking Tournament.
 * 15:00. "Orion". 0-15 Ranking Tournament.
 * 15:00. "Quiks". 0-5 Ranking Tournament.
 * 16:00. "Top-Spin". 0-5 Ranking Tournament.
