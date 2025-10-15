@@ -115,6 +115,7 @@
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
 * 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
+* 12:00. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". 0-50 Ranking Tournament.
 * 14:30. "Orion". Children's 0-100 Ranking Tournament.
 * 15:00. "Orion". 0-15 Ranking Tournament.
