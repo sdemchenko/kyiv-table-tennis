@@ -18,12 +18,13 @@ $(document).ready(function () {
  * (4) makes club names in the schedule clicky, so that they open an overlay with the club info.
  */
 function fetchSchedule() {
-    fetch($('#scheduleContainer').attr('data-src') + '?cacheBuster=' + getCacheKey())
-        .then(function (response) {
+    const filename = $('#scheduleContainer').attr('data-src');
+    fetch(filename + '?cacheBuster=' + getCacheKey())
+        .then(response => {
             if (!response.ok) throw new Error(`HTTP ${response.status}`);
             return response.text();
         })
-        .then(function (data) {
+        .then(data => {
             // Markdown with HTML support
             const md = window.markdownit({html: true});
 
@@ -40,11 +41,27 @@ function fetchSchedule() {
             updateTournamentsVisibility();
             updateOtherCompetitionsVisibility();
             $('#schedule_error').hide();
+
+            fetch(`https://api.github.com/repos/sdemchenko/kyiv-table-tennis/commits?path=${filename}&sha=main&per_page=30`)
+                .then(res => {
+                    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                    return res.json();
+                })
+                .then(commits => {
+                    const history = commits.map(commit => ({
+                        date: formatDate(new Date(commit.commit.author.date)),
+                        message: commit.commit.message
+                    }));
+                    let $block = $('#changelog').empty();
+                    for (const entry of history) {
+                        $block.append(`${escapeHtml(entry.date)} &ndash; ${escapeHtml(entry.message)}<br>`);
+                    }
+                })
+                .catch(err => console.error('Failed to fetch changelog:', err));
         })
-        .catch(function (err) {
-            const pad = n => String(n).padStart(2, '0');
+        .catch(err => {
             const d = new Date();
-            const s = `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`;
+            const s = formatDate(d);
             $('#schedule_error_time').html(s);
             $('#schedule_error').show();
             console.log(err);
@@ -256,6 +273,15 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
         }
     });
     
+}
+
+function formatDate(d) {
+    const pad = n => String(n).padStart(2, '0');
+    return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`;
+}
+
+function escapeHtml(text) {
+    return $('<div>').text(text).html();
 }
 
 function incrementCounter() {
