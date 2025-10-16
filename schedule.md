@@ -46,7 +46,6 @@
 <h3 id="thursday">Четвер</h3>
 
 * 11:00 - 15:00. "Orion". Гра на столи.
-* 11:00, 16 жовтня. [НУФВСУ](https://www.google.com/maps/dir/?api=1&destination=50.431572242998605,30.51910437571153). Нерейтинговий турнір для ветеранів війни. [Реєстрація](https://docs.google.com/forms/d/e/1FAIpQLSfPYCRuhLP7TpM9UYFWcLxRltbwabRaZsiBezupoPTn-ZLaqw/viewform).
 * 17:00 - 19:30. "Спорткомплекс УДУ". Гра на столи.
 * 17:30 - 20:00. "Печерськ". Гра на столи.
 * 18:00 - 20:30. "Himars". Ігрова група.

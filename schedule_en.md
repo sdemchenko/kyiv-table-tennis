@@ -46,7 +46,6 @@
 <h3 id="thursday">Thursday</h3>
 
 * 11:00 - 15:00. "Orion". Ladder.
-* 11:00, October 16. [University of Physical Culture](https://www.google.com/maps/dir/?api=1&destination=50.431572242998605,30.51910437571153). Non-Ranking Tournament for war veterans. [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfPYCRuhLP7TpM9UYFWcLxRltbwabRaZsiBezupoPTn-ZLaqw/viewform).
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
