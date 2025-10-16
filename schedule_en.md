@@ -81,6 +81,7 @@
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
+* 10:30, October 18. "Gatne, SC" (3 Shevchenko Street, Yurivka). 10-30 Charity Ranking Tournament. +380506058208, Ivan.
 * 10:30. "Orion". 0-25 Ranking Tournament.
 * 11:00. "Quiks". 0-25 Ranking Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
@@ -110,6 +111,7 @@
 * 10:00. "Raketka". 0-15 Ranking Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
 * 10:00. "Top-Spin". 0-30 Ranking Tournament.
+* 10:30, October 19. "Gatne, SC" (3 Shevchenko Street, Yurivka). 0-15 Charity Ranking Tournament. +380506058208, Ivan.
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranking Tournament.
