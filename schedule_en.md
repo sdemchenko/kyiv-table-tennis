@@ -75,6 +75,7 @@
 * 08:00. "Spin Up". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
 * 09:00. "Pokolinnia". 25+ Ranking Tournament (by club invitation only).
 * 09:00 - 11:00. "TviY tennis". 0-10 Non-Ranking Tournament. Prior registration is mandatory.
+  * October 18: [Festive free tournament](https://t.me/tviytennis1/1390) dedicated to the club's anniversary.
 * 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
 * 10:00. "Breiks". 0-100 Ranking Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
