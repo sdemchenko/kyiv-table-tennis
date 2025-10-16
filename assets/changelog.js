@@ -20,7 +20,7 @@ function fetchChangelog() {
                 let prevSha = i + 1 < history.length ? history[i + 1].sha : '';
                 console.log(entry.sha, prevSha)
                 $changelog.append(`<a href="#" class="diff-link" data-sha="${entry.sha}" data-prevsha="${prevSha}">
-                                            ${escapeHtml(entry.date)}. &nbsp; ${escapeHtml(entry.message)}</a><br>`);
+                                            <span class="date">${escapeHtml(entry.date)}</span> &nbsp; ${escapeHtml(entry.message)}</a><br>`);
             }
         })
         .catch(err => console.error('Failed to fetch changelog:', err));

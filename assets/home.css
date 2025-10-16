@@ -145,11 +145,13 @@ table#t_courts td:last-of-type { text-align:center; }
     margin-top: 1rem;
     border-radius: 0.5rem;
     border: 1px solid var(--table-border-color);
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     font-style: italic;
 }
 
 #changelog { margin-top: 0.3rem; }
+
+.diff-link span.date { font-family: monospace; font-size: 0.8rem; }
 
 #scheduleContainer > ul > li {
     padding-bottom: 0.2em;
