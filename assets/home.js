@@ -18,8 +18,7 @@ $(document).ready(function () {
  * (4) makes club names in the schedule clicky, so that they open an overlay with the club info.
  */
 function fetchSchedule() {
-    const filename = $('#scheduleContainer').attr('data-src');
-    fetch(filename + '?cacheBuster=' + getCacheKey())
+    fetch($('#scheduleContainer').attr('data-src') + '?cacheBuster=' + getCacheKey())
         .then(response => {
             if (!response.ok) throw new Error(`HTTP ${response.status}`);
             return response.text();
@@ -41,23 +40,11 @@ function fetchSchedule() {
             updateTournamentsVisibility();
             updateOtherCompetitionsVisibility();
             $('#schedule_error').hide();
-
-            fetch(`https://api.github.com/repos/sdemchenko/kyiv-table-tennis/commits?path=${filename}&sha=main&per_page=30`)
-                .then(res => {
-                    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-                    return res.json();
-                })
-                .then(commits => {
-                    const history = commits.map(commit => ({
-                        date: formatDate(new Date(commit.commit.author.date)),
-                        message: commit.commit.message
-                    }));
-                    let $block = $('#changelog').empty();
-                    for (const entry of history) {
-                        $block.append(`${escapeHtml(entry.date)} &ndash; ${escapeHtml(entry.message)}<br>`);
-                    }
-                })
-                .catch(err => console.error('Failed to fetch changelog:', err));
+            try {
+                fetchChangelog();
+            } catch (e) {
+                console.error('Failed to fetch changelog:', e);
+            }
         })
         .catch(err => {
             const d = new Date();
