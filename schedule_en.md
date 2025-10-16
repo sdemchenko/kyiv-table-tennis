@@ -88,6 +88,7 @@
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
+* 14:00, October 18. "KUTT". Non-Ranking Tournament for players without a UTTF ranking.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". 0-10 Ranking Tournament.
 * 15:00. "Orion". 0-10 Ranking Tournament.
