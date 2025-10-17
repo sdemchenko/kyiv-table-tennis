@@ -151,7 +151,7 @@ table#t_courts td:last-of-type { text-align:center; }
 
 #changelog { margin-top: 0.3rem; }
 
-.diff-link span.date { font-family: monospace; font-size: 0.8rem; }
+.diff-link span.date { font-family: monospace; font-size: 0.8rem; opacity: 0.7; }
 
 #scheduleContainer > ul > li {
     padding-bottom: 0.2em;

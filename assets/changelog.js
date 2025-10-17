@@ -10,7 +10,7 @@ function fetchChangelog() {
         })
         .then(commits => {
             const history = commits.map(commit => ({
-                date: formatDate(new Date(commit.commit.author.date)),
+                date: formatDateShort(new Date(commit.commit.author.date)),
                 message: commit.commit.message,
                 sha: commit.sha,
             }));
@@ -20,10 +20,15 @@ function fetchChangelog() {
                 let prevSha = i + 1 < history.length ? history[i + 1].sha : '';
                 console.log(entry.sha, prevSha)
                 $changelog.append(`<a href="#" class="diff-link" data-sha="${entry.sha}" data-prevsha="${prevSha}">
-                                            <span class="date">${escapeHtml(entry.date)}</span> &nbsp; ${escapeHtml(entry.message)}</a><br>`);
+                                            <span class="date">${escapeHtml(entry.date)}</span>&nbsp; ${escapeHtml(entry.message)}</a><br>`);
             }
         })
         .catch(err => console.error('Failed to fetch changelog:', err));
+}
+
+function formatDateShort(d) {
+    const pad = n => String(n).padStart(2, '0');
+    return `${pad(d.getDate())}.${pad(d.getMonth() + 1)}`;
 }
 
 $(document).on('click', '.diff-link', function(e) {
