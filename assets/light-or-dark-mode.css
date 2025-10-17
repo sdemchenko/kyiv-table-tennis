@@ -14,7 +14,7 @@
     scrollbar-color: #c1c1c1 #fafafa;
 
     /*Variables for diff dialog*/
-    --diff-added-bg: #aaffaa;
+    --diff-added-bg: #c1f4c1;
     --diff-added-fg: black;
     --diff-removed-bg: #ffe6e4;
     --diff-removed-fg: black;
@@ -39,7 +39,7 @@
     scrollbar-color: #757575 #2E2E2E;
 
     /*Variables for diff dialog*/
-    --diff-added-bg: #aaffaa;
+    --diff-added-bg: #c1f4c1;
     --diff-added-fg: black;
     --diff-removed-bg: #ffaaaa;
     --diff-removed-fg: black;
