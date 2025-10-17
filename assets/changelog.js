@@ -18,8 +18,8 @@ function fetchChangelog() {
             for (let i = 0; i < history.length - 1; i++) {
                 let entry = history[i];
                 let prevSha = i + 1 < history.length ? history[i + 1].sha : '';
-                $changelog.append(`<a href="#" class="diff-link" data-sha="${entry.sha}" data-prevsha="${prevSha}">
-                                            <span class="date">${escapeHtml(entry.date)}</span>&nbsp; ${escapeHtml(entry.message)}</a><br>`);
+                $changelog.append(`<li><a href="#" class="diff-link" data-sha="${entry.sha}" data-prevsha="${prevSha}">
+                                            <span class="date">${escapeHtml(entry.date)} </span>${escapeHtml(entry.message)}</a></li>`);
             }
         })
         .catch(err => console.error('Failed to fetch changelog:', err));
@@ -67,6 +67,9 @@ function fetchFileContent(sha) {
         });
 }
 
+function isUkrainian() {
+    return document.documentElement.lang === 'uk';
+}
 function showDiffOverlay(diffHtml) {
     $('#diff-overlay-dialog').remove();
 
@@ -75,13 +78,12 @@ function showDiffOverlay(diffHtml) {
     const viewportH = $(window).height();
     const dlgW = Math.min(Math.max(320, viewportW - 32), bodyMaxWidth);
     const dlgH = Math.min(Math.max(300, viewportH - 32), 800);
-    let isUkrainianLanguage = $('html').attr('lang') === 'uk';
     const $dlg = $('<div id="diff-overlay-dialog"></div>')
         .html(`<div class="diff-overlay-content" style="width:100%;height:100%;overflow:auto;">
                     <pre style="white-space:pre;display:inline-block;min-width:100%;">${diffHtml}</pre>
                </div>`)
         .dialog({
-            title: isUkrainianLanguage ? 'Зміни' : 'Changes',
+            title: isUkrainian() ? 'Зміни' : 'Changes',
             width: dlgW,
             height: dlgH,
             modal: true,
@@ -90,7 +92,7 @@ function showDiffOverlay(diffHtml) {
             position: { my: "center", at: "center", of: window },
             buttons: [
                 {
-                    text: isUkrainianLanguage ? 'Закрити' : 'Close',
+                    text: isUkrainian() ? 'Закрити' : 'Close',
                     click: function () {
                         $(this).dialog("close");
                     }
