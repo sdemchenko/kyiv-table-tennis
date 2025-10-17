@@ -12,6 +12,18 @@
     --ranking-tournament-color: orange;
     --non-ranking-tournament-opacity: 0.5;
     scrollbar-color: #c1c1c1 #fafafa;
+
+    /*Variables for diff dialog*/
+    --diff-added-bg: #aaffaa;
+    --diff-added-fg: black;
+    --diff-removed-bg: #ffe6e4;
+    --diff-removed-fg: black;
+    --dialog-titlebar-bg: var(--th-bg-color);
+    --dialog-titlebar-fg: var(--page-fg-color);
+    --dialog-surface-bg: var(--table-bg-color);
+    --dialog-surface-fg: var(--page-fg-color);
+    --dialog-border-color: var(--table-border-color);
+    --dialog-buttonpane-bg: var(--th-bg-color);
 }
 
 [data-theme="dark"] {
@@ -25,4 +37,42 @@
     --ranking-tournament-color: goldenrod;
     --non-ranking-tournament-opacity: 0.9;
     scrollbar-color: #757575 #2E2E2E;
+
+    /*Variables for diff dialog*/
+    --diff-added-bg: #aaffaa;
+    --diff-added-fg: black;
+    --diff-removed-bg: #ffaaaa;
+    --diff-removed-fg: black;
+    --dialog-titlebar-bg: var(--th-bg-color);
+    --dialog-titlebar-fg: var(--page-fg-color);
+    --dialog-surface-bg: var(--table-bg-color);
+    --dialog-surface-fg: var(--page-fg-color);
+    --dialog-border-color: var(--table-border-color);
+    --dialog-buttonpane-bg: var(--th-bg-color);
+}
+
+/* Theming jQuery UI dialog used by showDiffOverlay() */
+/* Target the wrapper dialog by aria-describedby to avoid affecting other dialogs */
+.ui-dialog[aria-describedby="diff-overlay-dialog"] {
+    background: var(--dialog-surface-bg);
+    color: var(--dialog-surface-fg);
+    border: 1px solid var(--dialog-border-color);
+}
+.ui-dialog[aria-describedby="diff-overlay-dialog"] .ui-dialog-content {
+    background: var(--dialog-surface-bg);
+    color: var(--dialog-surface-fg);
+}
+.ui-dialog[aria-describedby="diff-overlay-dialog"] .ui-dialog-titlebar {
+    background: var(--dialog-titlebar-bg);
+    color: var(--dialog-titlebar-fg);
+    border-bottom: 1px solid var(--dialog-border-color);
+}
+.ui-dialog[aria-describedby="diff-overlay-dialog"] .ui-dialog-buttonpane {
+    background: var(--dialog-buttonpane-bg);
+    border-top: 1px solid var(--dialog-border-color);
+}
+.ui-dialog[aria-describedby="diff-overlay-dialog"] .ui-button,
+.ui-dialog[aria-describedby="diff-overlay-dialog"] .ui-button:link,
+.ui-dialog[aria-describedby="diff-overlay-dialog"] .ui-button:visited {
+    color: black;
 }

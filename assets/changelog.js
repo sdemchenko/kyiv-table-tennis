@@ -114,10 +114,9 @@ function showDiffOverlay(diffHtml) {
 }
 
 function formatDiffForDialog(diffArray) {
-    // diffArray: result of Diff.diffLines(oldStr, newStr)
     return diffArray.map(part => {
-        if (part.added) return `<span style="background:#e6ffe6">+ ${escapeHtml(part.value)}</span>`;
-        if (part.removed) return `<span style="background:#ffe6e6">- ${escapeHtml(part.value)}</span>`;
+        if (part.added) return `<span class="diff-added">${escapeHtml(part.value)}</span>`;
+        if (part.removed) return `<span class="diff-removed">${escapeHtml(part.value)}</span>`;
         return `<span>${escapeHtml(part.value)}</span>`;
     }).join('');
 }

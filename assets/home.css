@@ -153,6 +153,16 @@ table#t_courts td:last-of-type { text-align:center; }
 
 .diff-link span.date { font-family: monospace; font-size: 0.8rem; opacity: 0.7; }
 
+span.diff-removed {
+    background-color: var(--diff-removed-bg);
+    color: var(--diff-removed-fg);
+    text-decoration-line: line-through;
+}
+span.diff-added {
+    background-color: var(--diff-added-bg);
+    color: var(--diff-added-fg);
+}
+
 #scheduleContainer > ul > li {
     padding-bottom: 0.2em;
 }
