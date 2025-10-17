@@ -18,7 +18,6 @@ function fetchChangelog() {
             for (let i = 0; i < history.length - 1; i++) {
                 let entry = history[i];
                 let prevSha = i + 1 < history.length ? history[i + 1].sha : '';
-                console.log(entry.sha, prevSha)
                 $changelog.append(`<a href="#" class="diff-link" data-sha="${entry.sha}" data-prevsha="${prevSha}">
                                             <span class="date">${escapeHtml(entry.date)}</span>&nbsp; ${escapeHtml(entry.message)}</a><br>`);
             }
@@ -70,17 +69,48 @@ function fetchFileContent(sha) {
 
 function showDiffOverlay(diffHtml) {
     $('#diff-overlay-dialog').remove();
-    $('<div id="diff-overlay-dialog"></div>')
-        .html(`<pre style="white-space:pre-wrap;overflow:auto;">${diffHtml}</pre>`)
+
+    const bodyMaxWidth = 860;
+    const viewportW = $(window).width();
+    const viewportH = $(window).height();
+    const dlgW = Math.min(Math.max(320, viewportW - 32), bodyMaxWidth);
+    const dlgH = Math.min(Math.max(300, viewportH - 32), 800);
+    let isUkrainianLanguage = $('html').attr('lang') === 'uk';
+    const $dlg = $('<div id="diff-overlay-dialog"></div>')
+        .html(`<div class="diff-overlay-content" style="width:100%;height:100%;overflow:auto;">
+                    <pre style="white-space:pre;display:inline-block;min-width:100%;">${diffHtml}</pre>
+               </div>`)
         .dialog({
-            title: "DIFF",
-            width: 800,
-            maxHeight: 600,
+            title: isUkrainianLanguage ? 'Зміни' : 'Changes',
+            width: dlgW,
+            height: dlgH,
             modal: true,
-            buttons: {
-                Close: function() { $(this).dialog("close"); }
+            resizable: true,
+            draggable: true,
+            position: { my: "center", at: "center", of: window },
+            buttons: [
+                {
+                    text: isUkrainianLanguage ? 'Закрити' : 'Close',
+                    click: function () {
+                        $(this).dialog("close");
+                    }
+                }
+            ],
+            close: function() {
+                $(window).off('resize.diffdlg');
             }
         });
+
+    // Keep the dialog within the viewport on resize
+    $(window).on('resize.diffdlg', function() {
+        const w = $(window).width();
+        const h = $(window).height();
+        $dlg.dialog('option', {
+            width: Math.min(Math.max(320, w - 32), bodyMaxWidth),
+            height: Math.min(Math.max(300, h - 32), 800),
+            position: { my: "center", at: "center", of: window }
+        });
+    });
 }
 
 function formatDiffForDialog(diffArray) {
