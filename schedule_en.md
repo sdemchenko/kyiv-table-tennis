@@ -112,7 +112,7 @@
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
-  * October 19: ❌ 
+  * October 19: ❌
 * 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
 * 12:00. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". 0-50 Ranking Tournament.
@@ -123,3 +123,4 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
+  * October 19: ❌
