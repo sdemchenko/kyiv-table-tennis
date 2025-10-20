@@ -20,6 +20,7 @@
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
+* 18:00. "Quiks". Non-Ranking Tournament (beginners and amateurs).
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Top-Spin". 0-15 Ranking Tournament.
@@ -82,7 +83,7 @@
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
 * 10:00. "Top-Spin". 0-10 Ranking Tournament.
 * 10:30. "Orion". 0-25 Ranking Tournament.
-* 11:00. "Quiks". 0-25 Ranking Tournament.
+* 11:00. "Quiks". 0-20 Ranking Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
