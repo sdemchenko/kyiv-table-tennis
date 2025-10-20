@@ -22,6 +22,7 @@
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:15 - 20:40. "Sports School #23". Ladder.
+* 18:30. "Top-Spin". 0-15 Ranking Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Ranking Tournament.
@@ -79,19 +80,19 @@
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
+* 10:00. "Top-Spin". 0-10 Ranking Tournament.
 * 10:30. "Orion". 0-25 Ranking Tournament.
 * 11:00. "Quiks". 0-25 Ranking Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
-* 11:00. "Top-Spin". 0-20 Ranking Tournament.
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
+* 14:00. "Top-Spin". 0-40 Doubles Non-Ranking Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". 0-10 Ranking Tournament.
 * 15:00. "Orion". 0-10 Ranking Tournament.
 * 15:00. "Orion". Doubles Non-Ranking Tournament.
 * 15:00. "Quiks". 0-10 Ranking Tournament.
-* 15:30. "Top-Spin". 0-10 Ranking Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
@@ -105,7 +106,7 @@
 * 10:00. "Gourmet". 0-45 Ranking Tournament.
 * 10:00. "Raketka". 0-15 Ranking Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
-* 10:00. "Top-Spin". 0-30 Ranking Tournament.
+* 10:00. "Top-Spin". 0-5 Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranking Tournament.
@@ -114,10 +115,10 @@
 * 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
 * 12:00. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". 0-50 Ranking Tournament.
+* 14:00. "Top-Spin". 0-25 Ranking Tournament.
 * 14:30. "Orion". Children's 0-100 Ranking Tournament.
 * 15:00. "Orion". 0-15 Ranking Tournament.
 * 15:00. "Quiks". 0-5 Ranking Tournament.
-* 16:00. "Top-Spin". 0-5 Ranking Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
