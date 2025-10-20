@@ -106,13 +106,11 @@
 * 10:00. "Raketka". 0-15 Ranking Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
 * 10:00. "Top-Spin". 0-30 Ranking Tournament.
-* 10:30, October 19. "Gatne, SC" (3 Shevchenko Street, Yurivka). 0-15 Charity Ranking Tournament. +380506058208, Ivan.
 * 10:30. "Orion". 0-100 Ranking Tournament.
 * 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
-  * October 19: ❌
 * 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
 * 12:00. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". 0-50 Ranking Tournament.
@@ -123,4 +121,3 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * October 19: ❌
