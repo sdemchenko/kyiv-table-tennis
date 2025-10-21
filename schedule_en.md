@@ -74,7 +74,7 @@
 
 <h3 id="saturday">Saturday</h3>
 
-* 08:00. "Spin Up". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
+* 08:00. "Spin Up". 0-25 Ranking Tournament. Prior registration is mandatory.
 * 09:00 - 11:00. "TviY tennis". 0-10 Non-Ranking Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
 * 10:00. "Breiks". 0-100 Ranking Tournament.
@@ -102,7 +102,7 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 08:00. "Spin Up" (at the "Himars" hall). 0-10 Ranking Tournament. Prior registration is mandatory.
+* 08:00. "Spin Up" (at "Himars"). 0-25 Ranking Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranking Tournament.
 * 10:00. "Raketka". 0-15 Ranking Tournament.
