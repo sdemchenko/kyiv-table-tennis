@@ -65,10 +65,25 @@ div#newsContainer > div {
 }
 div#newsContainer div:nth-child(1) { margin-top: 0.2rem; }
 
-div#newsContainer details > summary { list-style: none; }
-div#newsContainer summary::-webkit-details-marker { display: none; }
-div#newsContainer summary::after { content: '...▶'; }
-div#newsContainer details[open] summary:after { content: "▼"; }
+details > summary {
+    list-style: none;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+summary::-webkit-details-marker { display: none; }
+summary::after {
+    margin-left: 0.5rem;
+    content: "\f0fe";
+    font: var(--fa-font-solid);
+    -webkit-font-smoothing: antialiased;
+}
+details[open] summary::after {
+    margin-left: 0.5rem;
+    content: "\f146";
+    font: var(--fa-font-solid);
+    -webkit-font-smoothing: antialiased;
+}
 
 ul#moreNews {
     list-style-type: none;
