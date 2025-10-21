@@ -105,7 +105,7 @@
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranking Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranking Tournament.
-* 10:00. "Raketka". 0-15 Ranking Tournament.
+* 10:00. "Raketka". 0-40 Ranking Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
 * 10:00. "Top-Spin". 0-5 Ranking Tournament.
 * 10:30. "Orion". 0-100 Ranking Tournament.
@@ -115,7 +115,6 @@
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
 * 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
 * 12:00. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
-* 13:00. "Raketka". 0-50 Ranking Tournament.
 * 14:00. "Top-Spin". 0-25 Ranking Tournament.
 * 14:30. "Orion". Children's 0-100 Ranking Tournament.
 * 14:30. "Orion". Children's Non-Ranking Tournament for beginners.
