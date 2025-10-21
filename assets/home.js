@@ -15,7 +15,9 @@ $(document).ready(function () {
  * (1) Fetch schedule.md,
  * (2) transform the fetched Markdown content to HTML,
  * (3) replace the initial (SEO) content of <tt>div#scheduleContainer</tt> with the HTML,
- * (4) makes club names in the schedule clicky, so that they open an overlay with the club info.
+ * (4) make club names in the schedule clicky, so that they open an overlay with the club info.
+ * (5) show/hide tournaments and ladders in the schedule based on the checkboxes.
+ * (6) fetch and show the schedule changelog (a few dozens of the most recent changes).
  */
 function fetchSchedule() {
     fetch($('#scheduleContainer').attr('data-src') + '?cacheBuster=' + getCacheKey())
