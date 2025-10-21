@@ -8,6 +8,7 @@ $(document).ready(function () {
     configurePlaceNameLinksToOpenPlaceInfoOverlay();
     fetchSchedule();
     setInterval(fetchSchedule, 10 * 60 * 1000);
+    restoreCollapsingDetails();
     incrementCounter();
 });
 
@@ -281,6 +282,21 @@ function incrementCounter() {
         }).catch((err) => {
             // Ignore errors — we don’t need a response
             console.warn('Counter fetch failed silently:', err);
+        });
+    }
+}
+
+function restoreCollapsingDetails() {
+    for (const details of document.querySelectorAll('details[id]')) {
+        const key = 'detailsState_' + details.id;
+        const state = localStorage.getItem(key);
+        if (state === 'open') {
+            details.open = true;
+        } else if (state === 'closed') {
+            details.open = false;
+        }
+        details.addEventListener('toggle', () => {
+            localStorage.setItem(key, details.open ? 'open' : 'closed');
         });
     }
 }
