@@ -109,12 +109,17 @@ function configureBackToTopButton() {
 }
 
 function configureCheckboxesFilteringCompetitions() {
-    $('#showTournaments').click(updateTournamentsVisibility);
-    $('#showOtherCompetitions').click(updateOtherCompetitionsVisibility);
+    let $showTournaments = $('#showTournaments');
+    $showTournaments.prop('checked', localStorage.getItem('state_showTournaments') !== 'off');
+    $showTournaments.click(updateTournamentsVisibility);
+    let $showOtherCompetitions = $('#showOtherCompetitions');
+    $showOtherCompetitions.prop('checked', localStorage.getItem('state_showOtherCompetitions') !== 'off');
+    $showOtherCompetitions.click(updateOtherCompetitionsVisibility);
 }
 
 function updateTournamentsVisibility() {
     const visible = $('#showTournaments').prop('checked');
+    localStorage.setItem('state_showTournaments', visible ? 'on' : 'off');
     $('#scheduleContainer > ul > li')
         .filter((_, el) => isTournament($(el)))
         .toggle(visible);
@@ -122,6 +127,7 @@ function updateTournamentsVisibility() {
 
 function updateOtherCompetitionsVisibility() {
     const visible = $('#showOtherCompetitions').prop('checked');
+    localStorage.setItem('state_showOtherCompetitions', visible ? 'on' : 'off');
     $('#scheduleContainer > ul > li')
         .filter((_, el) => !isTournament($(el)))
         .toggle(visible);
