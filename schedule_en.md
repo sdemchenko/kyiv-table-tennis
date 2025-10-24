@@ -114,7 +114,6 @@
 * 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
-* 12:00. "Pechersk". 0-35 Ranking Tournament.
 * 12:00. "Pokolinnia". 0-40.0 Ranking Tournament.
 * 14:00. "Top-Spin". 0-25 Ranking Tournament.
 * 14:30. "Orion". Children's 0-100 Ranking Tournament.
