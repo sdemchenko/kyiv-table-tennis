@@ -75,6 +75,7 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up". 0-25 Ranking Tournament. Prior registration is mandatory.
+* 09:00. "Pokolinnia". Non-Ranking Tournament for players without a rating.
 * 09:00 - 11:00. "TviY tennis". 0-10 Non-Ranking Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
 * 10:00. "Breiks". 0-100 Ranking Tournament.
@@ -87,7 +88,7 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
-* 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
+* 12:00. "Pokolinnia". 0-15.0 Ranking Tournament.
 * 14:00. "Top-Spin". 0-40 Doubles Non-Ranking Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". 0-10 Ranking Tournament.
@@ -114,7 +115,7 @@
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 12:00. "Pechersk". 0-35 Ranking Tournament.
-* 12:00. "Pokolinnia". 0-30.0 Ranking Tournament.
+* 12:00. "Pokolinnia". 0-40.0 Ranking Tournament.
 * 12:00. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 14:00. "Top-Spin". 0-25 Ranking Tournament.
 * 14:30. "Orion". Children's 0-100 Ranking Tournament.
