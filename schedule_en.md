@@ -87,6 +87,7 @@
 * 10:30. "Orion". 0-25 Ranking Tournament.
 * 11:00. "Quiks". 0-20 Ranking Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
+  * October 25: Ladder will be from 14:00 to 16:30.
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00. "Pokolinnia". 0-15.0 Ranking Tournament.
