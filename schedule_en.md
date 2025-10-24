@@ -81,6 +81,7 @@
 * 10:00. "Breiks". 0-100 Ranking Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
+  * October 25: the tournament starts at 9:00.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
 * 10:00. "Top-Spin". 0-10 Ranking Tournament.
 * 10:30. "Orion". 0-25 Ranking Tournament.
