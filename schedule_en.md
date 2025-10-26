@@ -81,20 +81,17 @@
 * 10:00. "Breiks". 0-100 Ranking Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
-  * October 25: the tournament starts at 9:00.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
 * 10:00. "Top-Spin". 0-10 Ranking Tournament.
 * 10:30. "Orion". 0-25 Ranking Tournament.
 * 11:00. "Quiks". 0-20 Ranking Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
-  * October 25: Ladder will be from 14:00 to 16:30.
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00. "Pokolinnia". 0-15.0 Ranking Tournament.
 * 14:00. "Top-Spin". 0-40 Doubles Non-Ranking Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". 0-10 Ranking Tournament.
-  * October 25: ❌
 * 15:00. "Orion". 0-10 Ranking Tournament.
 * 15:00. "Orion". Closed Non-Ranking Tournament for children.
 * 15:00. "Quiks". 0-10 Ranking Tournament.
