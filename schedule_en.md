@@ -38,7 +38,7 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:00. "Quiks". 0-15 Ranking Tournament.
 * 18:10. "Himars". 0-40 Ranking Tournament.
-* 18:30. "Top-Spin". 0-40 Ranking Tournament.
+* 18:30. "Top-Spin". 0-25 Ranking Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Non-Ranking Tournament.
@@ -89,7 +89,7 @@
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00. "Pokolinnia". 0-15.0 Ranking Tournament.
-* 14:00. "Top-Spin". 0-40 Doubles Non-Ranking Tournament.
+* 14:00. "Top-Spin". 0-30 Doubles Non-Ranking Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". 0-10 Ranking Tournament.
 * 15:00. "Orion". 0-10 Ranking Tournament.
@@ -114,7 +114,7 @@
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 12:00. "Pokolinnia". 0-40.0 Ranking Tournament.
-* 14:00. "Top-Spin". 0-25 Ranking Tournament.
+* 14:00. "Top-Spin". 0-45 Ranking Tournament.
 * 14:30. "Orion". Children's 0-100 Ranking Tournament.
 * 14:30. "Orion". Children's Non-Ranking Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranking Tournament.
