@@ -13,6 +13,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 19:00. "Sports School #21". 0-100 Non-Ranking Tournament.
+* 21:00 - 22:00. "Top-Spin". Ladder.
 
 <h3 id="tuesday">Tuesday</h3>
 
@@ -28,6 +29,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Ranking Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
+* 21:00 - 22:00. "Top-Spin". Ladder.
 
 <h3 id="wednesday">Wednesday</h3>
 
@@ -57,6 +59,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Non-Ranking Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
+* 21:00 - 22:00. "Top-Spin". Ladder.
 
 <h3 id="friday">Friday</h3>
 
@@ -71,6 +74,7 @@
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
+* 21:00 - 22:00. "Top-Spin". Ladder.
 
 <h3 id="saturday">Saturday</h3>
 
