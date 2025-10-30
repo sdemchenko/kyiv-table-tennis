@@ -81,6 +81,7 @@
 * 08:00. "Spin Up". 0-25 Ranking Tournament. Prior registration is mandatory.
 * 09:00. "Pokolinnia". Non-Ranking Tournament for players without a rating.
 * 09:00 - 11:00. "TviY tennis". 0-10 Non-Ranking Tournament. Prior registration is mandatory.
+  * November 1: 10:00 - 12:00
 * 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
 * 10:00. "Breiks". 0-100 Ranking Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
