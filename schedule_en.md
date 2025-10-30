@@ -64,6 +64,7 @@
 <h3 id="friday">Friday</h3>
 
 * 11:00 - 15:00. "Orion". Ladder.
+* 16:00, October 31. "Leader (RC)". 0-10 Ranking Tournament "Leader TOP-12 (October)".
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
