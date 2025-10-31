@@ -94,7 +94,7 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranking Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
-* 12:00. "Pokolinnia". 0-15.0 Ranking Tournament.
+* 12:00. "Pokolinnia". 0-40.0 Ranking Tournament.
 * 14:00. "Top-Spin". 0-30 Doubles Non-Ranking Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". Doubles Non-Ranking Tournament.
@@ -118,7 +118,7 @@
 * 11:00. "Quiks". 0-15 Ranking Tournament.
 * 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
 * 11:30, November 2. "Table Tennis at Respublika Park". Children's league "Kyiv hopes" tournament, 2014 y.o.b and younger. Entry fee is 200 UAH per player. At the beginning of the tournament, participants are treated to sweets, and winners receive certificates, medals, and an award. No application is required.
-* 12:00. "Pokolinnia". 0-40.0 Ranking Tournament.
+* 12:00. "Pokolinnia". 0-15.0 Ranking Tournament.
 * 12:00, November 2. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 14:00. "Top-Spin". 0-45 Ranking Tournament.
 * 14:30. "Orion". Children's 0-100 Ranking Tournament.
