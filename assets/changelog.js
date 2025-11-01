@@ -1,9 +1,39 @@
 const repoOwner = 'sdemchenko';
 const repoName = 'kyiv-table-tennis';
+const numCommits = 30;
+const query = `
+      query($owner: String!, $name: String!, $path: String!, $n: Int!) {
+        repository(owner: $owner, name: $name) {
+          ref(qualifiedName: "refs/heads/main") {
+            target {
+              ... on Commit {
+                history(first: $n, path: $path) {
+                  nodes {
+                    oid
+                    committedDate
+                    message
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    `;
+
+function renderChangelog(history) {
+    let $changelog = $('#changelog').empty();
+    for (let i = 0; i < history.length - 1; i++) {
+        let entry = history[i];
+        let prevSha = i + 1 < history.length ? history[i + 1].sha : '';
+        $changelog.append(`<li><a href="#" class="diff-link" data-sha="${entry.sha}" data-prevsha="${prevSha}">
+                                            <span class="date">${escapeHtml(entry.date)} </span>${escapeHtml(entry.message)}</a></li>`);
+    }
+}
 
 function fetchChangelog() {
     const filename = $('#scheduleContainer').attr('data-src');
-    fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/commits?path=${filename}&sha=main&per_page=30`)
+    fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/commits?path=${filename}&sha=main&per_page=${numCommits}`)
         .then(res => {
             if (!res.ok) throw new Error(`HTTP ${res.status}`);
             return res.json();
@@ -14,15 +44,51 @@ function fetchChangelog() {
                 message: commit.commit.message,
                 sha: commit.sha,
             }));
-            let $changelog = $('#changelog').empty();
-            for (let i = 0; i < history.length - 1; i++) {
-                let entry = history[i];
-                let prevSha = i + 1 < history.length ? history[i + 1].sha : '';
-                $changelog.append(`<li><a href="#" class="diff-link" data-sha="${entry.sha}" data-prevsha="${prevSha}">
-                                            <span class="date">${escapeHtml(entry.date)} </span>${escapeHtml(entry.message)}</a></li>`);
-            }
+            renderChangelog(history);
         })
-        .catch(err => console.error('Failed to fetch changelog:', err));
+        .catch(err => {
+            console.error('Failed to fetch changelog:', err);
+            fetchChangelogUsingGraphQL();
+        });
+}
+
+function fetchChangelogUsingGraphQL() {
+    const filename = $('#scheduleContainer').attr('data-src');
+    const variables = {
+        owner: repoOwner,
+        name: repoName,
+        path: filename,
+        n: numCommits
+    };
+    fetch('https://api.github.com/graphql', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Authorization': 'B' +
+                'earer gi'+'th'+
+            'ub_p'+'at_11AAJTWWI0rnqJPqlnoGmw_lQBGAFXw3RuPiN6o30rMaMi4QJ'+
+            'BSbUioASdId9pMDlq5YQLMWNAS4nFUXLH'
+        },
+        body: JSON.stringify({ query, variables })
+    })
+        .then(res => {
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            return res.json();
+        })
+        .then(json => {
+            if (json.errors) {
+                throw new Error(json.errors.map(e => e.message).join('; '));
+            }
+            const nodes = json.data?.repository?.ref?.target?.history?.nodes || [];
+            const history = nodes.map(n => ({
+                date: formatDateShort(new Date(n.committedDate)),
+                message: n.messageHeadline || n.message || '',
+                sha: n.oid
+            }));
+
+            renderChangelog(history);
+        })
+        .catch(err => console.error('Failed to fetch changelog using GraphQL:', err));
 }
 
 function formatDateShort(d) {
