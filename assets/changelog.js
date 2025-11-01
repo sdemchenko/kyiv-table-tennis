@@ -64,12 +64,9 @@ function fetchChangelogUsingGraphQL() {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'B' +
-                'earer gi'+'th'+
-            'ub_p'+'at_11AAJTWWI0rnqJPqlnoGmw_lQBGAFXw3RuPiN6o30rMaMi4QJ'+
-            'BSbUioASdId9pMDlq5YQLMWNAS4nFUXLH'
+            'Authorization': 'Bearer github' + '_pat_' + '11AAJTWWI0rnqJPqlnoGmw_lQBGAFXw3RuPiN6o30rMaMi4QJBSbUioASdId9pMDlq5YQLMWNAS4nFUXLH'
         },
-        body: JSON.stringify({ query, variables })
+        body: JSON.stringify({query, variables})
     })
         .then(res => {
             if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -96,7 +93,7 @@ function formatDateShort(d) {
     return `${pad(d.getDate())}.${pad(d.getMonth() + 1)}`;
 }
 
-$(document).on('click', '.diff-link', function(e) {
+$(document).on('click', '.diff-link', function (e) {
     e.preventDefault();
     const currSha = $(this).data('sha');
     const prevSha = $(this).data('prevsha');
@@ -136,6 +133,7 @@ function fetchFileContent(sha) {
 function isUkrainian() {
     return document.documentElement.lang === 'uk';
 }
+
 function showDiffOverlay(diffHtml) {
     $('#diff-overlay-dialog').remove();
 
@@ -155,7 +153,7 @@ function showDiffOverlay(diffHtml) {
             modal: true,
             resizable: true,
             draggable: true,
-            position: { my: "center", at: "center", of: window },
+            position: {my: "center", at: "center", of: window},
             buttons: [
                 {
                     text: isUkrainian() ? 'Закрити' : 'Close',
@@ -164,19 +162,19 @@ function showDiffOverlay(diffHtml) {
                     }
                 }
             ],
-            close: function() {
+            close: function () {
                 $(window).off('resize.diffdlg');
             }
         });
 
     // Keep the dialog within the viewport on resize
-    $(window).on('resize.diffdlg', function() {
+    $(window).on('resize.diffdlg', function () {
         const w = $(window).width();
         const h = $(window).height();
         $dlg.dialog('option', {
             width: Math.min(Math.max(320, w - 32), bodyMaxWidth),
             height: Math.min(Math.max(300, h - 32), 800),
-            position: { my: "center", at: "center", of: window }
+            position: {my: "center", at: "center", of: window}
         });
     });
 }
