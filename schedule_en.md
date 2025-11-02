@@ -115,9 +115,7 @@
 * 10:30. "Orion". Unranked Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 11:30, November 2. "Table Tennis at Respublika Park". Children's league "Kyiv hopes" tournament, 2014 y.o.b and younger. Entry fee is 200 UAH per player. At the beginning of the tournament, participants are treated to sweets, and winners receive certificates, medals, and an award. No application is required.
 * 12:00. "Pokolinnia". 0-25.0 Ranked Tournament.
-* 12:00, November 2. "Pulse". 0-100 Unranked Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 14:00. "Top-Spin". 0-45 Ranked Tournament.
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
