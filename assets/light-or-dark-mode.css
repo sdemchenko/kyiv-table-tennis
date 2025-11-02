@@ -9,8 +9,8 @@
     --table-bg-color: #FFFFFF;
     --table-border-color: #e0e0e0;
     --box-shadow-color: rgba(0, 0, 0, 0.3);
-    --ranking-tournament-color: orange;
-    --non-ranking-tournament-opacity: 0.5;
+    --ranked-tournament-color: orange;
+    --unranked-tournament-opacity: 0.5;
     scrollbar-color: #c1c1c1 #fafafa;
 
     /*Variables for diff dialog*/
@@ -34,8 +34,8 @@
     --table-bg-color: #2C3034;
     --table-border-color: #505050;
     --box-shadow-color: rgba(255, 255, 255, 0.3);
-    --ranking-tournament-color: goldenrod;
-    --non-ranking-tournament-opacity: 0.9;
+    --ranked-tournament-color: goldenrod;
+    --unranked-tournament-opacity: 0.9;
     scrollbar-color: #757575 #2E2E2E;
 
     /*Variables for diff dialog*/

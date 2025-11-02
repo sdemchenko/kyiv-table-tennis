@@ -67,8 +67,8 @@ function getCacheKey(ttlMs = 1000 * 60 * 10) {
 
 function insertTournamentMarkers(schedule) {
     
-    function insertGlyphs(schedule, textToFind, glyph, keepFoundText) {
-        const escapedWord = textToFind.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape regex metacharacters
+    function insertGlyphs(schedule, glyph, keepFoundText, textToFindOrReplace) {
+        const escapedWord = textToFindOrReplace.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape regex metacharacters
         const regex = new RegExp(`(^|[^\\p{L}-])(${escapedWord})`, 'iu'); // Unicode-aware boundary
 
         schedule.contents().each(function processNode() {
@@ -83,15 +83,15 @@ function insertTournamentMarkers(schedule) {
         })
     }
     
-    const markRanking = ' <i class="fas fa-trophy tournament ranking"></i> ';
-    const markNonRanking = ' <i class="fas fa-trophy tournament non-ranking"></i> ';
-    
-    insertGlyphs(schedule, '🏆', markRanking, false);
-    insertGlyphs(schedule, 'ranking tournament', markRanking, true);
-    insertGlyphs(schedule, 'рейтингов', markRanking, true);
-    insertGlyphs(schedule, '🏅', markNonRanking, false);
-    insertGlyphs(schedule, 'non-ranking tournament', markNonRanking, true);
-    insertGlyphs(schedule, 'нерейтингов', markNonRanking, true);
+    const ranked = ' <i class="fas fa-trophy ranked"></i> ';
+    insertGlyphs(schedule, ranked, true, 'ranked');
+    insertGlyphs(schedule, ranked, true, 'рейтингов');
+    insertGlyphs(schedule, ranked, false, '🏆');
+
+    const unranked = ' <i class="fas fa-trophy unranked"></i> ';
+    insertGlyphs(schedule, unranked, true, 'unranked');
+    insertGlyphs(schedule, unranked, true, 'нерейтингов');
+    insertGlyphs(schedule, unranked, false, '🏅');
 }
 
 function configureBackToTopButton() {

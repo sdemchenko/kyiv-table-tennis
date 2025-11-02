@@ -1,5 +1,5 @@
 ﻿
-[//]: # (Use 🏆 for ranking events, 🏅 for non-ranking events, ❌ for canceled events)
+[//]: # (Use 🏆 for ranked events, 🏅 for unranked events, ❌ for canceled events)
 
 <h3 id="monday">Monday</h3>
 
@@ -12,7 +12,7 @@
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
-* 19:00. "Sports School #21". 0-100 Non-Ranking Tournament.
+* 19:00. "Sports School #21". 0-100 Unranked Tournament.
 * 21:00 - 22:00. "Top-Spin". Ladder.
 
 <h3 id="tuesday">Tuesday</h3>
@@ -21,13 +21,13 @@
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
-* 18:00. "Quiks". Non-Ranking Tournament (beginners and amateurs).
+* 18:00. "Quiks". Unranked Tournament (beginners and amateurs).
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:15 - 20:40. "Sports School #23". Ladder.
-* 18:30. "Top-Spin". 0-15 Ranking Tournament.
+* 18:30. "Top-Spin". 0-15 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 19:00. "Orion". 0-25 Ranking Tournament.
+* 19:00. "Orion". 0-25 Ranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
 * 21:00 - 22:00. "Top-Spin". Ladder.
 
@@ -38,14 +38,14 @@
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
-* 18:00. "Quiks". 0-15 Ranking Tournament.
-* 18:10. "Himars". 0-40 Ranking Tournament.
-* 18:30. "Top-Spin". 0-25 Ranking Tournament.
+* 18:00. "Quiks". 0-15 Ranked Tournament.
+* 18:10. "Himars". 0-40 Ranked Tournament.
+* 18:30. "Top-Spin". 0-25 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
-* 19:00. "Sports School #21". 0-100 Non-Ranking Tournament.
+* 19:00. "Sports School #21". 0-100 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
-* 20:00 - 22:00. "TviY tennis". Non-Ranking Tournament (beginners and amateurs). Prior registration is mandatory.
+* 20:00 - 22:00. "TviY tennis". Unranked Tournament (beginners and amateurs). Prior registration is mandatory.
 
 <h3 id="thursday">Thursday</h3>
 
@@ -54,23 +54,22 @@
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:15 - 20:40. "Sports School #23". Ladder.
-* 18:30. "Volia". 0-35 Ranking Tournament.
+* 18:30. "Volia". 0-35 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 19:00. "Orion". 0-25 Non-Ranking Tournament.
+* 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 21:00 - 22:00. "Top-Spin". Ladder.
 
 <h3 id="friday">Friday</h3>
 
 * 11:00 - 15:00. "Orion". Ladder.
-* 16:00, October 31. "Leader (RC)". 0-10 Ranking Tournament "Leader TOP-12 (October)".
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
-* 18:00. "Quiks". 0-5 Ranking Tournament.
-* 18:00. "Sports School #21". 0-100 Non-Ranking Tournament.
+* 18:00. "Quiks". 0-5 Ranked Tournament.
+* 18:00. "Sports School #21". 0-100 Unranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
@@ -79,26 +78,25 @@
 
 <h3 id="saturday">Saturday</h3>
 
-* 08:00. "Spin Up". 0-25 Ranking Tournament. Prior registration is mandatory.
-* 09:00. "Pokolinnia". Non-Ranking Tournament for players without a rating.
-* 09:00 - 11:00. "TviY tennis". 0-10 Non-Ranking Tournament. Prior registration is mandatory.
-  * November 1: 10:00 - 12:00
-* 09:30. "Grand-Prix". 0-100 Non-Ranking Tournament.
-* 10:00. "Breiks". 0-100 Ranking Tournament.
+* 08:00. "Spin Up". 0-25 Ranked Tournament. Prior registration is mandatory.
+* 09:00. "Pokolinnia". Unranked Tournament for players without UTTF ranking.
+* 09:00 - 11:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
+* 09:30. "Grand-Prix". 0-100 Unranked Tournament.
+* 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 10:00. "Solomyanka". 0-100 Non-Ranking Tournament. Prior registration is mandatory.
-* 10:00. "Top Spin (Brovary)". 0-40 Ranking Tournament.
-* 10:00. "Top-Spin". 0-10 Ranking Tournament.
-* 10:30. "Orion". 0-25 Ranking Tournament.
-* 11:00. "Quiks". 0-20 Ranking Tournament.
+* 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
+* 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
+* 10:00. "Top-Spin". 0-10 Ranked Tournament.
+* 10:30. "Orion". 0-25 Ranked Tournament.
+* 11:00. "Quiks". 0-20 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
-* 11:10. "Himars". 0-100 Ranking Tournament.
+* 11:10. "Himars". 0-100 Ranked Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
-* 12:00. "Pokolinnia". 0-40.0 Ranking Tournament.
-* 14:00. "Top-Spin". 0-30 Doubles Non-Ranking Tournament.
+* 12:00. "Pokolinnia". 0-40.0 Ranked Tournament.
+* 14:00. "Top-Spin". 0-30 Doubles Unranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00. "Orion". Doubles Non-Ranking Tournament.
-* 15:00. "Quiks". 0-10 Ranking Tournament.
+* 15:00. "Orion". Doubles Unranked Tournament.
+* 15:00. "Quiks". 0-10 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
@@ -107,24 +105,24 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 08:00. "Spin Up" (at "Himars"). 0-25 Ranking Tournament. Prior registration is mandatory.
+* 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
-* 10:00. "Gourmet". 0-45 Ranking Tournament.
-* 10:00. "Raketka". 0-25 Ranking Tournament.
-* 10:00. "Table Tennis at Revutskoho". 0-100 Non-Ranking Tournament.
-* 10:00. "Top-Spin". 0-5 Ranking Tournament.
-* 10:30. "Orion". 0-100 Ranking Tournament.
-* 10:30. "Orion". Non-Ranking Tournament for players without a UTTF ranking.
-* 11:00. "Quiks". 0-15 Ranking Tournament.
-* 11:00. "Start". Non-Ranking Tournament (beginners, amateurs).
+* 10:00. "Gourmet". 0-45 Ranked Tournament.
+* 10:00. "Raketka". 0-25 Ranked Tournament.
+* 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:00. "Top-Spin". 0-5 Ranked Tournament.
+* 10:30. "Orion". 0-100 Ranked Tournament.
+* 10:30. "Orion". Unranked Tournament for players without a UTTF ranking.
+* 11:00. "Quiks". 0-15 Ranked Tournament.
+* 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:30, November 2. "Table Tennis at Respublika Park". Children's league "Kyiv hopes" tournament, 2014 y.o.b and younger. Entry fee is 200 UAH per player. At the beginning of the tournament, participants are treated to sweets, and winners receive certificates, medals, and an award. No application is required.
-* 12:00. "Pokolinnia". 0-25.0 Ranking Tournament.
-* 12:00, November 2. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
-* 14:00. "Top-Spin". 0-45 Ranking Tournament.
-* 14:30. "Orion". Children's 0-100 Ranking Tournament.
-* 14:30. "Orion". Children's Non-Ranking Tournament for beginners.
-* 15:00. "Orion". 0-15 Ranking Tournament.
-* 15:00. "Quiks". 0-5 Ranking Tournament.
+* 12:00. "Pokolinnia". 0-25.0 Ranked Tournament.
+* 12:00, November 2. "Pulse". 0-100 Unranked Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
+* 14:00. "Top-Spin". 0-45 Ranked Tournament.
+* 14:30. "Orion". Children's 0-100 Ranked Tournament.
+* 14:30. "Orion". Children's Unranked Tournament for beginners.
+* 15:00. "Orion". 0-15 Ranked Tournament.
+* 15:00. "Quiks". 0-5 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.

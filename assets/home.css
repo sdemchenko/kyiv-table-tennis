@@ -188,14 +188,16 @@ span.diff-added {
     padding-left: 1em;
 }
 
-i.tournament.ranking {
+/* Glyph for ranked tournaments in the schedule. */
+i.ranked {
     font-size: 0.85rem;
-    color: var(--ranking-tournament-color);
+    color: var(--ranked-tournament-color);
 }
 
-i.tournament.non-ranking {
+/* Glyph for unranked tournaments in the schedule. */
+i.unranked {
     font-size: 0.85rem;
-    opacity: var( --non-ranking-tournament-opacity);
+    opacity: var( --unranked-tournament-opacity);
 }
 
 i.fa-cart-shopping {
