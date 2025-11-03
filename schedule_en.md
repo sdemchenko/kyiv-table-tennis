@@ -59,7 +59,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
-* 21:00 - 22:00. "Top-Spin". Ladder.
+* 19:30 - 22:00. "Top-Spin". Ladder. Participation fee: 150 hryvnias.
 
 <h3 id="friday">Friday</h3>
 
