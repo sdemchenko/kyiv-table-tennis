@@ -94,7 +94,8 @@
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00. "Pokolinnia". 0-40.0 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00. "Orion". Doubles Unranked Tournament.
+* 15:00. "Orion". 0-10 Ranked Tournament.
+* 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Top-Spin". 0-15 Doubles Unranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 16:00. "Quiks". 0-10 Ranked Tournament.
