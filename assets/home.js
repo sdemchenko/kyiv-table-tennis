@@ -61,7 +61,7 @@ function fetchSchedule() {
  * Returns a timestamp-based number.
  *  Use it to make the browser use a cached resource version for some milliseconds.
  */
-function getCacheKey(ttlMs = 1000 * 60 * 10) {
+function getCacheKey(ttlMs = 1000 * 60) {
     return Math.floor(Date.now() / ttlMs);
 }
 
