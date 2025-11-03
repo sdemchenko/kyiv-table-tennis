@@ -86,16 +86,16 @@
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
-* 10:00. "Top-Spin". 0-10 Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00, November 8. "Pulse". 0-20 Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 11:00 - 13:30. "Sports School #23". Ladder.
+* 11:00. "Top-Spin". 0-5 Ranked Tournament.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00. "Pokolinnia". 0-40.0 Ranked Tournament.
-* 14:00. "Top-Spin". 0-30 Doubles Unranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". Doubles Unranked Tournament.
+* 15:00. "Top-Spin". 0-15 Doubles Unranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 16:00. "Quiks". 0-10 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
@@ -110,17 +110,17 @@
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00. "Raketka". 0-25 Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:00. "Top-Spin". 0-5 Ranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
+* 11:00. "Top-Spin". 0-10 Ranked Tournament.
 * 12:00. "Pokolinnia". 0-25.0 Ranked Tournament.
-* 14:00. "Top-Spin". 0-45 Ranked Tournament.
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
+* 15:00. "Top-Spin". 0-20 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
