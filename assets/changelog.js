@@ -33,7 +33,7 @@ function renderChangelog(history) {
 
 function fetchChangelog() {
     const filename = $('#scheduleContainer').attr('data-src');
-    fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/commits?path=${filename}&sha=main&per_page=${numCommits}`)
+    fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/commits?path=${filename}&sha=main&per_page=${numCommits}&cacheBuster=${getCacheKey()}`)
         .then(res => {
             if (!res.ok) throw new Error(`HTTP ${res.status}`);
             return res.json();
