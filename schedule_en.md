@@ -88,6 +88,7 @@
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00. "Top-Spin". 0-10 Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
+* 11:00, November 8. "Pulse". 0-20 Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
