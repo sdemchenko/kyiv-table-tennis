@@ -27,10 +27,11 @@ a:hover { text-decoration: underline; }
 
 /* A visual clue for clicky 'a' and non-clicky 'span'. */
 [data-place]::before {
-    content: "🏓";
+    content: "🏓\2060";
     font-size: 0.9em;
     margin-right: 0.25em;
     font-family: system-ui, -apple-system, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI", Roboto, "Noto Color Emoji", sans-serif;
+    display: inline;
 }
 
 a[href^="https://www.google.com/maps/dir/"]::before {
