@@ -88,7 +88,6 @@
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00. "Top-Spin". 0-10 Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
-* 11:00. "Quiks". 0-20 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
@@ -96,8 +95,8 @@
 * 14:00. "Top-Spin". 0-30 Doubles Unranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". Doubles Unranked Tournament.
-* 15:00. "Quiks". 0-10 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
+* 16:00. "Quiks". 0-10 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
