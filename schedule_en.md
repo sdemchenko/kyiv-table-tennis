@@ -109,7 +109,12 @@
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
-* 10:00. "Raketka". 0-25 Ranked Tournament.
+* 10:00. "Raketka". Ranked Tournament.
+  * November 2: 0-25
+  * November 9: 0-10
+  * November 16: 0-15
+  * November 23: 0-25
+  * November 30: 0-10
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players without a UTTF ranking.
@@ -117,6 +122,11 @@
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00. "Top-Spin". 0-10 Ranked Tournament.
 * 12:00. "Pokolinnia". 0-25.0 Ranked Tournament.
+* 13:00. "Raketka". Ranked Tournament.
+  * November 9: 0-100
+  * November 16: 0-50
+  * November 23: 0-100
+  * November 30: 0-50
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
