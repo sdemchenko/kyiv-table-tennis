@@ -80,7 +80,7 @@
 
 * 08:00. "Spin Up". 0-25 Ranked Tournament. Prior registration is mandatory.
 * 09:00. "Pokolinnia". Unranked Tournament for players without UTTF ranking.
-* 09:00 - 11:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
+* 10:00 - 12:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
