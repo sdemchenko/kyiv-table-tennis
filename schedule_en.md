@@ -41,9 +41,7 @@
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:10. "Himars". 0-40 Ranked Tournament.
 * 18:30. "Top-Spin". 0-25 Ranked Tournament.
-  * November 5: ❌
 * 18:45 - 22:00. "KUTT". Ladder.
-  * November 5: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
@@ -112,7 +110,6 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * November 2: 0-25
   * November 9: 0-10
   * November 16: 0-15
   * November 23: 0-25
