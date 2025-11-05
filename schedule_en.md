@@ -41,6 +41,7 @@
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:10. "Himars". 0-40 Ranked Tournament.
 * 18:30. "Top-Spin". 0-25 Ranked Tournament.
+  * November 5: ❌
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
