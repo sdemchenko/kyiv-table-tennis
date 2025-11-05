@@ -43,6 +43,7 @@
 * 18:30. "Top-Spin". 0-25 Ranked Tournament.
   * November 5: ❌
 * 18:45 - 22:00. "KUTT". Ladder.
+  * November 5: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
