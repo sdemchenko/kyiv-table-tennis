@@ -90,7 +90,6 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:00. "Top-Spin". 0-5 Ranked Tournament.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-* 11:45 - 14:00. "Leader (RC)". Coach-Guided Matches.
 * 12:00. "Pokolinnia". 0-25.0 Ranked Tournament.
 * 14:00, November 8. "KUTT". Unranked Tournament for players without UTTF ranking. [Announcement](https://t.me/kuttclub/5311), [registration](https://forms.gle/TtvRUYesPjwV9mSZ6).
 * 15:00. "DBK-4 Sports Complex". Ladder.
