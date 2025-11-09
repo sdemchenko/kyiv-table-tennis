@@ -86,13 +86,11 @@
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
-* 11:00, November 8. "Pulse". 0-20 Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:00. "Top-Spin". 0-5 Ranked Tournament.
 * 11:10. "Himars". 0-100 Ranked Tournament.
   * November 15: ❌
 * 12:00. "Pokolinnia". 0-25.0 Ranked Tournament.
-* 14:00, November 8. "KUTT". Unranked Tournament for players without UTTF ranking. [Announcement](https://t.me/kuttclub/5311), [registration](https://forms.gle/TtvRUYesPjwV9mSZ6).
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
@@ -111,7 +109,6 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * November 9: 0-10
   * November 16: 0-15
   * November 23: 0-25
   * November 30: 0-10
@@ -123,7 +120,6 @@
 * 11:00. "Top-Spin". 0-10 Ranked Tournament.
 * 12:00. "Pokolinnia". 0-45.0 Ranked Tournament.
 * 13:00. "Raketka". Ranked Tournament.
-  * November 9: 0-100
   * November 16: 0-50
   * November 23: 0-100
   * November 30: 0-50
@@ -135,4 +131,3 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * November 9: ❌
