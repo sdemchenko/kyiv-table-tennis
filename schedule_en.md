@@ -46,7 +46,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
-* 20:00 - 22:00. "TviY tennis". Unranked Tournament (beginners and amateurs). Prior registration is mandatory.
+* 20:00 - 22:00. "TviY tennis". 0-20 Unranked Tournament. Prior registration is mandatory.
 
 <h3 id="thursday">Thursday</h3>
 
