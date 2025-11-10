@@ -92,6 +92,7 @@
   * November 15: ❌
 * 12:00. "Pokolinnia". 0-25.0 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
+* 15:00, November 15. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Top-Spin". 0-15 Doubles Unranked Tournament.
