@@ -97,7 +97,7 @@
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
-* 15:00. "Top-Spin". 0-15 Doubles Unranked Tournament.
+* 15:00. "Top-Spin". 0-10 Doubles Unranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
@@ -119,7 +119,7 @@
 * 10:30. "Orion". Unranked Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 11:00. "Top-Spin". 0-10 Ranked Tournament.
+* 11:00. "Top-Spin". 0-15 Ranked Tournament.
 * 12:00. "Pokolinnia". 0-45.0 Ranked Tournament.
 * 13:00. "Raketka". Ranked Tournament.
   * November 16: 0-50
@@ -129,7 +129,7 @@
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
-* 15:00. "Top-Spin". 0-20 Ranked Tournament.
+* 15:00. "Top-Spin". 0-30 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
