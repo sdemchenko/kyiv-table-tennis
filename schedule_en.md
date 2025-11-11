@@ -10,7 +10,6 @@
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * November 10: 19:30 - 22:30
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
@@ -27,7 +26,6 @@
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Top-Spin". 0-15 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * November 11: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Ranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
