@@ -121,6 +121,7 @@
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00. "Top-Spin". 0-15 Ranked Tournament.
 * 12:00. "Pokolinnia". 0-45.0 Ranked Tournament.
+* 12:00, November 16. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
   * November 16: 0-50
   * November 23: 0-100
