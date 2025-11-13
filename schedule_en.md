@@ -123,7 +123,7 @@
 * 12:00. "Pokolinnia". 0-45.0 Ranked Tournament.
 * 12:00, November 16. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
-  * November 16: 0-50
+  * November 16: 0-50 or 0-100 (voting is open)
   * November 23: 0-100
   * November 30: 0-50
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
