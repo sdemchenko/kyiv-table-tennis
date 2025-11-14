@@ -90,7 +90,7 @@ function fetchChangelogUsingGraphQL() {
 
 function formatDateForChangelog(d) {
     const pad = n => String(n).padStart(2, '0');
-    return `${pad(d.getDate())}.${pad(d.getMonth() + 1)} ${pad(d.getHours() + 1)}:${pad(d.getMinutes() + 1)}`;
+    return `${pad(d.getDate())}.${pad(d.getMonth() + 1)} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
 }
 
 $(document).on('click', '.diff-link', function (e) {
