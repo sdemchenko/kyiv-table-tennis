@@ -80,19 +80,20 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up". 0-25 Ranked Tournament. Prior registration is mandatory.
-* 10:00 - 12:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
+* 09:00. "Pokolinnia". Unranked Tournament for players without UTTF ranking.
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
+* 10:00 - 12:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:00. "Top-Spin". 0-5 Ranked Tournament.
 * 11:10. "Himars". 0-100 Ranked Tournament.
   * November 15: ❌
-* 12:00. "Pokolinnia". 0-25.0 Ranked Tournament.
+* 12:00. "Pokolinnia". 0-30.0 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00, November 15. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking).
 * 15:00. "Orion". 0-10 Ranked Tournament.
@@ -108,7 +109,6 @@
 <h3 id="sunday">Sunday</h3>
 
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
-* 09:00. "Pokolinnia". Unranked Tournament for players without UTTF ranking.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
@@ -121,7 +121,7 @@
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00. "Top-Spin". 0-15 Ranked Tournament.
-* 12:00. "Pokolinnia". 0-45.0 Ranked Tournament.
+* 12:00. "Pokolinnia". 0-30.0 Ranked Tournament.
 * 12:00, November 16. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
   * November 16: 0-50 or 0-100 (voting is open)
