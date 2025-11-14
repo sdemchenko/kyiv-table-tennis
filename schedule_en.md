@@ -92,6 +92,7 @@
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:00. "Top-Spin". 0-5 Ranked Tournament.
+  * November 15: ❌
 * 11:10. "Himars". 0-100 Ranked Tournament.
   * November 15: ❌
 * 12:00. "Pokolinnia". 0-30.0 Ranked Tournament.
@@ -101,6 +102,7 @@
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
 * 15:00. "Top-Spin". 0-10 Doubles Unranked Tournament.
+  * November 15: ❌
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
@@ -122,6 +124,7 @@
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00. "Top-Spin". 0-15 Ranked Tournament.
+  * November 16: ❌
 * 12:00. "Pokolinnia". 0-30.0 Ranked Tournament.
 * 12:00, November 16. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
@@ -133,6 +136,7 @@
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Top-Spin". 0-30 Ranked Tournament.
+  * November 16: ❌
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
