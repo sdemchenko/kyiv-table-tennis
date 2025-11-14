@@ -169,7 +169,12 @@ table#t_courts td:last-of-type { text-align:center; }
 
 #changelog li::marker { content: "- "; }
 #changelog li { margin-left: 0.4rem; }
-.diff-link span.date { font-family: monospace; font-size: 0.8rem; }
+.diff-link span.date {
+    font-family: monospace;
+    font-size: 0.75rem;
+    opacity: 0.9;
+    margin-right: 0.5rem;
+}
 
 span.diff-removed {
     background-color: var(--diff-removed-bg);

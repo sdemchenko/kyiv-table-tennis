@@ -27,7 +27,7 @@ function renderChangelog(history) {
         let entry = history[i];
         let prevSha = i + 1 < history.length ? history[i + 1].sha : '';
         $changelog.append(`<li><a href="#" class="diff-link" data-sha="${entry.sha}" data-prevsha="${prevSha}">
-                                            <span class="date">${escapeHtml(entry.date)} </span>${escapeHtml(entry.message)}</a></li>`);
+                                            <span class="date">${escapeHtml(entry.date)}</span>${escapeHtml(entry.message)}</a></li>`);
     }
 }
 
@@ -40,7 +40,7 @@ function fetchChangelog() {
         })
         .then(commits => {
             const history = commits.map(commit => ({
-                date: formatDateShort(new Date(commit.commit.author.date)),
+                date: formatDateForChangelog(new Date(commit.commit.author.date)),
                 message: commit.commit.message,
                 sha: commit.sha,
             }));
@@ -78,7 +78,7 @@ function fetchChangelogUsingGraphQL() {
             }
             const nodes = json.data?.repository?.ref?.target?.history?.nodes || [];
             const history = nodes.map(n => ({
-                date: formatDateShort(new Date(n.committedDate)),
+                date: formatDateForChangelog(new Date(n.committedDate)),
                 message: n.messageHeadline || n.message || '',
                 sha: n.oid
             }));
@@ -88,9 +88,9 @@ function fetchChangelogUsingGraphQL() {
         .catch(err => console.error('Failed to fetch changelog using GraphQL:', err));
 }
 
-function formatDateShort(d) {
+function formatDateForChangelog(d) {
     const pad = n => String(n).padStart(2, '0');
-    return `${pad(d.getDate())}.${pad(d.getMonth() + 1)}`;
+    return `${pad(d.getDate())}.${pad(d.getMonth() + 1)} ${pad(d.getHours() + 1)}:${pad(d.getMinutes() + 1)}`;
 }
 
 $(document).on('click', '.diff-link', function (e) {
