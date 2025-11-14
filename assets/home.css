@@ -96,9 +96,40 @@ ul#moreNews {
     color: #888888;
 }
 
-div.maps div { display: inline-block; vertical-align: top }
-div.maps div:nth-child(1) { margin-right: 50px }
-div.maps img { margin-top: 10px; border-radius: 0.5rem; }
+#maps { margin-bottom: 0; }
+div.maps {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* On wide screens, push children apart */
+}
+
+div.maps div {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 400px;
+    width: 48%; /* Almost half, so they fit side by side with some space */
+    margin-top: 10px;
+}
+div.maps img {
+    margin-top: 10px;
+    border-radius: 0.5rem;
+    max-width: 100%; /* scale within container */
+    height: auto;
+}
+/* For narrow devices, stack images aligned left */
+@media (max-width: 600px) {
+    div.maps {
+        flex-direction: column;
+        align-items: flex-start; /* Align items to left edge */
+    }
+    div.maps div {
+        width: 100%;  /* Full width, so stacked */
+        margin-bottom: 10px; /* spacing between stacked items */
+    }
+    div.maps div:last-child {
+        margin-bottom: 0; /* spacing between stacked items */
+    }
+}
 
 table {
     background-color: var(--table-bg-color);
