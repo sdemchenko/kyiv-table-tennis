@@ -132,6 +132,7 @@
   * November 16: 0-50 or 0-100 (voting is open)
   * November 23: 0-100
   * November 30: 0-50
+* 14:00. "Gourmet". 0-5 Ranked Tournament.
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
