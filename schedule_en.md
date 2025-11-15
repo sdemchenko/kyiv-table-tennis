@@ -90,6 +90,7 @@
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
+  * November 15: ❌
 * 11:00. "Top-Spin". 0-5 Ranked Tournament.
   * November 15: ❌
 * 11:10. "Himars". 0-100 Ranked Tournament.
