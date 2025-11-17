@@ -93,6 +93,7 @@
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 12:00. "Pokolinnia". 0-30.0 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
+* 15:00, November 22. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking). Gifts for all participants.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
