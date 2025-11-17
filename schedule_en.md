@@ -109,7 +109,6 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * November 16: 0-15
   * November 23: 0-25
   * November 30: 0-10
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
@@ -118,11 +117,8 @@
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00. "Top-Spin". 0-15 Ranked Tournament.
-  * November 16: ❌
 * 12:00. "Pokolinnia". 0-30.0 Ranked Tournament.
-* 12:00, November 16. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
-  * November 16: 0-100
   * November 23: 0-100
   * November 30: 0-50
 * 14:00. "Gourmet". 0-5 Ranked Tournament.
@@ -131,8 +127,6 @@
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Top-Spin". 0-30 Ranked Tournament.
-  * November 16: ❌
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * November 16: 19:30 - 22:00
