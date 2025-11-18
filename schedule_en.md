@@ -13,7 +13,6 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
-* 21:00 - 22:00. "Top-Spin". Ladder.
 
 <h3 id="tuesday">Tuesday</h3>
 
@@ -24,13 +23,11 @@
 * 18:00. "Quiks". Unranked Round Robin Tournament (everyone plays everyone, best of three) for beginners and amateurs.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:15 - 20:40. "Sports School #23". Ladder.
-* 18:30. "Top-Spin". 0-15 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
   * November 18: 17:30 - 19:30
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Ranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
-* 21:00 - 22:00. "Top-Spin". Ladder.
 
 <h3 id="wednesday">Wednesday</h3>
 
@@ -41,7 +38,6 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:10. "Himars". 0-40 Ranked Tournament.
-* 18:30. "Top-Spin". 0-25 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
@@ -60,7 +56,6 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
-* 19:30 - 22:00. "Top-Spin". Ladder. Participation fee: 150 hryvnias.
 
 <h3 id="friday">Friday</h3>
 
@@ -75,7 +70,6 @@
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
-* 21:00 - 22:00. "Top-Spin". Ladder.
 
 <h3 id="saturday">Saturday</h3>
 
@@ -90,14 +84,12 @@
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
-* 11:00. "Top-Spin". 0-5 Ranked Tournament.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 12:00. "Pokolinnia". 0-30.0 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00, November 22. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking). Gifts for all participants.
 * 15:00. "Orion". Doubles Unranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
-* 15:00. "Top-Spin". 0-10 Doubles Unranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
@@ -117,7 +109,6 @@
 * 10:30. "Orion". Unranked Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 11:00. "Top-Spin". 0-15 Ranked Tournament.
 * 12:00. "Pokolinnia". 0-30.0 Ranked Tournament.
 * 13:00. "Raketka". Ranked Tournament.
   * November 23: 0-100
@@ -127,7 +118,6 @@
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
-* 15:00. "Top-Spin". 0-30 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
