@@ -101,11 +101,6 @@
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/top-spin/</loc>
-        <changefreq>yearly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
         <loc>https://tabletennis.kyiv.ua/assets/tvoya-podacha/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
