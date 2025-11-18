@@ -86,6 +86,11 @@ details[open] summary::after {
     -webkit-font-smoothing: antialiased;
 }
 
+details > p {
+    margin-top: 0.6rem;
+    margin-bottom: 0.6rem;
+}
+
 ul#moreNews {
     list-style-type: none;
     margin-top: 20px;
