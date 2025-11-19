@@ -86,6 +86,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://tabletennis.kyiv.ua/assets/podacha-9/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://tabletennis.kyiv.ua/assets/quiks/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
