@@ -53,6 +53,7 @@
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
+  * November 18: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
