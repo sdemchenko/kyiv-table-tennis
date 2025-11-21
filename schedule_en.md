@@ -73,7 +73,6 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up". 0-25 Ranked Tournament. Prior registration is mandatory.
-* 09:00. "Pokolinnia". Unranked Tournament for players without UTTF ranking.
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament.
 * 09:30. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
@@ -84,7 +83,7 @@
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-* 12:00. "Pokolinnia". 0-30.0 Ranked Tournament.
+* 12:00. "Pokolinnia". 0-40.0 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00, November 22. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking). Gifts for all participants.
 * 15:00. "Orion". Doubles Unranked Tournament.
@@ -98,6 +97,7 @@
 <h3 id="sunday">Sunday</h3>
 
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
+* 09:00. "Pokolinnia". Unranked Tournament for players without UTTF ranking.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
@@ -108,7 +108,7 @@
 * 10:30. "Orion". Unranked Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 12:00. "Pokolinnia". 0-30.0 Ranked Tournament.
+* 12:00. "Pokolinnia". 0-15.0 Ranked Tournament.
 * 12:00, November 23. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
   * November 23: 0-100
