@@ -11,8 +11,8 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
-* 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
+* 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 
 <h3 id="tuesday">Tuesday</h3>
 
@@ -63,9 +63,9 @@
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
-* 18:30. "Quiks". 0-5 Ranked Tournament.
 * 18:00. "Sports School #21". 0-100 Unranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
+* 18:30. "Quiks". 0-5 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
@@ -77,11 +77,11 @@
 * 09:30. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
+* 10:00 - 12:30. "Sports School #23". Ladder.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00 - 12:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
-* 10:00 - 12:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 12:00. "Pokolinnia". 0-40.0 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
