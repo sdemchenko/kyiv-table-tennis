@@ -67,7 +67,6 @@
 * 18:00. "Sports School #21". 0-100 Unranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * November 21: 18:00 - 19:30
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
 
@@ -84,11 +83,8 @@
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 10:00 - 12:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-* 11:30, November 22. "Podacha #9". 0-10 Ranked Tournament. Schedule will adjust depending on the power outage.
 * 12:00. "Pokolinnia". 0-40.0 Ranked Tournament.
-* 14:00, November 22. "Podacha #9". 0-25 Ranked Tournament. Schedule will adjust depending on the power outage.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, November 22. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranking Tournament, two others are Non-Ranking). Gifts for all participants.
 * 15:00. "Orion". Doubles Unranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
@@ -104,7 +100,6 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * November 23: 0-30
   * November 30: 0-10
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
@@ -112,7 +107,6 @@
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 12:00. "Pokolinnia". 0-15.0 Ranked Tournament.
-* 12:00, November 23. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
   * November 30: 0-50
 * 14:00. "Gourmet". 0-5 Ranked Tournament.
@@ -123,4 +117,3 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * November 23: 19:30 - 22:00
