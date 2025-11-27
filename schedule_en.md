@@ -84,6 +84,7 @@
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:10. "Himars". 0-100 Ranked Tournament.
+  * November 29: ❌
 * 12:00. "Pokolinnia". 0-40.0 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00, November 29. "Leader (RC)". Unranked Tournament "TOP-12 (November)". Registration: +380931338990.
