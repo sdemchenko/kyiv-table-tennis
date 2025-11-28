@@ -79,6 +79,7 @@
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00 - 12:30. "Sports School #23". Ladder.
+  * November 29: ❌
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00 - 12:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
