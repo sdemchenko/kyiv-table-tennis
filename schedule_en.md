@@ -76,7 +76,7 @@
 * 08:00. "Spin Up". 0-25 Ranked Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament.
 * 09:30. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
-  * November 29: probably, the tournament will be canceled due to power outages.
+  * November 29: ❌
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00 - 12:30. "Sports School #23". Ladder.
