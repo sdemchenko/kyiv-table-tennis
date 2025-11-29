@@ -24,7 +24,6 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * November 25: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Ranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
@@ -76,20 +75,16 @@
 * 08:00. "Spin Up". 0-25 Ranked Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament.
 * 09:30. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
-  * November 29: ❌
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00 - 12:30. "Sports School #23". Ladder.
-  * November 29: ❌
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00 - 12:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-  * November 29: ❌
 * 12:00. "Pokolinnia". 0-25.0 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, November 29. "Leader (RC)". Unranked Tournament "TOP-12 (November)". Registration: +380931338990.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
