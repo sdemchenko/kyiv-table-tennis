@@ -8,7 +8,7 @@
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
-* 18:00 - 22:30. "Volia". Ladder.
+* 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
@@ -21,7 +21,7 @@
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". Unranked Tournament.
-* 18:00 - 22:30. "Volia". Ladder.
+* 18:30 - 22:30. "Volia". Ladder.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
@@ -34,7 +34,6 @@
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
-* 18:00 - 22:30. "Volia". Ladder.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:10. "Himars". 0-40 Ranked Tournament.
 * 18:30. "Volia". 0-45 Ranked Tournament.
@@ -50,7 +49,7 @@
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
-* 18:00 - 22:30. "Volia". Ladder.
+* 18:30 - 22:30. "Volia". Ladder.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
@@ -65,7 +64,7 @@
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Sports School #21". 0-100 Unranked Tournament.
-* 18:00 - 22:30. "Volia". Ladder.
+* 18:30 - 22:30. "Volia". Ladder.
 * 18:30. "Quiks". 0-5 Ranked Tournament.
   * December 12, 16:00 - 18:00. Club anniversary celebration. Special event and 0–15 rating tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
@@ -89,7 +88,7 @@
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
-* 18:00 - 22:30. "Volia". Ladder.
+* 18:30 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
@@ -113,6 +112,6 @@
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
-* 18:00 - 22:30. "Volia". Ladder.
+* 18:30 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
