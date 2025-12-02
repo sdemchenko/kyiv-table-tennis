@@ -101,16 +101,18 @@ $(document).on('click', '.diff-link', function (e) {
         fetchFileContent(currSha), // You write this
         prevSha ? fetchFileContent(prevSha) : Promise.resolve('')
     ]).then(([currMd, prevMd]) => {
-        const diffArray = Diff.diffLines(cleanUpMarkdown(prevMd), cleanUpMarkdown(currMd));
+        const diffArray = Diff.diffLines(cleanUpMarkup(prevMd), cleanUpMarkup(currMd));
         const diffHtml = formatDiffForDialog(diffArray);
         showDiffOverlay(diffHtml);
     });
 });
 
-function cleanUpMarkdown(md) {
-    // Remove comments from Markdown content (lines starting with '[//]')
-    // Then remove empty lines at the beginning of the file
-    return md.replace(/^\[\/\/].*\n?/gm, '\n').replace(/^(\s*\n)+/, '');
+function cleanUpMarkup(md) {
+    return md
+        .replace(/^\[\/\/].*\n?/gm, '\n')   // Remove comments from Markdown content (lines starting with '[//]')
+        .replace(/^(\s*\n)+/, '')           // Remove empty lines at the beginning of the file
+        .replace(/<h3[^>]*>([^<]+)<\/h3>/g, (_, text) => text.toUpperCase()) // Day of the week without the heading tag
+        .replace(/[*]/g, '•');              // Bullets instead of asterisks
 }
 
 function fetchFileContent(sha) {
