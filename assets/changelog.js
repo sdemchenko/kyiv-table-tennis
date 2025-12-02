@@ -20,6 +20,8 @@ const query = `
         }
       }
     `;
+const defaultOptions = {};
+const auth = 'Bearer github' + '_pat_' + '11AAJTWWI0rnqJPqlnoGmw_lQBGAFXw3RuPiN6o30rMaMi4QJBSbUioASdId9pMDlq5YQLMWNAS4nFUXLH';
 
 function renderChangelog(history) {
     let $changelog = $('#changelog').empty();
@@ -64,7 +66,7 @@ function fetchChangelogUsingGraphQL() {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer github' + '_pat_' + '11AAJTWWI0rnqJPqlnoGmw_lQBGAFXw3RuPiN6o30rMaMi4QJBSbUioASdId9pMDlq5YQLMWNAS4nFUXLH'
+            'Authorization': auth
         },
         body: JSON.stringify({query, variables})
     })
@@ -115,11 +117,11 @@ function cleanUpMarkup(md) {
         .replace(/[*]/g, '•');              // Bullets instead of asterisks
 }
 
-function fetchFileContent(sha) {
+function fetchFileContent(sha, options = defaultOptions) {
     const filename = $('#scheduleContainer').attr('data-src');
     const url = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${filename}?ref=${sha}`;
 
-    return fetch(url)
+    return fetch(url, options)
         .then(response => response.json())
         .then(data => {
             const b64 = data.content.replace(/\n/g, '');
@@ -129,6 +131,14 @@ function fetchFileContent(sha) {
                 bytes[i] = binary.charCodeAt(i);
             }
             return new TextDecoder('utf-8').decode(bytes);
+        })
+        .catch(err => {
+            if (options === defaultOptions) {
+                console.error('Failed to fetch file content:', err);
+                return fetchFileContent(sha, {headers: {'Authorization': auth}});
+            } else {
+                return "Failed to fetch file content. Please try again later. If the problem persists, please contact the site administrator."
+            }
         });
 }
 
