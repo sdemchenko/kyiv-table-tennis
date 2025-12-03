@@ -234,12 +234,16 @@ span.diff-added {
 i.ranked {
     font-size: 0.85rem;
     color: var(--ranked-tournament-color);
+    display: inline;
+    margin-right: 0.3em;
 }
 
 /* Glyph for unranked tournaments in the schedule. */
 i.unranked {
     font-size: 0.85rem;
     opacity: var( --unranked-tournament-opacity);
+    display: inline;
+    margin-right: 0.3em;
 }
 
 i.fa-cart-shopping {

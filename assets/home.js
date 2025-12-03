@@ -83,12 +83,12 @@ function insertTournamentMarkers(schedule) {
         })
     }
     
-    const ranked = ' <i class="fas fa-trophy ranked"></i> ';
+    const ranked = ' <i class="fas fa-trophy ranked"></i>';
     insertGlyphs(schedule, ranked, true, 'ranked');
     insertGlyphs(schedule, ranked, true, 'рейтингов');
     insertGlyphs(schedule, ranked, false, '🏆');
 
-    const unranked = ' <i class="fas fa-trophy unranked"></i> ';
+    const unranked = ' <i class="fas fa-trophy unranked"></i>';
     insertGlyphs(schedule, unranked, true, 'unranked');
     insertGlyphs(schedule, unranked, true, 'нерейтингов');
     insertGlyphs(schedule, unranked, false, '🏅');
@@ -135,7 +135,7 @@ function updateOtherCompetitionsVisibility() {
 
 function isTournament($item) {
     const tournamentKeywords = ['tournament', 'турнір', 'кубок', 'чемпіонат', 'championship'];
-    return $item.find('i.tournament').length > 0 || tournamentKeywords.some(word => $item.text().toLowerCase().includes(word));
+    return $item.find('i.ranked').length > 0 || $item.find('i.unranked').length > 0 || tournamentKeywords.some(word => $item.text().toLowerCase().includes(word));
 }
 
 /**
