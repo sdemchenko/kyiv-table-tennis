@@ -222,11 +222,11 @@ span.diff-added {
     color: var(--diff-added-fg);
 }
 
-#scheduleContainer > ul > li {
+#scheduleContainer ul li {
     padding-bottom: 0.2em;
 }
 
-#scheduleContainer > ul {
+#scheduleContainer ul {
     padding-left: 1em;
 }
 
