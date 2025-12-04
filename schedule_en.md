@@ -84,6 +84,7 @@
 * 10:00 - 12:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
+  * December 6: participation for children is free of charge.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00, December 6. "Leader (RC)". Decentralized 0-10 Ranked Charity Tournament dedicated to the Day of the Armed Forces of Ukraine. [Prize draw entry](https://forms.gle/a4EwcBrc6YqwTQxA8).
