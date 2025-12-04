@@ -109,7 +109,7 @@
 * 12:00. "Pokolinnia". 0-15.0 Ranked Tournament.
 * 13:00, December 7. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
-* 14:00. "Gourmet". 0-5 Ranked Tournament.
+* 14:00. "Gourmet". 0-15 Ranked Tournament.
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
