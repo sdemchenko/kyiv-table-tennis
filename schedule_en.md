@@ -85,7 +85,6 @@
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-* 12:00. "Pokolinnia". 0-25.0 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00, December 6. "Leader (RC)". Decentralized 0-10 Ranked Charity Tournament dedicated to the Day of the Armed Forces of Ukraine. [Prize draw entry](https://forms.gle/a4EwcBrc6YqwTQxA8).
 * 15:00. "Quiks". 0-20 Ranked Tournament.
@@ -107,7 +106,6 @@
 * 10:30. "Orion". Unranked Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 12:00. "Pokolinnia". 0-15.0 Ranked Tournament.
 * 13:00, December 7. "Pulse". 0-100 Non-Ranking Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
 * 14:00. "Gourmet". 0-15 Ranked Tournament.
