@@ -39,6 +39,7 @@
   * December 10: ❌
 * 18:30. "Volia". 0-35 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
+  * December 10: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
