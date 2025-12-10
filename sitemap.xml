@@ -16,12 +16,12 @@
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/changelog/</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/dashkevycha/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://tabletennis.kyiv.ua/assets/dashkevycha/</loc>
+        <loc>https://tabletennis.kyiv.ua/assets/galaktyka/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
