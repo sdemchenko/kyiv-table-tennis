@@ -84,6 +84,7 @@
 * 10:00 - 12:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". 0-15 Ranked Tournament. Prior registration is mandatory.
+  * December 13: [charity](https://t.me/PODACHA_9/45) 0-15 Ranked Tournament
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
