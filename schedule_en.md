@@ -113,6 +113,7 @@
 * 11:00. "Podacha#9". 0-10 Ranked Tournament. Prior registration is mandatory.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
+* 12:00. "Pokolinnia". 0-30.0 Unranked Tournament.
 * 13:00. "Raketka". Ranked Tournament.
   * December 14: 0-45
 * 14:00. "Gourmet". 0-5 Ranked Tournament.
