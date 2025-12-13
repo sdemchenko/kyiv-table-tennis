@@ -36,10 +36,8 @@
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
 * 18:30. "Podacha#9". 0-40 Ranked Tournament. Prior registration is mandatory.
-  * December 10: ❌
 * 18:30. "Volia". 0-35 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * December 10: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
@@ -67,7 +65,6 @@
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Sports School #21". 0-100 Unranked Tournament.
 * 18:30. "Quiks". 0-5 Ranked Tournament.
-  * December 12: 16:00 - 18:00 - club's anniversary celebration; starting from 18:00 -- 0–15 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
@@ -84,14 +81,11 @@
 * 10:00 - 12:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". 0-15 Ranked Tournament. Prior registration is mandatory.
-  * December 13: [charity](https://t.me/PODACHA_9/45) 0-15 Ranked Tournament
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 14:00. "Podacha#9". 0-40 Ranked Tournament. Prior registration is mandatory.
-  * December 13: ❌
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, December 13. "Leader (RC)". 0-15 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
