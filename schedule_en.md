@@ -101,7 +101,6 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-30 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * December 14: 0-10
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
@@ -110,10 +109,8 @@
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 12:00. "Pokolinnia". 0-30.0 Unranked Tournament.
 * 13:00. "Raketka". Ranked Tournament.
-  * December 14: 0-45
 * 14:00. "Gourmet". 0-5 Ranked Tournament.
 * 14:00. "Podacha#9". 0-25 Ranked Tournament. Prior registration is mandatory.
-  * December 14: ❌
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
