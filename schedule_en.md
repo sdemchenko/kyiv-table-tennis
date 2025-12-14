@@ -113,6 +113,7 @@
   * December 14: 0-45
 * 14:00. "Gourmet". 0-5 Ranked Tournament.
 * 14:00. "Podacha#9". 0-25 Ranked Tournament. Prior registration is mandatory.
+  * December 14: ❌
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
