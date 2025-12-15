@@ -59,6 +59,7 @@
 <h3 id="friday">Friday</h3>
 
 * 11:00 - 15:00. "Orion". Ladder.
+* 14:00, December 26. "Leader (RC)". Unranked Tournament "Lider Cup Kids". [Prior registration](https://forms.gle/NsPXtvMbpD5kRMXc7) is mandatory.
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
