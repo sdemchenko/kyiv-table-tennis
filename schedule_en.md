@@ -111,6 +111,7 @@
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 12:00. "Pokolinnia". 0-30.0 Unranked Tournament.
+* 12:00, December 21. "Pulse". 0-100 Unranked Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
 * 14:00. "Gourmet". 0-5 Ranked Tournament.
 * 14:00. "Podacha#9". 0-25 Ranked Tournament. Prior registration is mandatory.
