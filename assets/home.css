@@ -76,15 +76,15 @@ details > summary {
     user-select: none; /* Standard syntax */
 }
 summary::-webkit-details-marker { display: none; }
-summary::after {
-    margin-left: 0.5rem;
-    content: "\f0fe";
+summary::before {
+    margin-right: 0.2rem;
+    content: "\f055";
     font: var(--fa-font-solid);
     -webkit-font-smoothing: antialiased;
 }
-details[open] summary::after {
-    margin-left: 0.5rem;
-    content: "\f146";
+details[open] summary::before {
+    margin-right: 0.2rem;
+    content: "\f056";
     font: var(--fa-font-solid);
     -webkit-font-smoothing: antialiased;
 }
