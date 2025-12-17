@@ -75,6 +75,7 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up". 0-25 Ranked Tournament. Prior registration is mandatory.
+* 09:00. "Pokolinnia". Unranked Tournament for players without UTTF ranking.
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament.
 * 09:30. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
@@ -102,7 +103,6 @@
 <h3 id="sunday">Sunday</h3>
 
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
-* 09:00. "Pokolinnia". Unranked Tournament for players without UTTF ranking.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-30 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
@@ -113,7 +113,6 @@
   * December 28: Children's Tournament; [details](assets/temp/2025-12-28.jpeg).
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 12:00. "Pokolinnia". 0-30.0 Unranked Tournament.
 * 12:00, December 21. "Pulse". 0-100 Unranked Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
 * 14:00. "Gourmet". 0-5 Ranked Tournament.
