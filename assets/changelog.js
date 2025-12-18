@@ -193,8 +193,29 @@ function showDiffOverlay(diffHtml) {
 
 function formatDiffForDialog(diffArray) {
     return diffArray.map(part => {
-        if (part.added) return `<span class="diff-added">${escapeHtml(part.value)}</span>`;
-        if (part.removed) return `<span class="diff-removed">${escapeHtml(part.value)}</span>`;
-        return `<span>${escapeHtml(part.value)}</span>`;
+        let val = markdownLinksAndImagesToHtml(escapeHtml(part.value));
+        if (part.added) return `<span class="diff-added">${val}</span>`;
+        if (part.removed) return `<span class="diff-removed">${val}</span>`;
+        return `<span>${val}</span>`;
     }).join('');
+}
+
+function markdownLinksAndImagesToHtml(markdown) {
+    // Links first (images have ! prefix)
+    let result = markdown.replace(
+        /\[([^\]]+?)\]\(([^)]+?)(?:\s+"([^"]+)")?\)/g,
+        (match, text, url, title) => {
+            const titleAttr = title ? ` title="${title}"` : '';
+            return `<a href="${url}" ${titleAttr}>${text}</a>`;
+        }
+    );
+    // Images
+    result = result.replace(
+        /!\[([^\]]+?)\]\(([^)]+?)(?:\s+"([^"]+)")?\)/g,
+        (match, alt, url, title) => {
+            const titleAttr = title ? ` title="${title}"` : '';
+            return `<img src="${url}" alt="${alt}" ${titleAttr}>`;
+        }
+    );
+    return result;
 }

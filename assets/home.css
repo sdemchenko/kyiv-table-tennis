@@ -215,6 +215,9 @@ table#t_courts td:last-of-type { text-align:center; }
     margin-right: 0.5rem;
 }
 
+/* START DIFF DIALOG */
+.ui-corner-all {border-radius: 0.3rem !important;}
+pre a { color: var(--a-fg-color) !important; text-decoration: underline; cursor: pointer; }
 span.diff-removed {
     background-color: var(--diff-removed-bg);
     color: var(--diff-removed-fg);
@@ -224,6 +227,7 @@ span.diff-added {
     background-color: var(--diff-added-bg);
     color: var(--diff-added-fg);
 }
+/* END DIFF DIALOG */
 
 #scheduleContainer ul li {
     padding-bottom: 0.2em;
