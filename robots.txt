@@ -1,4 +1,6 @@
 User-agent: *
 Disallow: /assets/temp/
+Disallow: /assets/top-spin
+Disallow: /assets/top-spin/
 
 Sitemap: https://tabletennis.kyiv.ua/sitemap.xml
