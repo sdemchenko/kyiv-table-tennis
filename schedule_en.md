@@ -80,7 +80,7 @@
 * 09:30. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 10:00, December 20. "Sports School #23". Children's Tournament. Regulations: [1](assets/temp/2025-12-20-1.jpeg), [2](assets/temp/2025-12-20-2.jpeg).
+* 10:00, December 20. "School #263". Children's Tournament. Regulations: [1](assets/temp/2025-12-20-1.jpeg), [2](assets/temp/2025-12-20-2.jpeg).
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00 - 12:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
@@ -88,7 +88,6 @@
 * 11:00, December 20. "Pulse". Family Doubles Unranked Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
-  * December 20: ❌
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 14:00. "Gourmet". 0-25 Ranked Tournament.
 * 14:00. "Podacha#9". 0-40 Ranked Tournament. Prior registration is mandatory.
