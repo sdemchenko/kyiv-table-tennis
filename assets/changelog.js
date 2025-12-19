@@ -224,3 +224,15 @@ function markdownBoldToHtml(text) {
     return text.replace(/\*\*(.*?)\*\*/g, '<strong style="font-size: larger">$1</strong>')
         .replace(/__(.*?)__/g, '<strong>$1</strong>');
 }
+
+async function loadScheduleMeta() {
+    const list = await fetch('/versions_schedule.json').then(r => r.json());
+    // list[0] = { filename, date, commit, message }
+    const versions = await Promise.all(
+        list.map(async v => ({
+            ...v,
+            content: await fetch(`/${v.filename}`).then(r => r.text())
+        }))
+    );
+    return versions;
+}
