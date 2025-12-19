@@ -76,13 +76,13 @@
 
 * 08:00. "Spin Up". 0-25 Ranked Tournament. Prior registration is mandatory.
 * 09:00. "Pokolinnia". Unranked Tournament for players without UTTF ranking.
+* 09:00 - 11:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament.
 * 09:30. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00, December 20. "School #263". Children's Tournament. Regulations: [1](assets/temp/2025-12-20-1.jpeg), [2](assets/temp/2025-12-20-2.jpeg).
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
-* 10:00 - 12:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". 0-15 Ranked Tournament. Prior registration is mandatory.
 * 11:00, December 20. "Pulse". Family Doubles Unranked Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
