@@ -122,7 +122,10 @@ function fetchFileContent(sha, options = defaultOptions) {
     const url = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${filename}?ref=${sha}`;
 
     return fetch(url, options)
-        .then(response => response.json())
+        .then(res => {
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            return res.json();
+        })
         .then(data => {
             const b64 = data.content.replace(/\n/g, '');
             const binary = atob(b64);
@@ -223,16 +226,4 @@ function markdownLinksAndImagesToHtml(markdown) {
 function markdownBoldToHtml(text) {
     return text.replace(/\*\*(.*?)\*\*/g, '<strong style="font-size: larger">$1</strong>')
         .replace(/__(.*?)__/g, '<strong>$1</strong>');
-}
-
-async function loadScheduleMeta() {
-    const list = await fetch('/versions_schedule.json').then(r => r.json());
-    // list[0] = { filename, date, commit, message }
-    const versions = await Promise.all(
-        list.map(async v => ({
-            ...v,
-            content: await fetch(`/${v.filename}`).then(r => r.text())
-        }))
-    );
-    return versions;
 }
