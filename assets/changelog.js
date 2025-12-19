@@ -113,8 +113,8 @@ function cleanUpMarkup(md) {
     return md
         .replace(/^\[\/\/].*\n?/gm, '\n')   // Remove comments from Markdown content (lines starting with '[//]')
         .replace(/^(\s*\n)+/, '')           // Remove empty lines at the beginning of the file
-        .replace(/<h3[^>]*>([^<]+)<\/h3>/g, (_, text) => text.toUpperCase()) // Day of the week without the heading tag
-        .replace(/[*]/g, '•');              // Bullets instead of asterisks
+        .replace(/[*]/g, '•')               // Bullets instead of asterisks
+        .replace(/<h3[^>]*>([^<]+)<\/h3>/g, (_, text) => '**' + text + '**'); // Day of the week
 }
 
 function fetchFileContent(sha, options = defaultOptions) {
@@ -193,7 +193,7 @@ function showDiffOverlay(diffHtml) {
 
 function formatDiffForDialog(diffArray) {
     return diffArray.map(part => {
-        let val = markdownLinksAndImagesToHtml(escapeHtml(part.value));
+        let val = markdownBoldToHtml(markdownLinksAndImagesToHtml(escapeHtml(part.value)));
         if (part.added) return `<span class="diff-added">${val}</span>`;
         if (part.removed) return `<span class="diff-removed">${val}</span>`;
         return `<span>${val}</span>`;
@@ -218,4 +218,9 @@ function markdownLinksAndImagesToHtml(markdown) {
         }
     );
     return result;
+}
+
+function markdownBoldToHtml(text) {
+    return text.replace(/\*\*(.*?)\*\*/g, '<strong style="font-size: larger">$1</strong>')
+        .replace(/__(.*?)__/g, '<strong>$1</strong>');
 }
