@@ -3,50 +3,64 @@ set -e
 
 DIST="dist"
 
-# Start from a clean output directory
 rm -rf "$DIST"
 mkdir -p "$DIST"
 
-declare -A versions
+# Temp files to accumulate JSON objects
+SCHED_JSON_TMP="$DIST/.tmp_versions_schedule.jsonl"
+SCHED_EN_JSON_TMP="$DIST/.tmp_versions_schedule_en.jsonl"
+: > "$SCHED_JSON_TMP"
+: > "$SCHED_EN_JSON_TMP"
 
 for FILE in schedule.md schedule_en.md; do
   BASE_NAME="${FILE%.md}"
-  versions[$BASE_NAME]=""
 
-  # Get LATEST 30 commits that touched this file
+  # Latest 30 commits touching this file
   git log --follow --format="%ad|||%h|||%s" \
-    --date=format:%Y%m%d-%H%M --max-count=30 "$FILE" 2>/dev/null | \
+    --date=format:%Y-%m-%dT%H:%M:%S --max-count=30 "$FILE" 2>/dev/null | \
   while IFS='|||' read -r date commit subject; do
     [ -z "$date" ] && continue
 
-    # Checkout this version of the file
     git checkout "$commit" -- "$FILE"
 
-    VERSION_NAME="${BASE_NAME}-v${date}-${commit:0:7}.md"
+    SHORT_SHA="${commit:0:7}"
+    VERSION_NAME="${BASE_NAME}-v${date//[:T-]/}${SHORT_SHA}.md"
 
-    # Copy raw markdown as-is
     cp "$FILE" "$DIST/$VERSION_NAME"
 
-    # Append to versions list (in shell variable file, not subshell)
-    echo "$VERSION_NAME" >> "$DIST/.tmp_versions_${BASE_NAME}"
+    # Escape quotes in commit message
+    ESC_SUBJECT=${subject//\"/\\\"}
+
+    JSON_OBJ="{\"filename\":\"$VERSION_NAME\",\"date\":\"$date\",\"commit\":\"$SHORT_SHA\",\"message\":\"$ESC_SUBJECT\"}"
+
+    if [ "$BASE_NAME" = "schedule" ]; then
+      echo "$JSON_OBJ" >> "$SCHED_JSON_TMP"
+    else
+      echo "$JSON_OBJ" >> "$SCHED_EN_JSON_TMP"
+    fi
 
     echo "Created: $VERSION_NAME"
   done
 done
 
-# Build JSON files from temp lists
-for BASE_NAME in schedule schedule_en; do
-  TMP_FILE="$DIST/.tmp_versions_${BASE_NAME}"
-  if [ -f "$TMP_FILE" ]; then
-    # Newest first already because git log outputs newest → oldest
-    VERSIONS_LIST=$(paste -sd',' "$TMP_FILE")
-    echo "[\"${VERSIONS_LIST//,/\",\"}\"]" > "$DIST/versions_${BASE_NAME}.json"
-    rm "$TMP_FILE"
-    echo "Created: versions_${BASE_NAME}.json"
+# Helper: convert JSONL → JSON array
+jsonl_to_array() {
+  local file="$1"
+  if [ -s "$file" ]; then
+    {
+      echo "["
+      paste -sd',' "$file"
+      echo "]"
+    }
   else
-    echo "[]">"$DIST/versions_${BASE_NAME}.json"
-    echo "Created empty: versions_${BASE_NAME}.json"
+    echo "[]"
   fi
-done
+}
+
+# Build final JSONs
+jsonl_to_array "$SCHED_JSON_TMP"    > "$DIST/versions_schedule.json"
+jsonl_to_array "$SCHED_EN_JSON_TMP" > "$DIST/versions_schedule_en.json"
+
+rm -f "$SCHED_JSON_TMP" "$SCHED_EN_JSON_TMP"
 
 echo "Done. Latest versions written to: $DIST/"
