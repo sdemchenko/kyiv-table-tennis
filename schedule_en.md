@@ -120,7 +120,7 @@
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 12:00, December 21. "Pulse". 0-100 Unranked Tournament. Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
-  * December 21: 0-55.5
+  * December 21: 0-100
 * 14:00. "Gourmet". 0-15 Ranked Tournament.
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
