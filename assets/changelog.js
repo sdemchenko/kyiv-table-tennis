@@ -177,6 +177,11 @@ function showDiffOverlay(diffHtml) {
                     }
                 }
             ],
+            open: function () {
+                const $content = $(this).find('.diff-overlay-content');
+                $content.scrollTop(0);
+                $content.scrollLeft(0);
+            },
             close: function () {
                 $(window).off('resize.diffdlg');
             }
@@ -189,7 +194,7 @@ function showDiffOverlay(diffHtml) {
         $dlg.dialog('option', {
             width: Math.min(Math.max(320, w - 32), bodyMaxWidth),
             height: Math.min(Math.max(300, h - 32), 800),
-            position: {my: "center", at: "center", of: window}
+            position: {my: "center", at: "center", of: window},
         });
     });
 }
