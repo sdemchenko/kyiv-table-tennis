@@ -37,7 +37,9 @@
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
 * 18:30. "Podacha#9". 0-40 Ranked Tournament. Prior registration is mandatory.
+* 18:30, December 24. "Volia". 0-50 New Year Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
+  * December 24: ❌
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
@@ -52,6 +54,7 @@
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Volia". 0-40 Ranked Tournament.
+  * December 25: ❌
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-40 Unranked Tournament.
