@@ -181,6 +181,14 @@ function showDiffOverlay(diffHtml) {
                 const $content = $(this).find('.diff-overlay-content');
                 $content.scrollTop(0);
                 $content.scrollLeft(0);
+
+                const $firstDiff = $content.find('span.diff-added, span.diff-removed').first();
+                if ($firstDiff.length > 0) {
+                    $firstDiff[0].scrollIntoView({
+                        block: 'center',  // Vertical center
+                        behavior: 'smooth' // Optional smooth scroll
+                    });
+                }
             },
             close: function () {
                 $(window).off('resize.diffdlg');
