@@ -119,6 +119,7 @@
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
+* 17:00, December 28. "Podacha#9". New Year Club Cup. Prior registration is mandatory. [Details](https://t.me/PODACHA_9/61).
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
