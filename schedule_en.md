@@ -37,7 +37,7 @@
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:10. "Himars". 0-50 Ranked Tournament.
 * 18:30. "Podacha#9". 0-40 Ranked Tournament. Prior registration is mandatory.
-* 18:30, December 24. "Volia". 0-50 New Year Ranked Tournament.
+* 18:30, December 24. "Volia". 0-35 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
   * December 24: ❌
 * 18:45 - 22:00. "KUTT". Ladder.
