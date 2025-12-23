@@ -36,7 +36,7 @@
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:10. "Himars". 0-50 Ranked Tournament.
-* 18:30. "Podacha#9". 0-40 Ranked Tournament. Prior registration is mandatory.
+* 18:30. "Podacha#9". 0-10 Ranked Tournament. Prior registration is mandatory.
 * 18:30, December 24. "Volia". 0-35 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
   * December 24: ❌
@@ -91,6 +91,7 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 14:00. "Gourmet". 0-25 Ranked Tournament.
+* 14:00. "Podacha#9". 0-25 Ranked Tournament. Prior registration is mandatory.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
