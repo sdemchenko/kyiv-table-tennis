@@ -34,7 +34,7 @@
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
-* 18:10. "Himars". 0-45 Ranked Tournament.
+* 18:10. "Himars". 0-50 Ranked Tournament.
 * 18:30. "Podacha#9". 0-40 Ranked Tournament. Prior registration is mandatory.
 * 18:30, December 24. "Volia". 0-50 New Year Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
