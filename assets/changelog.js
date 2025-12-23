@@ -184,10 +184,12 @@ function showDiffOverlay(diffHtml) {
 
                 const $firstDiff = $content.find('span.diff-added, span.diff-removed').first();
                 if ($firstDiff.length > 0) {
-                    $firstDiff[0].scrollIntoView({
-                        block: 'center',  // Vertical center
-                        behavior: 'smooth' // Optional smooth scroll
-                    });
+                    const contentHeight = $content[0].clientHeight;
+                    const elementTop = $firstDiff[0].offsetTop;
+                    const elementHeight = $firstDiff[0].offsetHeight;
+                    // Center the element vertically in the container
+                    let scrollTop = Math.max(0, elementTop - (contentHeight / 2) + (elementHeight / 2));
+                    $content.animate({ scrollTop: scrollTop }, 400);
                 }
             },
             close: function () {
