@@ -116,6 +116,7 @@
   * December 28: Children's Tournament; [details](assets/temp/2025-12-28.jpeg).
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
+* 12:00, December 28. "Pulse". Final festive Unranked Tournament "Pulse 2025". Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
   * December 28: ❌
 * 14:00. "Gourmet". 0-15 Ranked Tournament.
