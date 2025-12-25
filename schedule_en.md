@@ -115,7 +115,7 @@
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking. [Regulations](https://docs.google.com/document/d/194IXfI6-9btmFhJQkRdbb_1qweSJc8kV_WCelirtOTQ/edit?tab=t.0).
 * 11:00. "Podacha#9". 0-10 Ranked Tournament. Prior registration is mandatory.
-  * December 28: Children's Tournament; [details](assets/temp/2025-12-28.jpeg).
+  * December 28: ❌
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 12:00, December 28. "Pulse". Final festive Unranked Tournament "Pulse 2025". Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
