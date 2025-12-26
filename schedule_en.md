@@ -80,7 +80,6 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up". 0-25 Ranked Tournament. Prior registration is mandatory.
-* 09:00. "Pokolinnia". Unranked Tournament for players without UTTF ranking.
 * 09:00 - 11:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
@@ -89,6 +88,7 @@
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". 0-15 Ranked Tournament. Prior registration is mandatory.
+* 11:00. "Pokolinnia". 0-40.0 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
@@ -117,6 +117,7 @@
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking. [Regulations](https://docs.google.com/document/d/194IXfI6-9btmFhJQkRdbb_1qweSJc8kV_WCelirtOTQ/edit?tab=t.0).
 * 11:00. "Podacha#9". 0-10 Ranked Tournament. Prior registration is mandatory.
   * December 28: ❌
+* 11:00. "Pokolinnia". 0-10.0 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 12:00, December 28. "Pulse". Final festive Unranked Tournament "Pulse 2025". Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
