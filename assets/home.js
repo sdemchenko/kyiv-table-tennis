@@ -35,8 +35,9 @@ function fetchSchedule() {
             const $parsed = $('<div>').html(html);
             $parsed.find('[style=""]').removeAttr('style');
             insertTournamentMarkers($parsed);
+            const finalHtml = wrapTimes($parsed.html());
 
-            $('#scheduleContainer').html($parsed.html());
+            $('#scheduleContainer').html(finalHtml);
             
             makeClubNamesInTheScheduleClicky();
             updateTournamentsVisibility();
@@ -92,6 +93,11 @@ function insertTournamentMarkers(schedule) {
     insertGlyphs(schedule, unranked, true, 'unranked');
     insertGlyphs(schedule, unranked, true, 'нерейтингов');
     insertGlyphs(schedule, unranked, false, '🏅');
+}
+
+function wrapTimes(htmlString) {
+    // Matches times like 8:30, 12:45, 23:59 (word boundaries prevent partial matches)
+    return htmlString.replace(/\b(?:[0-1]?[0-9]|2[0-3]):[0-5][0-9]\b/g, '<span class="time-highlight">$&</span>');
 }
 
 function configureBackToTopButton() {

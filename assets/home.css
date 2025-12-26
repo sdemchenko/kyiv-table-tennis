@@ -237,6 +237,10 @@ span.diff-added {
     padding-left: 1em;
 }
 
+#scheduleContainer .time-highlight {
+    font-variant-numeric: tabular-nums;
+}
+
 /* Glyph for ranked tournaments in the schedule. */
 i.ranked {
     font-size: 0.85rem;
