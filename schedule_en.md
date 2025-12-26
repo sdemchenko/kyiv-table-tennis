@@ -23,7 +23,6 @@
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * December 23: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Ranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
@@ -37,11 +36,8 @@
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:10. "Himars". 0-50 Ranked Tournament.
 * 18:30. "Podacha#9". 0-10 Ranked Tournament. Prior registration is mandatory.
-* 18:30, December 24. "Volia". 0-35 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
-  * December 24: ❌
 * 18:45 - 22:00. "KUTT". Ladder.
-  * December 24: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
@@ -55,7 +51,6 @@
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Volia". 0-40 Ranked Tournament.
-  * December 25: ❌
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-40 Unranked Tournament.
@@ -64,7 +59,6 @@
 <h3 id="friday">Friday</h3>
 
 * 11:00 - 15:00. "Orion". Ladder.
-* 14:00, December 26. "Leader (RC)". Unranked Tournament "Lider Cup Kids". [Prior registration](https://forms.gle/NsPXtvMbpD5kRMXc7) is mandatory.
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
@@ -73,7 +67,6 @@
 * 18:00. "Quiks". 0-5 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * December 26: 17:00 - 20:30
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
 
