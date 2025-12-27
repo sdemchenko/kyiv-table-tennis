@@ -85,20 +85,16 @@
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-  * December 27: 0-25 Ranked Tournament.
 * 14:00. "Gourmet". 0-25 Ranked Tournament.
 * 14:00. "Podacha#9". 0-25 Ranked Tournament. Prior registration is mandatory.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, December 27. "Leader (RC)". 0-10 Unranked Tournament "Lider Cup".
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
-  * December 27: ❌
 * 18:45 - 22:00. "KUTT". Ladder.
-  * December 27: ❌
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 
 <h3 id="sunday">Sunday</h3>
