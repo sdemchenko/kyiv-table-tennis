@@ -103,26 +103,21 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-30 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * December 28: 0-100 Ranked Tournament "[Joola Open](assets/temp/joola-open.jpeg)".
   * January 4: Children's Tournament "[Joola Kids](assets/temp/joola-kids.jpeg)". 2011 y.o.b. and younger.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking. [Regulations](https://docs.google.com/document/d/194IXfI6-9btmFhJQkRdbb_1qweSJc8kV_WCelirtOTQ/edit?tab=t.0).
 * 11:00. "Podacha#9". 0-10 Ranked Tournament. Prior registration is mandatory.
-  * December 28: ❌
 * 11:00. "Pokolinnia". 0-10.0 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 12:00, December 28. "Pulse". Final festive Unranked Tournament "Pulse 2025". Prizes – gift certificates from the sponsor - [TT Future](https://prom.ua/c3754181-future-tovary-dlya.html).
 * 13:00. "Raketka". Ranked Tournament.
-  * December 28: ❌
   * January 4: Children's Tournament "[Joola Kids](assets/temp/joola-kids.jpeg)". 2013 y.o.b. and younger.
 * 14:00. "Gourmet". 0-10 Ranked Tournament.
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
-* 17:00, December 28. "Podacha#9". New Year Club Cup. Prior registration is mandatory. [Details](https://t.me/PODACHA_9/61).
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
