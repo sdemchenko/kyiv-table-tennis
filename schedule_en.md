@@ -54,6 +54,7 @@
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Volia". 0-40 Ranked Tournament.
+  * January 1: the tournament will start at 16:00.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-40 Unranked Tournament.
