@@ -31,9 +31,11 @@
 
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:00. "Gourmet". Ladder.
+* 17:00, December 31. "Quiks". New Year Tournament with surprises from the club. Prior registration is mandatory.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
+  * December 31: ❌
 * 18:10. "Himars". 0-50 Ranked Tournament.
 * 18:30. "Podacha#9". 0-10 Ranked Tournament. Prior registration is mandatory.
 * 18:30 - 22:30. "Volia". Ladder.
