@@ -30,6 +30,7 @@
 
 <h3 id="wednesday">Wednesday</h3>
 
+* 10:00, December 31. "Orion". 0-25 Unranked Tournament.
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00, December 31. "Quiks". New Year Tournament with surprises from the club. Prior registration is mandatory.
@@ -95,7 +96,7 @@
 * 14:00. "Podacha#9". 0-25 Ranked Tournament. Prior registration is mandatory.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranked Tournament.
-* 15:00. "Orion". 0-50 Ranked Tournament.
+* 15:00. "Orion". Doubles Unranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
