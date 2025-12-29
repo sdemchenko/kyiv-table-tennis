@@ -20,6 +20,7 @@
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
+* 18:00, December 30. "Quiks". 0-15 Ranked Tournament.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
