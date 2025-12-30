@@ -30,9 +30,10 @@
 
 <h3 id="wednesday">Wednesday</h3>
 
-* 10:00, December 31. "Orion". 0-25 Unranked Tournament.
+* 10:30, December 31. "Orion". 0-25 Unranked Tournament.
 * 11:00, December 31. "Himars". 0-45 New Year Ranked Tournament.
 * 11:00 - 15:00. "Orion". Ladder.
+  * December 31: ❌
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00, December 31. "Quiks". New Year Tournament with surprises from the club. Prior registration is mandatory.
 * 17:30 - 20:00. "Pechersk". Ladder.
