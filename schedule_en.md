@@ -44,6 +44,7 @@
 * 18:10. "Himars". 0-50 Ranked Tournament.
   * December 31: ❌
 * 18:30. "Podacha#9". 0-10 Ranked Tournament. Prior registration is mandatory.
+  * December 31: ❌
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
