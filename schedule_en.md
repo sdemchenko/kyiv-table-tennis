@@ -36,6 +36,7 @@
   * December 31: ❌
 * 16:00, December 31. "Quiks". New Year Tournament with a surpris for the winner. Prior registration is mandatory.
 * 17:00 - 19:00. "Gourmet". Ladder.
+  * December 31: the ladder will start at 13:00.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
