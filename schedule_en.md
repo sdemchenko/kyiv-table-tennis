@@ -20,7 +20,6 @@
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
-* 18:00, December 30. "Quiks". 0-15 Ranked Tournament.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
@@ -30,43 +29,31 @@
 
 <h3 id="wednesday">Wednesday</h3>
 
-* 10:30, December 31. "Orion". 0-25 Unranked Tournament.
-* 11:00, December 31. "Himars". 0-45 New Year Ranked Tournament.
 * 11:00 - 15:00. "Orion". Ladder.
-  * December 31: ❌
-* 16:00, December 31. "Quiks". New Year Tournament with a surpris for the winner. Prior registration is mandatory.
 * 17:00 - 19:00. "Gourmet". Ladder.
-  * December 31: the ladder will start at 13:00.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
-  * December 31: ❌
 * 18:10. "Himars". 0-50 Ranked Tournament.
-  * December 31: ❌
 * 18:30. "Podacha#9". 0-10 Ranked Tournament. Prior registration is mandatory.
-  * December 31: ❌
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament.
-  * December 31: ❌
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 * 20:00 - 22:00. "TviY tennis". 0-30 Unranked Tournament. Prior registration is mandatory.
 
 <h3 id="thursday">Thursday</h3>
 
 * 11:00 - 15:00. "Orion". Ladder.
-  * January 1: ❌
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Volia". 0-40 Ranked Tournament.
-  * January 1: the tournament will start at 16:00, but it might be cancelled due to lack of entries.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-40 Unranked Tournament.
-  * January 1: ❌
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 
 <h3 id="friday">Friday</h3>
