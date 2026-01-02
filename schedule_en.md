@@ -81,7 +81,6 @@
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
-* 11:00. "Pokolinnia". 0-40.0 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
@@ -107,7 +106,6 @@
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking. [Regulations](https://docs.google.com/document/d/194IXfI6-9btmFhJQkRdbb_1qweSJc8kV_WCelirtOTQ/edit?tab=t.0).
-* 11:00. "Pokolinnia". 0-10.0 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 13:00. "Raketka". Ranked Tournament.
