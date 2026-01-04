@@ -257,6 +257,11 @@ span.diff-added {
     font-variant-numeric: tabular-nums;
 }
 
+#scheduleContainer .range {
+    white-space: nowrap;
+    font-weight: bold;
+}
+
 /* Glyph for ranked tournaments in the schedule. */
 i.ranked {
     font-size: 0.85rem;

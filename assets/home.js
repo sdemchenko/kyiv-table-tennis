@@ -40,6 +40,7 @@ function fetchSchedule() {
             $('#scheduleContainer').html(finalHtml);
             
             makeClubNamesInTheScheduleClicky();
+            wrapLimits($('#scheduleContainer'));
             updateTournamentsVisibility();
             updateOtherCompetitionsVisibility();
             $('#schedule_error').hide();
@@ -98,6 +99,20 @@ function insertTournamentMarkers(schedule) {
 function wrapTimes(htmlString) {
     // Matches times like 8:30, 12:45, 23:59 (word boundaries prevent partial matches)
     return htmlString.replace(/\b(?:[0-1]?[0-9]|2[0-3]):[0-5][0-9]\b/g, '<span class="time-highlight">$&</span>');
+}
+
+function wrapLimits($node) {
+    $node.contents().each(function() {
+        if (this.nodeType === Node.TEXT_NODE) {
+            let text = this.textContent;
+            let newHtml = text.replace(/(\d+(?:\.\d+)?-\d+(?:\.\d+)?)/g, '<span class="range">$1</span>');
+            if (newHtml !== text) {
+                $(this).replaceWith(newHtml);
+            }
+        } else if (this.nodeType === Node.ELEMENT_NODE) {
+            wrapLimits($(this));
+        }
+    });
 }
 
 function configureBackToTopButton() {
