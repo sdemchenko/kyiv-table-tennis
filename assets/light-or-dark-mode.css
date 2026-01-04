@@ -8,6 +8,7 @@
     --a-fg-color: #1D84C6;
     --table-bg-color: #FFFFFF;
     --table-border-color: #e0e0e0;
+    --high-contrast-text-color: #000000;
     --box-shadow-color: rgba(0, 0, 0, 0.3);
     --ranked-tournament-color: orange;
     --unranked-tournament-opacity: 0.5;
@@ -33,6 +34,7 @@
     --a-fg-color: #6e9fff;
     --table-bg-color: #2C3034;
     --table-border-color: #505050;
+    --high-contrast-text-color: #FFFFFF;
     --box-shadow-color: rgba(255, 255, 255, 0.3);
     --ranked-tournament-color: goldenrod;
     --unranked-tournament-opacity: 0.9;

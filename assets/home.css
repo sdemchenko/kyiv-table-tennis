@@ -260,6 +260,7 @@ span.diff-added {
 #scheduleContainer .range {
     white-space: nowrap;
     font-weight: bold;
+    color: var(--high-contrast-text-color);
 }
 
 /* Glyph for ranked tournaments in the schedule. */
