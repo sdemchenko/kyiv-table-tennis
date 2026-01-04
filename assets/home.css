@@ -229,12 +229,25 @@ span.diff-added {
 }
 /* END DIFF DIALOG */
 
-#scheduleContainer ul li {
-    padding-bottom: 0.2em;
+#scheduleContainer > ul {
+    list-style: none;
+    padding-left: 0;
 }
 
-#scheduleContainer ul {
+#scheduleContainer > ul > li {
+    padding-bottom: 0.2em;
+    padding-left: 1.5rem;
+    text-indent: -1.5rem;  /* Matches padding-left value */
+}
+
+#scheduleContainer ul li ul li  {
+    padding-bottom: 0.2em;
+    text-indent: 0;
+}
+
+#scheduleContainer li ul {
     padding-left: 1em;
+    list-style: initial;
 }
 
 #scheduleContainer .time-highlight {

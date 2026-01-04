@@ -113,7 +113,8 @@ function cleanUpMarkup(md) {
     return md
         .replace(/^\[\/\/].*\n?/gm, '\n')   // Remove comments from Markdown content (lines starting with '[//]')
         .replace(/^(\s*\n)+/, '')           // Remove empty lines at the beginning of the file
-        .replace(/[*]/g, '•')               // Bullets instead of asterisks
+        // .replace(/[*]/g, '•')               // Bullets instead of asterisks
+        .replace(/[*] /g, '')               // Do not indent list items
         .replace(/<h3[^>]*>([^<]+)<\/h3>/g, (_, text) => '**' + text + '**'); // Day of the week
 }
 
