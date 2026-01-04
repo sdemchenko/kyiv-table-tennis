@@ -74,7 +74,6 @@
 
 * 08:00. "Spin Up". 0-25 Ranked Tournament. Prior registration is mandatory.
 * 09:00 - 11:00. "TviY tennis". 0-10 Unranked Tournament. Prior registration is mandatory.
-  * January 3: ❌
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
@@ -94,7 +93,6 @@
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * January 3: ❌
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 
 <h3 id="sunday">Sunday</h3>
@@ -104,7 +102,6 @@
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00. "Podacha#9". 0-20 Ranked Tournament. Minimum 6 participants. [Fixed prizes](https://t.me/PODACHA_9/69). Prior registration is mandatory.
 * 10:00. "Raketka". Ranked Tournament.
-  * January 4: Children's Tournament "[Joola Kids](assets/temp/joola-kids.jpeg)". 2011 y.o.b. and younger.
   * January 11: 0-25 Tournament "Joola Open" for all ages for Joola prizes.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
@@ -112,13 +109,11 @@
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 13:00. "Raketka". Ranked Tournament.
-  * January 4: Children's Tournament "[Joola Kids](assets/temp/joola-kids.jpeg)". 2013 y.o.b. and younger.
 * 14:00. "Gourmet". 0-15 Ranked Tournament.
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
-* 15:00, January 4. "Volia". 0-25 Ranked Tournament.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
