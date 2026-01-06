@@ -267,7 +267,7 @@ span.diff-added {
 .br-narrow-screen {
     display: none;
 }
-@media (max-width: 450px) {
+@media (max-width: 360px) {
     .br-narrow-screen {
         display: block;
     }
