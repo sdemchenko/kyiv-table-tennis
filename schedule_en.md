@@ -35,7 +35,7 @@
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
-* 18:10. "Himars". 0-50 Ranked Tournament.
+* 18:10. "Himars". 0-45 Ranked Tournament.
 * 18:30. "Volia". 0-35 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
