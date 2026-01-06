@@ -24,6 +24,7 @@
 * 18:30. "Podacha#9". 0-15 Ranked Tournament. Minimum 6 participants. [Fixed prizes](https://t.me/PODACHA_9/69). Prior registration is mandatory.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
+  * January 6: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Ranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
