@@ -29,15 +29,18 @@ function fetchSchedule() {
             // Markdown with HTML support
             const md = window.markdownit({html: true});
 
+            data = data.split('\n')
+                .map(line => { // On narrow screens, show time and place on one line, and event description on the next.
+                    return line.replace(/(^[*][^.]+[.][^.]+[.])/gm, '$1<br class="br-narrow-screen">')
+                }).join('\n');
+
             const html = md.render(data);
 
             // Minor prettification
             const $parsed = $('<div>').html(html);
             $parsed.find('[style=""]').removeAttr('style');
-            insertTournamentMarkers($parsed);
-            const finalHtml = wrapTimes($parsed.html());
 
-            $('#scheduleContainer').html(finalHtml);
+            $('#scheduleContainer').html($parsed.html());
             
             makeClubNamesInTheScheduleClicky();
             wrapLimits($('#scheduleContainer'));
@@ -67,45 +70,12 @@ function getCacheKey(ttlMs = 1000 * 60) {
     return Math.floor(Date.now() / ttlMs);
 }
 
-function insertTournamentMarkers(schedule) {
-    
-    function insertGlyphs(schedule, glyph, keepFoundText, textToFindOrReplace) {
-        const escapedWord = textToFindOrReplace.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape regex metacharacters
-        const regex = new RegExp(`(^|[^\\p{L}-])(${escapedWord})`, 'iu'); // Unicode-aware boundary
-
-        schedule.contents().each(function processNode() {
-            if (this.nodeType === Node.TEXT_NODE && this.nodeValue.trim() !== '') {
-                const replaced = this.nodeValue.replace(regex, glyph + (keepFoundText ? '$2' : ''));
-                if (replaced !== this.nodeValue) {
-                    $(this).replaceWith(replaced);
-                }
-            } else if (this.nodeType === Node.ELEMENT_NODE) {
-                $(this).contents().each(processNode);
-            }
-        })
-    }
-    
-    const ranked = ' <i class="fas fa-trophy ranked"></i>';
-    insertGlyphs(schedule, ranked, true, 'ranked');
-    insertGlyphs(schedule, ranked, true, 'рейтингов');
-    insertGlyphs(schedule, ranked, false, '🏆');
-
-    const unranked = ' <i class="fas fa-trophy unranked"></i>';
-    insertGlyphs(schedule, unranked, true, 'unranked');
-    insertGlyphs(schedule, unranked, true, 'нерейтингов');
-    insertGlyphs(schedule, unranked, false, '🏅');
-}
-
-function wrapTimes(htmlString) {
-    // Matches times like 8:30, 12:45, 23:59 (word boundaries prevent partial matches)
-    return htmlString.replace(/\b(?:[0-1]?[0-9]|2[0-3]):[0-5][0-9]\b/g, '<span class="time-highlight">$&</span>');
-}
-
 function wrapLimits($node) {
     $node.contents().each(function() {
         if (this.nodeType === Node.TEXT_NODE) {
             let text = this.textContent;
-            let newHtml = text.replace(/(\d+(?:\.\d+)?-\d+(?:\.\d+)?)/g, '<span class="range">$1</span>');
+            // If neither preceded nor followed by a word character or semicolon, then it can be tournament limits.
+            let newHtml = text.replace(/(?<!:|\w)(\d+(?:\.\d+)?-\d+(?:\.\d+)?)(?!:|\w)/g, '<span class="range">$1</span>');
             if (newHtml !== text) {
                 $(this).replaceWith(newHtml);
             }

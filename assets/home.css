@@ -235,9 +235,10 @@ span.diff-added {
 }
 
 #scheduleContainer > ul > li {
+    padding-top: 0.2em;
     padding-bottom: 0.2em;
-    padding-left: 3.5em;
-    text-indent: -3.5em;  /* Matches padding-left value */
+    padding-left: 1.5em;
+    text-indent: -1.5em;  /* Matches padding-left value */
 }
 
 #scheduleContainer ul li ul li  {
@@ -261,6 +262,15 @@ span.diff-added {
     white-space: nowrap;
     font-weight: bold;
     color: var(--high-contrast-text-color);
+}
+
+.br-narrow-screen {
+    display: none;
+}
+@media (max-width: 450px) {
+    .br-narrow-screen {
+        display: block;
+    }
 }
 
 /* Glyph for ranked tournaments in the schedule. */
