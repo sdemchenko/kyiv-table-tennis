@@ -87,6 +87,7 @@
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 14:00. "Gourmet". 0-25 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
+* 15:00, January 10. "Leader (RC)". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". Doubles Unranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
