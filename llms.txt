@@ -1,0 +1,51 @@
+# Kyiv Table Tennis Guide
+
+> Community resource for table tennis players in Kyiv, Ukraine. Lists clubs, outdoor courts, and weekly competition schedules.
+
+Website: https://tabletennis.kyiv.ua/
+Languages: Ukrainian (index.html), English (index_en.html)
+
+## Content Stability
+
+Stable (changes rarely):
+- Club listings: names, addresses, phone numbers, amenities, table counts
+- Outdoor court locations
+- Weekly recurring schedule: regular club hours, ladder games, practice groups
+- Tournament types and their typical time slots
+
+Changes weekly or seasonally:
+- News section
+- Specific cancellations (marked with ❌)
+- One-off tournament dates
+
+## Schedule Structure
+
+The schedule is organized by day of the week (Monday-Sunday). Each entry follows this format:
+- Time. "Club Name". Event type. [Optional notes]
+
+Event types:
+- "Гра на столи" / "Ladder games" - Informal play where players rotate tables based on wins
+- "Ігрова група" / "Practice group" - Regular practice sessions for a fixed group
+- "Рейтинговий турнір X-Y" / "Ranked tournament X-Y" - Official tournament affecting UTTF rating, for players rated X to Y
+- "Нерейтинговий турнір X-Y" / "Unranked tournament X-Y" - Casual tournament, no rating impact
+
+Rating ranges (e.g., 0-25, 0-100) indicate which players can participate based on their UTTF (Ukrainian Table Tennis Federation) rating.
+
+## Major Clubs
+
+Orion - Largest club, 16 tables, multiple daily events, video streaming
+Himars - 8 tables, air conditioning, backup power, bomb shelter
+Воля (Volia) - Regular tournaments and ladder games
+KUTT - 3 tables, daily evening sessions 18:30-22:00
+Quiks - Multiple ranked tournaments weekly
+Podacha#9 - 5 tables, ranked tournaments with stable prizes
+
+## Outdoor Courts
+
+The site lists public outdoor table tennis courts across Kyiv with locations and photos. Most are in parks: Hydropark, Holosiivskyi Park, Victory Park (Park Peremoha).
+
+## Useful External Links
+
+- UTTF (Ukrainian Table Tennis Federation): https://www.uttf.com.ua/
+- UTTF Player Rankings: https://www.uttf.com.ua/ranking
+- Kyiv Table Tennis Map: https://www.google.com/maps/d/viewer?mid=13bpRNOQsdPBN7sjaGY6R7au66wjfH6ty
