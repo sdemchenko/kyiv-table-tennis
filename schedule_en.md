@@ -24,7 +24,6 @@
 * 18:30. "Podacha#9". 0-15 Ranked Tournament. Minimum 6 participants. [Fixed prizes](https://t.me/PODACHA_9/69). Prior registration is mandatory.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * January 6: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Ranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
@@ -50,7 +49,6 @@
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
-* 18:15, January 8. "Sports School #21". 0-100 Unranked Tournament.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
@@ -105,15 +103,13 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00. "Podacha#9". 0-20 Ranked Tournament. Minimum 6 participants. [Fixed prizes](https://t.me/PODACHA_9/69). Prior registration is mandatory.
-* 10:00. "Raketka". Ranked Tournament.
-  * January 11: 0-25 Tournament "Joola Open" for all ages for Joola prizes.
+* 10:00. "Raketka". 0-25 Ranked Tournament "Joola Open" for all ages for Joola prizes.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking. [Regulations](https://docs.google.com/document/d/194IXfI6-9btmFhJQkRdbb_1qweSJc8kV_WCelirtOTQ/edit?tab=t.0).
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Pokolinnia". 0-10.0 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 13:00. "Raketka". Ranked Tournament.
 * 14:00. "Gourmet". 0-15 Ranked Tournament.
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
