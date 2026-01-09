@@ -44,6 +44,7 @@ function fetchSchedule() {
             $('#scheduleContainer').html($parsed.html());
 
             makeClubNamesInTheScheduleClicky();
+            highlightToday();
             updateTournamentsVisibility();
             updateOtherCompetitionsVisibility();
             $('#schedule_error').hide();
@@ -140,6 +141,22 @@ function updateOtherCompetitionsVisibility() {
 function isTournament($item) {
     const tournamentKeywords = ['tournament', 'турнір', 'кубок', 'чемпіонат', 'championship'];
     return $item.find('i.ranked').length > 0 || $item.find('i.unranked').length > 0 || tournamentKeywords.some(word => $item.text().toLowerCase().includes(word));
+}
+
+function highlightToday() {
+    const dayIds = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
+    const todayId = dayIds[new Date().getDay()];
+    $('#scheduleContainer h3').each(function () {
+        const $h3 = $(this);
+        const $ul = $h3.next('ul');
+        if (this.id === todayId) {
+            $h3.addClass('today');
+            $ul.addClass('today');
+        } else {
+            $h3.removeClass('today');
+            $ul.removeClass('today');
+        }
+    });
 }
 
 /**

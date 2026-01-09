@@ -234,6 +234,15 @@ span.diff-added {
     padding-left: 0;
 }
 
+#scheduleContainer h3.today {
+    color: var(--today-highlight);
+}
+
+#scheduleContainer ul.today {
+    border-left: 3px solid var(--today-highlight);
+    padding-left: 0.8rem;
+}
+
 #scheduleContainer > ul > li {
     padding-top: 0.2em;
     padding-bottom: 0.2em;

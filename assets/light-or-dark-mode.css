@@ -13,6 +13,7 @@
     --ranked-bg: rgb(255, 235, 210);
     --unranked-bg: #e0e0e0;
     --unranked-tournament-opacity: 0.5;
+    --today-highlight: #1D84C6;
     scrollbar-color: #c1c1c1 #fafafa;
 
     /*Variables for diff dialog*/
@@ -40,6 +41,7 @@
     --ranked-bg: rgb(138, 101,  8);
     --unranked-bg: #707070;
     --unranked-tournament-opacity: 0.9;
+    --today-highlight: #6e9fff;
     scrollbar-color: #757575 #2E2E2E;
 
     /*Variables for diff dialog*/
