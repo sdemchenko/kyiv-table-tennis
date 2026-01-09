@@ -234,8 +234,8 @@ span.diff-added {
     padding-left: 0;
 }
 
-#scheduleContainer h3.today {
-    color: var(--today-highlight);
+#scheduleContainer h3.today::before {
+    content: "▶ ";
 }
 
 #scheduleContainer ul.today {
