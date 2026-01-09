@@ -64,7 +64,6 @@
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Sports School #21". 0-100 Unranked Tournament.
-  * January 9: ❌
 * 18:00. "Quiks". 0-5 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
