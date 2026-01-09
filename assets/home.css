@@ -254,39 +254,26 @@ span.diff-added {
     list-style: initial;
 }
 
-#scheduleContainer .time-highlight {
-    font-variant-numeric: tabular-nums;
-}
-
-#scheduleContainer .range {
-    white-space: nowrap;
-    font-weight: bold;
-    color: var(--high-contrast-text-color);
-}
-
-.br-narrow-screen {
+.br-optional {
     display: none;
 }
 @media (max-width: 359px) {
-    .br-narrow-screen {
+    .br-optional {
         display: block;
     }
 }
 
-/* Glyph for ranked tournaments in the schedule. */
-i.ranked {
-    font-size: 0.85rem;
-    color: var(--ranked-tournament-color);
-    display: inline;
-    margin-right: 0.3em;
+span.ranked {
+    background-color: var(--ranked-bg);
+}
+span.unranked {
+    background-color: var(--unranked-bg);
 }
 
-/* Glyph for unranked tournaments in the schedule. */
-i.unranked {
-    font-size: 0.85rem;
-    opacity: var( --unranked-tournament-opacity);
-    display: inline;
-    margin-right: 0.3em;
+span.rankRange {
+    white-space: nowrap;
+    color: var(--high-contrast-text-color);
+    border-radius: 3px;
 }
 
 i.fa-cart-shopping {

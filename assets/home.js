@@ -31,19 +31,19 @@ function fetchSchedule() {
 
             data = data.split('\n')
                 .map(line => { // On narrow screens, show time and place on one line, and event description on the next.
-                    return line.replace(/(^[*][^.]+[.][^.]+[.])/gm, '$1<br class="br-narrow-screen">')
+                    return line.replace(/(^[*][^.]+[.][^.]+[.])/gm, '$1<br class="br-optional">')
                 }).join('\n');
 
             const html = md.render(data);
 
             // Minor prettification
             const $parsed = $('<div>').html(html);
+            insertTournamentMarkers($parsed);
             $parsed.find('[style=""]').removeAttr('style');
 
             $('#scheduleContainer').html($parsed.html());
-            
+
             makeClubNamesInTheScheduleClicky();
-            wrapLimits($('#scheduleContainer'));
             updateTournamentsVisibility();
             updateOtherCompetitionsVisibility();
             $('#schedule_error').hide();
@@ -70,19 +70,32 @@ function getCacheKey(ttlMs = 1000 * 60) {
     return Math.floor(Date.now() / ttlMs);
 }
 
-function wrapLimits($node) {
-    $node.contents().each(function() {
-        if (this.nodeType === Node.TEXT_NODE) {
-            let text = this.textContent;
-            // If neither preceded nor followed by a word character or semicolon, then it can be tournament limits.
-            let newHtml = text.replace(/(?<!:|\w)(\d+(?:\.\d+)?-\d+(?:\.\d+)?)(?!:|\w)/g, '<span class="range">$1</span>');
-            if (newHtml !== text) {
-                $(this).replaceWith(newHtml);
+function insertTournamentMarkers($schedule) {
+    colorizeRankRange($schedule, true, 'ranked');
+    colorizeRankRange($schedule, true, 'рейтингов');
+
+    colorizeRankRange($schedule, false, 'unranked');
+    colorizeRankRange($schedule, false, 'нерейтингов');
+}
+
+function colorizeRankRange($schedule, isRanked, adjective) {
+    const rankRange = '(?<!:|\\w)(\\d+(?:\\.\\d+)?-\\d+(?:\\.\\d+)?)(?!:|\\w)';
+    const regexUkrainian = new RegExp(`(?<![\\p{L}-])(${adjective}[\\p{L}]*)(?![\\p{L}])(.*?)${rankRange}`, 'iu');
+    const regexEnglish = new RegExp(`${rankRange}(.*?)(?<![\\p{L}-])(${adjective}[\\p{L}]*)(?![\\p{L}])`, 'iu');
+
+    $schedule.contents().each(function processNode() {
+        if (this.nodeType === Node.TEXT_NODE && this.nodeValue.trim() !== '') {
+            let spanClass = isRanked ? 'ranked rankRange' : 'unranked rankRange';
+            let replaced = isUkrainian()
+                ? this.nodeValue.replace(regexUkrainian, `$1$2<span class="${spanClass}">$3</span>`)
+                : this.nodeValue.replace(regexEnglish, `<span class="${spanClass}">$1</span>$2$3`);
+            if (replaced !== this.nodeValue) {
+                $(this).replaceWith(replaced);
             }
         } else if (this.nodeType === Node.ELEMENT_NODE) {
-            wrapLimits($(this));
+            $(this).contents().each(processNode);
         }
-    });
+    })
 }
 
 function configureBackToTopButton() {
@@ -280,4 +293,8 @@ function incrementCounter() {
             console.warn('Counter fetch failed silently:', err);
         });
     }
+}
+
+function isUkrainian() {
+    return document.documentElement.lang === 'uk';
 }

@@ -10,7 +10,8 @@
     --table-border-color: #e0e0e0;
     --high-contrast-text-color: #000000;
     --box-shadow-color: rgba(0, 0, 0, 0.3);
-    --ranked-tournament-color: orange;
+    --ranked-bg: rgb(255, 235, 210);
+    --unranked-bg: #e0e0e0;
     --unranked-tournament-opacity: 0.5;
     scrollbar-color: #c1c1c1 #fafafa;
 
@@ -36,7 +37,8 @@
     --table-border-color: #505050;
     --high-contrast-text-color: #FFFFFF;
     --box-shadow-color: rgba(255, 255, 255, 0.3);
-    --ranked-tournament-color: goldenrod;
+    --ranked-bg: rgb(138, 101,  8);
+    --unranked-bg: #707070;
     --unranked-tournament-opacity: 0.9;
     scrollbar-color: #757575 #2E2E2E;
 

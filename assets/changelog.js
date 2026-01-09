@@ -146,10 +146,6 @@ function fetchFileContent(sha, options = defaultOptions) {
         });
 }
 
-function isUkrainian() {
-    return document.documentElement.lang === 'uk';
-}
-
 function showDiffOverlay(diffHtml) {
     $('#diff-overlay-dialog').remove();
 
