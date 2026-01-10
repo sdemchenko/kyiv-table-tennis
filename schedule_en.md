@@ -100,7 +100,7 @@
 
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
-* 10:00. "Gourmet". 0-45 Ranked Tournament.
+* 10:00. "Gourmet". 0-30 Ranked Tournament.
 * 10:00. "Podacha#9". 0-20 Ranked Tournament. Minimum 6 participants. [Fixed prizes](https://t.me/PODACHA_9/69). Prior registration is mandatory.
 * 10:00. "Raketka". 0-25 Ranked Tournament "Joola Open" for all ages for Joola prizes.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
@@ -109,7 +109,7 @@
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Pokolinnia". 0-10.0 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 14:00. "Gourmet". 0-15 Ranked Tournament.
+* 14:00. "Gourmet". 0-10 Ranked Tournament.
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
