@@ -235,7 +235,7 @@ span.diff-added {
 }
 
 #scheduleContainer h3.today::before {
-    content: "▶ ";
+    content: "› ";
 }
 
 #scheduleContainer ul.today {
