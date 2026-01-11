@@ -49,7 +49,7 @@
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
-* 18:00, January 29. "Orion". An interactive show with two-time European vice-champion Margaryta Pesotska. [Details](https://t.me/chatorion/22805).
+* 18:00, January 29. "Orion". [An interactive show](https://t.me/chatorion/22805) with two-time European vice-champion Margaryta Pesotska.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
@@ -87,7 +87,6 @@
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 14:00. "Gourmet". 0-25 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, January 10. "Leader (RC)". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". Doubles Unranked Tournament for players without UTTF ranking.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
@@ -115,7 +114,6 @@
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
-* 17:00, January 11. "Volia". 0-25 Ranked Tournament.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
