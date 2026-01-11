@@ -13,10 +13,11 @@ Stable (changes rarely):
 - Weekly recurring schedule: regular club hours, ladder games, practice groups
 - Tournament types and their typical time slots
 
-Changes weekly or seasonally:
+Changes weekly or monthly:
 - News section
 - Specific cancellations (marked with ❌)
 - One-off tournament dates
+- Tournament rating ranges
 
 ## Schedule Structure
 
