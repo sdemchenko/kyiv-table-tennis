@@ -64,10 +64,11 @@ div#newsContainer > div {
     font-size: 0.8rem;
     font-style: italic;
     color: #888888;
-    margin-top: 20px;
-    margin-bottom: 0.3rem;
+    margin-top: 0.9rem;
+    margin-bottom: 0.2rem;
 }
-div#newsContainer div:nth-child(1) { margin-top: 0.2rem; }
+
+div#newsContainer > div:first-child { margin-top: 0.2rem; }
 
 details > summary {
     list-style: none;
