@@ -149,7 +149,7 @@ function fetchFileContent(sha, options = defaultOptions) {
 function showDiffOverlay(diffHtml) {
     $('#diff-overlay-dialog').remove();
 
-    const bodyMaxWidth = 860;
+    const bodyMaxWidth = 840;
     const viewportW = $(window).width();
     const viewportH = $(window).height();
     const dlgW = Math.min(Math.max(320, viewportW - 32), bodyMaxWidth);

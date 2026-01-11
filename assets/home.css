@@ -226,6 +226,9 @@ table#t_courts td:last-of-type { text-align:center; }
 
 /* START DIFF DIALOG */
 .ui-corner-all {border-radius: 0.3rem !important;}
+.ui-dialog .ui-dialog-content {
+    padding: 0.5rem;
+}
 pre a { color: var(--a-fg-color) !important; text-decoration: underline; cursor: pointer; }
 span.diff-removed {
     background-color: var(--diff-removed-bg);
