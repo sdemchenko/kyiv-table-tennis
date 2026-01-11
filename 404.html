@@ -1,33 +1,44 @@
----
-permalink: /404.html
----
-
-<style media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-  <p>
-    <strong>Сторінку не знайдено.</strong>
-    <br>
-    <a href="https://tabletennis.kyiv.ua/" hreflang="uk">Повернутися на головну сторінку</a>
-  </p>
-  <br>
-  <p>
-    <strong>Page not found</strong>
-    <br>
-    <a href="https://tabletennis.kyiv.ua/index_en.html" hreflang="en">Return to the main page</a>
-  </p>
-
-</div>
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 — Сторінку не знайдено</title>
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+    <link href="assets/light-or-dark-mode.css" rel="stylesheet">
+    <script src="assets/light-or-dark-mode.js"></script>
+    <style>
+        body {
+            font-family: var(--font-family-sans);
+            background: var(--page-bg-color);
+            color: var(--page-fg-color);
+        }
+        .container {
+            margin: 50px auto;
+            max-width: 600px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 4em;
+            margin: 30px 0;
+        }
+        a {
+            color: var(--a-fg-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>404</h1>
+        <p>
+            <strong>Сторінку не знайдено.</strong><br>
+            <a href="/" hreflang="uk">Повернутися на головну сторінку</a>
+        </p>
+        <br>
+        <p>
+            <strong>Page not found</strong><br>
+            <a href="/index_en.html" hreflang="en">Return to the main page</a>
+        </p>
+    </div>
+</body>
+</html>
