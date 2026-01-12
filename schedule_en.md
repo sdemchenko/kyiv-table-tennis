@@ -50,6 +50,7 @@
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00, January 29. "Orion". [An interactive show](https://t.me/chatorion/22805) with two-time European vice-champion Margaryta Pesotska.
+* 18:00. "Quiks". 0-100 Unranked Round Robin Tournament, everyone plays everyone in best‑of‑three matches.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
