@@ -45,7 +45,6 @@
 
 <h3 id="thursday">Thursday</h3>
 
-* 10:00, January 22. "Orion". All-Ukrainian Children's Tournament [Orion Kids Cup 2026](https://t.me/chatorion/22816) for the prizes of the club's friend and benefactor Loic Guyard.
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
@@ -103,6 +102,7 @@
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-30 Ranked Tournament.
+* 10:00, February 22. "Orion". All-Ukrainian Children's Tournament [Orion Kids Cup](https://t.me/chatorion/22816) for the prizes of the club's friend and benefactor Loic Guyard.
 * 10:00. "Podacha#9". 0-20 Ranked Tournament. Minimum 6 participants. [Fixed prizes](https://t.me/PODACHA_9/69). Prior registration is mandatory.
 * 10:00. "Raketka". 0-25 Ranked Tournament "Joola Open" for all ages for Joola prizes.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
