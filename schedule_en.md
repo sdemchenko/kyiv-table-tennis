@@ -107,7 +107,7 @@
 
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
-* 10:00. "Gourmet". 0-30 Ranked Tournament.
+* 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00, February 22. "Orion". All-Ukrainian Children's Tournament [Orion Kids Cup](https://t.me/chatorion/22816) for the prizes of the club's friend and benefactor Loic Guyard.
 * 10:00. "Podacha#9". 0-20 Ranked Tournament if at least six participants register in advance. [Guaranteed prize pool](https://t.me/PODACHA_9/69).
   * January 18: ❌
