@@ -239,6 +239,9 @@ span.diff-added {
     background-color: var(--diff-added-bg);
     color: var(--diff-added-fg);
 }
+button.diff-nav-prev:disabled, button.diff-nav-next:disabled {
+    opacity: 10%;
+}
 /* END DIFF DIALOG */
 
 #scheduleContainer > ul {

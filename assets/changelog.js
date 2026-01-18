@@ -168,6 +168,39 @@ function showDiffOverlay(diffHtml) {
             position: {my: "center", at: "center", of: window},
             buttons: [
                 {
+                    text: isUkrainian() ? '↑ ' : '↑ ',
+                    class: 'diff-nav-prev',
+                    click: function () {
+                        const $content = $(this).find('.diff-overlay-content');
+                        const scrollTop = $content.scrollTop();
+                        const $diffs = $content.find('span.diff-added, span.diff-removed');
+                        for (let i = $diffs.length - 1; i >= 0; i--) {
+                            if ($diffs[i].offsetTop < scrollTop - 5) {
+                                const target = $diffs[i].offsetTop - ($content[0].clientHeight / 2) + ($diffs[i].offsetHeight / 2);
+                                $content.animate({ scrollTop: Math.max(0, target) }, 200);
+                                return;
+                            }
+                        }
+                    }
+                },
+                {
+                    text: isUkrainian() ? '↓ ' : '↓ ',
+                    class: 'diff-nav-next',
+                    click: function () {
+                        const $content = $(this).find('.diff-overlay-content');
+                        const scrollTop = $content.scrollTop();
+                        const viewBottom = scrollTop + $content[0].clientHeight;
+                        const $diffs = $content.find('span.diff-added, span.diff-removed');
+                        for (let i = 0; i < $diffs.length; i++) {
+                            if ($diffs[i].offsetTop + $diffs[i].offsetHeight > viewBottom + 5) {
+                                const target = $diffs[i].offsetTop - ($content[0].clientHeight / 2) + ($diffs[i].offsetHeight / 2);
+                                $content.animate({ scrollTop: Math.max(0, target) }, 200);
+                                return;
+                            }
+                        }
+                    }
+                },
+                {
                     text: isUkrainian() ? 'Закрити' : 'Close',
                     click: function () {
                         $(this).dialog("close");
@@ -175,18 +208,40 @@ function showDiffOverlay(diffHtml) {
                 }
             ],
             open: function () {
-                const $content = $(this).find('.diff-overlay-content');
+                const $this = $(this);
+                const $content = $this.find('.diff-overlay-content');
+                const $buttonPane = $this.closest('.ui-dialog').find('.ui-dialog-buttonpane');
+                const $prevBtn = $buttonPane.find('.diff-nav-prev');
+                const $nextBtn = $buttonPane.find('.diff-nav-next');
+
+                function updateNavButtons() {
+                    const scrollTop = $content.scrollTop();
+                    const viewBottom = scrollTop + $content[0].clientHeight;
+                    const $diffs = $content.find('span.diff-added, span.diff-removed');
+                    let hasPrev = false, hasNext = false;
+                    $diffs.each(function() {
+                        if (this.offsetTop < scrollTop - 5) hasPrev = true;
+                        if (this.offsetTop + this.offsetHeight > viewBottom + 5) hasNext = true;
+                    });
+                    if (!hasPrev && $prevBtn.is(':focus')) $content.focus();
+                    if (!hasNext && $nextBtn.is(':focus')) $content.focus();
+                    $prevBtn.button(hasPrev ? 'enable' : 'disable');
+                    $nextBtn.button(hasNext ? 'enable' : 'disable');
+                }
+
                 $content.scrollTop(0);
                 $content.scrollLeft(0);
+                $content.on('scroll', updateNavButtons);
 
                 const $firstDiff = $content.find('span.diff-added, span.diff-removed').first();
                 if ($firstDiff.length > 0) {
                     const contentHeight = $content[0].clientHeight;
                     const elementTop = $firstDiff[0].offsetTop;
                     const elementHeight = $firstDiff[0].offsetHeight;
-                    // Center the element vertically in the container
                     let scrollTop = Math.max(0, elementTop - (contentHeight / 2) + (elementHeight / 2));
-                    $content.animate({ scrollTop: scrollTop }, 400);
+                    $content.animate({ scrollTop: scrollTop }, 400, updateNavButtons);
+                } else {
+                    updateNavButtons();
                 }
             },
             close: function () {
