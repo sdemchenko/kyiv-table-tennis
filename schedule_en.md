@@ -24,7 +24,6 @@
 * 18:30. "Podacha#9". 0-15 Ranked Tournament if at least six participants register in advance. [Guaranteed prize pool](https://t.me/PODACHA_9/69).
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * January 13: ❌
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Ranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
@@ -37,7 +36,6 @@
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
-  * January 14: ❌
 * 18:30. "Volia". 0-30 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
@@ -56,7 +54,6 @@
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * January 15: 20:00 - 22:00.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
@@ -79,12 +76,10 @@
 
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 09:00 - 11:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
-  * January 17: ❌
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Podacha#9". 0-5 Ranked Tournament if at least six participants register in advance. [Guaranteed prize pool](https://t.me/PODACHA_9/69).
-  * January 17: ❌
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
@@ -92,16 +87,13 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, January 17. "Leader (RC)". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". Doubles Unranked Tournament with no rating limits.
-  * January 17: ❌
 * 15:00. "Quiks". 0-20 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
-  * January 17: ❌
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 
 <h3 id="sunday">Sunday</h3>
@@ -111,14 +103,11 @@
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00, February 22. "Orion". All-Ukrainian Children's Tournament [Orion Kids Cup](https://t.me/chatorion/22816) for the prizes of the club's friend and benefactor Loic Guyard.
 * 10:00. "Podacha#9". 0-20 Ranked Tournament if at least six participants register in advance. [Guaranteed prize pool](https://t.me/PODACHA_9/69).
-  * January 18: ❌
 * 10:00. "Raketka". Ranked Tournament.
-  * January 18: ❌
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking. [Regulations](https://docs.google.com/document/d/194IXfI6-9btmFhJQkRdbb_1qweSJc8kV_WCelirtOTQ/edit?tab=t.0).
 * 11:00. "Quiks". 0-15 Ranked Tournament.
-  * January 18: the tournament will start at 17:00
 * 11:00. "Pokolinnia". 0-10.0 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 14:00. "Gourmet". 0-10 Ranked Tournament.
@@ -126,7 +115,6 @@
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
-  * January 18: ❌
 * 17:00. "Volia". 0-25 Ranked Tournament.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
