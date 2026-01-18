@@ -300,6 +300,10 @@ function escapeHtml(text) {
     return $('<div>').text(text).html();
 }
 
+function escapeHtmlAttr(text) {
+    return $('<textarea />').text(text).val();
+}
+
 function incrementCounter() {
     if (!/localhost|127.0.0.1/.test(location.hostname)) { // or !location.hostname.includes('localhost') && location.hostname !== '127.0.0.1'
         fetch('https://script.google.com/macros/s/AKfycbyzKAk-NftzR3dXIcZCx870WRzlF0gay5_rlC1MjaMHm9suCX5CAFKTmECaStJ89AS9/exec', {

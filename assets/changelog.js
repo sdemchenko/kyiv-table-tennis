@@ -28,8 +28,13 @@ function renderChangelog(history) {
     for (let i = 0; i < history.length - 1; i++) {
         let entry = history[i];
         let prevSha = i + 1 < history.length ? history[i + 1].sha : '';
-        $changelog.append(`<li><a href="#" class="diff-link" data-sha="${entry.sha}" data-prevsha="${prevSha}">
-                                            <span class="date">${escapeHtml(entry.date)}</span>${escapeHtml(entry.message)}</a></li>`);
+        const $a = $('<a href="#" class="diff-link">')
+            .data('sha', entry.sha)
+            .data('prevsha', prevSha)
+            .data('date', entry.date)
+            .append(`<span class="date">${entry.date}</span>`)
+            .append(document.createTextNode(entry.message));  // safe text append
+        $changelog.append($('<li>').append($a));
     }
 }
 
@@ -99,13 +104,14 @@ $(document).on('click', '.diff-link', function (e) {
     e.preventDefault();
     const currSha = $(this).data('sha');
     const prevSha = $(this).data('prevsha');
+    const date = $(this).data('date');
     Promise.all([
-        fetchFileContent(currSha), // You write this
+        fetchFileContent(currSha),
         prevSha ? fetchFileContent(prevSha) : Promise.resolve('')
     ]).then(([currMd, prevMd]) => {
         const diffArray = Diff.diffLines(cleanUpMarkup(prevMd), cleanUpMarkup(currMd));
         const diffHtml = formatDiffForDialog(diffArray);
-        showDiffOverlay(diffHtml);
+        showDiffOverlay(diffHtml, date);
     });
 });
 
@@ -146,7 +152,7 @@ function fetchFileContent(sha, options = defaultOptions) {
         });
 }
 
-function showDiffOverlay(diffHtml) {
+function showDiffOverlay(diffHtml, date) {
     $('#diff-overlay-dialog').remove();
 
     const bodyMaxWidth = 840;
@@ -159,7 +165,7 @@ function showDiffOverlay(diffHtml) {
                     <pre style="white-space:pre;display:inline-block;min-width:100%;">${diffHtml}</pre>
                </div>`)
         .dialog({
-            title: isUkrainian() ? 'Зміни' : 'Changes',
+            title: (isUkrainian() ? 'Зміни від ' : 'Changes as of ') + date,
             width: dlgW,
             height: dlgH,
             modal: true,
