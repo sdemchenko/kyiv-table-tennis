@@ -34,7 +34,7 @@
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
-* 18:00. "Quiks". 0-15 Ranked Tournament.
+* 18:00. "Quiks". 0-20 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
 * 18:30. "Volia". 0-30 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
@@ -50,7 +50,6 @@
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00, January 29. "Orion". [An interactive show](https://t.me/chatorion/22805) with two-time European vice-champion Margaryta Pesotska.
-* 18:00. "Quiks". 0-100 Unranked Round Robin Tournament, everyone plays everyone in best‑of‑three matches.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
@@ -66,7 +65,6 @@
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Sports School #21". 0-100 Unranked Tournament, everyone plays everyone in best‑of‑five matches.
-* 18:00. "Quiks". 0-5 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
