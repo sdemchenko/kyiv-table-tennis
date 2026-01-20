@@ -20,6 +20,7 @@
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
+  * January 20: ❌
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Podacha#9". 0-15 Ranked Tournament if at least six participants register in advance. [Guaranteed prize pool](https://t.me/PODACHA_9/69).
 * 18:30 - 22:30. "Volia". Ladder.
@@ -36,6 +37,7 @@
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Quiks". 0-20 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
+  * January 21: ❌
 * 18:30. "Volia". 0-30 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
