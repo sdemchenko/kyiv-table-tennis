@@ -38,7 +38,7 @@
 * 18:00. "Quiks". 0-20 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
   * January 21: ❌
-* 18:30. "Volia". 0-30 Ranked Tournament.
+* 18:30. "Volia". 0-50 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament, everyone plays everyone in best‑of‑five matches.
