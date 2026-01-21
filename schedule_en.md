@@ -97,6 +97,7 @@
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". Doubles Unranked Tournament with no rating limits.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
+* 15:00, January 24. VDNG. 0-100 Unranked Quarterly Tournament [VDNH Winter Cup 2026](https://t.me/+sSxU0mveMrk4NWYy), entry fee ₴300, prize pool ₴3000+, 1st place receives ₴1500+, 2nd place ₴1000+, 3rd place ₴500+.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
