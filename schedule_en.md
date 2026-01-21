@@ -78,6 +78,11 @@
 * 09:00 - 11:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
+* 10:00 - 18:00, January 31. "Gourmet". 0-100 Ranked Tournament among talbe tennis veterans. [Regulations](assets/temp/2026-01-31.pdf).
+  * 10:00 – 30-39 years old;
+  * 12:00 – 40-49 years old;
+  * 14:00 – 50-59 years old; women 30-49 years old, 50 years and older;
+  * 16:00 – 60-69, 70 and older;
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Podacha#9". 0-5 Ranked Tournament if at least six participants register in advance. [Guaranteed prize pool](https://t.me/PODACHA_9/69).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
