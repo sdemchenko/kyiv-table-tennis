@@ -2,6 +2,8 @@
 - dash
 – range dash
 — long dash
+₴
+
 
 https://docs.fontawesome.com/web/add-icons/pseudo-elements
 
