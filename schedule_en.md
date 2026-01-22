@@ -53,6 +53,7 @@
 * 18:00, January 29. "Orion". [An interactive show](https://t.me/chatorion/22805) with two-time European vice-champion Margaryta Pesotska.
 * 18:00. "Quiks". 0-100 Unranked Round Robin Tournament "Quicks Game", everyone plays everyone in best‑of‑three matches.
 * 18:15 - 20:40. "Sports School #23". Ladder.
+  * January 22: ❌
 * 18:30. "Volia". 0-50 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
