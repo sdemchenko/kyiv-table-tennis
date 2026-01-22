@@ -22,7 +22,6 @@
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
   * January 20: ❌
 * 18:15 - 20:40. "Sports School #23". Ladder.
-* 18:30. "Podacha#9". 0-15 Ranked Tournament if at least six participants register in advance. [Guaranteed prize pool](https://t.me/PODACHA_9/69).
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
@@ -85,10 +84,10 @@
   * 14:00 – 50-59 years old; women 30-49 years old, 50 years and older;
   * 16:00 – 60-69, 70 and older;
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 10:00. "Podacha#9". 0-5 Ranked Tournament if at least six participants register in advance. [Guaranteed prize pool](https://t.me/PODACHA_9/69).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
+* 11:00. "Podacha#9". 0-15 Ranked Tournament. [Entry fee ₴200](https://t.me/PODACHA_9/78).
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
@@ -110,11 +109,11 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00, February 22. "Orion". All-Ukrainian Children's Tournament [Orion Kids Cup](https://t.me/chatorion/22816) for the prizes of the club's friend and benefactor Loic Guyard.
-* 10:00. "Podacha#9". 0-20 Ranked Tournament if at least six participants register in advance. [Guaranteed prize pool](https://t.me/PODACHA_9/69).
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking. [Regulations](https://docs.google.com/document/d/194IXfI6-9btmFhJQkRdbb_1qweSJc8kV_WCelirtOTQ/edit?tab=t.0).
+* 11:00. "Podacha#9". 0-10 Ranked Tournament. [Entry fee ₴200](https://t.me/PODACHA_9/78).
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Pokolinnia". 0-10.0 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
