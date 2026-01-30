@@ -77,7 +77,7 @@
 * 08:00. "Spin Up" (at "Himars"). 0-30 Ranked Tournament. Prior registration is mandatory.
 * 09:00 - 11:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
 * 09:30. "Grand-Prix". 0-100 Unranked Tournament. [Organizer](https://t.me/Liverpooll95).
-  * January 31: 0-100 Ranked Tournament.
+  * January 31: 0-30 Ranked Tournament.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 18:00, January 31. "Gourmet". 0-100 Ranked Tournament among veteran table tennis players in memory of Oleksandr Shcherbakov. [Regulations](assets/temp/2026-01-31.pdf).
   * 10:00 – 30-39 years old;
