@@ -115,7 +115,7 @@
 * 11:00. "Podacha#9". 0-10 Ranked Tournament. [Entry fee ₴200](https://t.me/PODACHA_9/78).
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 13:00. "Raketka". 0-100 Ranked Tournament.
+* 13:00. "Raketka". 0-50 Ranked Tournament.
 * 14:00. "Gourmet". 0-10 Ranked Tournament.
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
