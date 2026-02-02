@@ -6,6 +6,7 @@
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:30 - 20:00. "Pechersk". Ladder.
+  * February 2: ❌
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:30 - 22:30. "Volia". Ladder.
