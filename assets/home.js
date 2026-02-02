@@ -111,8 +111,8 @@ function updateOtherCompetitionsVisibility() {
 }
 
 function isTournament($item) {
-    const tournamentKeywords = ['tournament', 'турнір', 'кубок', 'чемпіонат', 'championship'];
-    return $item.find('i.ranked').length > 0 || $item.find('i.unranked').length > 0 || tournamentKeywords.some(word => $item.text().toLowerCase().includes(word));
+    const tournamentKeywords = ['tournament', 'турнір', 'кубок', 'cup', 'чемпіонат', 'championship'];
+    return tournamentKeywords.some(word => $item.text().toLowerCase().includes(word));
 }
 
 function highlightToday() {
