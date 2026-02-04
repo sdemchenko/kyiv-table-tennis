@@ -116,8 +116,8 @@
   * February 8: 0-15 or 0-20, or 0-25 Ranked Tournament (voting is in progress).
 * 14:00. "Gourmet". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
+* 15:00. "Respublica". 0-10 Ranked Tournament [Smash Respublica](https://www.instagram.com/p/DUVUOcvjdyX/).
 * 16:00. "Volia". 0-25 Ranked Tournament.
-* 17:00. "Respublica". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tenis_baracholka/2498).
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
