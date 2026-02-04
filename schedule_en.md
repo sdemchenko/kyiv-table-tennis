@@ -103,12 +103,15 @@
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00, February 22. "Orion". All-Ukrainian Children's Tournament [Orion Kids Cup](https://t.me/chatorion/22816) for the prizes of the club's friend and benefactor Loic Guyard.
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3713).
-* 10:00. "Raketka". 0-15 Ranked Tournament.
+* 10:00. "Raketka". Ranked Tournament.
+  * February 8: 0-50
+  * February 15: 0-100 memorial tournament of Viktor Roda.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 11:00. "Podacha#9". 0-10 Ranked Tournament. [Entry fee ₴200](https://t.me/PODACHA_9/78).
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 13:00. "Raketka". 0-50 Ranked Tournament.
+  * February 8: 0-15 or 0-20, or 0-25 (voting is in progress).
 * 14:00. "Gourmet". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 16:00. "Volia". 0-25 Ranked Tournament.
