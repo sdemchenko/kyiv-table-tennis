@@ -85,6 +85,7 @@
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". 0-15 Ranked Tournament. [Entry fee ₴200](https://t.me/PODACHA_9/78).
 * 11:00. "Quiks". 0-10 Ranked Tournament.
+* 11:00, February 7. "Respublica". 0-100 Ranked Tournament [Kyiv Hopes 2026](https://t.me/ttkiev/793), boys and girls born in 2014 and younger.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
