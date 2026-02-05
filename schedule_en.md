@@ -104,7 +104,7 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-45 Ranked Tournament.
 * 10:00, February 22. "Orion". All-Ukrainian Children's Tournament [Orion Kids Cup](https://t.me/chatorion/22816) for the prizes of the club's friend and benefactor Loic Guyard.
-* 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3713).
+* 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3759).
 * 10:00. "Raketka". Ranked Tournament.
   * February 8: 0-50 Ranked Tournament.
   * February 15: 0-100 Ranked Tournament memorial tournament of Viktor Roda.
