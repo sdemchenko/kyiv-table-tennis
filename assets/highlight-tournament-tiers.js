@@ -1,24 +1,40 @@
 function highlightTournamentTiers($schedule) {
-    $schedule.contents().each(function processNode() {
+    function processNode(inheritedType) {
         if (this.nodeType === Node.TEXT_NODE && this.nodeValue.trim() !== '') {
-            const result = highlightTiers(this.nodeValue);
+            const result = highlightTiers(this.nodeValue, inheritedType);
             if (result !== this.nodeValue) {
                 $(this).replaceWith(result);
             }
         } else if (this.nodeType === Node.ELEMENT_NODE) {
-            $(this).contents().each(processNode);
+            let localType = null;
+            $(this).contents().each(function() {
+                if (this.nodeType === Node.TEXT_NODE && !localType) {
+                    const adjs = findAdjectives(this.nodeValue);
+                    if (adjs.length > 0) localType = adjs[0].type;
+                }
+            });
+            const typeToPass = localType || inheritedType;
+            $(this).contents().each(function() {
+                processNode.call(this, typeToPass);
+            });
         }
+    }
+    $schedule.contents().each(function() {
+        processNode.call(this, null);
     });
 }
 
-function highlightTiers(text) {
+function highlightTiers(text, fallbackType = null) {
     const adjectives = findAdjectives(text);
-    if (adjectives.length === 0) return text;
 
     const tiers = findTiers(text);
     if (tiers.length === 0) return text;
 
-    tiers.forEach(tier => tier.type = findNearestAdjectiveType(tier.pos, adjectives));
+    tiers.forEach(tier => {
+        tier.type = adjectives.length > 0
+            ? findNearestAdjectiveType(tier.pos, adjectives)
+            : fallbackType;
+    });
     return buildHighlightedText(text, tiers);
 }
 
