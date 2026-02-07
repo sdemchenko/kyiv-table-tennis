@@ -8,7 +8,7 @@ $(document).ready(function () {
     configurePlaceNameLinksToOpenPlaceInfoOverlay();
     fetchSchedule();
     setInterval(fetchSchedule, 10 * 60 * 1000);
-    incrementCounter();
+    // incrementCounter();
 });
 
 /**
