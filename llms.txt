@@ -21,14 +21,17 @@ Changes weekly or monthly:
 
 ## Schedule Structure
 
+schedule.md and schedule_en.md are the sources rendered and inserted into the website on page load.
+The schedule files are updated many times a week.
+
 The schedule is organized by day of the week (Monday-Sunday). Each entry follows this format:
 - Time. "Club Name". Event type. [Optional notes]
 
 Event types:
-- "Гра на столи" / "Ladder games" - Informal play where players rotate tables based on wins
-- "Ігрова група" / "Practice group" - Regular practice sessions for a fixed group
-- "Рейтинговий турнір X-Y" / "Ranked tournament X-Y" - Official tournament affecting UTTF rating, for players rated X to Y
-- "Нерейтинговий турнір X-Y" / "Unranked tournament X-Y" - Casual tournament, no rating impact
+- "Гра на столи" / "Ladder games" - Informal play where players rotate tables based on wins.
+- "Ігрова група" / "Coach-Guided Matches" - Informal play where players rotate as told by coaches. The first part of the session is usually practice.
+- "Рейтинговий турнір X-Y" / "Ranked tournament X-Y" - Official tournament affecting UTTF rating, for players rated X to Y.
+- "Нерейтинговий турнір X-Y" / "Unranked tournament X-Y" - Casual tournament, no rating impact.
 
 Rating ranges (e.g., 0-25, 0-100) indicate which players can participate based on their UTTF (Ukrainian Table Tennis Federation) rating.
 
