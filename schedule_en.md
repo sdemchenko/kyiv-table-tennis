@@ -1,6 +1,4 @@
 ﻿
-[//]: # (Use 🏆 for ranked events, 🏅 for unranked events, ❌ for canceled events)
-
 <h3 id="monday">Monday</h3>
 
 * 11:00 - 15:00. "Orion". Ladder.
@@ -75,7 +73,6 @@
 * 08:00. "Spin Up" (at "Himars"). 0-30 Ranked Tournament. Prior registration is mandatory.
 * 09:00 - 11:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
 * 09:45. "Grand-Prix". 0-100 Unranked Tournament.
-  * February 7: ❌
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
@@ -83,10 +80,8 @@
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". 0-15 Ranked Tournament. [Entry fee ₴200](https://t.me/PODACHA_9/78).
 * 11:00. "Quiks". 0-10 Ranked Tournament.
-* 11:00, February 7. "Respublica". 0-100 Ranked Tournament [Kyiv Hopes 2026](https://t.me/ttkiev/793), boys and girls born in 2014 and younger.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-* 12:00, February 7. "Holosiïv". 0-10 Unranked Tournament. [Details](https://t.me/vdnh_cup_winter_2026/143).
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
 * 15:00. "Orion". 0-10 Ranked Tournament.
@@ -105,8 +100,7 @@
 * 10:00, February 22. "Orion". All-Ukrainian Children's Tournament [Orion Kids Cup](https://t.me/chatorion/22816) for the prizes of the club's friend and benefactor Loic Guyard.
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3759).
 * 10:00. "Raketka". Ranked Tournament.
-  * February 8: 0-25 and 0-50 Ranked Tournaments will start at the same time.
-  * February 15: 0-100 Ranked Tournament memorial tournament of Viktor Roda.
+  * February 15: 0-100 Ranked Memorial Tournament of Viktor Roda.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 11:00. "Podacha#9". 0-10 Ranked Tournament. [Entry fee ₴200](https://t.me/PODACHA_9/78).
 * 11:00. "Quiks". 0-15 Ranked Tournament.
