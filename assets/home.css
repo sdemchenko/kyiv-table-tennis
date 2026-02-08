@@ -254,6 +254,7 @@ button.diff-nav-prev:disabled, button.diff-nav-next:disabled {
 
 #scheduleContainer h3.today::before {
     content: "› ";
+    color: var(--today-highlight);
 }
 
 #scheduleContainer ul.today {
