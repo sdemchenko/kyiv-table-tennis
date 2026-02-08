@@ -31,12 +31,16 @@
     <script src="assets/changelog.js?cacheBuster=053"></script>
     <script src="assets/home.js?cacheBuster=053"></script>
     <!-- Google tag (gtag.js) -->
+    <script>
+        if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+            window['ga-disable-G-C3YST2E48Y'] = true;
+        }
+    </script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-C3YST2E48Y"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-
         gtag('config', 'G-C3YST2E48Y');
     </script>
 </head>
