@@ -47,6 +47,7 @@
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". 0-100 Unranked Round Robin Tournament "Quicks Game", everyone plays everyone in best‑of‑three matches.
+  * February 12: ?
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Volia". 0-40 Ranked Tournament.
 * 18:45 - 22:00. "KUTT". Ladder.
@@ -79,13 +80,13 @@
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". 0-15 Ranked Tournament. [Entry fee ₴200](https://t.me/PODACHA_9/78).
-* 11:00. "Quiks". 0-10 Ranked Tournament.
+* 11:00. "Quiks". 0-20 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
 * 15:00. "Orion". 0-10 Ranked Tournament.
-* 15:00. "Quiks". 0-20 Ranked Tournament.
+* 15:00. "Quiks". 0-10 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
