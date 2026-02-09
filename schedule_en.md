@@ -103,6 +103,7 @@
 * 10:00. "Raketka". Ranked Tournament.
   * February 15: 0-100 Ranked Memorial Tournament of Viktor Roda.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:00 - 16:00, February 22. Sports Complex at 37 Shalimova Street. Team Championship of Kyiv among enterprises, organizations, and state institutions "Challenge Cup 2026". [Regulations](assets/temp/2026-02-22-KSLI-regulations.pdf).
 * 11:00. "Podacha#9". 0-10 Ranked Tournament. [Entry fee ₴200](https://t.me/PODACHA_9/78).
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
