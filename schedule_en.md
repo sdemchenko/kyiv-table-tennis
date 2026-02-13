@@ -115,7 +115,6 @@
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Respublica". 0-10 Ranked Tournament [Smash Respublica](https://www.instagram.com/p/DUVUOcvjdyX/).
-* 16:00. "Volia". 0-25 Ranked Tournament. Players with a ranking above 25 can also play, but they must give a handicap.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
