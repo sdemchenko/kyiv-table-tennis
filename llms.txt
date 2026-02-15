@@ -22,7 +22,8 @@ Changes weekly or monthly:
 ## Schedule Structure
 
 schedule.md and schedule_en.md are the sources rendered and inserted into the website on page load.
-The schedule files are updated many times a week.
+The schedule files are updated many times a week. The "Recent schedule changes" is pulled from the last commit to the repo.
+The main page automatically reloads schedule-related changes every 10 minutes.
 
 The schedule is organized by day of the week (Monday-Sunday). Each entry follows this format:
 - Time. "Club Name". Event type. [Optional notes]
@@ -43,7 +44,7 @@ Gourmet - 9 tables, air conditioning, backup power, regular tournaments
 Raketka - 8 tables, air conditioning, backup power, regular tournaments
 Breiks - 9 tables, air conditioning, backup power, regular tournaments
 Quiks - 6 tables, multiple ranked tournaments weekly
-Воля (Volia) - 7 tables, regular tournaments and ladder games
+Volia - 7 tables, regular tournaments and ladder games
 
 ## Outdoor Courts
 
