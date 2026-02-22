@@ -72,9 +72,7 @@
 
 * 08:00. "Spin Up" (at "Himars"). 0-30 Ranked Tournament. Prior registration is mandatory.
 * 09:00 - 11:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
-  * February 21: ❌
 * 09:45. "Grand-Prix". 0-100 Unranked Tournament.
-  * February 21: ❌
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
@@ -84,7 +82,6 @@
 * 11:00. "Quiks". 0-20 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-* 12:00, February 21. "Holosiïv". 0-10 Unranked Tournament. [Details](https://t.me/vdnh_cup_winter_2026/179).
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
   * February 28: ❌
@@ -102,11 +99,8 @@
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-30 Ranked Tournament.
-* 10:00, February 22. "Orion". All-Ukrainian Children's Tournament [Orion Kids Cup](https://t.me/chatorion/22816) for the prizes of the club's friend and benefactor Loic Guyard.
 * 10:00. "Raketka". Ranked Tournament.
-  * February 22: ❌
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:00 - 16:00, February 22. Sports Complex at 37 Shalimova Street. Team Championship of Kyiv among enterprises, organizations, and state institutions "Challenge Cup 2026". [Regulations](assets/temp/2026-02-22-KSLI-regulations.pdf).
 * 11:00. "Podacha#9". 0-20 Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
