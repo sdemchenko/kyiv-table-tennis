@@ -107,6 +107,7 @@
   * February 22: 0-20 and 0-50 at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:00 - 16:00, February 22. Sports Complex at 37 Shalimova Street. Team Championship of Kyiv among enterprises, organizations, and state institutions "Challenge Cup 2026". [Regulations](assets/temp/2026-02-22-KSLI-regulations.pdf).
+* 11:00. "Podacha#9". 0-20 Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 15:00. "Quiks". 0-5 Ranked Tournament.
