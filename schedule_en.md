@@ -104,7 +104,7 @@
 * 10:00. "Gourmet". 0-30 Ranked Tournament.
 * 10:00, February 22. "Orion". All-Ukrainian Children's Tournament [Orion Kids Cup](https://t.me/chatorion/22816) for the prizes of the club's friend and benefactor Loic Guyard.
 * 10:00. "Raketka". Ranked Tournament.
-  * February 22: 0-20 and 0-50 at the same time.
+  * February 22: ❌
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:00 - 16:00, February 22. Sports Complex at 37 Shalimova Street. Team Championship of Kyiv among enterprises, organizations, and state institutions "Challenge Cup 2026". [Regulations](assets/temp/2026-02-22-KSLI-regulations.pdf).
 * 11:00. "Podacha#9". 0-20 Ranked Tournament.
