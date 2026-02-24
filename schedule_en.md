@@ -86,6 +86,7 @@
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
   * February 28: ❌
 * 15:00. "Orion". 0-10 Ranked Tournament.
+* 15:00. "Orion". Doubles Unranked Tournament with no rating limits. [Regulations](https://docs.google.com/document/d/1bBMrb9AKRTuAp5aCxvg-5wS2-Ad9z7G7Byagtb6yv_E/edit?tab=t.0).
 * 15:00. "Podacha#9". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
@@ -99,6 +100,7 @@
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-30 Ranked Tournament.
+* 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3713).
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 11:00. "Podacha#9". 0-20 Ranked Tournament.
