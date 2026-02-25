@@ -109,7 +109,7 @@
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 15:00. "Quiks". 0-5 Ranked Tournament.
-* 15:00. "Respublica". 0-10 Ranked Tournament [Smash Respublica](assets/temp/Smash_Respublica.jpeg).
+* 15:00. "Respublica". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/3).
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 18:45 - 22:00. "KUTT". Ladder.
