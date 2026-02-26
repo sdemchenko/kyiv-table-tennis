@@ -85,6 +85,7 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
   * February 28: ❌
+* 12:00, February 28. "Holosiïv". 0-10 Unranked Tournament. [Details](https://t.me/vdnh_cup_winter_2026/181).
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
   * February 28: ❌
