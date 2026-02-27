@@ -93,7 +93,6 @@
   * February 28: ❌
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". Doubles Unranked Tournament with no rating limits. [Regulations](https://docs.google.com/document/d/1bBMrb9AKRTuAp5aCxvg-5wS2-Ad9z7G7Byagtb6yv_E/edit?tab=t.0).
-* 15:00. "Podacha#9". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
@@ -111,7 +110,6 @@
   * March 1 from 10:00 to 18:00 - The Kyiv Championship for players born in 2011. [Announcement](https://www.facebook.com/kmfntua/posts/pfbid02Krv6UEPpq9eiuMtynDFz5vHsr1mHKzGkr7mCawMWzAsDpqpVfCJrUob47BK1zqecl).
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30, March 1. "Gatne, SC" (Yurivka). 5-35 Charity Ranked Tournament.
-* 11:00. "Podacha#9". 0-20 Ranked Tournament.
 * 11:00, March 1. "Pokolinnia". 0-10.0 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
