@@ -85,6 +85,7 @@
 * 11:00 - 13:30. "ДЮСШ №23". Гра на столи.
 * 11:10. "Himars". Рейтинговий турнір 0-100.
   * 28 лютого: ❌
+* 11:30 - 18:00, 28 лютого. "Himars". Чемпіонат Києва по 2011 р.н. [Анонс](https://www.facebook.com/kmfntua/posts/pfbid02Krv6UEPpq9eiuMtynDFz5vHsr1mHKzGkr7mCawMWzAsDpqpVfCJrUob47BK1zqecl). [Ligas](https://ligas.io/tournament/7kfcnf/results).
 * 12:00, 28 лютого. "Голосіїв". Нерейтинговий турнір 0-10. [Подробиці](https://t.me/vdnh_cup_winter_2026/181).
 * 15:00. "Orion". Рейтинговий турнір 0-10.
 * 15:00. "Orion". Парний нерейтинговий турнір без обмежень рейтингу. [Регламент](https://docs.google.com/document/d/1bBMrb9AKRTuAp5aCxvg-5wS2-Ad9z7G7Byagtb6yv_E/edit?tab=t.0).
