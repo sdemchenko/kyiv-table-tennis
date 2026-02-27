@@ -113,6 +113,7 @@
 * 11:00, March 1. "Pokolinnia". 0-10.0 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
+* 12:00, March 1. "Podacha#9". 0-20 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Respublica". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/3).
 * 18:30 - 21:00. "Orion". Ladder.
