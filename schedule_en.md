@@ -112,6 +112,7 @@
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30, March 1. "Gatne, SC" (Yurivka). 5-35 Charity Ranked Tournament.
 * 11:00. "Podacha#9". 0-20 Ranked Tournament.
+* 11:00, March 1. "Pokolinnia". 0-10.0 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 15:00. "Quiks". 0-5 Ranked Tournament.
