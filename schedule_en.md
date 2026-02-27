@@ -87,6 +87,7 @@
   * February 28: ❌
 * 11:30 - 18:00, February 28. "Himars". The Kyiv Championship for players born in 2011. [Announcement](https://www.facebook.com/kmfntua/posts/pfbid02Krv6UEPpq9eiuMtynDFz5vHsr1mHKzGkr7mCawMWzAsDpqpVfCJrUob47BK1zqecl). [Ligas](https://ligas.io/tournament/7kfcnf/results).
 * 12:00, February 28. "Holosiïv". 0-10 Unranked Tournament. [Details](https://t.me/vdnh_cup_winter_2026/181).
+* 13:30, February 28. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Up to 20 participants. 
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
   * February 28: ❌
@@ -108,6 +109,7 @@
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3713).
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:30, February 29. "Gatne, SC" (Yurivka). 5-35 Charity Ranked Tournament.
 * 11:00. "Podacha#9". 0-20 Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
