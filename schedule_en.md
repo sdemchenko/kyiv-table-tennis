@@ -107,7 +107,10 @@
   * March 1: 0-100.
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3713).
 * 10:00. "Raketka". Ranked Tournament.
-  * March 1 from 10:00 to 18:00 - The Kyiv Championship for players born in 2011. [Announcement](https://www.facebook.com/kmfntua/posts/pfbid02Krv6UEPpq9eiuMtynDFz5vHsr1mHKzGkr7mCawMWzAsDpqpVfCJrUob47BK1zqecl).
+  * March 1 - The Kyiv Championship for players born in 2011.
+    * 10:00 - Boys’ singles (final, double-elimination system)
+    * 12:30 - Mixed doubles
+    * 14:00 - Girls’ singles (final)
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30, March 1. "Gatne, SC" (Yurivka). 5-35 Charity Ranked Tournament.
 * 11:00, March 1. "Pokolinnia". 0-10.0 Unranked Tournament.
