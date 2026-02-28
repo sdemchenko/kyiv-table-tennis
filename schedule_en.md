@@ -104,7 +104,8 @@
 
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
-* 10:00. "Gourmet". 0-30 Ranked Tournament.
+* 10:00. "Gourmet". Ranked Tournament.
+  * March 1: 0-50.
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3713).
 * 10:00. "Raketka". Ranked Tournament.
   * March 1 from 10:00 to 18:00 - The Kyiv Championship for players born in 2011. [Announcement](https://www.facebook.com/kmfntua/posts/pfbid02Krv6UEPpq9eiuMtynDFz5vHsr1mHKzGkr7mCawMWzAsDpqpVfCJrUob47BK1zqecl).
