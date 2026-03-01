@@ -38,7 +38,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament, everyone plays everyone in best‑of‑five matches.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
-* 20:00 - 22:00. "TviY tennis". 0-30 Unranked Tournament. Prior registration is mandatory.
+* 20:00 - 22:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
 
 <h3 id="thursday">Thursday</h3>
 
@@ -67,6 +67,7 @@
 * 18:45 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
+* 19:30. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
 
 <h3 id="saturday">Saturday</h3>
 
