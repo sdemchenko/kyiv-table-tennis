@@ -258,11 +258,7 @@ button.diff-nav-prev:disabled, button.diff-nav-next:disabled {
     padding-bottom: 0.8rem;
 }
 
-#scheduleContainer h3.today {
-    border-left: 3px solid var(--today-highlight);
-    padding-left: 0.8rem;
-}
-
+#scheduleContainer h3.today,
 #scheduleContainer ul.today {
     border-left: 3px solid var(--today-highlight);
     padding-left: 0.8rem;
