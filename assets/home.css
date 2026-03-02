@@ -250,11 +250,17 @@ button.diff-nav-prev:disabled, button.diff-nav-next:disabled {
 #scheduleContainer > ul {
     list-style: none;
     padding-left: 0;
+    margin-top: 0;
 }
 
-#scheduleContainer h3.today::before {
-    content: "› ";
-    color: var(--today-highlight);
+#scheduleContainer h3 {
+    margin-bottom: 0;
+    padding-bottom: 0.8rem;
+}
+
+#scheduleContainer h3.today {
+    border-left: 3px solid var(--today-highlight);
+    padding-left: 0.8rem;
 }
 
 #scheduleContainer ul.today {
