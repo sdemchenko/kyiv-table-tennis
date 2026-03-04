@@ -77,7 +77,7 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up" (at "Himars"). 0-30 Ranked Tournament. Prior registration is mandatory.
-* 09:45. "Grand-Prix". 0-100 Unranked Tournament.
+* 09:45. "Grand-Prix". 0-15 Ranked Tournament. [Announcement](https://t.me/tabletennisGP/1/5018).
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
