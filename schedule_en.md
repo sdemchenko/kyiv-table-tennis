@@ -73,6 +73,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
 * 19:30. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
+  * March 6: ❌
 
 <h3 id="saturday">Saturday</h3>
 
