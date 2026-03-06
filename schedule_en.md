@@ -89,6 +89,7 @@
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
+* 12:00, March 7. "Podacha#9". [Unranked Tournament](https://t.me/PODACHA_9/98).
 * 13:00, March 7. "Holosiïv". 0-10 Unranked Tournament. [Details](https://t.me/vdnh_cup_winter_2026/186).
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
