@@ -31,7 +31,7 @@
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
-* 18:00. "Quiks". 0-20 Ranked Tournament.
+* 18:00. "Quiks". 0-24 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
@@ -89,7 +89,7 @@
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". Unranked Tournament for Doubles. [Details](https://docs.google.com/document/d/1bBMrb9AKRTuAp5aCxvg-5wS2-Ad9z7G7Byagtb6yv_E/edit?tab=t.0).
-* 15:00. "Quiks". 0-20 Ranked Tournament.
+* 15:00. "Quiks". 0-21 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
