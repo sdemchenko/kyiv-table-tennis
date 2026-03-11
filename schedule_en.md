@@ -76,6 +76,7 @@
 
 * 08:00. "Spin Up" (at "Himars"). 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
+* 10:00 - 20:00, March 14. "Drahomanov University Sports Complex". Open Club Championship of the Kyiv City Table Tennis Federation among adults for the 2025–2026 season, third round (leagues 7–11). [Announcement](https://www.facebook.com/share/p/14fWMLt7nF2/), [schedule](https://ligas.io/tournament/49empf/results).
 * 10:00. "Grand-Prix". 0-15 Ranked Tournament. [Announcement](https://t.me/tabletennisGP/1/5080).
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
