@@ -103,6 +103,7 @@
 * 10:00. "Gourmet". Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:30, March 15. "Gatne, SC" (Yurivka). 0-25 Charity Ranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking. [Regulations](https://docs.google.com/document/d/194IXfI6-9btmFhJQkRdbb_1qweSJc8kV_WCelirtOTQ/edit?tab=t.0).
 * 11:00. "Quiks". 0-15 Ranked Tournament.
