@@ -86,6 +86,7 @@
 * 11:00. "Quiks". Рейтинговий турнір 0-10.
 * 11:00 - 13:30. "ДЮСШ №23". Гра на столи.
 * 11:10. "Himars". Рейтинговий турнір 0-100.
+* 13:00, 21 березня. "Grand-Prix". University Table Tennis Cup 2026. [Подробиці](https://t.me/ttkiev/836).
 * 15:00. "Orion". Рейтинговий турнір 0-10.
 * 15:00. "Orion". Нерейтинговий парний турнір без обмежень рейтингу. [Подробиці](https://docs.google.com/document/d/1bBMrb9AKRTuAp5aCxvg-5wS2-Ad9z7G7Byagtb6yv_E/edit?tab=t.0).
 * 15:00. "Quiks". Рейтинговий турнір 0-21.
