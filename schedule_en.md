@@ -87,6 +87,7 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 13:00, March 21. "Grand-Prix". University Table Tennis Cup 2026. [Details](https://t.me/ttkiev/836).
+* 14:00, March 14. "Podacha#9". Unranked Tournament for players without ranking. [Announcement](https://t.me/PODACHA_9/104).
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
 * 15:00. "Orion". 0-10 Ranked Tournament.
