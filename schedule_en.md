@@ -105,6 +105,7 @@
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
+  * March 15: 0-100 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
   * March 15: 0-20 and 0-50 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
