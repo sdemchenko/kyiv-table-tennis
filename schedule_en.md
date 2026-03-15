@@ -54,7 +54,6 @@
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:30. "Club 17".
-    * March 12: 0-60 Ranked Tournament.
     * March 19: 0-60 Unranked Tournament.
     * March 26: 0-60 Ranked Tournament.
 
@@ -76,7 +75,6 @@
 
 * 08:00. "Spin Up" (at "Himars"). 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
-* 10:00 - 20:00, March 14. "Drahomanov University Sports Complex". Open Club Championship of the Kyiv City Table Tennis Federation among adults for the 2025–2026 season, third round (leagues 7–11). [Announcement](https://www.facebook.com/share/p/14fWMLt7nF2/), [schedule](https://ligas.io/tournament/49empf/results).
 * 10:00. "Grand-Prix". 0-15 Ranked Tournament. [Announcement](https://t.me/tabletennisGP/1/5080).
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
@@ -87,8 +85,6 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 13:00, March 21. "Grand-Prix". University Table Tennis Cup 2026. [Details](https://t.me/ttkiev/836).
-* 13:00, March 14. "Holosiïv". 0-10 Unranked Tournament. [Details](https://t.me/vdnh_cup_winter_2026/188).
-* 14:00, March 14. "Podacha#9". Unranked Tournament for players without ranking. [Announcement](https://t.me/PODACHA_9/104).
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
 * 15:00. "Orion". 0-10 Ranked Tournament.
@@ -105,14 +101,10 @@
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
-  * March 15: 0-100 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * March 15: 0-20 and 0-50 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:30, March 15. "Gatne, SC" (Yurivka). 0-25 Charity Ranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking. [Regulations](https://docs.google.com/document/d/194IXfI6-9btmFhJQkRdbb_1qweSJc8kV_WCelirtOTQ/edit?tab=t.0).
-* 11:00, March 15. "Pokolinnia". 0-10.0 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 14:30. "Orion". Children's 0-100 Ranked Tournament.
@@ -123,7 +115,6 @@
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00. "Club 17".
-    * March 15: 0-60 Ranked Tournament.
     * March 22: 0-60 Unranked Tournament.
     * March 29: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
