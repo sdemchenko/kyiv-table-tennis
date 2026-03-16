@@ -31,7 +31,7 @@
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
-* 18:00. "Quiks". 0-24 Ranked Tournament.
+* 18:00. "Quiks". 0-20 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
