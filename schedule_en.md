@@ -75,7 +75,8 @@
 
 * 08:00. "Spin Up" (at "Himars"). 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
-* 10:00. "Grand-Prix". 0-15 Ranked Tournament. [Announcement](https://t.me/tabletennisGP/1/5080).
+* 10:00. "Grand-Prix". 0-15 Ranked Tournament. [Announcement](https://t.me/tabletennisGP/1/5153).
+  * March 21: the tournament will start at 9:00.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
