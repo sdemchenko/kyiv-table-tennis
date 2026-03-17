@@ -33,6 +33,7 @@
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Quiks". 0-20 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
+  * March 18: 0-50.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
