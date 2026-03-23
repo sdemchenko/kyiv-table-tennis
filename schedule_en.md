@@ -42,6 +42,7 @@
 
 <h3 id="thursday">Thursday</h3>
 
+* 10:00, March 26. "Gatne, SC" (Yurivka). Tournament "Spring Cup 2026". Singles competitions for boys and girls (6–8 y.o.; 9–11 y.o.; 12–14 y.o.; 15–16 y.o.).
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 18:00 - 20:00. "Pechersk". Ladder.
