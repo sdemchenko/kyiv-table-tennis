@@ -88,6 +88,7 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 13:00. "Grand-Prix". 0-10 Ranked Tournament. Prior registration is mandatory.
+* 13:30, March 28. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00, March 28. "Drahomanov University Sports Complex". Kyiv Championship among juniors born 2007 and younger. Register before 21:00 March 27.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
@@ -107,6 +108,7 @@
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/chatorion/23184), third round.
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:30, March 29. "Gatne, SC" (Yurivka). 5-30 Charity Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 15:00. "Quiks". 0-5 Ranked Tournament.
