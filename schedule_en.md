@@ -107,6 +107,7 @@
 * 10:00. "Gourmet". Ranked Tournament.
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/chatorion/23184), third round.
 * 10:00. "Raketka". Ranked Tournament.
+  * March 29: 0-5 and 0-30 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30, March 29. "Gatne, SC" (Yurivka). 5-30 Charity Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
