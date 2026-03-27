@@ -89,6 +89,7 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 13:00. "Grand-Prix". 0-10 Ranked Tournament. Prior registration is mandatory.
+* 13:00, March 28. "Holosiïv". 0-10 Unranked Tournament. [Registration](https://t.me/vdnh_cup_winter_2026/194).
 * 13:30, March 28. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00, March 28. "Drahomanov University Sports Complex". Kyiv Championship among juniors born 2007 and younger. [Register before 21:00 March 27](https://t.me/ttkiev/844).
