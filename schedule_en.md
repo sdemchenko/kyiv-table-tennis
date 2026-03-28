@@ -107,6 +107,7 @@
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
+  * March 29: 0-80 Ranked Tournament
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/chatorion/23184), third round.
 * 10:00. "Raketka". Ranked Tournament.
   * March 29: 0-5 and 0-30 Ranked Tournaments will start at the same time.
