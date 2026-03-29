@@ -33,7 +33,6 @@
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Quiks". 0-20 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
-  * March 25: 0-50 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
@@ -43,27 +42,22 @@
 
 <h3 id="thursday">Thursday</h3>
 
-* 10:00, March 26. "Gatne, SC" (Yurivka). Tournament "Spring Cup 2026". Singles competitions for boys and girls (6–8 y.o.; 9–11 y.o.; 12–14 y.o.; 15–16 y.o.).
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". 0-10 Ranked Tournament.
 * 18:15 - 20:40. "Sports School #23". Ladder.
-* 18:30, March 26. "Respublica". 0-5 Ranked Tournament.
 * 18:30. "Volia". 0-45 Ranked Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
-* 20:30. "Club 17".
-    * March 26: 0-60 Ranked Tournament.
 
 <h3 id="friday">Friday</h3>
 
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:00. "Gourmet". Ladder.
-* 17:15, March 27. "Leader (RC)". 0-25 Ranked Tournament "TOP-12".
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
@@ -90,10 +84,7 @@
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 13:00. "Grand-Prix". 0-10 Ranked Tournament. Prior registration is mandatory.
-* 13:00, March 28. "Holosiïv". 0-10 Unranked Tournament. [Registration](https://t.me/vdnh_cup_winter_2026/194).
-* 13:30, March 28. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, March 28. "Drahomanov University Sports Complex". Kyiv Championship among juniors born 2007 and younger. [Register before 21:00 March 27](https://t.me/ttkiev/844).
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-20 Ranked Tournament.
@@ -108,18 +99,14 @@
 * 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
-  * March 29: 0-80 Ranked Tournament
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/chatorion/23184), third round.
 * 10:00. "Raketka". Ranked Tournament.
   * April 5: 0-20 and 0-50 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:30, March 29. "Gatne, SC" (Yurivka). 5-30 Charity Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Respublica". 0-15 Ranked Tournament.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
-* 19:00. "Club 17".
-    * March 29: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
