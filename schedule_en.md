@@ -22,7 +22,7 @@
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 19:00. "Orion". 0-25 Ranked Tournament.
+* 19:00. "Orion". 0-35 Ranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
 
 <h3 id="wednesday">Wednesday</h3>
@@ -80,6 +80,7 @@
 * 09:00. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
+* 10:00, April 4. "Orion". Tournament among military personnel. [Announcement](https://t.me/ttkiev/845).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
