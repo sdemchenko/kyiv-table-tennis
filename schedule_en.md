@@ -71,6 +71,8 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up" (at "Himars"). 0-30 Ranked Tournament. Prior registration is mandatory.
+* 09:00, April 4. "Gatne, SC" (Yurivka). Open Championship of Kyiv Region among children born in 2007 and younger.
+  Participation is free. Send applications to [fntko2025@gmail.com](mailto:fntko2025@gmail.com) before Friday 15:00. 
 * 09:00. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
