@@ -87,6 +87,7 @@
 * 13:00. "Grand-Prix". 0-10 Ranked Tournament. Prior registration is mandatory.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
+  * April 11: ❌
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
