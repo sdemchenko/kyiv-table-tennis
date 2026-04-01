@@ -108,6 +108,7 @@
   * April 5: 0-20 and 0-50 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:00, April 5. "VDNG Urban-Park". 0-100 Unranked Tournament [VDNH Spring Cup 2026](https://t.me/vdnh_cup_winter_2026/231), first prize is $100, second is $50.
+* 10:30, April 5. "Gatne, SC" (Yurivka). 0-25 Charity Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
