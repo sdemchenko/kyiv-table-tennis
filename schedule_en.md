@@ -76,6 +76,7 @@
 * 09:00. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
+* 10:00, April 18. "Podolskiy". Unranked Tournament for amateurs. Prior registration is mandatory (+380443934343, +380503358698). [Details](https://t.me/krsp_tt_tour/747).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
