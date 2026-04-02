@@ -53,6 +53,12 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-15 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
+* 20:30. "Club 17".
+  * 2 April: Unranked Tournament 0-60.
+  * 9 April: Ranked Tournament 0-60.
+  * 16 April: Unranked Tournament 0-60.
+  * 23 April: Unranked Tournament 0-60.
+  * 30 April: Ranked Tournament 0-60.
 
 <h3 id="friday">Friday</h3>
 
@@ -117,4 +123,9 @@
 * 15:00. "Respublica". 0-10 Ranked Tournament.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
+* 19:00. "Club 17".
+  * April 5: Ranked Tournament 0-60.
+  * April 12: Unranked Tournament 0-60.
+  * April 19: Ranked Tournament 0-60.
+  * April 26: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
