@@ -107,7 +107,6 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 08:00. "Spin Up" (at "Himars"). 0-25 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
 * 10:00, April 5. "Orion". Tournament among military personnel. [Registration](https://docs.google.com/forms/d/e/1FAIpQLSeyFSp3sAkcbtr8NqZqNE2bUJLs9yea4thWua1gY5PLhkC6SQ/viewform).
