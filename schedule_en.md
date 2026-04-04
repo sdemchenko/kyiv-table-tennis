@@ -126,8 +126,8 @@
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00. "Club 17".
-  * April 5: Ranked Tournament 0-60.
-  * April 12: Unranked Tournament 0-60.
-  * April 19: Ranked Tournament 0-60.
+  * April 5: 0-60 Ranked Tournament.
+  * April 12: 0-60 Unranked Tournament.
+  * April 19: 0-60 Ranked Tournament.
   * April 26: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
