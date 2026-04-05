@@ -54,7 +54,6 @@
 * 19:00. "Orion". 0-15 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:30. "Club 17".
-  * 2 April: Unranked Tournament 0-60.
   * 9 April: Ranked Tournament 0-60.
   * 16 April: Unranked Tournament 0-60.
   * 23 April: Unranked Tournament 0-60.
@@ -77,8 +76,6 @@
 <h3 id="saturday">Saturday</h3>
 
 * 08:00. "Spin Up" (at "Himars"). 0-30 Ranked Tournament. Prior registration is mandatory.
-* 09:00, April 4. "Gatne, SC" (Yurivka). Open Championship of Kyiv Region among children born in 2007 and younger.
-  Participation is free. Send applications to [fntko2025@gmail.com](mailto:fntko2025@gmail.com) before Friday 15:00. 
 * 09:00. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
@@ -109,14 +106,8 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
-  * April 5: 0-30 Ranked Tournament.
-* 10:00, April 5. "Orion". Tournament among military personnel. [Registration](https://docs.google.com/forms/d/e/1FAIpQLSeyFSp3sAkcbtr8NqZqNE2bUJLs9yea4thWua1gY5PLhkC6SQ/viewform).
 * 10:00. "Raketka". Ranked Tournament.
-  * April 5: 0-20 and 0-50 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:00, April 5. "VDNG Urban-Park". 0-100 Unranked Tournament [VDNH Spring Cup 2026](https://t.me/vdnh_cup_winter_2026/231), first prize is $100, second is $50.
-* 10:30, April 5. "Gatne, SC" (Yurivka). 0-25 Charity Ranked Tournament.
-* 11:00, April 5. "Pokolinnia". 0-10 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 14:30. "Orion". Children's Unranked Tournament for beginners.
@@ -126,7 +117,6 @@
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00. "Club 17".
-  * April 5: 0-60 Ranked Tournament.
   * April 12: 0-60 Unranked Tournament.
   * April 19: 0-60 Ranked Tournament.
   * April 26: Doubles Tournament.
