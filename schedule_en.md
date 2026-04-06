@@ -22,7 +22,7 @@
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 19:00. "Orion". 0-35 Ranked Tournament.
+* 19:00. "Orion". 0-25 Ranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
 
 <h3 id="wednesday">Wednesday</h3>
@@ -51,7 +51,7 @@
 * 18:30. "Volia". 0-45 Ranked Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 19:00. "Orion". 0-15 Unranked Tournament.
+* 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:30. "Club 17".
   * 9 April: Ranked Tournament 0-60.
@@ -84,7 +84,7 @@
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
-* 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking. [Regulations](https://docs.google.com/document/d/194IXfI6-9btmFhJQkRdbb_1qweSJc8kV_WCelirtOTQ/edit?tab=t.0).
+* 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
@@ -93,7 +93,7 @@
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
   * April 11: ❌
   * April 25: ❌
-* 15:00. "Orion". 0-10 Ranked Tournament.
+* 15:00. "Orion". Doubles Unranked Tournament, no ranking limit.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
@@ -108,8 +108,9 @@
 * 10:00. "Gourmet". Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:30. "Orion". 0-100 Ranked Tournament.
+* 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 14:30. "Orion". Children's Unranked Tournament for beginners.
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Respublica". 0-10 Ranked Tournament.
 * 18:30 - 21:00. "Orion". Ladder.
