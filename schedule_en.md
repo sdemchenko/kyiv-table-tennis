@@ -111,6 +111,7 @@
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
+* 11:00. "Respublica". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Respublica". 0-10 Ranked Tournament.
