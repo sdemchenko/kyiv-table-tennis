@@ -59,7 +59,30 @@ a[href^="https://www.google.com/maps/dir/"]::before {
 
 ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
-ul#toc ul { padding-inline-start: 2ch; }
+ul#toc ul { padding-inline-start: 1.5ch; }
+ul#toc > li { padding-bottom: 0.5rem; }
+
+.inline-list {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.inline-list li {
+    display: flex;
+    align-items: center;
+    font-size: 0.9rem;
+    opacity: 0.85;
+}
+
+.inline-list li + li::before {
+    content: "•";
+    margin: 0 0.5rem;
+    color: #BBB;
+}
 
 div#newsContainer {
     max-height: 220px;
