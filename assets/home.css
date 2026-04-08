@@ -74,8 +74,8 @@ ul#toc > li { padding-bottom: 0.5rem; }
 .inline-list li {
     display: flex;
     align-items: center;
-    font-size: 0.9rem;
-    opacity: 0.85;
+    font-size: 0.85rem;
+    opacity: 0.9;
 }
 
 .inline-list li + li::before {
