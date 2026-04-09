@@ -130,9 +130,7 @@ function highlightToday() {
     });
     $('#daysOfWeek li a').each(function () {
         const $a = $(this);
-        console.log($a.attr('href'))
         if ($a.attr('href') === '#' + todayId) {
-
             $a.addClass('today');
         } else {
             $a.removeClass('today');
