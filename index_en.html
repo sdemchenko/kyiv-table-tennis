@@ -20,16 +20,16 @@
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
     <link href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css" rel="stylesheet"/>
-    <link href="assets/light-or-dark-mode.css?cacheBuster=062" rel="stylesheet">
-    <link href="assets/home.css?cacheBuster=062" rel="stylesheet">
+    <link href="assets/light-or-dark-mode.css?cacheBuster=063" rel="stylesheet">
+    <link href="assets/home.css?cacheBuster=063" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
     <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/diff@5.0.0/dist/diff.min.js"></script>
-    <script src="assets/light-or-dark-mode.js?cacheBuster=062"></script>
-    <script src="assets/highlight-tournament-tiers.js?cacheBuster=062"></script>
-    <script src="assets/changelog.js?cacheBuster=062"></script>
-    <script src="assets/home.js?cacheBuster=062"></script>
+    <script src="assets/light-or-dark-mode.js?cacheBuster=063"></script>
+    <script src="assets/highlight-tournament-tiers.js?cacheBuster=063"></script>
+    <script src="assets/changelog.js?cacheBuster=063"></script>
+    <script src="assets/home.js?cacheBuster=063"></script>
     <!-- Google tag (gtag.js) -->
     <script>
         if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
@@ -48,32 +48,42 @@
 
 <h1>Kyiv Table Tennis: A Concise Guide</h1>
 
-<ul id="toc">
-    <li id="lang-switcher">🌐 <a href="./" hreflang="uk">UA</a> | EN</li>
-    <li><a href="#news">News</a></li>
-    <li><a href="#maps">Venues</a>
-        <ul class="inline-list">
-            <li><a href="#maps">Maps</a></li>
-            <li><a href="#t_clubs">Clubs and Halls</a></li>
-            <li><a href="#t_courts">Courts</a></li>
-        </ul>
-    </li>
-    <li><a href="#federation_events">Federation Competition Calendars</a></li>
-    <li><a href="#schedule">Weekly Club Competitions</a>
-        <ul class="inline-list" id="daysOfWeek">
-            <li><a href="#monday">Mon</a></li>
-            <li><a href="#tuesday">Tue</a></li>
-            <li><a href="#wednesday">Wed</a></li>
-            <li><a href="#thursday">Thu</a></li>
-            <li><a href="#friday">Fri</a></li>
-            <li><a href="#saturday">Sat</a></li>
-            <li><a href="#sunday">Sun</a></li>
-        </ul>
-    </li>
-    <li><a href="#competition_types">Club Competition Formats</a></li>
-    <li><a href="#training">Training</a></li>
-    <li><a href="#misc">Useful Info</a></li>
-</ul>
+<nav>
+    <ul id="toc">
+        <li id="lang-switcher">🌐 <a href="./" hreflang="uk">UA</a> | EN</li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#maps">Venues</a>
+            <ul class="inline-list">
+                <li><a href="#maps">Maps</a></li>
+                <li><a href="#t_clubs">Clubs and Halls</a></li>
+                <li><a href="#t_courts">Courts</a></li>
+            </ul>
+        </li>
+        <li><a href="#federation_events">Federation Competition Calendars</a></li>
+        <li><a href="#schedule">Weekly Club Competitions</a>
+            <ul class="inline-list" id="daysOfWeek">
+                <li><a data-day="monday" href="#monday">Mon</a></li>
+                <li><a data-day="tuesday" href="#tuesday">Tue</a></li>
+                <li><a data-day="wednesday" href="#wednesday">Wed</a></li>
+                <li><a data-day="thursday" href="#thursday">Thu</a></li>
+                <li><a data-day="friday" href="#friday">Fri</a></li>
+                <li><a data-day="saturday" href="#saturday">Sat</a></li>
+                <li><a data-day="sunday" href="#sunday">Sun</a></li>
+            </ul>
+        </li>
+        <li><a href="#competition_types">Club Competition Formats</a></li>
+        <li><a href="#training">Training</a></li>
+        <li><a href="#misc">Useful Info</a></li>
+    </ul>
+</nav>
+<script>
+    const dayIds = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
+    (function () {
+        const today = dayIds[new Date().getDay()];
+        const link = document.querySelector(`#daysOfWeek a[data-day="${today}"]`);
+        if (link) link.classList.add('today');
+    })();
+</script>
 
 <h2 id="news">News</h2>
 <div id="newsContainer">
