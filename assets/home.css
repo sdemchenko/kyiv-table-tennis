@@ -80,7 +80,7 @@ ul#toc > li { padding-bottom: 0.5rem; }
 
 .inline-list li + li::before {
     content: "•";
-    margin: 0 0.5rem;
+    margin: 0 0.3rem;
     color: #BBB;
 }
 
