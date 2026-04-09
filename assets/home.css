@@ -61,6 +61,7 @@ ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
 ul#toc ul { padding-inline-start: 1.5ch; }
 ul#toc > li { padding-bottom: 0.5rem; }
+ul#toc > li:last-child { padding-bottom: 0; }
 
 .inline-list {
     display: flex;
