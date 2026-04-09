@@ -62,11 +62,17 @@ ul#toc { padding: 0; }
 ul#toc ul { padding-inline-start: 1.5ch; }
 ul#toc > li { padding-bottom: 0.5rem; }
 ul#toc > li:last-child { padding-bottom: 0; }
-#daysOfWeek li a.today {
-    border: 1px solid;
+#daysOfWeek li a {
+    border: 1px solid transparent;
     border-radius: 4px;
     padding: 0 2px;
     display: inline-block;
+}
+#daysOfWeek li a.today {
+    border-color: var(--a-fg-color);
+}
+#daysOfWeek li  + li::before {
+    margin: 0 0.1rem;
 }
 
 .inline-list {
