@@ -79,7 +79,7 @@
 * 08:00. "Spin Up" (at "Himars"). 0-30 Ranked Tournament. Prior registration is mandatory.
 * 09:00. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
-* 10:00, April 11. "Drahomanov University Sports Complex". the third round of the Open Club Championship of Kyiv. [Announcement](https://www.facebook.com/kmfntua/posts/pfbid026rHvzugUuBt1CZirAtTDyoPBAQBntS9Ty264pr1kAeyVEsNCvt8wYotCj9g8z8BXl).
+* 10:00, April 11. "Drahomanov University Sports Complex". the third round of the Open Club Championship of Kyiv. [Announcement](https://www.facebook.com/kmfntua/posts/pfbid026rHvzugUuBt1CZirAtTDyoPBAQBntS9Ty264pr1kAeyVEsNCvt8wYotCj9g8z8BXl). [Schedule](https://ligas.io/tournament/49empf/results).
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00, April 18. "Podolskiy". Unranked Tournament for amateurs. Prior registration is mandatory (+380443934343, +380503358698). [Details](https://t.me/krsp_tt_tour/747).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
@@ -115,7 +115,7 @@
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Respublica". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 12:00, April 12. "Drahomanov University Sports Complex". the third round of the Open Club Championship of Kyiv. [Announcement](https://www.facebook.com/kmfntua/posts/pfbid026rHvzugUuBt1CZirAtTDyoPBAQBntS9Ty264pr1kAeyVEsNCvt8wYotCj9g8z8BXl).
+* 12:00, April 12. "Drahomanov University Sports Complex". the third round of the Open Club Championship of Kyiv. [Announcement](https://www.facebook.com/kmfntua/posts/pfbid026rHvzugUuBt1CZirAtTDyoPBAQBntS9Ty264pr1kAeyVEsNCvt8wYotCj9g8z8BXl). [Schedule](https://ligas.io/tournament/49empf/results).
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Respublica". 0-10 Ranked Tournament.
 * 18:30 - 21:00. "Orion". Ladder.

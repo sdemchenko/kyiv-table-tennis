@@ -84,7 +84,7 @@
 * 10:00. "Брейкс". Рейтинговий турнір 0-100.
 * 10:00 - 12:00. "Лідер (ДЮСШ)". Гра на столи (група: вівторок, четвер, субота).
 * 10:00. "Солом'янка". Нерейтинговий турнір 0-100. Обовʼязкова попередня реєстрація.
-* 10:00, 11 квітня. "Спорткомплекс УДУ". Третій тур Київської ліги відкритого клубного чемпіонату Києва. [Анонс](https://www.facebook.com/kmfntua/posts/pfbid026rHvzugUuBt1CZirAtTDyoPBAQBntS9Ty264pr1kAeyVEsNCvt8wYotCj9g8z8BXl).
+* 10:00, 11 квітня. "Спорткомплекс УДУ". Третій тур Київської ліги відкритого клубного чемпіонату Києва. [Анонс](https://www.facebook.com/kmfntua/posts/pfbid026rHvzugUuBt1CZirAtTDyoPBAQBntS9Ty264pr1kAeyVEsNCvt8wYotCj9g8z8BXl). [Розклад](https://ligas.io/tournament/49empf/results).
 * 10:30. "Orion". Рейтинговий турнір 0-25.
 * 10:30. "Orion". Рейтинговий турнір 0-5.
 * 11:00. "Quiks". Рейтинговий турнір 0-10.
@@ -115,7 +115,7 @@
 * 10:30. "Orion". Нерейтинговий турнір для гравців, у яких ніколи не було рейтингу ФНТУ.
 * 11:00. "Respublica". Рейтинговий турнір 0-15.
 * 11:00. "Старт". Нерейтинговий турнір 0-100.
-* 12:00, 12 квітня. "Спорткомплекс УДУ". Третій тур Київської ліги відкритого клубного чемпіонату Києва. [Анонс](https://www.facebook.com/kmfntua/posts/pfbid026rHvzugUuBt1CZirAtTDyoPBAQBntS9Ty264pr1kAeyVEsNCvt8wYotCj9g8z8BXl).
+* 12:00, 12 квітня. "Спорткомплекс УДУ". Третій тур Київської ліги відкритого клубного чемпіонату Києва. [Анонс](https://www.facebook.com/kmfntua/posts/pfbid026rHvzugUuBt1CZirAtTDyoPBAQBntS9Ty264pr1kAeyVEsNCvt8wYotCj9g8z8BXl). [Розклад](https://ligas.io/tournament/49empf/results).
 * 15:00. "Orion". Рейтинговий турнір 0-15.
 * 15:00. "Respublica". Рейтинговий турнір 0-10.
 * 18:30 - 22:30. "Воля". Гра на столи.
