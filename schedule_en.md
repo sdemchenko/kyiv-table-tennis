@@ -97,6 +97,7 @@
   * April 25: ❌
 * 15:00. "Orion". Doubles Unranked Tournament, no ranking limit.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
+* 16:00 - 21:00, April 11. Pavilion #32 of VDNG. Unranked Tournament, round-robin. 200₴. [Announcement](https://t.me/tenis_baracholka).
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30. "Quiks". Doubles Unranked Tournament, no ranking limit.
