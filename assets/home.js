@@ -78,9 +78,6 @@ function configureBackToTopButton() {
     $(window).scroll(function(){
         showOrHideBackToTop();
     });
-    backToTop.click(function() {
-        window.scrollTo(0, 0);
-    });
     showOrHideBackToTop();
 }
 
