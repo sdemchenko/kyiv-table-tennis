@@ -371,7 +371,6 @@ div#copyright {
     bottom: 20px;
     right: calc(50% - 430px);
     z-index: 99;
-    font-size: 20px;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
