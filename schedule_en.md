@@ -47,7 +47,7 @@
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
-* 18:00. "Quiks". 0-21 Ranked Tournament.
+* 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:15 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Volia". 0-45 Ranked Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
@@ -109,8 +109,10 @@
 * 10:00. "Raketka". Ranked Tournament.
   * April 19: 0-20 and 0-50 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Respublica". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
+* 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Respublica". 0-10 Ranked Tournament.
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
