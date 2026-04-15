@@ -88,6 +88,7 @@
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
+* 13:00, April 18. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament.
 * 13:00. "Grand-Prix". 0-10 Ranked Tournament. Prior registration is mandatory.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
@@ -109,6 +110,7 @@
 * 10:00. "Raketka". Ranked Tournament.
   * April 19: 0-20 and 0-50 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:30, April 19. "Gatne, SC" (Yurivka). 5-30 Charity Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Respublica". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
