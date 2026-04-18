@@ -107,6 +107,7 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
+  * April 19: 0-30.
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3713). [Regulations](https://docs.google.com/document/d/1eM-jm2rx4lFy_A7uqAWk-qJicJXhORQoUP98DsatTsQ/edit?tab=t.0).
 * 10:00. "Raketka". Ranked Tournament.
   * April 19: 0-20 and 0-50 Ranked Tournaments will start at the same time.
