@@ -55,7 +55,6 @@
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:30. "Club 17".
-  * 16 April: Unranked Tournament 0-60.
   * 23 April: Unranked Tournament 0-60.
   * 30 April: Ranked Tournament 0-60.
 
@@ -80,7 +79,6 @@
 * 09:00. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 10:00, April 18. "Podolskiy". Unranked Tournament for amateurs. Prior registration is mandatory (+380443934343, +380503358698). [Details](https://t.me/krsp_tt_tour/747).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
@@ -89,7 +87,6 @@
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-* 13:00, April 18. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament.
 * 13:00. "Grand-Prix". 0-10 Ranked Tournament. Prior registration is mandatory.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
@@ -107,12 +104,9 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
-  * April 19: 0-30.
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3713). [Regulations](https://docs.google.com/document/d/1eM-jm2rx4lFy_A7uqAWk-qJicJXhORQoUP98DsatTsQ/edit?tab=t.0).
 * 10:00. "Raketka". Ranked Tournament.
-  * April 19: 0-20 and 0-50 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:30, April 19. "Gatne, SC" (Yurivka). 5-30 Charity Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Respublica". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
@@ -121,6 +115,5 @@
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00. "Club 17".
-  * April 19: 0-60 Ranked Tournament.
   * April 26: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
