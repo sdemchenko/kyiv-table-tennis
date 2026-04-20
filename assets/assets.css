@@ -21,4 +21,26 @@ a:hover { text-decoration: underline; }
     padding: 1em;
 }
 
-img, video { padding-bottom: 10px; }
+.media-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.media-list img,
+.media-list video {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.media-list img {
+    max-height: 150vh;
+    object-fit: contain;
+}
+
+.media-list video {
+    width: 100%;
+    max-height: 120vh;
+    object-fit: contain;
+}
