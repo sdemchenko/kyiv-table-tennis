@@ -13,7 +13,22 @@ h3 { font-size: 1.15em; }
 a { color: var(--a-fg-color); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-#to_home { text-align: left; display: block; width: fit-content; font-size: 2em; }
+#to_home {
+    text-align: left;
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
+#to_home svg {
+    width: 32px;
+    height: 32px;
+    fill: none;
+    stroke: var(--a-fg-color);
+    stroke-width: 2.2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
 
 #content {
     display: inline-block;
