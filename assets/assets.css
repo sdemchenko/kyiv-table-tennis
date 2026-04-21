@@ -25,7 +25,7 @@ a:hover { text-decoration: underline; }
     height: 32px;
     fill: none;
     stroke: var(--a-fg-color);
-    stroke-width: 2.2;
+    stroke-width: 2.5;
     stroke-linecap: round;
     stroke-linejoin: round;
 }
