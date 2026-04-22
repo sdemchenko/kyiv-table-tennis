@@ -105,6 +105,11 @@
 <h3 id="sunday">Sunday</h3>
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
+* 10:00, May 3. "Orion". "Orion Kids Cup". [Announcment](https://t.me/ttorion/4003). [Registration](https://forms.gle/X4bgJdEnJCYFukDm6). Categories:
+  * boys 2011 y.o.b. and younger
+  * boys 2013 y.o.b. and younger
+  * girls 2011 y.o.b. and younger
+  * girls 2013 y.o.b. and younger
 * 10:00. "Raketka". Ranked Tournament.
   * April 26: 0-15 and 0-25 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
