@@ -32,6 +32,7 @@
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Grand-Prix". 0-10 Ranked Tournament. Prior registration is mandatory.
+  * April 22: ❌
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
