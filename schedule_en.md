@@ -46,6 +46,7 @@
 
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
+* 17:15, April 24. "Leader (RC)". 0-25 Ranked Tournament "TOP-12".
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
