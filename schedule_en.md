@@ -91,6 +91,7 @@
 * 13:00. "Grand-Prix". 0-10 Ranked Tournament. Prior registration is mandatory.
 * 13:00, April 25. "Holosiïv". Unranked Tournament. Entry fee 200₴, all money will go to the Ukrainian Army.
 * 15:00. "DBK-4 Sports Complex". Ladder.
+* 15:00, April 25. "Gourmet". 0-45 Ranked Tournament.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
   * April 25: ❌
 * 15:00. "Orion". 0-10 Ranked Tournament.
@@ -118,7 +119,6 @@
 * 11:00. "Respublica". 0-20 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00 - 13:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
-* 15:00. "Gourmet". 0-45 Ranked Tournament.
 * 15:00. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
