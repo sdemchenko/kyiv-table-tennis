@@ -103,6 +103,7 @@
 * 18:30. "Quiks". Doubles Unranked Tournament, no ranking limit.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
+  * April 25: 17:00 - 22:00
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 
 <h3 id="sunday">Sunday</h3>
