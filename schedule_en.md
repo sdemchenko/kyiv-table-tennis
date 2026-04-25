@@ -87,6 +87,7 @@
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
+  * April 25: ❌
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 13:00. "Grand-Prix". 0-10 Ranked Tournament. Prior registration is mandatory.
 * 13:00, April 25. "Holosiïv". Unranked Tournament. Entry fee 200₴, all money will go to the Ukrainian Army.
