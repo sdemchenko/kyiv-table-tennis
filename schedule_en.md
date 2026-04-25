@@ -116,7 +116,7 @@
   * girls 2011 y.o.b. and younger
   * girls 2013 y.o.b. and younger
 * 10:00. "Raketka". Ranked Tournament.
-  * April 26: 0-15 and 0-25 Ranked Tournaments will start at the same time.
+  * April 26: 0-15 and 0-25 Ranked Tournaments will start at the same time. Players participating in both tournaments pay 200₴ for the second one.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Respublica". 0-20 Ranked Tournament.
