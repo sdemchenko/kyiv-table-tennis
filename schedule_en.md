@@ -108,6 +108,8 @@
 <h3 id="sunday">Sunday</h3>
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
+* 10:00. "Gourmet". Ranked Tournament.
+  * April 26: 0-100 Ranked Tournament
 * 10:00, May 3. "Orion". "Orion Kids Cup". [Announcment](https://t.me/ttorion/4003). [Registration](https://forms.gle/X4bgJdEnJCYFukDm6). Categories:
   * boys 2011 y.o.b. and younger
   * boys 2013 y.o.b. and younger
