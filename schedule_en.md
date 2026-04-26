@@ -32,7 +32,6 @@
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Grand-Prix". 0-10 Ranked Tournament. Prior registration is mandatory.
-  * April 22: ❌
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:10. "Himars". 0-45 Ranked Tournament.
 * 18:30 - 22:30. "Volia". Ladder.
@@ -46,7 +45,6 @@
 
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
-* 17:15, April 24. "Leader (RC)". 0-25 Ranked Tournament "TOP-12".
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
@@ -56,8 +54,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
-* 20:30. "Club 17".
-  * 23 April: Unranked Tournament 0-60.
+* 20:30. "Club 17". Tournament.
   * 30 April: Ranked Tournament 0-60.
 
 <h3 id="friday">Friday</h3>
@@ -87,14 +84,10 @@
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
-  * April 25: ❌
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 13:00. "Grand-Prix". 0-10 Ranked Tournament. Prior registration is mandatory.
-* 13:00, April 25. "Holosiïv". Unranked Tournament. Entry fee 200₴, all money will go to the Ukrainian Army.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, April 25. "Gourmet". 0-45 Ranked Tournament.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
-  * April 25: ❌
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
@@ -103,21 +96,18 @@
 * 18:30. "Quiks". Doubles Unranked Tournament, no ranking limit.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
-  * April 25: 17:00 - 22:00
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 
 <h3 id="sunday">Sunday</h3>
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
-  * April 26: 0-100 Ranked Tournament
 * 10:00, May 3. "Orion". "Orion Kids Cup". [Announcment](https://t.me/ttorion/4003). [Registration](https://forms.gle/X4bgJdEnJCYFukDm6). Categories:
   * boys 2011 y.o.b. and younger
   * boys 2013 y.o.b. and younger
   * girls 2011 y.o.b. and younger
   * girls 2013 y.o.b. and younger
 * 10:00. "Raketka". Ranked Tournament.
-  * April 26: 0-15 and 0-25 Ranked Tournaments will start at the same time. Players participating in both tournaments pay 200₴ for the second one.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Respublica". 0-20 Ranked Tournament.
@@ -127,9 +117,7 @@
 * 15:00. "Orion". 0-15 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Respublica". 0-10 Ranked Tournament.
-  * April 26: 0-10 Smash Respublica Grand Final
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
-* 19:00. "Club 17".
-  * April 26: Doubles Tournament.
+* 19:00. "Club 17". Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
