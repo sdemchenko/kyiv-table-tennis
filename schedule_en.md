@@ -93,7 +93,6 @@
 * 15:00. "Quiks". 0-25 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
-* 18:30. "Quiks". Doubles Unranked Tournament, no ranking limit.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
