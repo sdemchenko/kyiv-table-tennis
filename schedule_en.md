@@ -106,11 +106,11 @@
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
-* 11:00. "Respublica". 0-20 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00 - 13:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
-* 15:00. "Respublica". 0-10 Ranked Tournament.
+* 15:00. "Respublica". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/103).
+  * May 31: 0-10 Smash Respublica Grand Final
 * 18:30 - 21:00. "Orion". Ladder.
 * 18:30 - 22:30. "Volia". Ladder.
 * 19:00. "Club 17". Tournament.
