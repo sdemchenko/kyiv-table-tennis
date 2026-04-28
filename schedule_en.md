@@ -6,7 +6,7 @@
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00 - 20:00. "Pechersk". Ladder.
-* 18:30 - 22:30. "Volia". Ladder.
+* 18:00 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:20. "Sports School #21". 0-100 Unranked Tournament, everyone plays everyone in best‑of‑five matches.
@@ -18,8 +18,8 @@
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00 - 20:00. "Pechersk". Ladder.
+* 18:00 - 22:30. "Volia". Ladder.
 * 18:15 - 20:40. "Sports School #23". Ladder.
-* 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Ranked Tournament.
@@ -33,8 +33,8 @@
 * 18:00, April 29. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 20:00. "Pechersk". Ladder.
+* 18:00 - 22:30. "Volia". Ladder.
 * 18:10. "Himars". 0-45 Ranked Tournament.
-* 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
@@ -66,7 +66,7 @@
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00. "Quiks". 0-5 Ranked Tournament.
 * 18:00. "Sports School #21". 0-100 Unranked Tournament, everyone plays everyone in best‑of‑five matches.
-* 18:30 - 22:30. "Volia". Ladder.
+* 18:00 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
@@ -90,8 +90,8 @@
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
+* 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
-* 18:30 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 
@@ -113,7 +113,7 @@
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Respublica". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/103).
   * May 31: 0-10 Smash Respublica Grand Final
+* 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
-* 18:30 - 22:30. "Volia". Ladder.
 * 19:00. "Club 17". Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
