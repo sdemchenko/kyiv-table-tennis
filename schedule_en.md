@@ -105,6 +105,7 @@
   * girls 2011 y.o.b. and younger
   * girls 2013 y.o.b. and younger
 * 10:00. "Raketka". Ranked Tournament.
+  * May 3: 0-20 and 0-50 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
