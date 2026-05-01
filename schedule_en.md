@@ -82,7 +82,7 @@
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:30, May 2. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
-* 15:00. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
+* 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
