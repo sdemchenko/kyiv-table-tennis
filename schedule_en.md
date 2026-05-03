@@ -55,7 +55,10 @@
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:30. "Club 17". Tournament.
-  * 30 April: Ranked Tournament 0-60.
+  * May 7: 0-60 Unranked Tournament.
+  * May 14: 0-60 Ranked Tournament.
+  * May 21: 0-60 Unranked Tournament.
+  * May 28: 0-60 Ranked Tournament.
 
 <h3 id="friday">Friday</h3>
 
@@ -123,4 +126,9 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
+  * May 3: 0-60 Ranked Tournament.
+  * May 10: 0-60 Unranked Tournament.
+  * May 17: 0-60 Ranked Tournament.
+  * May 24: 0-60 Unranked Tournament.
+  * May 31: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
