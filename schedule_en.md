@@ -30,7 +30,6 @@
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
-* 18:00, April 29. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
@@ -83,17 +82,14 @@
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
-* 10:30, May 2. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
-* 11:00, May 2. "Volia". 0-25 Ranked Tournament.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, May 2. "Gourmet". 0-45 Ranked Tournament.
+* 15:00. "Gourmet". Ranked Tournament.
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
-  * May 2: ❌
   * May 9: ❌
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
@@ -107,16 +103,8 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
-  * May 3: 0-30.
-* 10:00, May 3. "Orion". "Orion Kids Cup". [Announcment](https://t.me/ttorion/4003). [Registration](https://forms.gle/X4bgJdEnJCYFukDm6). Categories:
-  * boys 2011 y.o.b. and younger
-  * boys 2013 y.o.b. and younger
-  * girls 2011 y.o.b. and younger
-  * girls 2013 y.o.b. and younger
 * 10:00. "Raketka". Ranked Tournament.
-  * May 3: 0-20 and 0-50 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:30, May 3. "Gatne, SC" (Yurivka). 0-25 Charity Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00 - 13:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
@@ -126,7 +114,6 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * May 3: 0-60 Ranked Tournament.
   * May 10: 0-60 Unranked Tournament.
   * May 17: 0-60 Ranked Tournament.
   * May 24: 0-60 Unranked Tournament.
