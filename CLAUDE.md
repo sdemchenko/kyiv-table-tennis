@@ -49,5 +49,5 @@ Key variables: `--page-bg-color`, `--ranked-bg`, `--unranked-bg`.
 - Font Awesome 6.7.2
 
 ## Applied Learning
-When something fails repeatedly, when Nate has to re-explain, or when a workaround is found for a platform/tool limitation,
+When something fails repeatedly, when human has to re-explain, or when a workaround is found for a platform/tool limitation,
 add a one-line bullet here. Keep each bullet under 15 words. No explanations. Only add things that will save time in future sessions.
