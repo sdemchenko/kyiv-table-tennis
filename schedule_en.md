@@ -31,7 +31,7 @@
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
-  * May 6: 0-15 Doubles Ranked Tournament.
+  * May 6: ❌
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
