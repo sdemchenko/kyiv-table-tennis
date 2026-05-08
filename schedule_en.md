@@ -84,6 +84,7 @@
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
   * May 9: ❌
+* 10:00, May 16. "Sports School #21". 0-100 Unranked Tournament, fee 250₴, prizes 250₴, 500₴, 750₴.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 10:30. "Orion". 0-5 Ranked Tournament.
