@@ -92,6 +92,7 @@
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Gourmet". Ranked Tournament.
+  * May 9: 0-45
 * 15:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
   * May 9: ❌
 * 15:00. "Orion". 0-10 Ranked Tournament.
