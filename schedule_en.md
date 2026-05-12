@@ -105,6 +105,7 @@
 * 10:00. "Gourmet". Ranked Tournament.
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3713). [Regulations](https://docs.google.com/document/d/1eM-jm2rx4lFy_A7uqAWk-qJicJXhORQoUP98DsatTsQ/edit?tab=t.0).
 * 10:00. "Raketka". Ranked Tournament.
+  * May 17: 0-10 and 0-45 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
