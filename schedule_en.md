@@ -84,6 +84,7 @@
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00, May 16. "Sports School #21". 0-100 Unranked Tournament.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
+* 10:30, May 16. "Gatne, SC" (Yurivka). 0-15 Charity Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
@@ -108,6 +109,7 @@
 * 10:00. "Raketka". Ranked Tournament.
   * May 17: 0-10 and 0-45 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:30, May 17. "Gatne, SC" (Yurivka). 0-25 Charity Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00 - 13:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
