@@ -36,6 +36,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://tabletennis.kyiv.ua/assets/honchara-55b/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://tabletennis.kyiv.ua/assets/hydropark-behind-weights-1/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
