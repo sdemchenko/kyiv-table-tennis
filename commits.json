@@ -1,0 +1,44 @@
+{
+  "data": {
+    "repository": {
+      "ref": {
+        "target": {
+          "history": {
+            "nodes": [
+{"oid": "ea5060615877a920c86a2e5bbeb52ebe0a328d4b", "committedDate": "2026-05-16T07:12:14+03:00", "message": "Updated the workflow to generate the commit list."},
+{"oid": "623203ef3036cc9faeff48e3ce165c063626f5e8", "committedDate": "2026-05-15T19:50:22+03:00", "message": "Clarified "KUTT" hours."},
+{"oid": "4e7831945e0e436123e977fc6c82a764d7c1e2f7", "committedDate": "2026-05-15T19:33:12+03:00", "message": "Clarified geolocation links."},
+{"oid": "99eb99278c5bc024051e7cfc0c7982894331a685", "committedDate": "2026-05-15T19:17:46+03:00", "message": "Clarified geolocation links."},
+{"oid": "eb328f55a5be8b455e6518d677a33c5167aef922", "committedDate": "2026-05-15T19:10:22+03:00", "message": "Clarified geolocation links."},
+{"oid": "a42c1e450ed59c6a705578bb0deccbec91e194f2", "committedDate": "2026-05-15T19:08:40+03:00", "message": "Clarified geolocation links."},
+{"oid": "7fc71ca2a9296cffb87c29718824e62c4923c0ed", "committedDate": "2026-05-15T19:01:59+03:00", "message": "Clarified geolocation links."},
+{"oid": "4eca80ae54461e66d23309c73607ea0d222dc40c", "committedDate": "2026-05-15T18:50:06+03:00", "message": "Clarified geolocation links."},
+{"oid": "c3b2fd469ae544e3823bac0ec1ac61f875477b27", "committedDate": "2026-05-15T16:15:04+03:00", "message": "Tournaments in "Gourmet"."},
+{"oid": "af0f347841e6d8e7670bd2bfcfca844b19d7a400", "committedDate": "2026-05-15T16:12:24+03:00", "message": ""Himars" - Telegram."},
+{"oid": "79fa8296c5f6af3a6e11d190b1e10afdd42fe03d", "committedDate": "2026-05-15T00:36:41+03:00", "message": ""Volia" - free training for war veterans and their families."},
+{"oid": "45f295e19f5da251e5903ca2dffbd188591b3357", "committedDate": "2026-05-15T00:14:07+03:00", "message": ""Kashtan" coffeehouse - more info."},
+{"oid": "78932d4bd5f7712ce3502325c17ce746242dd8d7", "committedDate": "2026-05-14T23:52:12+03:00", "message": "Honchara 55b - more info."},
+{"oid": "672d45e04e9c2bd14d443286dd6f2300211640ad", "committedDate": "2026-05-14T23:28:58+03:00", "message": "Politekhnichnyi Lane, 3 - more info."},
+{"oid": "56110f45bbd4b3b513ca46e2638ea93fb37baca7", "committedDate": "2026-05-14T23:09:34+03:00", "message": "Cosmetic."},
+{"oid": "8d8c9b7e0bcdd0351bbd23fd07c6ad60518d4a60", "committedDate": "2026-05-14T23:01:41+03:00", "message": "Paradzhanova Park - assets."},
+{"oid": "9735471944f213e2c8736098e08351c3ae302d44", "committedDate": "2026-05-14T22:42:04+03:00", "message": "Solomianskyi Landscape Park - clarified."},
+{"oid": "b25a9d14526aa1de466fff47aed3b793d22b5274", "committedDate": "2026-05-14T21:58:16+03:00", "message": "Tournaments in "Gatne, SC"."},
+{"oid": "f8d453605cbf4ca74d4e0bcbab532e6e4bed0016", "committedDate": "2026-05-14T13:15:28+03:00", "message": "Merge pull request #1 from BorysShcherbyna/fix-hurman-coordinates"},
+{"oid": "6c30d9c5a82e3a27e4004d4af97b16d8e0ee1bc0", "committedDate": "2026-05-14T10:03:56+03:00", "message": "fix Hurman (Гурман) club coordinates"},
+{"oid": "84f37f63c2d7bcd77bd92a59b824d6b915e19c8e", "committedDate": "2026-05-14T06:59:29+03:00", "message": "Cosmetic."},
+{"oid": "2c0d3816689589a86e87c5439d939864ee66e146", "committedDate": "2026-05-14T05:42:12+03:00", "message": "Veselka Park - more precise coordinates."},
+{"oid": "5d4665fed8b1e956077778c11981b2aeb241d11e", "committedDate": "2026-05-13T04:11:45+03:00", "message": "Cosmetic."},
+{"oid": "0e44bded44193f50db08e6b6b471d07510c3b5fe", "committedDate": "2026-05-13T04:03:48+03:00", "message": "Cosmetic."},
+{"oid": "375ef20e4ded51e77320f02a7bb577991556e3bb", "committedDate": "2026-05-13T03:48:10+03:00", "message": "Cosmetic."},
+{"oid": "036b584a00f36de89eb7413b1bb446deefa36a50", "committedDate": "2026-05-13T03:13:15+03:00", "message": "Cosmetic."},
+{"oid": "51621a42509d8c511bc8d3844937e0b70f57e2c7", "committedDate": "2026-05-13T03:12:09+03:00", "message": ""Joola Avanti" net clarified."},
+{"oid": "68f21a8bbecb8085f6f8f83df663c57101ffaff4", "committedDate": "2026-05-12T23:45:32+03:00", "message": "Copy-paste error."},
+{"oid": "ae6ef6a4bc3b19958a10760aef4bab565787ad82", "committedDate": "2026-05-12T23:40:22+03:00", "message": "Tournaments in "Grand-Prix"."},
+{"oid": "910fe4ff19aae1f9080316d57bd41dd2e48cb10b", "committedDate": "2026-05-12T23:37:52+03:00", "message": "Tournaments in "Raketka"."}
+]
+          }
+        }
+      }
+    }
+  }
+}
