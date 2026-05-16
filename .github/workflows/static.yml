@@ -1,14 +1,17 @@
+# Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
 on:
+  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: write  # Upgraded to write so we can push the JSON file
+  contents: read
   pages: write
   id-token: write
 
@@ -16,51 +19,11 @@ permissions:
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
-  # JOB 1: Generate the JSON and push it to the repository
-  update-json:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # Fetches history so git log works
-
-      - name: Generate Commit JSON
-        run: |
-          # 1. Fetch git history and format it into JSON objects matching GraphQL nodes
-          git log -n 30 --pretty=format:'{"oid": "%H", "committedDate": "%cI", "message": "%s"},' | \
-          sed '$ s/,$//' | \
-          awk 'BEGIN {print "["} {print} END {print "]"}' > /tmp/nodes.json
-
-          # 2. Combine the nodes into the deep GraphQL structural wrapper
-          cat << EOF > commits.json
-          {
-            "data": {
-              "repository": {
-                "ref": {
-                  "target": {
-                    "history": {
-                      "nodes": $(cat /tmp/nodes.json)
-                    }
-                  }
-                }
-              }
-            }
-          }
-          EOF
-
-      - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: automated update of recent commits list [skip ci]"
-          file_pattern: 'commits.json'
-
-  # JOB 2: Deploy the updated repository to GitHub Pages
+  # Single deploy job since we're just deploying
   deploy:
-    needs: update-json # Forces deployment to wait until the JSON is pushed
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -68,17 +31,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          ref: main # Pulls the absolute freshest code (including the new JSON)
-
       - name: Setup Pages
         uses: actions/configure-pages@v5
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
+          # Upload entire repository
           path: '.'
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
