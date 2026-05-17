@@ -11,6 +11,11 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://tabletennis.kyiv.ua/assets/beresteiskyi-134/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://tabletennis.kyiv.ua/assets/breiks/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
@@ -22,6 +27,11 @@
     </url>
     <url>
         <loc>https://tabletennis.kyiv.ua/assets/dashkevycha/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/dobrohotova-7/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -71,6 +81,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://tabletennis.kyiv.ua/assets/kolasa-5/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://tabletennis.kyiv.ua/assets/kolorit/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
@@ -101,6 +116,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://tabletennis.kyiv.ua/assets/park-veselka/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://tabletennis.kyiv.ua/assets/partisan-glory-park/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
@@ -127,6 +147,11 @@
     </url>
     <url>
         <loc>https://tabletennis.kyiv.ua/assets/solomianskyi-landscape-park/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/sovky/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
