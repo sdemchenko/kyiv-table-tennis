@@ -31,7 +31,6 @@
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
-  * May 13: the tournament will probably be cancelled due to the lack of participants.
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
@@ -56,7 +55,6 @@
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:30. "Club 17". Tournament.
-  * May 14: 0-60 Ranked Tournament.
   * May 21: 0-60 Unranked Tournament.
   * May 28: 0-60 Ranked Tournament.
 
@@ -82,9 +80,7 @@
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
-* 10:00, May 16. "Sports School #21". 0-100 Unranked Tournament.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
-* 10:30, May 16. "Gatne, SC" (Yurivka). 0-15 Charity Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
@@ -105,12 +101,9 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
-  * May 17: 0-30
 * 10:00. "Orion". [Orion Team Championship 2026](https://t.me/ttorion/3713). [Regulations](https://docs.google.com/document/d/1eM-jm2rx4lFy_A7uqAWk-qJicJXhORQoUP98DsatTsQ/edit?tab=t.0).
 * 10:00. "Raketka". Ranked Tournament.
-  * May 17: 0-10 and 0-45 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:30, May 17. "Gatne, SC" (Yurivka). 0-25 Charity Ranked Tournament.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00 - 13:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
@@ -120,7 +113,6 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * May 17: 0-60 Ranked Tournament.
   * May 24: 0-60 Unranked Tournament.
   * May 31: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
