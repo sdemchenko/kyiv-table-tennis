@@ -44,17 +44,32 @@ a:hover { text-decoration: underline; }
     margin-right: 0.25em;
     font-family: system-ui, -apple-system, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI", Roboto, "Noto Color Emoji", sans-serif;
     display: inline;
+    pointer-events: none;
 }
 
 a[href^="https://www.google.com/maps/dir/"]::before {
+    content: "\f124";
+    font: var(--fa-font-solid);
+    -webkit-font-smoothing: antialiased;
+    font-size: 0.85em;
+    opacity: 1;
+    margin-right: 0.22em;
+    vertical-align: -0.04em;
+    pointer-events: none;
+}
+
+a[href^="https://www.google.com/maps/place/"] {
+    white-space: nowrap;
+}
+a[href^="https://www.google.com/maps/place/"]::before {
     content: "\f3c5";
     font: var(--fa-font-solid);
     -webkit-font-smoothing: antialiased;
-
-    font-size: 0.7em;
-    opacity: 0.8;
-    margin-right: 0.2em;
-    vertical-align: middle;
+    display: inline-block;
+    font-size: 0.78em;
+    opacity: 0.85;
+    margin-right: 0.22em;
+    pointer-events: none;
 }
 
 ul#toc, ul#toc ul { list-style-type: none; }
