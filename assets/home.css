@@ -61,16 +61,6 @@ a[href^="https://www.google.com/maps/dir/"]::before {
 a[href^="https://www.google.com/maps/place/"] {
     white-space: nowrap;
 }
-a[href^="https://www.google.com/maps/place/"]::before {
-    content: "\f3c5";
-    font: var(--fa-font-solid);
-    -webkit-font-smoothing: antialiased;
-    display: inline-block;
-    font-size: 0.78em;
-    opacity: 0.85;
-    margin-right: 0.22em;
-    pointer-events: none;
-}
 
 ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
