@@ -55,6 +55,7 @@ a[href^="https://www.google.com/maps/dir/"]::before {
     opacity: 1;
     margin-right: 0.22em;
     display: inline; /* do not tear the text from the icon */
+    pointer-events: none;
 }
 
 a.google-maps-place {
@@ -70,6 +71,7 @@ a.google-maps-place::before {
     opacity: 1;
     margin-right: 0.22em;
     display: inline-block; /* inline-block + nowrap on the whole link because we use linear-gradient. */
+    pointer-events: none;
 
     background: linear-gradient(135deg, #ea4335 0%, #ea4335 30%, #fabc05 30%, #fabc05 52%, #34a853 52%, #34a853 63%, #4285f4 63%);
     -webkit-background-clip: text;
@@ -143,16 +145,16 @@ details > summary {
 }
 summary::-webkit-details-marker { display: none; }
 summary::before {
-    margin-right: 0.2rem;
     content: "\f055";
     font: var(--fa-font-solid);
     -webkit-font-smoothing: antialiased;
+    margin-right: 0.2rem;
 }
 details[open] summary::before {
-    margin-right: 0.2rem;
     content: "\f056";
     font: var(--fa-font-solid);
     -webkit-font-smoothing: antialiased;
+    margin-right: 0.2rem;
 }
 
 details > p {
