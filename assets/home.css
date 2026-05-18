@@ -13,9 +13,17 @@ body {
     /*noinspection CssNoGenericFontName*/
     font-family: var(--font-family-sans);
     font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
     max-width: 860px;
     padding: 0 5px;
     margin: auto;
+}
+
+input[type="text"], input[type="search"] {
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 4px;
 }
 
 p { margin-top: 0.5rem; margin-bottom: 0.5rem; }
@@ -34,9 +42,19 @@ h2 { font-size: 1.4rem; margin-top: 1.4rem; }
 h3 { font-size: 1.2rem; margin-bottom: 0.8rem; }
 h4 { font-size: 1.1rem; margin-bottom: 0.6rem; }
 
-a { color: var(--a-fg-color); text-decoration: none; cursor: pointer; }
-a:hover { text-decoration: underline; }
+a {
+    color: var(--a-fg-color);
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1); /* Soft subtle tint */
+}
 
+@media (hover: hover) {
+    /* This CSS block will only target actual computer mice */
+    a:hover {
+        text-decoration: underline;
+    }
+}
 /* A visual clue for clicky 'a' and non-clicky 'span'. */
 [data-place]::before {
     content: "🏓\2060";
