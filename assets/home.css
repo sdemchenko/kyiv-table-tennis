@@ -54,13 +54,27 @@ a[href^="https://www.google.com/maps/dir/"]::before {
     font-size: 0.85em;
     opacity: 1;
     margin-right: 0.22em;
-    vertical-align: -0.04em;
-    pointer-events: none;
+    display: inline; /* do not tear the text from the icon */
 }
 
 a.google-maps-place {
-    font-size: 0.95em;
+    isolation: isolate;
     white-space: nowrap;
+}
+
+a.google-maps-place::before {
+    content: "\f3c5";
+    font: var(--fa-font-solid);
+    -webkit-font-smoothing: antialiased;
+    font-size: 0.85em;
+    opacity: 1;
+    margin-right: 0.22em;
+    display: inline-block; /* inline-block + nowrap on the whole link because we use linear-gradient. */
+
+    background: linear-gradient(135deg, #ea4335 0%, #ea4335 30%, #fabc05 30%, #fabc05 52%, #34a853 52%, #34a853 63%, #4285f4 63%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    isolation: isolate; /* Tells extensions to leave this block alone */
 }
 
 ul#toc, ul#toc ul { list-style-type: none; }
