@@ -58,7 +58,7 @@ a[href^="https://www.google.com/maps/dir/"]::before {
     pointer-events: none;
 }
 
-a[href^="https://www.google.com/maps/place/"] {
+a.google-maps-place {
     font-size: 0.95em;
     white-space: nowrap;
 }
