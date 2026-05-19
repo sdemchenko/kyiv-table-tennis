@@ -85,16 +85,17 @@ a.google-maps-place::before {
     content: "\f3c5";
     font: var(--fa-font-solid);
     -webkit-font-smoothing: antialiased;
-    font-size: 0.85em;
     opacity: 1;
-    margin-right: 0.22em;
+    margin-right: 0.15em;
     display: inline-block; /* inline-block + nowrap on the whole link because we use linear-gradient. */
     pointer-events: none;
 
     background: linear-gradient(135deg, #ea4335 0%, #ea4335 30%, #fabc05 30%, #fabc05 52%, #34a853 52%, #34a853 63%, #4285f4 63%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    isolation: isolate; /* Tells extensions to leave this block alone */
+
+    transform: scale(0.85); /* Make the icon slightly smaller... */
+    transform-origin: 50% 60%; /* ...while preventing its top being clipped */
 }
 
 ul#toc, ul#toc ul { list-style-type: none; }
