@@ -101,6 +101,7 @@
 <h3 id="sunday">Sunday</h3>
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
+* 10:00, May 24. "Gatne, SC" (Yurivka). [Four Seasons](assets/temp/2026-05-24.jpeg) Children's Tournament. [Regulations](assets/temp/2026-05-24.docx).
 * 10:00. "Gourmet". Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
   * May 24: 0-20 and 0-50 Ranked Tournaments will start at the same time.
