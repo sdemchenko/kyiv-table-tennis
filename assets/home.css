@@ -116,23 +116,21 @@ ul#toc > li:last-child { padding-bottom: 0; }
     margin: 0 0.1rem;
 }
 
-.inline-list {
+ul.inline-list {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     list-style: none;
-    padding: 0;
-    margin: 0;
-}
+ }
 
-.inline-list li {
+ul.inline-list li {
     display: flex;
     align-items: center;
-    font-size: 0.85rem;
-    opacity: 0.9;
+    font-size: 0.9rem;
+    padding-top: 0.2rem;
 }
 
-.inline-list li + li::before {
+ul.inline-list li + li::before {
     content: "•";
     margin: 0 0.3rem;
     color: #BBB;
