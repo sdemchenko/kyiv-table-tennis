@@ -21,16 +21,17 @@
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
     <link href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css" rel="stylesheet"/>
-    <link href="assets/light-or-dark-mode.css?cacheBuster=071" rel="stylesheet">
-    <link href="assets/home.css?cacheBuster=071" rel="stylesheet">
+    <link href="assets/light-or-dark-mode.css?cacheBuster=072" rel="stylesheet">
+    <link href="assets/home.css?cacheBuster=072" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
     <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/diff@5.0.0/dist/diff.min.js"></script>
-    <script src="assets/light-or-dark-mode.js?cacheBuster=071"></script>
-    <script src="assets/highlight-tournament-tiers.js?cacheBuster=071"></script>
-    <script src="assets/changelog.js?cacheBuster=071"></script>
-    <script src="assets/home.js?cacheBuster=071"></script>
+    <script src="assets/light-or-dark-mode.js?cacheBuster=072"></script>
+    <script src="assets/highlight-tournament-tiers.js?cacheBuster=072"></script>
+    <script src="assets/changelog.js?cacheBuster=072"></script>
+    <script src="assets/places.js?cacheBuster=072"></script>
+    <script src="assets/home.js?cacheBuster=072"></script>
     <!-- Google tag (gtag.js) -->
     <script>
         if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
@@ -53,7 +54,7 @@
     <ul id="toc">
         <li id="lang-switcher">🌐 <a href="./" hreflang="uk">UA</a> | EN</li>
         <li><a href="#news">News</a></li>
-        <li><a href="#maps">Venues</a>
+        <li><a href="#venues">Venues</a>
             <ul class="inline-list">
                 <li><a href="#maps">Maps</a></li>
                 <li><a href="#t_clubs">Clubs and Halls</a></li>
@@ -157,7 +158,21 @@
     <li><a href="https://t.me/tabletennisnews">TTN | Table Tennis News</a><span class="desc"> — Ukraine and worldwide table tennis news</span></li>
 </ul>
 
-<h2 id="maps">Maps</h2>
+<h2 id="venues">Venues</h2>
+
+<section id="shareVenue">
+    <h2>Share a venue</h2>
+    <label for="shareVenueSearch">Find a club or court by name, landmark, or address:</label>
+    <div class="hint">Select a venue from the list to copy its link.</div>
+    <input id="shareVenueSearch" type="search" autocomplete="off" placeholder="For example: Orion, Оріон, VDNG, Balzac">
+    <div id="shareVenueStatus" aria-live="polite"></div>
+    <div id="shareVenueSelected" hidden>
+        <input id="shareVenueLink" type="text" readonly>
+        <button id="shareVenueCopy" type="button">Copy</button>
+    </div>
+</section>
+
+<h3 id="maps">Maps</h3>
 <div class="maps">
     <div>
         <a href="https://www.google.com/maps/d/u/0/viewer?mid=1dXJ4lTtdt3mBpNzwh9CqUtCCfz4vFGqC&ll=50.429043503817184%2C30.535143600000012&z=11">
@@ -2051,7 +2066,7 @@ or to <a href="mailto:sdemchenko@gmail.com">sdemchenko@gmail.com</a>.
     Source code at <a href="https://github.com/sdemchenko/kyiv-table-tennis">GitHub</a>.
 </div>
 
-<a href="#" id="backToTop" title="Back to top" aria-label="Back to top">
+<a href="#toc" id="backToTop" title="To menu" aria-label="To menu">
     <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
         <path d="M12 19V5M12 5L6 11M12 5L18 11"
               fill="none"

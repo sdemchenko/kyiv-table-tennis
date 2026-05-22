@@ -192,6 +192,10 @@ ul#moreNews {
     #moreNews .desc { display: none; }
 }
 
+#venues {
+    margin-bottom: 0.8rem;
+}
+
 #maps { margin-bottom: 0; }
 div.maps {
     display: flex;
@@ -228,6 +232,144 @@ div.maps details {
     div.maps div:last-child {
         margin-bottom: 0; /* spacing between stacked items */
     }
+}
+
+#shareVenue {
+    margin-top: 1.5rem;
+    padding: 0.8rem;
+    border: 1px solid var(--table-border-color);
+    border-radius: 0.5rem;
+    background-color: var(--table-bg-color);
+}
+
+#shareVenue h2 {
+    margin-top: 0;
+}
+
+#shareVenue label {
+    display: block;
+    margin-bottom: 0.4rem;
+}
+
+#shareVenue .hint {
+    margin-bottom: 0.4rem;
+    font-size: 0.9rem;
+    color: #888888;
+}
+
+#shareVenueSearch {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0.45rem 0.55rem;
+    border: 1px solid var(--table-border-color);
+    background-color: var(--page-bg-color);
+    color: var(--page-fg-color);
+}
+
+#shareVenueStatus {
+    min-height: 1.2rem;
+    margin-top: 0.45rem;
+    font-size: 0.9rem;
+    color: #888888;
+}
+
+#shareVenueSelected {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+#shareVenueSelected[hidden] {
+    display: none;
+}
+
+#shareVenueLink {
+    flex: 1;
+    min-width: 0;
+    padding: 0.35rem 0.45rem;
+    border: 1px solid var(--table-border-color);
+    background-color: var(--page-bg-color);
+    color: var(--page-fg-color);
+}
+
+#shareVenueCopy {
+    white-space: nowrap;
+}
+
+tr.shared-place-highlight > td {
+    animation: shared-place-highlight 5s ease-out;
+}
+
+@keyframes shared-place-highlight {
+    0% { background-color: var(--today-highlight); }
+    100% { background-color: transparent; }
+}
+
+.shared-place-copy-badge {
+    display: inline-block;
+    margin-top: 0.35rem;
+    padding: 0.25rem 0.45rem;
+    border-radius: 0.35rem;
+    background-color: var(--diff-added-bg);
+    color: var(--diff-added-fg);
+    border: 1px solid var(--table-border-color);
+    font-size: 0.85rem;
+    font-weight: bold;
+    text-indent: 0;
+}
+
+@keyframes shared-place-highlight {
+    0% { background-color: var(--today-highlight); }
+    100% { background-color: transparent; }
+}
+
+.ui-autocomplete {
+    box-sizing: border-box;
+    max-width: calc(100vw - 16px);
+    overflow-x: hidden;
+    background-color: var(--table-bg-color);
+    color: var(--page-fg-color);
+    border: 1px solid var(--table-border-color);
+    box-shadow: 0 4px 12px var(--box-shadow-color);
+}
+
+.ui-autocomplete .ui-menu-item-wrapper,
+.ui-autocomplete .ui-menu-item-wrapper.ui-state-active,
+.ui-autocomplete .ui-menu-item-wrapper.ui-state-focus,
+.ui-widget-content .ui-autocomplete .ui-menu-item-wrapper.ui-state-active,
+.ui-widget-content .ui-autocomplete .ui-menu-item-wrapper.ui-state-focus {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 3px 1em 3px 0.4em;
+    border: 1px solid transparent;
+    outline: none;
+    font-weight: normal;
+    line-height: normal;
+}
+
+.ui-autocomplete .ui-menu-item-wrapper.ui-state-active,
+.ui-autocomplete .ui-menu-item-wrapper.ui-state-focus {
+    background-color: var(--th-bg-color);
+    color: var(--page-fg-color);
+}
+
+.ui-autocomplete .share-venue-result {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    white-space: normal;
+    overflow-wrap: anywhere;
+}
+
+.ui-autocomplete .share-venue-result-title {
+    font-weight: bold;
+}
+
+.ui-autocomplete .share-venue-result-meta {
+    font-size: 0.85rem;
+    opacity: 0.8;
+    white-space: normal;
+    overflow-wrap: anywhere;
 }
 
 table {
@@ -447,3 +589,21 @@ div#placeInfoOverlay {
 }
 
 #placeInfoOverlay tr:nth-child(1) td { font-weight: bold; }
+
+#shareVenueToast {
+    display: none;
+    position: fixed;
+    left: 50%;
+    bottom: 1rem;
+    transform: translateX(-50%);
+    z-index: 10001;
+    max-width: min(92vw, 520px);
+    padding: 0.7rem 1rem;
+    border-radius: 0.5rem;
+    background-color: var(--diff-added-bg);
+    color: var(--diff-added-fg);
+    border: 2px solid var(--diff-added-fg);
+    box-shadow: 0 4px 12px var(--box-shadow-color);
+    text-align: center;
+    font-weight: bold;
+}

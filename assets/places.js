@@ -1,0 +1,242 @@
+window.PLACE_ALIASES = [
+    {
+        id: "place-orion",
+        type: "club",
+        title: {uk: "Orion", en: "Orion"},
+        aliases: ["Orion Sport", "Оріон Спорт"],
+        address: {uk: "вулиця Бальзака, 66", en: "66 Balzac Street"}
+    },
+    {
+        id: "place-gourmet",
+        type: "club",
+        title: {uk: "Гурман", en: "Gourmet"},
+        aliases: ["Gurman"],
+        address: {uk: "вулиця Нижньоюрківська, 31", en: "31 Nyzhnoiurkivska Street"}
+    },
+    {
+        id: "place-volia",
+        type: "club",
+        title: {uk: "Воля", en: "Volia"},
+        aliases: [],
+        address: {uk: "Воскресенський проспект, 36", en: "36 Voskresensky Avenue"}
+    },
+    {
+        id: "place-pechersk",
+        type: "club",
+        title: {uk: "Печерськ", en: "Pechersk"},
+        aliases: ["Кловська", "Klovska"],
+        address: {uk: "Печерський узвіз, 3", en: "3 Pechersky Descent"}
+    },
+    {
+        id: "place-breiks",
+        type: "club",
+        title: {uk: "Брейкс", en: "Breiks"},
+        aliases: ["Breaks"],
+        address: {uk: "проспект Івасюка, 39В", en: "39V Ivasuka Avenue"}
+    },
+    {
+        id: "place-sports-school-21",
+        type: "club",
+        title: {uk: "ДЮСШ №21", en: "Sports School #21"},
+        aliases: ["ДЮСШ 21", "Sports School 21"],
+        address: {uk: "вулиця Алматинська, 60", en: "60 Almatynska Street"}
+    },
+    {
+        id: "place-sports-school-23",
+        type: "club",
+        title: {uk: "ДЮСШ №23", en: "Sports School #23"},
+        aliases: ["ДЮСШ 23", "Sports School 23"],
+        address: {uk: "проспект Червоної калини, 26А", en: "26A Chervonoyi Kalyny Avenue"}
+    },
+    {
+        id: "place-leader-sports-school",
+        type: "club",
+        title: {uk: "Лідер (ДЮСШ)", en: "Leader (Sports School)"},
+        aliases: ["Лідер ДЮСШ", "Leader Sports School"],
+        address: {uk: "вулиця Коласа, 15Б", en: "15B Kolasa Street"}
+    },
+    {
+        id: "place-leader-rc",
+        type: "club",
+        title: {uk: "Лідер (КМП)", en: "Leader (RC)"},
+        aliases: ["Лідер КМП", "Leader RC"],
+        address: {uk: "проспект Гонгадзе, 32Г", en: "32Г Honhadze Avenue"}
+    },
+    {
+        id: "place-drahomanov-university-sports-complex",
+        type: "club",
+        title: {uk: "Спорткомплекс УДУ", en: "Drahomanov University Sports Complex"},
+        aliases: ["Dragomanov"],
+        address: {uk: "вулиця Кониського, 3/9", en: "3/9 Konyskoho Street"}
+    },
+    {
+        id: "place-dbk-3",
+        type: "club",
+        title: {uk: "Спорткомплекс ДБК-3", en: "DBK-3 Sports Complex"},
+        aliases: [],
+        address: {uk: "вулиця Олега Афанаса, 1", en: "1 Oleha Afanasa Street"}
+    },
+    {
+        id: "place-dbk-4",
+        type: "club",
+        title: {uk: "Спорткомплекс ДБК-4", en: "DBK-4 Sports Complex"},
+        aliases: [],
+        address: {uk: "вулиця Кульженків, 13", en: "13 Kulzhenkiv Street"}
+    },
+    {
+        id: "place-tvoya-podacha",
+        type: "club",
+        title: {uk: "Твоя подача", en: "Tvoya Podacha"},
+        aliases: ["ВДНХ", "VDNH"],
+        address: {uk: "32 павільйон ВДНГ", en: "Pavilion 32 of VDNG"}
+    },
+    {
+        id: "place-holosiivsky-park",
+        type: "court",
+        title: {uk: "Голосіївський парк", en: "Holosiïvsky Park"},
+        aliases: ["Голосеевский парк", "Рильського", "Holosiivsky Park"],
+        address: {uk: "Голосіївський парк", en: "Holosiïvsky Park"}
+    },
+    {
+        id: "place-hydropark-veterans",
+        type: "court",
+        title: {uk: "Гідропарк - за кортами великого тенісу", en: "Hydropark - behind lawn tennis courts"},
+        aliases: ["Гідропарк", "ветеранський", "veterans", "Hydropark"],
+        address: {uk: "Гідропарк", en: "Hydropark"}
+    },
+    {
+        id: "place-beresteiskyi-134",
+        type: "court",
+        title: {uk: "Берестейський проспект, 134", en: "Beresteiskyi Avenue, 134"},
+        aliases: [],
+        address: {uk: "Берестейський проспект, 134", en: "Beresteiskyi Avenue, 134"}
+    },
+    {
+        id: "place-parkovo-syretska-12a",
+        type: "court",
+        title: {uk: "вулиця Парково-Сирецька, 12А", en: "Parkovo-Syretska Street, 12А"},
+        aliases: [],
+        address: {uk: "вулиця Парково-Сирецька, 12А", en: "Parkovo-Syretska Street, 12А"}
+    },
+    {
+        id: "place-vdng-urban-park",
+        type: "court",
+        title: {uk: "Урбан-парк ВДНГ", en: "VDNG Urban-Park"},
+        aliases: ["ВДНХ", "VDNH"],
+        address: {uk: "ВДНГ", en: "VDNG"}
+    },
+    {
+        id: "place-kutt",
+        type: "club",
+        title: {uk: "KUTT", en: "KUTT"},
+        aliases: ["КУТТ"]
+    },
+    {
+        id: "place-5-element",
+        type: "club",
+        title: {uk: "5 елемент", en: "5 Element"},
+        aliases: ["пʼятий елемент", "пятый элемент"]
+    },
+    {
+        id: "place-himars",
+        type: "club",
+        title: {uk: "Himars", en: "Himars"},
+        aliases: ["Хаймарс", "Давид", "David"]
+    },
+    {
+        id: "place-club-17",
+        type: "club",
+        title: {uk: "Club 17", en: "Club 17"},
+        aliases: ["Клаб 17", "Клуб 17"]
+    },
+    {
+        id: "place-grand-prix",
+        type: "club",
+        title: {uk: "Grand-Prix", en: "Grand-Prix"},
+        aliases: ["Гран-Прі", "ГранПрі"]
+    },
+    {
+        id: "place-arena-sport",
+        type: "club",
+        title: {uk: "Arena Sport", en: "Arena Sport"},
+        aliases: ["Арена Спорт"]
+    },
+    {
+        id: "place-ping-pong-point",
+        type: "club",
+        title: {uk: "Ping Pong Point", en: "Ping Pong Point"},
+        aliases: ["Пінг Понг Пойнт", "ПінгПонг", "Пинг Понг", "ПингПонг"]
+    },
+    {
+        id: "place-podacha-9",
+        type: "club",
+        title: {uk: "Podacha#9", en: "Podacha#9"},
+        aliases: ["Подача 9"]
+    },
+    {
+        id: "place-pulse",
+        type: "club",
+        title: {uk: "Pulse", en: "Pulse"},
+        aliases: ["Пульс", "Палс"]
+    },
+    {
+        id: "place-quiks",
+        type: "club",
+        title: {uk: "Quiks", en: "Quiks"},
+        aliases: ["Квікс"]
+    },
+    {
+        id: "place-raketnik",
+        type: "club",
+        title: {uk: "Raketnik", en: "Raketnik"},
+        aliases: ["Ракетник"]
+    },
+    {
+        id: "place-respublica",
+        type: "club",
+        title: {uk: "Respublica", en: "Respublica"},
+        aliases: ["Республіка", "ТТ Репаблік", "TT Republic"]
+    },
+    {
+        id: "place-rsp",
+        type: "club",
+        title: {uk: "RSP", en: "RSP"},
+        aliases: ["РСП"]
+    },
+    {
+        id: "place-setka-cup",
+        type: "club",
+        title: {uk: "Setka Cup", en: "Setka Cup"},
+        aliases: ["Сітка Кап", "Сетка Кап"]
+    },
+    {
+        id: "place-spin-up",
+        type: "club",
+        title: {uk: "Spin Up", en: "Spin Up"},
+        aliases: ["Спін Ап", "СпінАп", "SpinUp"]
+    },
+    {
+        id: "place-toni-tops",
+        type: "club",
+        title: {uk: "Toni-Tops", en: "Toni-Tops"},
+        aliases: ["Тоні-Топс", "ТоніТопс"]
+    },
+    {
+        id: "place-top-spin-brovary",
+        type: "club",
+        title: {uk: "Top Spin (Бровари)", en: "Top Spin (Brovary)"},
+        aliases: ["Топ Спін Бровари"]
+    },
+    {
+        id: "place-tviy-tennis",
+        type: "club",
+        title: {uk: "TviY tennis", en: "TviY tennis"},
+        aliases: ["Твій Теніс"]
+    },
+    {
+        id: "place-master",
+        type: "club",
+        title: {uk: "Мастер", en: "Master"},
+        aliases: ["Майстер"]
+    }
+];

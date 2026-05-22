@@ -21,16 +21,17 @@
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
     <link href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css" rel="stylesheet"/>
-    <link href="assets/light-or-dark-mode.css?cacheBuster=071" rel="stylesheet">
-    <link href="assets/home.css?cacheBuster=071" rel="stylesheet">
+    <link href="assets/light-or-dark-mode.css?cacheBuster=072" rel="stylesheet">
+    <link href="assets/home.css?cacheBuster=072" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
     <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/diff@5.0.0/dist/diff.min.js"></script>
-    <script src="assets/light-or-dark-mode.js?cacheBuster=071"></script>
-    <script src="assets/highlight-tournament-tiers.js?cacheBuster=071"></script>
-    <script src="assets/changelog.js?cacheBuster=071"></script>
-    <script src="assets/home.js?cacheBuster=071"></script>
+    <script src="assets/light-or-dark-mode.js?cacheBuster=072"></script>
+    <script src="assets/highlight-tournament-tiers.js?cacheBuster=072"></script>
+    <script src="assets/changelog.js?cacheBuster=072"></script>
+    <script src="assets/places.js?cacheBuster=072"></script>
+    <script src="assets/home.js?cacheBuster=072"></script>
     <!-- Google tag (gtag.js) -->
     <script>
         if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
@@ -53,7 +54,7 @@
     <ul id="toc">
         <li id="lang-switcher">🌐 UA | <a href="index_en.html" hreflang="en">EN</a></li>
         <li><a href="#news">Новини</a></li>
-        <li><a href="#maps">Локації</a>
+        <li><a href="#venues">Локації</a>
             <ul class="inline-list">
                 <li><a href="#maps">Мапи</a></li>
                 <li><a href="#t_clubs">Клуби та зали</a></li>
@@ -156,6 +157,20 @@
     <li><a href="https://t.me/ttkiev">НТК | Настільний теніс Києва</a><span class="desc"> — новини настільного тенісу Києва; розклад турнірів</span></li>
     <li><a href="https://t.me/tabletennisnews">TTN | Table Tennis News</a><span class="desc"> — новини настільного тенісу України та світу</span></li>
 </ul>
+
+<h2 id="venues">Локації</h2>
+
+<section id="shareVenue">
+    <h2>Поділитися локацією</h2>
+    <label for="shareVenueSearch">Знайдіть клуб або майданчик за назвою, орієнтиром чи адресою:</label>
+    <div class="hint">Оберіть локацію зі списку, щоб скопіювати посилання.</div>
+    <input id="shareVenueSearch" type="search" autocomplete="off" placeholder="Наприклад: Orion, Оріон, ВДНГ, Бальзака">
+    <div id="shareVenueStatus" aria-live="polite"></div>
+    <div id="shareVenueSelected" hidden>
+        <input id="shareVenueLink" type="text" readonly>
+        <button id="shareVenueCopy" type="button">Копіювати</button>
+    </div>
+</section>
 
 <h2 id="maps">Мапи</h2>
 <div class="maps">
@@ -2037,7 +2052,7 @@
     Вихідний код на <a href="https://github.com/sdemchenko/kyiv-table-tennis">GitHub</a>.
 </div>
 
-<a href="#" id="backToTop" title="До початку" aria-label="До початку">
+<a href="#toc" id="backToTop" title="До меню" aria-label="До меню">
     <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
         <path d="M12 19V5M12 5L6 11M12 5L18 11"
               fill="none"
