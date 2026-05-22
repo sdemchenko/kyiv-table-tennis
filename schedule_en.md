@@ -80,6 +80,7 @@
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
+* 10:00, May 23. "Sports School #21". 0-100 Unranked Tournament. Registration until 9:50.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:30, May 23. "Gatne, SC" (Yurivka). 0-40 Charity Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
