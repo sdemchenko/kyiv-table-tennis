@@ -141,7 +141,7 @@ window.PLACE_ALIASES = [
         id: "place-himars",
         type: "club",
         title: {uk: "Himars", en: "Himars"},
-        aliases: ["Хаймарс", "Давид", "David"]
+        aliases: ["Хаймарс", "Давид", "David", "Більшовик", "Большевик"]
     },
     {
         id: "place-club-17",
