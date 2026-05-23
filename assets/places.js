@@ -52,14 +52,14 @@ window.PLACE_ALIASES = [
         id: "place-leader-sports-school",
         type: "club",
         title: {uk: "Лідер (ДЮСШ)", en: "Leader (Sports School)"},
-        aliases: ["Лідер ДЮСШ", "Leader Sports School"],
+        aliases: ["Лідер ДЮСШ", "Leader Sports School", "Lider", "Лидер"],
         address: {uk: "вулиця Коласа, 15Б", en: "15B Kolasa Street"}
     },
     {
         id: "place-leader-rc",
         type: "club",
         title: {uk: "Лідер (КМП)", en: "Leader (RC)"},
-        aliases: ["Лідер КМП", "Leader RC"],
+        aliases: ["Лідер КМП", "Leader RC", "Lider", "Лидер"],
         address: {uk: "проспект Гонгадзе, 32Г", en: "32Г Honhadze Avenue"}
     },
     {
