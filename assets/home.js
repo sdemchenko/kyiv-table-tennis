@@ -466,9 +466,7 @@ function highlightSharedPlace(placeId) {
     const row = document.getElementById(placeId);
     if (!row) return;
 
-    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     row.scrollIntoView({
-        behavior: prefersReducedMotion ? 'auto' : 'smooth',
         block: 'center'
     });
 
