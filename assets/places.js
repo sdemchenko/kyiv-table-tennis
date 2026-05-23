@@ -3,50 +3,49 @@ window.PLACE_ALIASES = [
         id: "place-orion",
         type: "club",
         title: {uk: "Orion", en: "Orion"},
-        aliases: ["Orion Sport", "Оріон Спорт"],
-        address: {uk: "вулиця Бальзака, 66", en: "66 Balzac Street"}
+        aliases: ["Orion Sport", "Оріон Спорт"]
     },
     {
         id: "place-gourmet",
         type: "club",
         title: {uk: "Гурман", en: "Gourmet"},
-        aliases: ["Gurman"],
-        address: {uk: "вулиця Нижньоюрківська, 31", en: "31 Nyzhnoiurkivska Street"}
+        aliases: ["Gurman", "Поділ"]
     },
     {
         id: "place-volia",
         type: "club",
         title: {uk: "Воля", en: "Volia"},
-        aliases: [],
-        address: {uk: "Воскресенський проспект, 36", en: "36 Voskresensky Avenue"}
+        aliases: ["Перова"]
     },
     {
         id: "place-pechersk",
         type: "club",
         title: {uk: "Печерськ", en: "Pechersk"},
-        aliases: ["Кловська", "Klovska"],
-        address: {uk: "Печерський узвіз, 3", en: "3 Pechersky Descent"}
+        aliases: ["Кловська", "Klovska"]
+    },
+    {
+        id: "place-podolskiy",
+        type: "club",
+        title: {uk: "Podolskiy", en: "Podolskiy"},
+        aliases: ["Подольський", "Поділ"]
     },
     {
         id: "place-breiks",
         type: "club",
         title: {uk: "Брейкс", en: "Breiks"},
-        aliases: ["Breaks"],
-        address: {uk: "проспект Івасюка, 39В", en: "39V Ivasuka Avenue"}
+        aliases: ["Breaks", "Київська Русь", "Киевская Русь", "Ruthenia"]
     },
     {
         id: "place-sports-school-21",
         type: "club",
         title: {uk: "ДЮСШ №21", en: "Sports School #21"},
-        aliases: ["ДЮСШ 21", "Sports School 21"],
-        address: {uk: "вулиця Алматинська, 60", en: "60 Almatynska Street"}
+        aliases: ["ДЮСШ 21", "Sports School 21", "ДВРЗ", "Спортшкола 21"]
     },
     {
         id: "place-sports-school-23",
         type: "club",
         title: {uk: "ДЮСШ №23", en: "Sports School #23"},
-        aliases: ["ДЮСШ 23", "Sports School 23"],
-        address: {uk: "проспект Червоної калини, 26А", en: "26A Chervonoyi Kalyny Avenue"}
+        aliases: ["ДЮСШ 23", "Sports School 23", "Маяковського", "Спортшкола 23"]
     },
     {
         id: "place-leader-sports-school",
@@ -66,8 +65,7 @@ window.PLACE_ALIASES = [
         id: "place-drahomanov-university-sports-complex",
         type: "club",
         title: {uk: "Спорткомплекс УДУ", en: "Drahomanov University Sports Complex"},
-        aliases: ["Dragomanov"],
-        address: {uk: "вулиця Кониського, 3/9", en: "3/9 Konyskoho Street"}
+        aliases: ["Dragomanov", "Тургенєвська", "Тургеневская"]
     },
     {
         id: "place-dbk-3",
@@ -98,11 +96,22 @@ window.PLACE_ALIASES = [
         address: {uk: "Голосіївський парк", en: "Holosiïvsky Park"}
     },
     {
+        id: "place-hydropark-venice-beach",
+        type: "court",
+        title: {uk: "Гідропарк - біля пляжу \"Венеція\"", en: "Hydropark - near Venice Beach"},
+        aliases: ["Гидропарк"]
+    },
+    {
+        id: "place-hydropark-lawn-tennis",
+        type: "court",
+        title: {uk: "Гідропарк - на корті великого тенісу", en: "Hydropark - at lawn tennis courts"},
+        aliases: ["Гидропарк"]
+    },
+    {
         id: "place-hydropark-veterans",
         type: "court",
         title: {uk: "Гідропарк - за кортами великого тенісу", en: "Hydropark - behind lawn tennis courts"},
-        aliases: ["Гідропарк", "ветеранський", "veterans", "Hydropark"],
-        address: {uk: "Гідропарк", en: "Hydropark"}
+        aliases: ["ветеранський", "veterans", "Гидропарк"]
     },
     {
         id: "place-beresteiskyi-134",
