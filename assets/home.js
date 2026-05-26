@@ -446,6 +446,7 @@ function fallbackCopyShareVenueUrl(url, labels, placeId) {
     try {
         const copied = document.execCommand('copy');
         showShareVenueStatus(copied ? labels.copied : labels.copyManually, copied ? placeId : null);
+        input.blur();
         return copied;
     } catch (e) {
         showShareVenueStatus(labels.copyManually, null);
@@ -457,8 +458,7 @@ function showShareVenueStatus(message, placeId) {
     $('#shareVenueStatus').text(message);
 
     if (placeId) {
-        const row = document.getElementById(placeId);
-        if (row) showSharedPlaceCopyBadge(row);
+        showSharedPlaceCopyBadge();
     }
 }
 
@@ -470,26 +470,26 @@ function highlightSharedPlace(placeId) {
         block: 'center'
     });
 
+    if (document.activeElement && document.activeElement !== document.body) {
+        document.activeElement.blur();
+    }
+
     $(row)
         .removeClass('shared-place-highlight')
         .width(); // Force reflow to restart animation.
     $(row).addClass('shared-place-highlight');
 }
 
-function showSharedPlaceCopyBadge(row) {
+function showSharedPlaceCopyBadge() {
     const labels = getShareVenueLabels();
-    const $row = $(row);
-    const $firstCell = $row.find('td:first');
+    const $toast = $('#shareVenueToast');
+    if (!$toast.length) return;
 
-    $('.shared-place-copy-badge').remove();
+    $toast.text(labels.copiedBadge).fadeIn(250);
 
-    const $badge = $('<div class="shared-place-copy-badge">').text(labels.copiedBadge);
-    $firstCell.append($badge);
-
-    setTimeout(() => {
-        $badge.fadeOut(250, function () {
-            $(this).remove();
-        });
+    clearTimeout(window.shareVenueToastTimeout);
+    window.shareVenueToastTimeout = setTimeout(() => {
+        $toast.fadeOut(250);
     }, 3500);
 }
 

@@ -305,23 +305,6 @@ tr.shared-place-highlight > td {
     100% { background-color: transparent; }
 }
 
-.shared-place-copy-badge {
-    display: inline-block;
-    margin-top: 0.35rem;
-    padding: 0.25rem 0.45rem;
-    border-radius: 0.35rem;
-    background-color: var(--diff-added-bg);
-    color: var(--diff-added-fg);
-    border: 1px solid var(--table-border-color);
-    font-size: 0.85rem;
-    font-weight: bold;
-    text-indent: 0;
-}
-
-@keyframes shared-place-highlight {
-    0% { background-color: var(--today-highlight); }
-    100% { background-color: transparent; }
-}
 
 .ui-autocomplete {
     box-sizing: border-box;
