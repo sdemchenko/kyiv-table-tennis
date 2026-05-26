@@ -56,14 +56,14 @@
         <li><a href="#news">Новини</a></li>
         <li><a href="#venues">Локації</a>
             <ul class="inline-list">
+                <li><a href="#maps">Мапи</a></li>
+                <li><a href="#t_clubs">Клуби та зали</a></li>
+                <li><a href="#t_courts">Майданчики</a></li>
                 <li>
                     <a href="#shareVenue" aria-label="Скопіювати посилання на локацію" title="Скопіювати посилання на локацію">
                         <i class="fa-solid fa-link" aria-hidden="true"></i>
                     </a>
                 </li>
-                <li><a href="#maps">Мапи</a></li>
-                <li><a href="#t_clubs">Клуби та зали</a></li>
-                <li><a href="#t_courts">Майданчики</a></li>
             </ul>
         </li>
         <li><a href="#federation_events">Календарі змагань федерацій</a></li>
@@ -170,18 +170,6 @@
 </ul>
 
 <h2 id="venues">Локації</h2>
-
-<section id="shareVenue">
-    <h2>Посилання на локацію</h2>
-    <label for="shareVenueSearch">Знайдіть клуб або майданчик за назвою, орієнтиром чи адресою:</label>
-    <div class="hint">Оберіть локацію зі списку, щоб скопіювати посилання на неї.</div>
-    <input id="shareVenueSearch" type="search" autocomplete="off" placeholder="Наприклад: Orion, Оріон, ВДНГ, Бальзака">
-    <div id="shareVenueStatus" aria-live="polite"></div>
-    <div id="shareVenueSelected" hidden>
-        <input id="shareVenueLink" type="text" readonly>
-        <button id="shareVenueCopy" type="button">Копіювати</button>
-    </div>
-</section>
 
 <h2 id="maps">Мапи</h2>
 <div class="maps">
@@ -1498,6 +1486,18 @@
     </tr>
     </tbody>
 </table>
+
+<section id="shareVenue">
+    <h2>Посилання на локацію</h2>
+    <label for="shareVenueSearch">Знайдіть клуб або майданчик за назвою, орієнтиром чи адресою:</label>
+    <div class="hint">Оберіть локацію зі списку, щоб скопіювати посилання на неї.</div>
+    <input id="shareVenueSearch" type="search" autocomplete="off" placeholder="Наприклад: Orion, Оріон, ВДНГ, Бальзака">
+    <div id="shareVenueStatus" aria-live="polite"></div>
+    <div id="shareVenueSelected" hidden>
+        <input id="shareVenueLink" type="text" readonly>
+        <button id="shareVenueCopy" type="button">Копіювати</button>
+    </div>
+</section>
 
 <h2 id="federation_events">Календарі змагань федерацій</h2>
 <ul>

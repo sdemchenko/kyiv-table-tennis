@@ -56,14 +56,14 @@
         <li><a href="#news">News</a></li>
         <li><a href="#venues">Venues</a>
             <ul class="inline-list">
+                <li><a href="#maps">Maps</a></li>
+                <li><a href="#t_clubs">Clubs and Halls</a></li>
+                <li><a href="#t_courts">Courts</a></li>
                 <li>
                     <a href="#shareVenue" aria-label="Copy link to venue" title="Copy link to venue">
                         <i class="fa-solid fa-link" aria-hidden="true"></i>
                     </a>
                 </li>
-                <li><a href="#maps">Maps</a></li>
-                <li><a href="#t_clubs">Clubs and Halls</a></li>
-                <li><a href="#t_courts">Courts</a></li>
             </ul>
         </li>
         <li><a href="#federation_events">Federation Competition Calendars</a></li>
@@ -170,18 +170,6 @@
 </ul>
 
 <h2 id="venues">Venues</h2>
-
-<section id="shareVenue">
-    <h2>Venue link</h2>
-    <label for="shareVenueSearch">Find a club or court by name, landmark, or address:</label>
-    <div class="hint">Select a venue from the list to copy its link.</div>
-    <input id="shareVenueSearch" type="search" autocomplete="off" placeholder="For example: Orion, Оріон, VDNG, Balzac">
-    <div id="shareVenueStatus" aria-live="polite"></div>
-    <div id="shareVenueSelected" hidden>
-        <input id="shareVenueLink" type="text" readonly>
-        <button id="shareVenueCopy" type="button">Copy</button>
-    </div>
-</section>
 
 <h3 id="maps">Maps</h3>
 <div class="maps">
@@ -1506,6 +1494,18 @@
     </tr>
     </tbody>
 </table>
+
+<section id="shareVenue">
+    <h2>Venue link</h2>
+    <label for="shareVenueSearch">Find a club or court by name, landmark, or address:</label>
+    <div class="hint">Select a venue from the list to copy its link.</div>
+    <input id="shareVenueSearch" type="search" autocomplete="off" placeholder="For example: Orion, Оріон, VDNG, Balzac">
+    <div id="shareVenueStatus" aria-live="polite"></div>
+    <div id="shareVenueSelected" hidden>
+        <input id="shareVenueLink" type="text" readonly>
+        <button id="shareVenueCopy" type="button">Copy</button>
+    </div>
+</section>
 
 <h2 id="federation_events">Federation Competition Calendars</h2>
 <ul>
