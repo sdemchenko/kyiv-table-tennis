@@ -89,6 +89,13 @@ window.PLACE_ALIASES = [
         address: {uk: "32 павільйон ВДНГ", en: "Pavilion 32 of VDNG"}
     },
     {
+        id: "place-beresteiskyi-134",
+        type: "court",
+        title: {uk: "Берестейський проспект, 134", en: "Beresteiskyi Avenue, 134"},
+        aliases: [],
+        address: {uk: "Берестейський проспект, 134", en: "Beresteiskyi Avenue, 134"}
+    },
+    {
         id: "place-holosiivsky-park",
         type: "court",
         title: {uk: "Голосіївський парк", en: "Holosiïvsky Park"},
@@ -114,11 +121,10 @@ window.PLACE_ALIASES = [
         aliases: ["ветеранський", "veterans", "Гидропарк"]
     },
     {
-        id: "place-beresteiskyi-134",
+        id: "place-kyiv-mohyla-academy",
         type: "court",
-        title: {uk: "Берестейський проспект, 134", en: "Beresteiskyi Avenue, 134"},
-        aliases: [],
-        address: {uk: "Берестейський проспект, 134", en: "Beresteiskyi Avenue, 134"}
+        title: {uk: "Києво-Могилянська академія", en: "Kyiv-Mohyla Academy"},
+        aliases: ["Киево-Могилянская академия"]
     },
     {
         id: "place-parkovo-syretska-12a",
