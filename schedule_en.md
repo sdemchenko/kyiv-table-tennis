@@ -103,6 +103,7 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
+* 10:00, July 12. "Orion". Children's Tournament [Orion Summer Cup](https://t.me/ttorion/4121) with a prize fund of 45,000₴. [Registration](https://forms.gle/QZFTLnMutaUuNLgXA).
 * 10:00. "Raketka". Ranked Tournament.
   * May 31: 0-25.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
