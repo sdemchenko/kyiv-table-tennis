@@ -98,6 +98,14 @@ a.google-maps-place::before {
     transform-origin: 50% 60%; /* ...while preventing its top being clipped */
 }
 
+a.preview-link::before {
+    content: "\f302";
+    font: var(--fa-font-solid);
+    font-size: 0.8em;
+    margin-right: 0.25em;
+    opacity: 0.65;
+}
+
 ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
 ul#toc ul { padding-inline-start: 1.5ch; }
