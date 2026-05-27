@@ -490,7 +490,7 @@ function showSharedPlaceCopyBadge() {
     clearTimeout(window.shareVenueToastTimeout);
     window.shareVenueToastTimeout = setTimeout(() => {
         $toast.fadeOut(250);
-    }, 3500);
+    }, 2800);
 }
 
 function getPlaceMatchScore(place, normalizedQuery) {

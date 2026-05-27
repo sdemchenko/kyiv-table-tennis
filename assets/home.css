@@ -305,12 +305,25 @@ div.maps details {
 }
 
 tr.shared-place-highlight > td {
-    animation: shared-place-highlight 5s ease-out;
+    animation: shared-place-highlight 2.8s ease-out;
 }
 
 @keyframes shared-place-highlight {
-    0% { background-color: var(--today-highlight); }
-    100% { background-color: transparent; }
+    0% {
+        background-color: transparent;
+    }
+    12% {
+        background-color: var(--today-highlight);
+    }
+    28% {
+        background-color: transparent;
+    }
+    42% {
+        background-color: var(--today-highlight);
+    }
+    100% {
+        background-color: transparent;
+    }
 }
 
 
