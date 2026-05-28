@@ -107,6 +107,7 @@
 * 10:00. "Raketka". Ranked Tournament.
   * May 31: 0-25.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:30, May 31. "Gatne, SC" (Yurivka). 0-40 Charity Ranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
