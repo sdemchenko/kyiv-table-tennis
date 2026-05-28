@@ -269,6 +269,10 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
     const animationDuration = 100;
     const placeInfoOverlay = $('#placeInfoOverlay');
 
+    function closePlaceInfoOverlay() {
+        placeInfoOverlay.fadeOut(animationDuration);
+    }
+
     // Show overlay near the clicked place name
     $(document).on('click', 'a[data-place]', function (e) {
         e.preventDefault();
@@ -277,9 +281,11 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
         if ($row) {
             // Populate overlay with the row
             const $clonedRow = $row.clone();
-            
+
             // Transform the row into a single column multi-row table
             const overlayTable = placeInfoOverlay.html(`<table><tbody></tbody></table>`).find('tbody');
+            let isFirstOverlayCell = true;
+
             $clonedRow.find('td').each(function () {
 
                 // Disable links in overlays to other overlays
@@ -290,6 +296,14 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
                 if ($(this).text().trim() === '') {
                     return;
                 }
+
+                if (isFirstOverlayCell) {
+                    $(this)
+                        .addClass('place-info-overlay-title-cell')
+                        .append(`<button type="button" class="place-info-overlay-close" aria-label="Close">×</button>`);
+                    isFirstOverlayCell = false;
+                }
+
                 const $newRow = $('<tr></tr>');
                 $newRow.append($(this)); // move the cell into the new row
                 overlayTable.append($newRow);
@@ -308,6 +322,11 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
         }
     });
 
+    // Hide overlay when clicking its close button
+    placeInfoOverlay.on('click', '.place-info-overlay-close', function () {
+        closePlaceInfoOverlay();
+    });
+
     // Hide overlay when clicking outside it
     $(document).on('click', function (e) {
         const $triggerLink = $(e.target).closest('a[data-place]');
@@ -317,17 +336,17 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
             placeInfoOverlay.has(e.target).length === 0 && // not clicking inside overlay
             !$triggerLink.length                           // not clicking on 'a[data-place]' link
         ) {
-            placeInfoOverlay.fadeOut(animationDuration);
+            closePlaceInfoOverlay();
         }
     });
 
     // Hide overlay on Escape key press
     $(document).on('keydown', function (e) {
         if (e.key === 'Escape' || e.keyCode === 27) {
-            placeInfoOverlay.fadeOut(animationDuration);
+            closePlaceInfoOverlay();
         }
     });
-    
+
 }
 
 // -----------------------------------------------------------------------------

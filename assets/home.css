@@ -585,6 +585,33 @@ div#placeInfoOverlay {
     box-shadow:0 4px 12px var(--box-shadow-color);
 }
 
+.place-info-overlay-title-cell {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.place-info-overlay-close {
+    flex: 0 0 auto;
+    border: none;
+    background: transparent;
+    color: inherit;
+    font-size: 1.5rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0.15rem 0.35rem;
+    appearance: none;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.place-info-overlay-close:hover,
+.place-info-overlay-close:focus,
+.place-info-overlay-close:active {
+    background: transparent;
+}
+
 #placeInfoOverlay table,
 #placeInfoOverlay td,
 #placeInfoOverlay th {
