@@ -198,7 +198,7 @@ window.PLACE_ALIASES = [
         id: "place-quiks",
         type: "club",
         title: {uk: "Quiks", en: "Quiks"},
-        aliases: ["Квікс"]
+        aliases: ["Квікс", "Куікс"]
     },
     {
         id: "place-raketnik",
