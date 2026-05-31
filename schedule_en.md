@@ -35,7 +35,6 @@
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:10. "Himars". 0-45 Ranked Tournament.
-  * May 27: 0-50.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
@@ -56,13 +55,11 @@
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:30. "Club 17". Tournament.
-  * May 28: 0-60 Ranked Tournament.
 
 <h3 id="friday">Friday</h3>
 
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:00. "Gourmet". Ladder.
-* 17:15, May 29. "Leader (RC)". 0-25 Ranked Tournament "TOP-12".
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00 - 20:00. "Pechersk". Ladder.
@@ -87,14 +84,12 @@
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
-* 11:00, May 30. "Volia". 0-10 Ranked Tournament. Prior registration is mandatory.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Gourmet". 0-45 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". Doubles Tournament.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
-* 15:00, May 30. "Volia". 0-25 Ranked Tournament. Prior registration is mandatory.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
@@ -105,12 +100,9 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
-  * May 31: 0-30.
 * 10:00, July 12. "Orion". Children's Tournament [Orion Summer Cup](https://t.me/ttorion/4121) with a prize fund of 45,000₴. [Registration](https://forms.gle/QZFTLnMutaUuNLgXA).
 * 10:00. "Raketka". Ranked Tournament.
-  * May 31: 0-25.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:30, May 31. "Gatne, SC" (Yurivka). 0-40 Charity Ranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
@@ -120,9 +112,7 @@
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Respublica". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/103).
-  * May 31: 0-10 Smash Respublica Grand Final
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * May 31: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
