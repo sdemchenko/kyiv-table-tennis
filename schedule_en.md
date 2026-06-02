@@ -106,6 +106,7 @@
 * 10:00. "Gourmet". Ranked Tournament.
 * 10:00, July 12. "Orion". Children's Tournament [Orion Summer Cup](https://t.me/ttorion/4121) with a prize fund of 45,000₴. [Registration](https://forms.gle/QZFTLnMutaUuNLgXA).
 * 10:00. "Raketka". Ranked Tournament.
+  * June 7: ❌
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
