@@ -31,6 +31,7 @@
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
+  * June 3: ❌
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
@@ -86,6 +87,7 @@
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
+* 12:30, June 6. "Grand-Prix". 0-15 Doubles Tournament. Prior registration is mandatory.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Gourmet". 0-45 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
