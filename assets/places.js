@@ -207,10 +207,10 @@ window.PLACE_ALIASES = [
         aliases: ["Ракетник"]
     },
     {
-        id: "place-respublica",
+        id: "place-tt-republic",
         type: "club",
-        title: {uk: "Respublica", en: "Respublica"},
-        aliases: ["Республіка", "ТТ Репаблік", "TT Republic"]
+        title: {uk: "TT Republic", en: "TT Republic"},
+        aliases: ["Республіка", "ТТ Репаблік", "Республика", "ТТ Репаблик"]
     },
     {
         id: "place-rsp",
