@@ -119,7 +119,6 @@
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00 - 13:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
-* 12:30, June 7. "Grand-Prix". Doubles Tournament. Prior registration is mandatory.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
