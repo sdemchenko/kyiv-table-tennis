@@ -31,7 +31,6 @@
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
-  * June 3: ❌
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
@@ -56,7 +55,6 @@
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:30. "Club 17". Tournament.
-  * June 4: 0-60 Unranked Tournament.
   * June 11: 0-60 Ranked Tournament.
   * June 18: 0-60 Unranked Tournament.
   * June 25: 0-60 Ranked Tournament.
@@ -80,7 +78,6 @@
 * 08:00. "Spin Up" (at "Himars"). League 1. 10-30 Ranked Tournament. Prior registration is mandatory.
 * 08:00. "Spin Up" (at "Quiks"). League 2. 0-10 Ranked Tournament. Prior registration is mandatory.
 * 09:00. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
-  * June 6: ❌ (moved to June 7)
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
@@ -91,10 +88,8 @@
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-  * June 6: ❌
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Gourmet". 0-45 Ranked Tournament.
-  * June 6: 0-15
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". Doubles Tournament.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
@@ -106,20 +101,16 @@
 
 <h3 id="sunday">Sunday</h3>
 
-* 09:00, June 7. "Grand-Prix". 0-15 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
-  * June 7: 0-100
 * 10:00, July 12. "Orion". Children's Tournament [Orion Summer Cup](https://t.me/ttorion/4121) with a prize fund of 45,000₴. [Registration](https://forms.gle/QZFTLnMutaUuNLgXA).
 * 10:00. "Raketka". Ranked Tournament.
-  * June 7: ❌
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00 - 13:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
-  * June 7: ❌
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
@@ -128,9 +119,7 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * June 7: 0-60 Ranked Tournament.
   * June 14: 0-60 Unranked Tournament.
   * June 21: 0-60 Ranked Tournament.
   * June 28: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
-  * June 7: ❌
