@@ -133,3 +133,4 @@
   * June 21: 0-60 Ranked Tournament.
   * June 28: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
+  * June 7: ❌
