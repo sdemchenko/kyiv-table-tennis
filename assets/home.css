@@ -70,7 +70,6 @@ a[href^="https://www.google.com/maps/dir/"]::before {
     font: var(--fa-font-solid);
     -webkit-font-smoothing: antialiased;
     font-size: 0.85em;
-    opacity: 1;
     margin-right: 0.22em;
     display: inline; /* do not tear the text from the icon */
     pointer-events: none;
@@ -85,7 +84,6 @@ a.google-maps-place::before {
     content: "\f3c5";
     font: var(--fa-font-solid);
     -webkit-font-smoothing: antialiased;
-    opacity: 1;
     margin-right: 0.15em;
     display: inline-block; /* inline-block + nowrap on the whole link because we use linear-gradient. */
     pointer-events: none;
@@ -103,7 +101,7 @@ a.preview-link::before {
     font: var(--fa-font-solid);
     font-size: 0.8em;
     margin-right: 0.25em;
-    opacity: 0.65;
+    opacity: 0.85;
 }
 
 ul#toc, ul#toc ul { list-style-type: none; }
