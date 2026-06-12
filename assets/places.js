@@ -50,7 +50,8 @@ window.PLACE_ALIASES = [
         id: "place-drahomanov-university-sports-complex",
         type: club,
         title: {uk: "Спорткомплекс УДУ", en: "Drahomanov University Sports Complex"},
-        aliases: ["Dragomanov", "Тургенєвська", "Тургеневская"]
+        aliases: ["Dragomanov", "Тургенєвська", "Тургеневская", "НПУ", "національний педагогічний університет Драгоманова",
+            "український державний університет імені Михайла Драгоманова"]
     },
     {
         id: "place-gourmet",
