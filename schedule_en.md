@@ -98,6 +98,7 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
+  * June 13: training and games at [Brudnyy Pes](https://t.me/kuttclub/6433)
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 
 <h3 id="sunday">Sunday</h3>
@@ -127,3 +128,4 @@
   * June 21: 0-60 Ranked Tournament.
   * June 28: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
+  * June 14: training and games at [Brudnyy Pes](https://t.me/kuttclub/6433)
