@@ -89,7 +89,6 @@
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Gourmet". Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
-* 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
