@@ -89,6 +89,7 @@
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Gourmet". Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
+* 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
@@ -100,16 +101,15 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
+* 10:00, June 28. "Orion". [Orion Summer Team Championship](https://t.me/ttorion/4113). [Regulations](https://docs.google.com/document/d/1v6Ebd-VPs06he_Xxv9tx4MCMTLyE-JS9P_k3hr1TfAk/edit?usp=sharing).
 * 10:00, July 12. "Orion". Children's Tournament [Orion Summer Cup](https://t.me/ttorion/4121) with a prize fund of 45,000₴. [Registration](https://forms.gle/QZFTLnMutaUuNLgXA).
 * 10:00. "Raketka". Ranked Tournament.
   * June 28: ❌
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00 - 13:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
-* 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "TT Republic". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/139).
