@@ -110,7 +110,6 @@
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 11:00 - 13:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "TT Republic". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/139).
