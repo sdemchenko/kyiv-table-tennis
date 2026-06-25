@@ -102,6 +102,7 @@
 * 10:00, 28 червня. "Orion". [Orion Summer Team Championship](https://t.me/ttorion/4113). [Регламент](https://docs.google.com/document/d/1v6Ebd-VPs06he_Xxv9tx4MCMTLyE-JS9P_k3hr1TfAk/edit?usp=sharing).
 * 10:00, 12 липня. "Orion". Дитячий турнір [Orion Summer Cup](https://t.me/ttorion/4121) з призовим фондом 45 000 грн. [Реєстрація](https://forms.gle/QZFTLnMutaUuNLgXA).
 * 10:00. "Гурман". Рейтинговий турнір.
+  * 28 червня: 0-40
 * 10:00. "Настільний теніс на Ревуцького". Нерейтинговий турнір 0-100.
 * 10:00. "Ракетка". Рейтинговий турнір.
   * 28 червня: ❌

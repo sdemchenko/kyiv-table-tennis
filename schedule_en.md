@@ -100,6 +100,7 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
+  * June 28: 0-40
 * 10:00, June 28. "Grand-Prix". 1-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00, June 28. "Orion". [Orion Summer Team Championship](https://t.me/ttorion/4113). [Regulations](https://docs.google.com/document/d/1v6Ebd-VPs06he_Xxv9tx4MCMTLyE-JS9P_k3hr1TfAk/edit?usp=sharing).
 * 10:00, July 12. "Orion". Children's Tournament [Orion Summer Cup](https://t.me/ttorion/4121) with a prize fund of 45,000₴. [Registration](https://forms.gle/QZFTLnMutaUuNLgXA).
