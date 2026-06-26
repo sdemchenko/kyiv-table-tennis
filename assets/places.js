@@ -79,6 +79,13 @@ window.PLACE_ALIASES = [
         address: {uk: "Голосіївський парк", en: "Holosiïvsky Park"}
     },
     {
+        id: "place-hvylovyi",
+        type: court,
+        title: {uk: "Хвильовий", en: "Hvylovyi"},
+        aliases: ["HVLV", "Khvylʹovyy"],
+        address: {uk: "Верхній Вал 18", en: "Verkhnii Val 18"}
+    },
+    {
         id: "place-hydropark-lawn-tennis",
         type: court,
         title: {uk: "Гідропарк - на корті великого тенісу", en: "Hydropark - at lawn tennis courts"},
