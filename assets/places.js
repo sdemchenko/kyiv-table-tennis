@@ -81,8 +81,8 @@ window.PLACE_ALIASES = [
     {
         id: "place-hvylovyi",
         type: court,
-        title: {uk: "Хвильовий", en: "Hvylovyi"},
-        aliases: ["HVLV", "Khvylʹovyy"],
+        title: {uk: "Хвильовий", en: "Khvylʹovyy"},
+        aliases: ["HVLV", "Hvylovyi", "Khvylʹovyy"],
         address: {uk: "Верхній Вал 18", en: "Verkhnii Val 18"}
     },
     {
