@@ -131,6 +131,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://tabletennis.kyiv.ua/assets/mykilsko-slobidska-6a/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://tabletennis.kyiv.ua/assets/park-paradzhanova/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
