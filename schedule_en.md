@@ -121,3 +121,4 @@
 * 19:00. "Club 17". Tournament.
   * June 28: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
+  * June 28: ❌
