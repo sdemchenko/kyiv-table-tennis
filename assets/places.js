@@ -203,6 +203,12 @@ window.PLACE_ALIASES = [
         aliases: ["РСП"]
     },
     {
+        id: "place-samosad",
+        type: club,
+        title: {uk: "Парк Самосад", en: "Samosad Park"},
+        aliases: ["Спаська 13", "Спасская 13", "Spaska 13"]
+    },
+    {
         id: "place-setka-cup",
         type: club,
         title: {uk: "Setka Cup", en: "Setka Cup"},
