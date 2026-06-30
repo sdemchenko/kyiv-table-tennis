@@ -41,6 +41,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://tabletennis.kyiv.ua/assets/harmatna-38b/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://tabletennis.kyiv.ua/assets/holosiivsky-park/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
