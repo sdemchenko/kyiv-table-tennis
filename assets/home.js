@@ -319,6 +319,15 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
 
                 if (hasPlaceLink) {
                     const $clonedLi = $li.clone();
+
+                    // Match the link tag and optional trailing punctuation/space.
+                    // The link is created as <a data-place="VenueName">VenueName</a>
+                    // We only want to remove it if it's the main venue, not if it's "(at VenueName)".
+                    // So we check that it's not preceded by "at " or "у ".
+                    const escapedPlaceName = placeName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                    const regex = new RegExp(`(?<!\\(at\\s|\\(у\\s)<a[^>]*data-place=["']${escapedPlaceName}["'][^>]*>${escapedPlaceName}</a>\\.?\\s*`, 'g');
+                    $clonedLi.html($clonedLi.html().replace(regex, ''));
+
                     // Disable links in overlays to other overlays
                     $clonedLi.find('a[data-place]').each(function () {
                         $(this).replaceWith($('<span>').append($(this).text()));
