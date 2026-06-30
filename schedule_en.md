@@ -30,6 +30,7 @@
 <h3 id="wednesday">Wednesday</h3>
 
 * 11:00 - 15:00. "Orion". Ladder.
+* 13:00. "Quiks". 0-10 Ranked Tournament.
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
