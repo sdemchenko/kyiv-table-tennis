@@ -309,6 +309,45 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
                 overlayTable.append($newRow);
             });
 
+            // Add events info (tournaments, ladders, etc.) grouped by day
+            const eventsByDay = new Map();
+            $('#scheduleContainer li').each(function () {
+                const $li = $(this);
+                const hasPlaceLink = $li.find(`a[data-place]`).filter(function() {
+                    return $(this).attr('data-place') === placeName;
+                }).length > 0;
+
+                if (hasPlaceLink) {
+                    const $clonedLi = $li.clone();
+                    // Disable links in overlays to other overlays
+                    $clonedLi.find('a[data-place]').each(function () {
+                        $(this).replaceWith($('<span>').append($(this).text()));
+                    });
+
+                    // Add day of the week
+                    const $dayHeader = $li.closest('ul').prev('h3');
+                    const dayName = $dayHeader.text().trim();
+
+                    if (!eventsByDay.has(dayName)) {
+                        eventsByDay.set(dayName, []);
+                    }
+                    eventsByDay.get(dayName).push($clonedLi.html());
+                }
+            });
+
+            if (eventsByDay.size > 0) {
+                let eventsHtml = '';
+                eventsByDay.forEach((dayEvents, dayName) => {
+                    const dayPrefix = dayName ? `<div class="place-info-overlay-event-day">${dayName}:</div>` : '';
+                    const itemsHtml = dayEvents.map(html => `<div class="place-info-overlay-competition">${html}</div>`).join('');
+                    eventsHtml += `<div class="place-info-overlay-event-group">${dayPrefix}${itemsHtml}</div>`;
+                });
+                const label = getCurrentLanguage() === 'en' ? 'Competition schedule' : 'Розклад змагань';
+                const $eventsRow = $(`<tr><td class="place-info-overlay-competitions-cell"><strong>${label}:</strong>${eventsHtml}</td></tr>`);
+                $eventsRow.find('.br-optional').remove();
+                overlayTable.append($eventsRow);
+            }
+
             // Position overlay below the clicked link and slightly to the right of the line start
             const leftOffset = 20;
             const scheduleContainer = $('#scheduleContainer');

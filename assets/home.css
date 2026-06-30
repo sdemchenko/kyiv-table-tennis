@@ -618,6 +618,39 @@ div#placeInfoOverlay {
 }
 
 #placeInfoOverlay tr:nth-child(1) td { font-weight: bold; }
+ 
+.place-info-overlay-competitions-cell {
+    font-size: 0.9em;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-top: 1px dashed var(--table-border-color);
+}
+
+.place-info-overlay-competition {
+    margin-top: 0.25rem;
+    padding-left: 0.5rem;
+}
+
+.place-info-overlay-competition ul {
+    margin: 0;
+    padding-left: 1.25rem;
+}
+
+.place-info-overlay-competition li {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0.5rem;
+}
+
+.place-info-overlay-event-day {
+    opacity: 0.8;
+    font-weight: bold;
+    margin-top: 0.4rem;
+}
+
+.place-info-overlay-event-group:first-child .place-info-overlay-event-day {
+    margin-top: 0.2rem;
+}
 
 #shareVenueToast {
     display: none;
