@@ -65,6 +65,9 @@
     background: var(--dialog-surface-bg);
     color: var(--dialog-surface-fg);
     border: 1px solid var(--dialog-border-color);
+    box-shadow: 0 10px 40px var(--box-shadow-color);
+    border-radius: 8px;
+    overflow: hidden;
 }
 .ui-dialog[aria-describedby="diff-overlay-dialog"] .ui-dialog-content {
     background: var(--dialog-surface-bg);
@@ -74,13 +77,21 @@
     background: var(--dialog-titlebar-bg);
     color: var(--dialog-titlebar-fg);
     border-bottom: 1px solid var(--dialog-border-color);
+    border-radius: 0;
 }
 .ui-dialog[aria-describedby="diff-overlay-dialog"] .ui-dialog-buttonpane {
     background: var(--dialog-buttonpane-bg);
     border-top: 1px solid var(--dialog-border-color);
+    margin-top: 0;
 }
 .ui-dialog[aria-describedby="diff-overlay-dialog"] .ui-button,
 .ui-dialog[aria-describedby="diff-overlay-dialog"] .ui-button:link,
 .ui-dialog[aria-describedby="diff-overlay-dialog"] .ui-button:visited {
     color: black;
+}
+
+/* Modal backdrop for jQuery UI dialogs */
+.ui-widget-overlay {
+    background: var(--overlay-backdrop-bg);
+    opacity: 1 !important;
 }
