@@ -620,9 +620,43 @@ div#placeInfoOverlay {
 #placeInfoOverlay tr:nth-child(1) td { font-weight: bold; }
  
 .place-info-overlay-competitions-cell {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+    padding: 0;
     border-top: 1px dashed var(--table-border-color);
+}
+
+.place-info-overlay-competitions-summary {
+    padding: 0.5rem 0.5rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    list-style: none;
+}
+
+.place-info-overlay-competitions-summary::-webkit-details-marker {
+    display: none;
+}
+
+.place-info-overlay-competitions-summary::before {
+    content: "\f055";
+    font: var(--fa-font-solid);
+    -webkit-font-smoothing: antialiased;
+    width: 1.25rem;
+    display: inline-block;
+    flex-shrink: 0;
+}
+
+.place-info-overlay-competitions-details[open] .place-info-overlay-competitions-summary::before {
+    content: "\f056";
+}
+
+.place-info-overlay-competitions-summary:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.place-info-overlay-competitions-content {
+    padding-bottom: 0.5rem;
 }
 
 .place-info-overlay-competition {

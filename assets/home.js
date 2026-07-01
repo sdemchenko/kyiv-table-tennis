@@ -352,18 +352,30 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
                     eventsHtml += `<div class="place-info-overlay-event-group">${dayPrefix}${itemsHtml}</div>`;
                 });
                 const label = getCurrentLanguage() === 'en' ? 'Competition schedule' : 'Розклад змагань';
-                const $eventsRow = $(`<tr><td class="place-info-overlay-competitions-cell"><span class="place-info-overlay-competitions-cell-title">${label}</span>${eventsHtml}</td></tr>`);
+                const $eventsRow = $(`
+                    <tr>
+                        <td class="place-info-overlay-competitions-cell">
+                            <details class="place-info-overlay-competitions-details">
+                                <summary class="place-info-overlay-competitions-summary">
+                                    <span class="place-info-overlay-competitions-cell-title">${label}</span>
+                                </summary>
+                                <div class="place-info-overlay-competitions-content">
+                                    ${eventsHtml}
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                `);
                 $eventsRow.find('.br-optional').remove();
                 overlayTable.append($eventsRow);
             }
 
-            // Position overlay below the clicked link and slightly to the right of the line start
-            const leftOffset = 20;
+            // Position overlay below the clicked link and aligned with the schedule container
             const scheduleContainer = $('#scheduleContainer');
             placeInfoOverlay.css({
                 top: $(this).offset().top + $(this).outerHeight() + 5,
-                left: scheduleContainer.offset().left + leftOffset,
-                'max-width': (scheduleContainer.outerWidth() - leftOffset) + 'px'
+                left: scheduleContainer.offset().left,
+                'max-width': scheduleContainer.outerWidth() + 'px'
             }).fadeIn(animationDuration);
         } else {
             console.warn(`No row found for place name "${placeName}"`);
