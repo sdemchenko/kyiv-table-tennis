@@ -57,7 +57,12 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
-* 20:30. "Club 17". Tournament.
+* 20:00. "Club 17". Tournament.
+  * July 2: 0-60 Unranked Tournament.
+  * July 9: 0-60 Ranked Tournament.
+  * July 16: 0-60 Unranked Tournament.
+  * July 23: 0-60 Unranked Tournament.
+  * July 30: 0-60 Ranked Tournament.
 
 <h3 id="friday">Friday</h3>
 
@@ -126,4 +131,8 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
+  * July 5: 0-60 Ranked Tournament.
+  * July 12: 0-60 Unranked Tournament.
+  * July 19: 0-60 Ranked Tournament.
+  * July 26: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
