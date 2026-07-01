@@ -9,7 +9,8 @@
     --table-bg-color: #FFFFFF;
     --table-border-color: #e0e0e0;
     --high-contrast-text-color: #000000;
-    --box-shadow-color: rgba(0, 0, 0, 0.3);
+    --box-shadow-color: rgba(0, 0, 0, 0.4);
+    --overlay-backdrop-bg: rgba(0, 0, 0, 0.3);
     --ranked-bg: #FEF3C7;
     --unranked-bg: #E2E8F0;
     --unranked-tournament-opacity: 0.5;
@@ -37,7 +38,8 @@
     --table-bg-color: #2C3034;
     --table-border-color: #505050;
     --high-contrast-text-color: #FFFFFF;
-    --box-shadow-color: rgba(255, 255, 255, 0.3);
+    --box-shadow-color: rgba(0, 0, 0, 0.7);
+    --overlay-backdrop-bg: rgba(0, 0, 0, 0.5);
     --ranked-bg: #A16207;
     --unranked-bg: #64748B;
     --unranked-tournament-opacity: 0.9;
