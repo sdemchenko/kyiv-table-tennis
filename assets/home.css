@@ -632,6 +632,10 @@ div#placeInfoOverlay {
     text-indent: -1rem;
 }
 
+.place-info-overlay-competitions-cell-title {
+    font-weight: bold;
+}
+
 .place-info-overlay-competition ul {
     margin: 0;
     padding-left: 0.5rem;
@@ -646,6 +650,7 @@ div#placeInfoOverlay {
 
 .place-info-overlay-event-day {
     font-weight: bold;
+    opacity: 0.85;
     margin-top: 0.4rem;
 }
 

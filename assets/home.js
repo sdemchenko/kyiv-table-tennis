@@ -352,7 +352,7 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
                     eventsHtml += `<div class="place-info-overlay-event-group">${dayPrefix}${itemsHtml}</div>`;
                 });
                 const label = getCurrentLanguage() === 'en' ? 'Competition schedule' : 'Розклад змагань';
-                const $eventsRow = $(`<tr><td class="place-info-overlay-competitions-cell"><strong>${label}:</strong>${eventsHtml}</td></tr>`);
+                const $eventsRow = $(`<tr><td class="place-info-overlay-competitions-cell"><span class="place-info-overlay-competitions-cell-title">${label}</span>${eventsHtml}</td></tr>`);
                 $eventsRow.find('.br-optional').remove();
                 overlayTable.append($eventsRow);
             }
