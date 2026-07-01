@@ -271,6 +271,7 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
 
     function closePlaceInfoOverlay() {
         placeInfoOverlay.fadeOut(animationDuration);
+        $('#placeInfoOverlayBackdrop').fadeOut(animationDuration);
     }
 
     // Show overlay near the clicked place name
@@ -281,6 +282,12 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
         if ($row) {
             // Populate overlay with the row
             const $clonedRow = $row.clone();
+
+            // Create backdrop if it doesn't exist
+            if ($('#placeInfoOverlayBackdrop').length === 0) {
+                $('<div id="placeInfoOverlayBackdrop"></div>').appendTo('body');
+            }
+            $('#placeInfoOverlayBackdrop').fadeIn(animationDuration);
 
             // Transform the row into a single column multi-row table
             const overlayTable = placeInfoOverlay.html(`<table><tbody></tbody></table>`).find('tbody');
@@ -387,14 +394,16 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
         closePlaceInfoOverlay();
     });
 
-    // Hide overlay when clicking outside it
+    // Hide overlay when clicking outside it or on backdrop
     $(document).on('click', function (e) {
         const $triggerLink = $(e.target).closest('a[data-place]');
+        const isBackdrop = $(e.target).is('#placeInfoOverlayBackdrop');
 
         if (
+            isBackdrop || (
             !placeInfoOverlay.is(e.target) &&              // not clicking directly on overlay
             placeInfoOverlay.has(e.target).length === 0 && // not clicking inside overlay
-            !$triggerLink.length                           // not clicking on 'a[data-place]' link
+            !$triggerLink.length)                          // not clicking on 'a[data-place]' link
         ) {
             closePlaceInfoOverlay();
         }
