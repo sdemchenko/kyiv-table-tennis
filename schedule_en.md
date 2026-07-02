@@ -109,24 +109,25 @@
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00, July 12. "Orion". Children's Tournament [Orion Summer Cup](https://t.me/ttorion/4121) with a prize fund of 45,000₴. [Registration](https://forms.gle/QZFTLnMutaUuNLgXA).
 * 10:00. "Raketka". Ranked Tournament.
+  * July 5: 0-5 and 0-45 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00. "TT Republic". 0-15 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/139).
-    * June 5: 1st qualifying tournament.
-    * June 12: 2nd qualifying tournament.
-    * June 19: 3rd qualifying tournament.
-    * June 26: Grand Final.
+    * July 5: 1st qualifying tournament.
+    * July 12: 2nd qualifying tournament.
+    * July 19: 3rd qualifying tournament.
+    * July 26: Grand Final.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 16:00. "TT Republic". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/139).
-    * June 5: 1st qualifying tournament.
-    * June 12: 2nd qualifying tournament.
-    * June 19: 3rd qualifying tournament.
-    * June 26: Grand Final.
+    * July 5: 1st qualifying tournament.
+    * July 12: 2nd qualifying tournament.
+    * July 19: 3rd qualifying tournament.
+    * July 26: Grand Final.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
