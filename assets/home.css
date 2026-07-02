@@ -677,7 +677,7 @@ div#placeInfoOverlay {
 }
 
 .place-info-overlay-competitions-content {
-    padding-bottom: 0.5rem;
+    padding: 3px 6px 6px 6px;
 }
 
 .place-info-overlay-competition {
