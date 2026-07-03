@@ -14,6 +14,85 @@ $(document).ready(function () {
     setInterval(fetchSchedule, 10 * 60 * 1000);
 });
 
+function getCompetitionScheduleHtml(placeName) {
+    // Add events info (tournaments, ladders, etc.) grouped by day
+    const eventsByDay = new Map();
+    $('#scheduleContainer li').each(function () {
+        const $li = $(this);
+        const hasPlaceLink = $li.find(`a[data-place]`).filter(function () {
+            return $(this).attr('data-place') === placeName;
+        }).length > 0;
+
+        if (hasPlaceLink) {
+            const $clonedLi = $li.clone();
+
+            // Match the link tag and optional trailing punctuation/space.
+            // The link is created as <a data-place="VenueName">VenueName</a>
+            // We only want to remove it if it's the main venue, not if it's "(at VenueName)".
+            // So we check that it's not preceded by "at " or "у ".
+            const escapedPlaceName = placeName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            const regex = new RegExp(`(?<!\\(at\\s|\\(у\\s)<a[^>]*data-place=["']${escapedPlaceName}["'][^>]*>${escapedPlaceName}</a>\\.?\\s*`, 'g');
+            $clonedLi.html($clonedLi.html().replace(regex, ''));
+
+            // Disable links in overlays to other overlays
+            $clonedLi.find('a[data-place]').each(function () {
+                $(this).replaceWith($('<span>').append($(this).text()));
+            });
+
+            // Add day of the week
+            const $dayHeader = $li.closest('ul').prev('h3');
+            const dayName = $dayHeader.text().trim();
+
+            if (!eventsByDay.has(dayName)) {
+                eventsByDay.set(dayName, []);
+            }
+            eventsByDay.get(dayName).push($clonedLi.html());
+        }
+    });
+
+    if (eventsByDay.size > 0) {
+        let eventsHtml = '';
+        eventsByDay.forEach((dayEvents, dayName) => {
+            const dayPrefix = dayName ? `<div class="place-info-overlay-event-day">${dayName}:</div>` : '';
+            const itemsHtml = dayEvents.map(html => `<div class="place-info-overlay-competition">${html}</div>`).join('');
+            eventsHtml += `<div class="place-info-overlay-event-group">${dayPrefix}${itemsHtml}</div>`;
+        });
+        const label = getCurrentLanguage() === 'en' ? 'Competition schedule' : 'Розклад змагань';
+
+        // Use a generic class for the container to share styles
+        const html = `
+            <details class="competitions-details">
+                <summary class="competitions-summary">
+                    <span class="competitions-cell-title">${label}</span>
+                </summary>
+                <div class="competitions-content">
+                    ${eventsHtml}
+                </div>
+            </details>
+        `;
+        return html.replace(/class="br-optional"/g, 'style="display:none"');
+    }
+    return '';
+}
+
+function injectCompetitionSchedulesIntoTables() {
+    $('#t_clubs tbody tr, #t_courts tbody tr').each(function () {
+        const $row = $(this);
+        const placeName = $row.find('td').first().text().trim();
+        if (!placeName) return;
+
+        const scheduleHtml = getCompetitionScheduleHtml(placeName);
+        if (scheduleHtml) {
+            const $descriptionCell = $row.find('td').eq(1);
+            // Check if it's already there (to avoid duplicates if inject is called multiple times)
+            if ($descriptionCell.find('.table-competition-schedule').length > 0) return;
+            // Append as a new block at the end of the description cell
+            const $container = $('<div class="table-competition-schedule"></div>').append(scheduleHtml);
+            $descriptionCell.append($container);
+        }
+    });
+}
+
 /**
  * (1) Fetch schedule.md,
  * (2) transform the fetched Markdown content to HTML,
@@ -50,6 +129,7 @@ function fetchSchedule() {
             highlightToday();
             updateTournamentsVisibility();
             updateOtherCompetitionsVisibility();
+            injectCompetitionSchedulesIntoTables();
             $('#schedule_error').hide();
             try {
                 fetchChangelog();
@@ -317,63 +397,24 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
             });
 
             // Add events info (tournaments, ladders, etc.) grouped by day
-            const eventsByDay = new Map();
-            $('#scheduleContainer li').each(function () {
-                const $li = $(this);
-                const hasPlaceLink = $li.find(`a[data-place]`).filter(function() {
-                    return $(this).attr('data-place') === placeName;
-                }).length > 0;
+            const scheduleHtml = getCompetitionScheduleHtml(placeName);
 
-                if (hasPlaceLink) {
-                    const $clonedLi = $li.clone();
-
-                    // Match the link tag and optional trailing punctuation/space.
-                    // The link is created as <a data-place="VenueName">VenueName</a>
-                    // We only want to remove it if it's the main venue, not if it's "(at VenueName)".
-                    // So we check that it's not preceded by "at " or "у ".
-                    const escapedPlaceName = placeName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-                    const regex = new RegExp(`(?<!\\(at\\s|\\(у\\s)<a[^>]*data-place=["']${escapedPlaceName}["'][^>]*>${escapedPlaceName}</a>\\.?\\s*`, 'g');
-                    $clonedLi.html($clonedLi.html().replace(regex, ''));
-
-                    // Disable links in overlays to other overlays
-                    $clonedLi.find('a[data-place]').each(function () {
-                        $(this).replaceWith($('<span>').append($(this).text()));
-                    });
-
-                    // Add day of the week
-                    const $dayHeader = $li.closest('ul').prev('h3');
-                    const dayName = $dayHeader.text().trim();
-
-                    if (!eventsByDay.has(dayName)) {
-                        eventsByDay.set(dayName, []);
-                    }
-                    eventsByDay.get(dayName).push($clonedLi.html());
-                }
-            });
-
-            if (eventsByDay.size > 0) {
-                let eventsHtml = '';
-                eventsByDay.forEach((dayEvents, dayName) => {
-                    const dayPrefix = dayName ? `<div class="place-info-overlay-event-day">${dayName}:</div>` : '';
-                    const itemsHtml = dayEvents.map(html => `<div class="place-info-overlay-competition">${html}</div>`).join('');
-                    eventsHtml += `<div class="place-info-overlay-event-group">${dayPrefix}${itemsHtml}</div>`;
-                });
-                const label = getCurrentLanguage() === 'en' ? 'Competition schedule' : 'Розклад змагань';
+            if (scheduleHtml) {
                 const $eventsRow = $(`
                     <tr>
                         <td class="place-info-overlay-competitions-cell">
-                            <details class="place-info-overlay-competitions-details">
-                                <summary class="place-info-overlay-competitions-summary">
-                                    <span class="place-info-overlay-competitions-cell-title">${label}</span>
-                                </summary>
-                                <div class="place-info-overlay-competitions-content">
-                                    ${eventsHtml}
-                                </div>
-                            </details>
+                            ${scheduleHtml}
                         </td>
                     </tr>
                 `);
-                $eventsRow.find('.br-optional').remove();
+                // Adapt classes for overlay specifically if needed, but here we just append it.
+                // We previously used specific classes like place-info-overlay-competitions-details.
+                // Let's make getCompetitionScheduleHtml generic and use shared styles.
+                $eventsRow.find('.competitions-details').addClass('place-info-overlay-competitions-details');
+                $eventsRow.find('.competitions-summary').addClass('place-info-overlay-competitions-summary');
+                $eventsRow.find('.competitions-cell-title').addClass('place-info-overlay-competitions-cell-title');
+                $eventsRow.find('.competitions-content').addClass('place-info-overlay-competitions-content');
+
                 overlayTable.append($eventsRow);
             }
 

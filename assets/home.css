@@ -639,14 +639,18 @@ div#placeInfoOverlay {
 }
 
 #placeInfoOverlay tr:nth-child(1) td { font-weight: bold; }
- 
+
 .place-info-overlay-competitions-cell {
     padding: 0;
     border-top: 1px dashed var(--table-border-color);
 }
+ 
+.table-competition-schedule {
+    margin-top: 0.5rem;
+}
 
-.place-info-overlay-competitions-summary {
-    padding: 0.5rem 0.5rem;
+.competitions-summary {
+    padding: 0.25rem 0;
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -655,11 +659,15 @@ div#placeInfoOverlay {
     list-style: none;
 }
 
-.place-info-overlay-competitions-summary::-webkit-details-marker {
+.place-info-overlay-competitions-summary {
+    padding: 0.5rem 0.5rem;
+}
+
+.competitions-summary::-webkit-details-marker {
     display: none;
 }
 
-.place-info-overlay-competitions-summary::before {
+.competitions-summary::before {
     content: "\f055";
     font: var(--fa-font-solid);
     -webkit-font-smoothing: antialiased;
@@ -668,16 +676,20 @@ div#placeInfoOverlay {
     flex-shrink: 0;
 }
 
-.place-info-overlay-competitions-details[open] .place-info-overlay-competitions-summary::before {
+.competitions-details[open] .competitions-summary::before {
     content: "\f056";
 }
 
-.place-info-overlay-competitions-summary:hover {
+.competitions-summary:hover {
     background-color: rgba(0, 0, 0, 0.05);
 }
 
-.place-info-overlay-competitions-content {
+.competitions-content {
     padding: 3px 6px 6px 6px;
+}
+
+.table-competition-schedule .competitions-content {
+    padding-left: 0;
 }
 
 .place-info-overlay-competition {
@@ -687,8 +699,12 @@ div#placeInfoOverlay {
     text-indent: -1rem;
 }
 
-.place-info-overlay-competitions-cell-title {
+.competitions-cell-title {
     font-weight: bold;
+}
+
+.table-competition-schedule .competitions-cell-title {
+    font-weight: normal;
 }
 
 .place-info-overlay-competition ul {
