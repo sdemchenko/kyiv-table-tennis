@@ -644,9 +644,9 @@ div#placeInfoOverlay {
     padding: 0;
     border-top: 1px dashed var(--table-border-color);
 }
- 
+
 .table-competition-schedule {
-    margin-top: 0.5rem;
+    margin-top: 0.2rem;
 }
 
 .competitions-summary {
