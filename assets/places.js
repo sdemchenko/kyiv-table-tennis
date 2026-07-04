@@ -24,7 +24,7 @@ window.PLACE_ALIASES = [
         id: "place-barlig",
         type: club,
         title: {uk: "Барліг", en: "Barlig"},
-        aliases: [],
+        aliases: ["Берлога"],
         address: {uk: "вулиця Івана Виговського, 10Ж", en: "Ivana Vyhovskoho Street, 10Ж"}
     },
     {
