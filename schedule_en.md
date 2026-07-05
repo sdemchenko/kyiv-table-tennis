@@ -137,3 +137,4 @@
   * July 19: 0-60 Ranked Tournament.
   * July 26: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
+  * July 5: ❌
