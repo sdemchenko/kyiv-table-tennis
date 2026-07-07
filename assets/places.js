@@ -207,7 +207,7 @@ window.PLACE_ALIASES = [
         id: "place-rsp",
         type: club,
         title: {uk: "RSP", en: "RSP"},
-        aliases: ["РСП"]
+        aliases: ["РСП", "Кіото", "Kioto", "Kyoto", "Киото"]
     },
     {
         id: "place-samosad",
