@@ -58,7 +58,7 @@
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:00. "Club 17". Tournament.
-  * July 16: 0-60 Unranked Tournament.
+  * July 16: ❌
   * July 23: 0-60 Unranked Tournament.
   * July 30: 0-60 Ranked Tournament.
 
