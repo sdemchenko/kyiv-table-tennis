@@ -76,7 +76,7 @@ window.PLACE_ALIASES = [
         id: "place-himars",
         type: club,
         title: {uk: "Himars", en: "Himars"},
-        aliases: ["Хаймарс", "Давід", "Давид", "David", "Більшовик", "Большевик"]
+        aliases: ["Хаймарс", "Хімарс", "Химарс", "Давід", "Давид", "David", "Більшовик", "Большевик"]
     },
     {
         id: "place-holosiivsky-park",
@@ -195,7 +195,7 @@ window.PLACE_ALIASES = [
         id: "place-quiks",
         type: club,
         title: {uk: "Quiks", en: "Quiks"},
-        aliases: ["Квікс", "Куікс"]
+        aliases: ["Квікс", "Куікс", "Квикс", "Куикс"]
     },
     {
         id: "place-raketnik",
