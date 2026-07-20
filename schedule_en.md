@@ -110,11 +110,11 @@
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00. "TT Republic". 0-15 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/139).
-    * July 26: Grand Final.
+  * July 26: Grand Final.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 16:00. "TT Republic". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/139).
-    * July 26: Grand Final.
+  * July 26: Grand Final.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
