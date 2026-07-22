@@ -107,6 +107,7 @@
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00, July 26. "Orion". [Orion Summer Team Championship](https://t.me/ttorion/4113). [Regulations](https://docs.google.com/document/d/1v6Ebd-VPs06he_Xxv9tx4MCMTLyE-JS9P_k3hr1TfAk/edit?usp=sharing).
 * 10:00. "Raketka". Ranked Tournament.
+  * July 26: 0-20 and 0-45 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
