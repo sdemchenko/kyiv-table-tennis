@@ -90,6 +90,7 @@
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
+* 11:00 - 13:30, July 25. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
   * July 25: 0-50
 * 14:30, July 25. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
