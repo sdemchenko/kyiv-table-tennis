@@ -109,6 +109,7 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
+  * July 26: 0-40.
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00, July 26. "Orion". [Orion Summer Team Championship](https://t.me/ttorion/4113). [Regulations](https://docs.google.com/document/d/1v6Ebd-VPs06he_Xxv9tx4MCMTLyE-JS9P_k3hr1TfAk/edit?usp=sharing).
 * 10:00. "Raketka". Ranked Tournament.
