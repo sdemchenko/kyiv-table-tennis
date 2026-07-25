@@ -93,12 +93,6 @@ window.PLACE_ALIASES = [
         address: {uk: "Верхній Вал 18", en: "Verkhnii Val 18"}
     },
     {
-        id: "place-hydropark-lawn-tennis",
-        type: court,
-        title: {uk: "Гідропарк - на корті великого тенісу", en: "Hydropark - at lawn tennis courts"},
-        aliases: ["Гидропарк"]
-    },
-    {
         id: "place-hydropark-venice-beach",
         type: court,
         title: {uk: "Гідропарк - біля пляжу \"Венеція\"", en: "Hydropark - near Venice Beach"},
@@ -238,6 +232,12 @@ window.PLACE_ALIASES = [
         type: club,
         title: {uk: "ДЮСШ №23", en: "Sports School #23"},
         aliases: ["ДЮСШ 23", "Sports School 23", "Маяковського", "Спортшкола 23"]
+    },
+    {
+        id: "place-telbin",
+        type: club,
+        title: {uk: "Озеро Тельбін", en: "Tel'bin Lake"},
+        aliases: ["Озеро Тельбин", "Telbin"]
     },
     {
         id: "place-toni-tops",
