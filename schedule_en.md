@@ -51,16 +51,13 @@
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:00 - 20:00. "RSP". Ladder.
-* 18:00, July 23. "Samosad Park". Charity Unranked Tournament. [Registration](https://t.me/nastilnyi_tenis/5347).
 * 18:30 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Volia". 0-45 Ranked Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
-  * July 23: 20:00 - 22:00
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:00. "Club 17". Tournament.
-  * July 23: 0-60 Unranked Tournament.
   * July 30: 0-60 Ranked Tournament.
 
 <h3 id="friday">Friday</h3>
@@ -82,19 +79,14 @@
 * 08:00. "Spin Up" (at "Himars"). League 1. 10-30 Ranked Tournament. Prior registration is mandatory.
 * 08:00. "Spin Up" (at "Quiks"). League 2. 0-10 Ranked Tournament. Prior registration is mandatory.
 * 09:00. "Grand-Prix". 0-20 Ranked Tournament. Prior registration is mandatory.
-  * July 25: ❌
 * 10:00. "Breiks". 0-100 Ranked Tournament.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
-* 10:30, July 25. "Gatne, SC" (Yurivka). 5-100 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
-* 11:00 - 13:30, July 25. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-  * July 25: 0-50
-* 14:30, July 25. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". Doubles Tournament.
@@ -103,30 +95,23 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
-  * July 25: 17:00 - 22:00
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 
 <h3 id="sunday">Sunday</h3>
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". Ranked Tournament.
-  * July 26: 0-40.
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
-* 10:00, July 26. "Orion". [Orion Summer Team Championship](https://t.me/ttorion/4113). [Regulations](https://docs.google.com/document/d/1v6Ebd-VPs06he_Xxv9tx4MCMTLyE-JS9P_k3hr1TfAk/edit?usp=sharing).
 * 10:00. "Raketka". Ranked Tournament.
-  * July 26: 0-20 and 0-45 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 11:00. "TT Republic". 0-15 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/139).
-  * July 26: Grand Final.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 16:00. "TT Republic". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/139).
-  * July 26: Grand Final.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * July 26: Doubles Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
