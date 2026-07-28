@@ -110,11 +110,15 @@
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 11:00. "TT Republic". 0-15 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/139).
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
-* 16:00. "TT Republic". 0-10 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/139).
+* 15:00. "TT Republic". 0-15 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/182).
+  * August 2: 1st qualifying tournament.
+  * August 9: 2nd qualifying tournament.
+  * August 16: 3rd qualifying tournament.
+  * August 23: 4th qualifying tournament.
+  * August 30: Grand Final.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
