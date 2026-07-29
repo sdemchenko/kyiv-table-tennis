@@ -40,6 +40,7 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:10. "Himars". 0-45 Ranked Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
+  * July 29: 18:00 - 22:00
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament, everyone plays everyone in best‑of‑five matches.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
