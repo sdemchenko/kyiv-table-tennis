@@ -94,6 +94,7 @@
 * 10:30, August 1. "Gatne, SC" (Yurivka). 5-100 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
+* 11:00. "Podacha#9". 0-100 Unranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 14:30, August 1. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
