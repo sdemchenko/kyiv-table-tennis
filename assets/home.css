@@ -430,7 +430,7 @@ table#t_courts td:last-of-type { text-align:center; }
 
 #schedule { margin-block-end: 0.8rem; }
 
-#schedule_error { color: red; padding-top: 1rem; display: none; }
+#schedule_error { color: red; display: none; }
 #schedule_error_time { padding-right: 1rem; }
 
 #changelogContainer {
@@ -474,6 +474,10 @@ button.diff-nav-prev:disabled, button.diff-nav-next:disabled {
     opacity: 10%;
 }
 /* END DIFF DIALOG */
+
+#filtersContainer {
+    margin-top: 1.5rem;
+}
 
 #scheduleContainer > ul {
     list-style: none;

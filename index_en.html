@@ -29,17 +29,17 @@
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/jquery-ui-dist@1.13.3/jquery-ui.min.css" rel="stylesheet"/>
-    <link href="assets/light-or-dark-mode.css?cacheBuster=081" rel="stylesheet">
-    <link href="assets/home.css?cacheBuster=081" rel="stylesheet">
+    <link href="assets/light-or-dark-mode.css?cacheBuster=082" rel="stylesheet">
+    <link href="assets/home.css?cacheBuster=082" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery-ui-dist@1.13.3/jquery-ui.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/diff@5.0.0/dist/diff.min.js"></script>
-    <script src="assets/light-or-dark-mode.js?cacheBuster=081"></script>
-    <script src="assets/highlight-tournament-tiers.js?cacheBuster=081"></script>
-    <script src="assets/changelog.js?cacheBuster=081"></script>
-    <script src="assets/places.js?cacheBuster=081"></script>
-    <script src="assets/home.js?cacheBuster=081"></script>
+    <script src="assets/light-or-dark-mode.js?cacheBuster=082"></script>
+    <script src="assets/highlight-tournament-tiers.js?cacheBuster=082"></script>
+    <script src="assets/changelog.js?cacheBuster=082"></script>
+    <script src="assets/places.js?cacheBuster=082"></script>
+    <script src="assets/home.js?cacheBuster=082"></script>
     <!-- Google tag (gtag.js) -->
     <script>
         if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
@@ -1746,15 +1746,21 @@
 
 <h2 id="schedule">Weekly Club Competitions</h2>
 
-<input type="checkbox" id="showTournaments" checked><label for="showTournaments">Tournaments, Cups, Championships <a href="#tournament">ⓘ</a></label><br>
-<input type="checkbox" id="showOtherCompetitions" checked><label for="showOtherCompetitions">Ladders <a href="#ladder">ⓘ</a>,
-    Coach-Guided Matches <a href="#group">ⓘ</a>, etc</label>
-
-<div id="schedule_error"><span id="schedule_error_time"></span>Unable to confirm the schedule's accuracy.</div>
+<div id="schedule_error">
+    <span id="schedule_error_time"></span>
+    Unable to confirm the schedule's accuracy.
+    Try <a href="https://github.com/sdemchenko/kyiv-table-tennis/blob/main/schedule_en.md">the direct link</a>.
+</div>
 
 <div id="changelogContainer">
     Recent schedule changes:
     <div id="changelog"></div>
+</div>
+
+<div id="filtersContainer">
+    <input type="checkbox" id="showTournaments" checked><label for="showTournaments">Tournaments, Cups, Championships <a href="#tournament">ⓘ</a></label><br>
+    <input type="checkbox" id="showOtherCompetitions" checked><label for="showOtherCompetitions">Ladders <a href="#ladder">ⓘ</a>,
+    Coach-Guided Matches <a href="#group">ⓘ</a>, etc</label>
 </div>
 
 <div id="scheduleContainer" data-src="schedule_en.md">
