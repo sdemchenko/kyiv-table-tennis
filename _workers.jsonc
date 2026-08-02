@@ -1,9 +1,0 @@
-{
-  "assets": {
-    "directory": ".",
-    "exclude": [
-      ".git",
-      ".github"
-    ]
-  }
-}

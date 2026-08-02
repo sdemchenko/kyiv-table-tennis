@@ -1,0 +1,19 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "kyiv-table-tennis",
+  "compatibility_date": "2026-08-02",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": ".",
+    "exclude": [
+      ".git",
+      ".github",
+      "node_modules"
+    ]
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
