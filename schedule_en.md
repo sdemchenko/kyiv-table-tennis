@@ -89,6 +89,7 @@
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
+* 10:30, August 8. "Gatne, SC" (Yurivka). 5-100 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00, August 8. "Gourmet". 0-15 Ranked Tournament.
@@ -113,6 +114,7 @@
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:30, August 9. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
