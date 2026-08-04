@@ -11,12 +11,27 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://tabletennis.kyiv.ua/assets/balsaca-6/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://tabletennis.kyiv.ua/assets/beresteiskyi-134/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://tabletennis.kyiv.ua/assets/breiks/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/chervonoi-kalyny-1a/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/chervonoi-kalyny-1a-back/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -32,6 +47,11 @@
     </url>
     <url>
         <loc>https://tabletennis.kyiv.ua/assets/dobrohotova-7/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/entuziastiv-33/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -196,12 +216,32 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://tabletennis.kyiv.ua/assets/raiduzhna-3/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://tabletennis.kyiv.ua/assets/rudnytskoho/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://tabletennis.kyiv.ua/assets/rusanivska-kosa/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/rusanivska-naberezhna-18/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/school-182/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/school-264/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -227,6 +267,11 @@
     </url>
     <url>
         <loc>https://tabletennis.kyiv.ua/assets/telbin/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://tabletennis.kyiv.ua/assets/tumanyana-8/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
