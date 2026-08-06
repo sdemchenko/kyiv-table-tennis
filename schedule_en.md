@@ -113,6 +113,7 @@
 * 10:00, August 9. "Gourmet". 0-40 Ranked Tournament.
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Raketka". Ranked Tournament.
+  * August 9: 0-25
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30, August 9. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
