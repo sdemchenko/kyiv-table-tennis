@@ -14,7 +14,7 @@ python3 -m http.server 8000
 **Cache busting:** Update `?cacheBuster=XXX` all query parameters in HTML when modifying CSS/JS files.
 
 ## Deployment
-Pushes to `main` automatically deploy to GitHub Pages via `.github/workflows/static.yml`.
+Pushes to `main` automatically deploy to Cloudflare Pages.
 
 ## Architecture
 
