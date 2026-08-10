@@ -34,6 +34,7 @@
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
+* 18:00, August 12. "Gourmet". 0-10 Ranked Tournament.
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:10. "Himars". 0-45 Ranked Tournament.
@@ -88,10 +89,12 @@
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
+* 11:00, August 15. "Gourmet". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". 0-100 Unranked Tournament.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
+* 15:00, August 15. "Gourmet". 0-5 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". Doubles Tournament.
@@ -105,6 +108,7 @@
 <h3 id="sunday">Sunday</h3>
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
+* 10:00, August 16. "Gourmet". 0-100 Ranked Tournament.
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Raketka". Ranked Tournament.
   * August 16: 0-35
@@ -112,6 +116,7 @@
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
+* 15:00, August 16. "Gourmet". 0-15 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
