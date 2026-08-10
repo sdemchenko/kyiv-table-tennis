@@ -10,6 +10,7 @@
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:00. "Sports School #21". 0-100 Unranked Tournament, everyone plays everyone in best‑of‑five matches.
+  * August 10: ❌
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 
 <h3 id="tuesday">Tuesday</h3>
