@@ -172,6 +172,7 @@ function showDiffOverlay(diffHtml, date) {
             resizable: true,
             draggable: true,
             position: {my: "center", at: "center", of: window},
+            closeOnEscape: true,
             buttons: [
                 {
                     text: isUkrainian() ? '↑ ' : '↑ ',
