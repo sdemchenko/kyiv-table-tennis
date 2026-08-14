@@ -96,6 +96,7 @@
 * 11:00. "Podacha#9". Unranked Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
+  * August 15: ❌
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00, August 15. "Gourmet". 0-5 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
