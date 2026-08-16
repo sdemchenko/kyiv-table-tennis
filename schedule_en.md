@@ -136,4 +136,5 @@
   * August 23: 0-60 Unranked Tournament
   * August 30: Doubles Tournament
 * 19:00 - 22:00. "KUTT". Ladder.
+  * August 16: ❌
 
