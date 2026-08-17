@@ -85,6 +85,7 @@
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
+* 10:30, August 22. "Gatne, SC" (Yurivka). 50-100 Ranked Tournament. Free of charge. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00, August 22. "Gourmet". 0-25 Ranked Tournament.
