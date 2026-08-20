@@ -73,6 +73,12 @@ window.PLACE_ALIASES = [
         aliases: ["Гран-Прі", "ГранПрі"]
     },
     {
+        id: "place-pingspace",
+        type: club,
+        title: {uk: "PingSpace", en: "PingSpace"},
+        aliases: ["Грейт"]
+    },
+    {
         id: "place-himars",
         type: club,
         title: {uk: "Himars", en: "Himars"},
