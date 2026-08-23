@@ -516,11 +516,11 @@ button.diff-nav-prev:disabled, button.diff-nav-next:disabled {
     list-style: initial;
 }
 
-.br-optional {
+.br-narrow {
     display: none;
 }
 @media (max-width: 359px) {
-    .br-optional {
+    .br-narrow {
         display: block;
     }
 }

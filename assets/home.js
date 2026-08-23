@@ -70,7 +70,7 @@ function getCompetitionScheduleHtml(placeName) {
                 </div>
             </details>
         `;
-        return html.replace(/class="br-optional"/g, 'style="display:none"');
+        return html.replace(/class="br-narrow"/g, 'style="display:none"');
     }
     return '';
 }
@@ -113,7 +113,7 @@ function fetchSchedule() {
 
             data = data.split('\n')
                 .map(line => { // On narrow screens, show time and place on one line, and event description on the next.
-                    return line.replace(/(^[*][^.]+[.][^.]+[.])/gm, '$1<br class="br-optional">')
+                    return line.replace(/(^[*][^.]+[.][^.]+[.])/gm, '$1<br class="br-narrow">')
                 }).join('\n');
 
             const html = md.render(data);
