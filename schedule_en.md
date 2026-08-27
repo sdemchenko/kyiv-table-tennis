@@ -87,7 +87,7 @@
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:05. "Breiks". 0-100 Ranked Tournament.
-* 10:30, August 29. "Gatne, SC" (Yurivka). 50-100 Ranked Tournament. Prior registration is mandatory.
+* 10:30, August 29. "Gatne, SC" (Yurivka). 5-100 Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
 * 11:00, August 29. "Gourmet". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". Unranked Tournament for players without a UTTF ranking.
