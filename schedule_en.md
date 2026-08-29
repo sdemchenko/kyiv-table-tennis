@@ -108,9 +108,9 @@
 
 <h3 id="sunday">Sunday</h3>
 
+* 09:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00, August 30. "Gourmet". 0-100 Ranked Tournament.
-* 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Raketka". Ranked Tournament.
   * August 30: 0-30
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
