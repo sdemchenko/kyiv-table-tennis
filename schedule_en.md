@@ -122,7 +122,7 @@
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 15:00. "TT Republic". 0-15 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/182).
-  * August 30: Grand Final.
+  * September 6: Grand Final.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
