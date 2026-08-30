@@ -128,4 +128,5 @@
 * 19:00. "Club 17". Tournament.
   * August 30: Doubles Tournament
 * 19:00 - 22:00. "KUTT". Ladder.
+  * August 30: ❌
 
