@@ -18,7 +18,6 @@
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
-* 18:00, August 25. "Quiks". 0-30 Ranked Tournament.
 * 18:00 - 20:00. "RSP". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 20:40. "Sports School #23". Ladder.
@@ -35,11 +34,9 @@
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
-* 18:00, August 26. "Gourmet". 0-5 Ranked Tournament.
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:10. "Himars". 0-45 Ranked Tournament.
-  * August 26: 0-50
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
@@ -56,13 +53,11 @@
 * 18:00 - 20:00. "RSP". Ladder.
 * 18:30 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Volia". 0-45 Ranked Tournament.
-  * August 27: ❌
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-25 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:00. "Club 17". Tournament.
-  * August 27: 0-60 Ranked Tournament
 
 <h3 id="friday">Friday</h3>
 
@@ -83,22 +78,17 @@
 * 08:00. "Spin Up" (at "Himars"). League 1. 10-30 Ranked Tournament. Prior registration is mandatory.
 * 08:00. "Spin Up" (at "Quiks"). League 2. 0-10 Ranked Tournament. Prior registration is mandatory.
 * 09:00. "Grand-Prix". 0-20 Ranked Tournament. Prior registration is mandatory.
-  * August 29: ❌
 * 10:00. "Leader (RC)". Children's Tournament. Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Age: up to 17 years old inclusive.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:05. "Breiks". 0-100 Ranked Tournament.
-* 10:30, August 29. "Gatne, SC" (Yurivka). 5-100 Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-25 Ranked Tournament.
-* 11:00, August 29. "Gourmet". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". Unranked Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, August 29. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
-* 15:00, August 29. "Gourmet". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
@@ -111,14 +101,11 @@
 
 * 09:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
-* 10:00, August 30. "Gourmet". 0-100 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * August 30: 0-30
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 15:00, August 30. "Gourmet". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
@@ -127,7 +114,5 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * August 30: Doubles Tournament
 * 19:00 - 22:00. "KUTT". Ladder.
-  * August 30: ❌
 
