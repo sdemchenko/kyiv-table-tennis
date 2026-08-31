@@ -1,6 +1,6 @@
 const repoOwner = 'sdemchenko';
 const repoName = 'kyiv-table-tennis';
-const numCommits = 30;
+const numCommits = 20;
 const query = `
       query($owner: String!, $name: String!, $path: String!, $n: Int!) {
         repository(owner: $owner, name: $name) {
