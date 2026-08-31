@@ -38,6 +38,7 @@
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:10. "Himars". 0-45 Ranked Tournament.
+  * September 2: 0-50
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
