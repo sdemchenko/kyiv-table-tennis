@@ -57,7 +57,8 @@
 * 18:30. "Volia". 0-45 Ranked Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
-* 19:00. "Orion". 0-25 Unranked Tournament.
+* 19:00. "Orion". 0-50 Ranked Tournament.
+* 19:00. "Orion". 0-15 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:00. "Club 17". Tournament.
 
@@ -85,7 +86,8 @@
 * 10:00. "Solomyanka". 0-100 Unranked Tournament. Prior registration is mandatory.
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:05. "Breiks". 0-100 Ranked Tournament.
-* 10:30. "Orion". 0-25 Ranked Tournament.
+* 10:30. "Orion". 0-30 Ranked Tournament.
+* 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Gourmet". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". Unranked Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-10 Ranked Tournament.
@@ -94,6 +96,7 @@
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Gourmet". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
+* 15:00. "Orion". Doubles Tournament.
 * 15:00. "Quiks". 0-25 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
@@ -108,6 +111,7 @@
 * 10:00. "Gourmet". 0-40 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
