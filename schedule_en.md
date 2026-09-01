@@ -53,6 +53,7 @@
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:00 - 20:00. "RSP". Ladder.
+* 18:00, September 3. "Samosad Park". Charity Tournament. [Details](https://t.me/sport_podil/59).
 * 18:30 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Volia". 0-45 Ranked Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
