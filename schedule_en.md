@@ -61,7 +61,11 @@
 * 19:00. "Orion". 0-50 Ranked Tournament.
 * 19:00. "Orion". 0-15 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
-* 20:00. "Club 17". Tournament.
+* 20:30. "Club 17". Tournament.
+  * August 3: 0-60 Unranked Tournament.
+  * August 10: 0-60 Ranked Tournament.
+  * August 17: 0-60 Unranked Tournament.
+  * August 24: 0-60 Ranked Tournament.
 
 <h3 id="friday">Friday</h3>
 
@@ -128,5 +132,9 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
+  * August 6: 0-60 Ranked Tournament.
+  * August 13: 0-60 Unranked Tournament.
+  * August 20: 0-60 Ranked Tournament.
+  * August 27: Doubles Tournament
 * 19:00 - 22:00. "KUTT". Ladder.
 
