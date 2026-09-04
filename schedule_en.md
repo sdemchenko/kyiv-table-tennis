@@ -79,6 +79,7 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
+* 19:00, September 4. "Samosad Park". "Anna Tron Cup" Tournament. [Details](https://t.me/sport_podil/62).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Tuesday and Friday group).
 
 <h3 id="saturday">Saturday</h3>
