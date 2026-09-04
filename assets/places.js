@@ -198,6 +198,12 @@ window.PLACE_ALIASES = [
         aliases: ["Квікс", "Куікс", "Квикс", "Куикс"]
     },
     {
+        id: "place-raketka",
+        type: club,
+        title: {uk: "Ракетка", en: "Raketka"},
+        aliases: []
+    },
+    {
         id: "place-raketnik",
         type: club,
         title: {uk: "Raketnik", en: "Raketnik"},
