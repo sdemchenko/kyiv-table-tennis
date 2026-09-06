@@ -2,5 +2,7 @@ User-agent: *
 Disallow: /assets/temp/
 Disallow: /assets/top-spin
 Disallow: /assets/top-spin/
+Disallow: /assets/tvoya-podacha/
+Disallow: /assets/changelog/
 
 Sitemap: https://tabletennis.kyiv.ua/sitemap.xml
