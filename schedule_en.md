@@ -114,6 +114,7 @@
 * 10:00. "Gourmet". 0-40 Ranked Tournament.
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Raketka". Ranked Tournament.
+  * September 20: 0-25 and 0-100 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30, September 20. "Gatne, SC" (Yurivka). 5-100 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-100 Ranked Tournament.
