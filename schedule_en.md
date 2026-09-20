@@ -36,7 +36,6 @@
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:10. "Himars". 0-45 Ranked Tournament.
-	* September 16: 0-50
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
@@ -50,7 +49,6 @@
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
-* 18:30, September 17. "Samosad Park". Charity Unranked Tournament. Participation is free of charge. [Details](https://t.me/sport_podil/67).
 * 18:30 - 20:40. "Sports School #23". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
@@ -58,7 +56,6 @@
 * 19:00. "Orion". 0-15 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:30. "Club 17". Tournament.
-  * September 17: 0-60 Unranked Tournament.
   * September 24: 0-60 Ranked Tournament.
 
 <h3 id="friday">Friday</h3>
@@ -78,7 +75,6 @@
 
 * 08:00. "Spin Up" (at "Himars"). League 1. 10-30 Ranked Tournament. Prior registration is mandatory.
 * 08:00. "Spin Up" (at "Quiks"). League 2. 0-10 Ranked Tournament. Prior registration is mandatory.
-* 09:00, September 19. "Gatne, SC" (Yurivka). Tournament among children born in 2016 and younger.
 * 10:00. "Grand-Prix". 0-20 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Leader (RC)". Children's Tournament (up to 17 years old inclusive). Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
@@ -91,9 +87,7 @@
 * 11:00. "Quiks". 0-10 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
-  * September 19: ❌
 * 15:00. "DBK-4 Sports Complex". Ladder.
-* 15:00, September 19. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
 * 15:00. "Gourmet". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". Doubles Tournament.
@@ -110,9 +104,7 @@
 * 10:00. "Gourmet". 0-40 Ranked Tournament.
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Raketka". Ranked Tournament.
-  * September 20: 0-25 and 0-100 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:30, September 20. "Gatne, SC" (Yurivka). 5-100 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
@@ -121,10 +113,8 @@
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
-* 15:00. "TT Republic". 0-15 Ranked Tournament [Smash Respublica](https://t.me/tt_republic/182).
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * September 20: 0-60 Ranked Tournament.
   * September 27: Doubles Tournament
 
