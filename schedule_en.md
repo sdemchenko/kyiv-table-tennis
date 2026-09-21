@@ -80,6 +80,7 @@
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:05. "Breiks". 0-100 Ranked Tournament.
+* 10:30, September 26. "Gatne, SC" (Yurivka). Open Championship of Kyiv Oblast among youth (2005 y.o.b. and younger).
 * 10:30. "Orion". 0-30 Ranked Tournament.
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Gourmet". 0-25 Ranked Tournament.
