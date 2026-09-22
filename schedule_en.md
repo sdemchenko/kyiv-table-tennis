@@ -109,6 +109,7 @@
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 	* September 27: ❌
 * 10:00. "Raketka". Ranked Tournament.
+	* September 27: ❌
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
