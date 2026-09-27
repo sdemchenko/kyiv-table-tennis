@@ -86,14 +86,14 @@
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Gourmet". 0-25 Ranked Tournament.
 * 11:00. "Podacha#9". Unranked Tournament for players without a UTTF ranking.
-* 11:00. "Quiks". 0-10 Ranked Tournament.
+* 11:00. "Quiks". 0-35 Ranked Tournament.
 * 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Gourmet". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
-* 15:00. "Quiks". 0-25 Ranked Tournament.
+* 15:00. "Quiks". 0-10 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
