@@ -36,7 +36,6 @@
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:10. "Himars". 0-45 Ranked Tournament.
-  * September 23: 0-50
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
@@ -59,14 +58,12 @@
 * 19:00. "Orion". 0-15 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:30. "Club 17". Tournament.
-  * September 24: 0-60 Ranked Tournament.
 
 <h3 id="friday">Friday</h3>
 
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
-* 17:15, September 25. "Leader (RC)". Ranked Tournament "TOP-12".
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". 0-5 Ranked Tournament.
@@ -85,7 +82,6 @@
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:05. "Breiks". 0-100 Ranked Tournament.
-* 10:30, September 26. "Gatne, SC" (Yurivka). Open Championship of Kyiv Oblast among youth (2005 y.o.b. and younger).
 * 10:30. "Orion". 0-30 Ranked Tournament.
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Gourmet". 0-25 Ranked Tournament.
@@ -109,16 +105,12 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-100 Ranked Tournament.
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
-  * September 27: ❌
 * 10:00. "Raketka". Ranked Tournament.
-  * September 27: ❌
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:30, September 27. "Gatne, SC" (Yurivka). 0-100 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 11:30, September 27. "Samosad Park". Unranked Tournament. [Details](https://t.me/sport_podil/72).
 * 15:00. "Gourmet". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
@@ -126,5 +118,4 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * September 27: Doubles Tournament
 
