@@ -16,6 +16,7 @@
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
+* 18:00. "Gourmet". 0-30 Ranked Tournament.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 20:40. "Sports School #23". Ladder.
@@ -32,7 +33,6 @@
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
-* 18:00. "Gourmet". 0-5 Ranked Tournament.
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:10. "Himars". 0-45 Ranked Tournament.
@@ -48,6 +48,7 @@
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
+* 18:00. "Gourmet". 0-30 Ranked Tournament.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
 * 18:30 - 20:40. "Sports School #23". Ladder.
@@ -103,7 +104,7 @@
 <h3 id="sunday">Sunday</h3>
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
-* 10:00. "Gourmet". 0-100 Ranked Tournament.
+* 10:00. "Gourmet". 0-40 Ranked Tournament.
 * 10:00. "Grand-Prix". 0-30 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
