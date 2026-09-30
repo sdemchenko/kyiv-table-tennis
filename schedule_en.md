@@ -78,12 +78,12 @@
 
 * 08:00. "Spin Up" (at "Himars"). League 1. 10-30 Ranked Tournament. Prior registration is mandatory.
 * 08:00. "Spin Up" (at "Quiks"). League 2. 0-10 Ranked Tournament. Prior registration is mandatory.
+* 09:00, October 3. "Gatne, SC" (Yurivka). Kyiv Oblast Open Championship among Juniors born in 2008 and younger.
 * 10:00. "Grand-Prix". 0-20 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Leader (RC)". Children's Tournament (up to 17 years old inclusive). Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:05. "Breiks". 0-100 Ranked Tournament.
-* 10:30, October 3. "Gatne, SC" (Yurivka). Kyiv Oblast Open Championship among Juniors born in 2008 and younger.
 * 10:30. "Orion". 0-30 Ranked Tournament.
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Gourmet". 0-25 Ranked Tournament.
