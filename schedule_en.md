@@ -58,7 +58,12 @@
 * 19:00. "Orion". 0-50 Ranked Tournament.
 * 19:00. "Orion". 0-15 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
-* 20:30. "Club 17". Tournament.
+* 20:15. "Club 17". Tournament.
+  * October 1: Unranked Tournament 0-60.
+  * October 8: Ranked Tournament 0-60.
+  * October 15: Unranked Tournament 0-60.
+  * October 22: Unranked Tournament 0-60.
+  * October 29: Ranked Tournament 0-60.
 
 <h3 id="friday">Friday</h3>
 
@@ -121,4 +126,8 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
+  * October 4: Doubles Tournament.
+  * October 11: Ranked Tournament 0-60.
+  * October 18: Ranked Tournament 0-60.
+  * October 25: Doubles Tournament.
 
