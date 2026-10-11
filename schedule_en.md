@@ -122,6 +122,7 @@
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
+* 17:30 - 20:30, October 11. "KUTT". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
