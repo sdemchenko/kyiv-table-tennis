@@ -147,8 +147,8 @@ function fetchSchedule() {
 }
 
 /**
- * Returns a timestamp-based number.
- *  Use it to make the browser use a cached resource version for some milliseconds.
+ * Returns a timestamp-based number to use in a URL to make sure a cached resource
+ * is used for no more than <tt>ttlMs<tt> milliseconds.
  */
 function getCacheKey(ttlMs = 1000 * 60) {
     return Math.floor(Date.now() / ttlMs);

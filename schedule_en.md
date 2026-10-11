@@ -36,9 +36,7 @@
 * 18:00. "Quiks". 0-25 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:10. "Himars". 0-45 Ranked Tournament.
-  * October 7: 0-50.
 * 19:00 - 22:00. "KUTT". Ladder.
-  * October 7: 18:00 - 22:00.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 * 19:30. "Sports School #21". 0-100 Unranked Tournament, everyone plays everyone in best‑of‑five matches.
@@ -60,7 +58,6 @@
 * 19:00. "Orion". 0-15 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:15. "Club 17". Tournament.
-  * October 8: Ranked Tournament 0-60.
   * October 15: Unranked Tournament 0-60.
   * October 22: Unranked Tournament 0-60.
   * October 29: Ranked Tournament 0-60.
@@ -111,8 +108,6 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-100 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * October 11: 0-25 and 0-45 Ranked Tournaments will start at the same time.
-* 10:00, October 11. "Gatne, SC" (Yurivka). 0-25 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-30 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
@@ -122,11 +117,9 @@
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
-* 17:30 - 20:30, October 11. "KUTT". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * October 11: Ranked Tournament 0-60.
   * October 18: Ranked Tournament 0-60.
   * October 25: Doubles Tournament.
 
