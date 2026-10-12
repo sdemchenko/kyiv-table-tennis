@@ -41,6 +41,7 @@
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 * 19:30. "Sports School #21". 0-100 Unranked Tournament, everyone plays everyone in best‑of‑five matches.
 * 20:00 - 22:40. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
+  * October 14: the tournament starts at 19:30.
 
 <h3 id="thursday">Thursday</h3>
 
