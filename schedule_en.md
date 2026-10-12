@@ -97,8 +97,7 @@
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Gourmet". 0-5 Ranked Tournament.
-* 15:00. "Orion". 0-10 Ranked Tournament.
-* 15:00. "Orion". 0-50 Ranked Tournament.
+* 15:00. "Orion". Doubles Tournament.
 * 15:00. "Quiks". 0-10 Ranked Tournament.
 * 16:00 - 18:00. "Pechersk". Ladder.
 * 18:00 - 22:30. "Volia". Ladder.
@@ -113,7 +112,7 @@
 * 10:00. "Raketka". Ranked Tournament.
   * October 18: 0-35.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
-* 10:30. "Orion". 0-30 Ranked Tournament.
+* 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
