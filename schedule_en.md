@@ -115,9 +115,11 @@
 * 10:30. "Orion". 0-30 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF ranking.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
+  * October 18: ❌
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
 * 15:00. "Gourmet". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
+  * October 18: ❌
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
 * 18:00 - 22:30. "Volia". Ladder.
