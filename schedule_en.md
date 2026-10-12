@@ -106,7 +106,7 @@
 <h3 id="sunday">Sunday</h3>
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
-* 10:00. "Gourmet". 0-100 Ranked Tournament.
+* 10:00. "Gourmet". 0-40 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
   * October 18: 0-35.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
