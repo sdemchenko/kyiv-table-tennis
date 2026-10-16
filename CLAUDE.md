@@ -48,6 +48,10 @@ Key variables: `--page-bg-color`, `--ranked-bg`, `--unranked-bg`.
 - diff 5.0.0
 - Font Awesome 6.7.2
 
+## Agent skills
+
+See `AGENTS.md` for agent skills configuration (issue tracker, triage labels, domain docs).
+
 ## Applied Learning
 When something fails repeatedly, when human has to re-explain, or when a workaround is found for a platform/tool limitation,
 add a one-line bullet here. Keep each bullet under 15 words. No explanations. Only add things that will save time in future sessions.
