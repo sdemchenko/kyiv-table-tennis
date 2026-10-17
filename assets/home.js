@@ -1,7 +1,7 @@
 // place name → <tr> with info about a club or court
 const places = new Map();
 
-// Search/autocomplete records for shareable venue links.
+// Search/autocomplete records for shareable place links.
 const shareablePlaces = [];
 
 $(document).ready(function () {
@@ -9,7 +9,7 @@ $(document).ready(function () {
     configureCheckboxesFilteringCompetitions();
     populatePlacesMap();
     configurePlaceNameLinksToOpenPlaceInfoOverlay();
-    configureShareVenueSearch();
+    configureSharePlaceSearch();
     fetchSchedule();
     setInterval(fetchSchedule, 10 * 60 * 1000);
 });
@@ -27,8 +27,8 @@ function getCompetitionScheduleHtml(placeName) {
             const $clonedLi = $li.clone();
 
             // Match the link tag and optional trailing punctuation/space.
-            // The link is created as <a data-place="VenueName">VenueName</a>
-            // We only want to remove it if it's the main venue, not if it's "(at VenueName)".
+            // The link is created as <a data-place="PlaceName">PlaceName</a>
+            // We only want to remove it if it's the main place, not if it's "(at PlaceName)".
             // So we check that it's not preceded by "at " or "у ".
             const escapedPlaceName = placeName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
             const regex = new RegExp(`(?<!\\(at\\s|\\(у\\s)<a[^>]*data-place=["']${escapedPlaceName}["'][^>]*>${escapedPlaceName}</a>\\.?\\s*`, 'g');
@@ -280,10 +280,10 @@ function makeClubNamesInTheScheduleClicky() {
 // -----------------------------------------------------------------------------
 
 function populatePlacesMap() {
-    const venueRegistry = Array.isArray(window.PLACE_ALIASES) ? window.PLACE_ALIASES : [];
+    const placeRegistry = Array.isArray(window.PLACE_ALIASES) ? window.PLACE_ALIASES : [];
     const placeBySearchText = new Map();
 
-    venueRegistry.forEach(place => {
+    placeRegistry.forEach(place => {
         getPlaceSearchTexts(place).forEach(text => {
             const normalized = normalizeSearchText(text);
             if (normalized) placeBySearchText.set(normalized, place);
@@ -342,7 +342,7 @@ function populatePlacesMap() {
         });
     });
 
-    warnAboutMissingPlaceAliases(venueRegistry);
+    warnAboutMissingPlaceAliases(placeRegistry);
 }
 
 function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
@@ -460,14 +460,14 @@ function configurePlaceNameLinksToOpenPlaceInfoOverlay() {
 }
 
 // -----------------------------------------------------------------------------
-// Share venue search/autocomplete
+// 'Share place' search/autocomplete
 // -----------------------------------------------------------------------------
 
-function configureShareVenueSearch() {
-    const $search = $('#shareVenueSearch');
+function configureSharePlaceSearch() {
+    const $search = $('#sharePlaceSearch');
     if (!$search.length || !$.ui || !$.ui.autocomplete) return;
 
-    const labels = getShareVenueLabels();
+    const labels = getsharePlaceLabels();
 
     $search.autocomplete({
         minLength: 1,
@@ -498,7 +498,7 @@ function configureShareVenueSearch() {
         select: function (event, ui) {
             event.preventDefault();
             $search.val(ui.item.place.title);
-            selectShareVenue(ui.item.place);
+            selectsharePlace(ui.item.place);
         },
         focus: function (event, ui) {
             event.preventDefault();
@@ -511,17 +511,17 @@ function configureShareVenueSearch() {
 
         return $('<li>')
             .append(
-                $('<div class="share-venue-result">')
-                    .append($('<span class="share-venue-result-title">').text(place.title))
-                    .append($('<span class="share-venue-result-meta">').text(meta))
+                $('<div class="share-place-result">')
+                    .append($('<span class="share-place-result-title">').text(place.title))
+                    .append($('<span class="share-place-result-meta">').text(meta))
             )
             .appendTo(ul);
     };
 
-    $('#shareVenueCopy').on('click', function () {
-        const url = $('#shareVenueLink').val();
-        const placeId = $('#shareVenue').data('selectedPlaceId');
-        if (url) copyShareVenueUrl(url, placeId);
+    $('#sharePlaceCopy').on('click', function () {
+        const url = $('#sharePlaceLink').val();
+        const placeId = $('#sharePlace').data('selectedPlaceId');
+        if (url) copysharePlaceUrl(url, placeId);
     });
 
     if (location.hash) {
@@ -529,43 +529,43 @@ function configureShareVenueSearch() {
     }
 }
 
-function selectShareVenue(place) {
-    const url = makeShareVenueUrl(place.id);
+function selectsharePlace(place) {
+    const url = makesharePlaceUrl(place.id);
     history.replaceState(null, '', '#' + place.id);
-    $('#shareVenue').data('selectedPlaceId', place.id);
-    $('#shareVenueLink').val(url);
-    $('#shareVenueSelected').prop('hidden', false);
+    $('#sharePlace').data('selectedPlaceId', place.id);
+    $('#sharePlaceLink').val(url);
+    $('#sharePlaceSelected').prop('hidden', false);
 
-    copyShareVenueUrl(url, place.id).then(copied => {
+    copysharePlaceUrl(url, place.id).then(copied => {
         if (copied) {
     highlightSharedPlace(place.id);
         }
     });
 }
 
-function makeShareVenueUrl(placeId) {
+function makesharePlaceUrl(placeId) {
     const url = new URL(window.location.href);
     url.hash = placeId;
     return url.toString();
 }
 
-function copyShareVenueUrl(url, placeId) {
-    const labels = getShareVenueLabels();
+function copysharePlaceUrl(url, placeId) {
+    const labels = getsharePlaceLabels();
 
     if (navigator.clipboard && window.isSecureContext) {
         return navigator.clipboard.writeText(url)
             .then(() => {
-                showShareVenueStatus(labels.copied, placeId);
+                showsharePlaceStatus(labels.copied, placeId);
                 return true;
             })
-            .catch(() => fallbackCopyShareVenueUrl(url, labels, placeId));
+            .catch(() => fallbackCopysharePlaceUrl(url, labels, placeId));
     }
 
-    return Promise.resolve(fallbackCopyShareVenueUrl(url, labels, placeId));
+    return Promise.resolve(fallbackCopysharePlaceUrl(url, labels, placeId));
 }
 
-function fallbackCopyShareVenueUrl(url, labels, placeId) {
-    const input = document.getElementById('shareVenueLink');
+function fallbackCopysharePlaceUrl(url, labels, placeId) {
+    const input = document.getElementById('sharePlaceLink');
     if (!input) return false;
 
     input.value = url;
@@ -574,17 +574,17 @@ function fallbackCopyShareVenueUrl(url, labels, placeId) {
 
     try {
         const copied = document.execCommand('copy');
-        showShareVenueStatus(copied ? labels.copied : labels.copyManually, copied ? placeId : null);
+        showsharePlaceStatus(copied ? labels.copied : labels.copyManually, copied ? placeId : null);
         input.blur();
         return copied;
     } catch (e) {
-        showShareVenueStatus(labels.copyManually, null);
+        showsharePlaceStatus(labels.copyManually, null);
         return false;
     }
 }
 
-function showShareVenueStatus(message, placeId) {
-    $('#shareVenueStatus').text(message);
+function showsharePlaceStatus(message, placeId) {
+    $('#sharePlaceStatus').text(message);
 
     if (placeId) {
         showSharedPlaceCopyBadge();
@@ -610,14 +610,14 @@ function highlightSharedPlace(placeId) {
 }
 
 function showSharedPlaceCopyBadge() {
-    const labels = getShareVenueLabels();
-    const $toast = $('#shareVenueToast');
+    const labels = getsharePlaceLabels();
+    const $toast = $('#sharePlaceToast');
     if (!$toast.length) return;
 
     $toast.text(labels.copiedBadge).fadeIn(250);
 
-    clearTimeout(window.shareVenueToastTimeout);
-    window.shareVenueToastTimeout = setTimeout(() => {
+    clearTimeout(window.sharePlaceToastTimeout);
+    window.sharePlaceToastTimeout = setTimeout(() => {
         $toast.fadeOut(250);
     }, 2800);
 }
@@ -710,7 +710,7 @@ function makePlaceId(name) {
         .replace(/[^a-z0-9]+/g, '-')
         .replace(/^-+|-+$/g, '');
 
-    return 'place-' + (slug || 'venue');
+    return 'place-' + slug;
 }
 
 function warnAboutMissingPlaceAliases(aliases) {
@@ -726,7 +726,7 @@ function getCurrentLanguage() {
     return isUkrainian() ? 'uk' : 'en';
 }
 
-function getShareVenueLabels() {
+function getsharePlaceLabels() {
     return isUkrainian()
         ? {
             club: 'клуб',

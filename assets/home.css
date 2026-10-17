@@ -198,10 +198,6 @@ ul#moreNews {
     #moreNews .desc { display: none; }
 }
 
-#venues {
-    margin-bottom: 0.8rem;
-}
-
 #maps { margin-bottom: 0; }
 div.maps {
     display: flex;
@@ -240,7 +236,7 @@ div.maps details {
     }
 }
 
-#shareVenue {
+#sharePlace {
     margin-top: 1.5rem;
     padding: 0.8rem;
     border: 1px solid var(--table-border-color);
@@ -248,22 +244,22 @@ div.maps details {
     background-color: var(--table-bg-color);
 }
 
-#shareVenue h2 {
+#sharePlace h2 {
     margin-top: 0;
 }
 
-#shareVenue label {
+#sharePlace label {
     display: block;
     margin-bottom: 0.4rem;
 }
 
-#shareVenue .hint {
+#sharePlace .hint {
     margin-bottom: 0.4rem;
     font-size: 0.9rem;
     color: #888888;
 }
 
-#shareVenueSearch {
+#sharePlaceSearch {
     box-sizing: border-box;
     width: 100%;
     padding: 0.45rem 0.55rem;
@@ -272,24 +268,24 @@ div.maps details {
     color: var(--page-fg-color);
 }
 
-#shareVenueStatus {
+#sharePlaceStatus {
     min-height: 1.2rem;
     margin-top: 0.45rem;
     font-size: 0.9rem;
     color: #888888;
 }
 
-#shareVenueSelected {
+#sharePlaceSelected {
     display: flex;
     gap: 0.5rem;
     margin-top: 0.5rem;
 }
 
-#shareVenueSelected[hidden] {
+#sharePlaceSelected[hidden] {
     display: none;
 }
 
-#shareVenueLink {
+#sharePlaceLink {
     flex: 1;
     min-width: 0;
     padding: 0.35rem 0.45rem;
@@ -298,7 +294,7 @@ div.maps details {
     color: var(--page-fg-color);
 }
 
-#shareVenueCopy {
+#sharePlaceCopy {
     white-space: nowrap;
 }
 
@@ -355,7 +351,7 @@ tr.shared-place-highlight > td {
     color: var(--page-fg-color);
 }
 
-.ui-autocomplete .share-venue-result {
+.ui-autocomplete .share-place-result {
     display: flex;
     flex-direction: column;
     gap: 0.15rem;
@@ -363,11 +359,11 @@ tr.shared-place-highlight > td {
     overflow-wrap: anywhere;
 }
 
-.ui-autocomplete .share-venue-result-title {
+.ui-autocomplete .share-place-result-title {
     font-weight: bold;
 }
 
-.ui-autocomplete .share-venue-result-meta {
+.ui-autocomplete .share-place-result-meta {
     font-size: 0.85rem;
     opacity: 0.8;
     white-space: normal;
@@ -733,7 +729,7 @@ div#placeInfoOverlay {
     margin-top: 0.2rem;
 }
 
-#shareVenueToast {
+#sharePlaceToast {
     display: none;
     position: fixed;
     left: 50%;

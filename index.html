@@ -21,17 +21,17 @@
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/jquery-ui-dist@1.13.3/jquery-ui.min.css" rel="stylesheet"/>
-    <link href="assets/light-or-dark-mode.css?cacheBuster=086" rel="stylesheet">
-    <link href="assets/home.css?cacheBuster=086" rel="stylesheet">
+    <link href="assets/light-or-dark-mode.css?cacheBuster=087" rel="stylesheet">
+    <link href="assets/home.css?cacheBuster=087" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery-ui-dist@1.13.3/jquery-ui.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/diff@5.0.0/dist/diff.min.js"></script>
-    <script src="assets/light-or-dark-mode.js?cacheBuster=086"></script>
-    <script src="assets/highlight-tournament-tiers.js?cacheBuster=086"></script>
-    <script src="assets/changelog.js?cacheBuster=086"></script>
-    <script src="assets/places.js?cacheBuster=086"></script>
-    <script src="assets/home.js?cacheBuster=086"></script>
+    <script src="assets/light-or-dark-mode.js?cacheBuster=087"></script>
+    <script src="assets/highlight-tournament-tiers.js?cacheBuster=087"></script>
+    <script src="assets/changelog.js?cacheBuster=087"></script>
+    <script src="assets/places.js?cacheBuster=087"></script>
+    <script src="assets/home.js?cacheBuster=087"></script>
     <!-- Google tag (gtag.js) -->
     <script>
         if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
@@ -60,7 +60,7 @@
                 <li><a href="#t_clubs">Клуби та зали</a></li>
                 <li><a href="#t_courts">Майданчики</a></li>
                 <li>
-                    <a href="#shareVenue" aria-label="Скопіювати посилання на локацію" title="Скопіювати посилання на локацію">
+                    <a href="#sharePlace" aria-label="Скопіювати посилання на локацію" title="Скопіювати посилання на локацію">
                         <i class="fa-solid fa-link" aria-hidden="true"></i>
                     </a>
                 </li>
@@ -1785,16 +1785,16 @@
     </tbody>
 </table>
 
-<section id="shareVenue">
+<section id="sharePlace">
     <h2>Посилання на локацію</h2>
-    <label for="shareVenueSearch">Знайдіть клуб або майданчик за назвою, орієнтиром чи адресою:</label>
+    <label for="sharePlaceSearch">Знайдіть клуб або майданчик за назвою, орієнтиром чи адресою:</label>
     <div class="hint">Оберіть локацію зі списку, щоб скопіювати посилання на неї.</div>
-    <input id="shareVenueSearch" type="search" autocomplete="off" placeholder="Наприклад: Orion, Оріон, ВДНГ, Бальзака">
-    <div id="shareVenueStatus" aria-live="polite"></div>
-    <div id="shareVenueSelected" hidden>
+    <input id="sharePlaceSearch" type="search" autocomplete="off" placeholder="Наприклад: Orion, Оріон, ВДНГ, Бальзака">
+    <div id="sharePlaceStatus" aria-live="polite"></div>
+    <div id="sharePlaceSelected" hidden>
         <!--suppress HtmlFormInputWithoutLabel -->
-        <input id="shareVenueLink" type="text" readonly>
-        <button id="shareVenueCopy" type="button">Копіювати</button>
+        <input id="sharePlaceLink" type="text" readonly>
+        <button id="sharePlaceCopy" type="button">Копіювати</button>
     </div>
 </section>
 
@@ -2421,7 +2421,7 @@
 </a>
 
 <div id="placeInfoOverlay"></div>
-<div id="shareVenueToast"></div>
+<div id="sharePlaceToast"></div>
 
 </body>
 </html>

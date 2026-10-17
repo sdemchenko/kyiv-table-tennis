@@ -21,17 +21,17 @@
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/jquery-ui-dist@1.13.3/jquery-ui.min.css" rel="stylesheet"/>
-    <link href="assets/light-or-dark-mode.css?cacheBuster=086" rel="stylesheet">
-    <link href="assets/home.css?cacheBuster=086" rel="stylesheet">
+    <link href="assets/light-or-dark-mode.css?cacheBuster=087" rel="stylesheet">
+    <link href="assets/home.css?cacheBuster=087" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery-ui-dist@1.13.3/jquery-ui.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/diff@5.0.0/dist/diff.min.js"></script>
-    <script src="assets/light-or-dark-mode.js?cacheBuster=086"></script>
-    <script src="assets/highlight-tournament-tiers.js?cacheBuster=086"></script>
-    <script src="assets/changelog.js?cacheBuster=086"></script>
-    <script src="assets/places.js?cacheBuster=086"></script>
-    <script src="assets/home.js?cacheBuster=086"></script>
+    <script src="assets/light-or-dark-mode.js?cacheBuster=087"></script>
+    <script src="assets/highlight-tournament-tiers.js?cacheBuster=087"></script>
+    <script src="assets/changelog.js?cacheBuster=087"></script>
+    <script src="assets/places.js?cacheBuster=087"></script>
+    <script src="assets/home.js?cacheBuster=087"></script>
     <!-- Google tag (gtag.js) -->
     <script>
         if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
@@ -54,13 +54,13 @@
     <ul id="toc">
         <li id="lang-switcher">🌐 <a href="./" hreflang="uk">UA</a> | EN</li>
         <li><a href="#news">News</a></li>
-        <li><a href="#maps">Venues</a>
+        <li><a href="#maps">Places</a>
             <ul class="inline-list">
                 <li><a href="#maps">Maps</a></li>
                 <li><a href="#t_clubs">Clubs and Halls</a></li>
                 <li><a href="#t_courts">Courts</a></li>
                 <li>
-                    <a href="#shareVenue" aria-label="Copy link to venue" title="Copy link to venue">
+                    <a href="#sharePlace" aria-label="Copy link to place" title="Copy link to place">
                         <i class="fa-solid fa-link" aria-hidden="true"></i>
                     </a>
                 </li>
@@ -649,7 +649,7 @@
         <td>
             <a href="https://t.me/+fdEWOZ7lu3EzOTVi">Telegram</a>,
             <a href="https://www.youtube.com/watch?v=GEVyLDwbo6Q" class="preview-link">view</a>.<br>
-            The venue is for the community members' training.
+            The club is for the community members' training.
             It has one professional table, excellent flooring, air conditioning, a dehumidifier, and drinking water.<br>
             Tables: 1
         </td>
@@ -1799,16 +1799,16 @@
     </tbody>
 </table>
 
-<section id="shareVenue">
-    <h2>Venue link</h2>
-    <label for="shareVenueSearch">Find a club or court by name, landmark, or address:</label>
-    <div class="hint">Select a venue from the list to copy its link.</div>
-    <input id="shareVenueSearch" type="search" autocomplete="off" placeholder="For example: Orion, Оріон, VDNG, Balzac">
-    <div id="shareVenueStatus" aria-live="polite"></div>
-    <div id="shareVenueSelected" hidden>
+<section id="sharePlace">
+    <h2>Place link</h2>
+    <label for="sharePlaceSearch">Find a club or court by name, landmark, or address:</label>
+    <div class="hint">Select a place from the list to copy its link.</div>
+    <input id="sharePlaceSearch" type="search" autocomplete="off" placeholder="For example: Orion, Оріон, VDNG, Balzac">
+    <div id="sharePlaceStatus" aria-live="polite"></div>
+    <div id="sharePlaceSelected" hidden>
         <!--suppress HtmlFormInputWithoutLabel -->
-        <input id="shareVenueLink" type="text" readonly>
-        <button id="shareVenueCopy" type="button">Copy</button>
+        <input id="sharePlaceLink" type="text" readonly>
+        <button id="sharePlaceCopy" type="button">Copy</button>
     </div>
 </section>
 
@@ -2442,7 +2442,7 @@ or to <a href="mailto:sdemchenko@gmail.com">sdemchenko@gmail.com</a>.
 </a>
 
 <div id="placeInfoOverlay"></div>
-<div id="shareVenueToast"></div>
+<div id="sharePlaceToast"></div>
 
 </body>
 </html>
