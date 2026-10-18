@@ -2,6 +2,12 @@ const court = "court";
 const club = "club";
 window.PLACE_ALIASES = [
     {
+        id: "place-21-craft",
+        type: court,
+        title: {uk: "21 Craft", en: "21 Craft"},
+        aliases: ["21 крафт"]
+    },
+    {
         id: "place-5-element",
         type: club,
         title: {uk: "5 елемент", en: "5 Element"},
