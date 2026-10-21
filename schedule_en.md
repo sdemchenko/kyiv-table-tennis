@@ -19,7 +19,6 @@
 * 18:00. "Gourmet". 0-30 Ranked Tournament.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00 - 22:30. "Volia". Ladder.
-* 18:30 - 20:40. "Sports School #23". Ladder.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 19:00. "Orion". 0-40 Ranked Tournament.
@@ -50,7 +49,6 @@
 * 18:00. "Gourmet". 0-30 Ranked Tournament.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". 0-15 Ranked Tournament.
-* 18:30 - 20:40. "Sports School #23". Ladder.
 * 18:30. "Volia". 0-45 Ranked Tournament.
 * 19:00 - 22:00. "KUTT". Ladder.
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
@@ -90,7 +88,6 @@
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Podacha#9". Unranked Tournament for players without a UTTF ranking.
 * 11:00. "Quiks". 0-35 Ranked Tournament.
-* 11:00 - 13:30. "Sports School #23". Ladder.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
 * 15:00. "Gourmet". 0-5 Ranked Tournament.
