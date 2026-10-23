@@ -53,5 +53,5 @@ The site lists public outdoor table tennis courts across Kyiv with locations and
 ## Useful External Links
 
 - UTTF (Ukrainian Table Tennis Federation): https://www.uttf.com.ua/
-- UTTF Player Rankings: https://www.uttf.com.ua/ranking
+- UTTF Player Ratings: https://www.uttf.com.ua/ranking
 - Kyiv Table Tennis Map: https://www.google.com/maps/d/viewer?mid=13bpRNOQsdPBN7sjaGY6R7au66wjfH6ty
