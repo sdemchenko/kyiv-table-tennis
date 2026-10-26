@@ -96,7 +96,7 @@ a.google-maps-place::before {
     transform-origin: 50% 60%; /* ...while preventing its top being clipped */
 }
 
-a.preview-link::before {
+a.view-place::before {
     content: "\f302";
     font: var(--fa-font-solid);
     font-size: 0.8em;
