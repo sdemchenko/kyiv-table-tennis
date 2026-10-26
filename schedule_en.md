@@ -56,7 +56,6 @@
 * 19:00. "Orion". 0-15 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:15. "Club 17". Tournament.
-  * October 22: Unranked Tournament 0-60.
   * October 29: Ranked Tournament 0-60.
 
 <h3 id="friday">Friday</h3>
@@ -79,9 +78,7 @@
 * 08:00. "Spin Up" (at "Quiks"). League 2. 0-10 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Gourmet". 0-30 Ranked Tournament.
 * 10:00. "Grand-Prix". 0-20 Ranked Tournament. Prior registration is mandatory.
-  * October  24: ❌
 * 10:00. "Leader (RC)". Children's Tournament (up to 17 years old inclusive). Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
-  * October  24: ❌
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:05. "Breiks". 0-100 Ranked Tournament.
@@ -105,13 +102,11 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-40 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * October 25: 0-25 Charity Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF rating.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
-* 12:00, October 25. "Raketka". 0-100 Charity Ranked Tournament.
 * 15:00. "Gourmet". 0-10 Ranked Tournament.
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
@@ -119,5 +114,4 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * October 25: Doubles Tournament.
 
