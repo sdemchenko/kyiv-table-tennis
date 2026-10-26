@@ -77,7 +77,7 @@
 
 * 08:00. "Spin Up" (at "Himars"). League 1. 10-30 Ranked Tournament. Prior registration is mandatory.
 * 08:00. "Spin Up" (at "Quiks"). League 2. 0-10 Ranked Tournament. Prior registration is mandatory.
-* 09:00. "Gourmet". 0-30 Ranked Tournament.
+* 10:00. "Gourmet". 0-30 Ranked Tournament.
 * 10:00. "Grand-Prix". 0-20 Ranked Tournament. Prior registration is mandatory.
   * October  24: ❌
 * 10:00. "Leader (RC)". Children's Tournament (up to 17 years old inclusive). Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Gifts for all participants.
@@ -103,7 +103,7 @@
 <h3 id="sunday">Sunday</h3>
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
-* 10:00. "Gourmet". 0-100 Ranked Tournament.
+* 10:00. "Gourmet". 0-40 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
   * October 25: 0-25 Charity Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
