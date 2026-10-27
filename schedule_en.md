@@ -63,6 +63,7 @@
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
+* 17:15, October 30. "Leader (RC)". Ranked Tournament "TOP-12 Leader".
 * 18:00 - 20:30. "Breiks". Ladder.
 * 18:00 - 20:30. "Himars". Coach-Guided Matches.
 * 18:00. "Quiks". 0-5 Ranked Tournament.
