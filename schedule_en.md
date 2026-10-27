@@ -82,6 +82,7 @@
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:05. "Breiks". 0-100 Ranked Tournament.
+* 10:30, October 31. "Gatne, SC" (Yurivka). 5-100 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-30 Ranked Tournament.
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Quiks". 0-35 Ranked Tournament.
@@ -104,6 +105,7 @@
 * 10:00. "Orion". Orion Team Championship, 2nd round.
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:30, November 1. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF rating.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
 * 11:00. "Start". Unranked Tournament (beginners, amateurs).
