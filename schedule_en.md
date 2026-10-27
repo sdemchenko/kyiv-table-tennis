@@ -103,6 +103,7 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-40 Ranked Tournament.
+* 10:00, November 1. "Leader (RC)". 0-10 Ranked Tournament.
 * 10:00. "Orion". Orion Team Championship, 2nd round.
 * 10:00. "Raketka". Ranked Tournament.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
