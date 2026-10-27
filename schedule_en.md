@@ -106,6 +106,7 @@
 * 10:00, November 1. "Leader (RC)". 0-10 Ranked Tournament.
 * 10:00. "Orion". Orion Team Championship, 2nd round.
 * 10:00. "Raketka". Ranked Tournament.
+  * November 1: 0-25 and 0-45 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:30, November 1. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF rating.
