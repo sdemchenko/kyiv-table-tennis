@@ -41,13 +41,6 @@ In `schedule.md`:
 CSS variables in `light-or-dark-mode.css` control colors for both themes.
 Key variables: `--page-bg-color`, `--ranked-bg`, `--unranked-bg`.
 
-## External Dependencies (CDN)
-- jQuery 3.7.1
-- jQuery UI 1.13.2
-- markdown-it 14.1.0
-- diff 5.0.0
-- Font Awesome 6.7.2
-
 ## Agent skills
 
 See `AGENTS.md` for agent skills configuration (issue tracker, triage labels, domain docs).
