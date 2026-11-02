@@ -6,84 +6,9 @@
 •
 ❌
 
-https://docs.fontawesome.com/web/add-icons/pseudo-elements
+(?!.*(стол|ladder).*)"(гурман|gourmet)".*
 
-<!--    <link rel="stylesheet" type="text/css" href="assets/all.min.css">-->
+КАЛЕНДАР ТУРНІРІВ КИЄВА 02.11 - 08.11
+Ігрова|ігрова|столи| стіл
+Джерело: https://tabletennis.kyiv.ua/
 
-
-/*a[href^="https://www.google.com/maps/dir/"]::before {
-    content: "📍";
-    font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
-    font-size: 0.6em;
-    vertical-align: middle;
-    margin-right: 0.25em;
-    opacity: 0.6;
-}*/
-
-/* A visual clue for clicky 'a' and non-clicky 'span'. */
-[data-place]::before {
-    content: "\f45d";
-    font: var(--fa-font-solid);
-    color: #DE3163;
-    -webkit-font-smoothing: antialiased;
-
-    font-size: 0.8rem;
-    margin-right: 0.2rem;
-}
-
-
-
-
-a[href^="https://t.me/"]::before {
-    content: "\f3fe";
-    font-family: "Font Awesome\ 5 Brands";
-    font-weight: 900;
-    font-size: 0.8em;
-    opacity: 0.6;
-    margin-right: 0.25em;
-}
-a[href^="https://invite.viber.com/"]::before {
-    content: "\f409";
-    font-family: "Font Awesome\ 5 Brands";
-    font-weight: 900;
-    font-size: 0.8em;
-    opacity: 0.6;
-    margin-right: 0.25em;
-}
-a[href^="https://www.instagram.com/"]::before {
-    content: "\f16d";
-    font-family: "Font Awesome\ 5 Brands";
-    font-weight: 900;
-    font-size: 0.8em;
-    opacity: 0.6;
-    margin-right: 0.25em;
-}
-
-/*a[href^="https://t.me/"]::before {*/
-/*    content: "\f3fe";*/
-/*    font-family: "Font Awesome 5 Free";*/
-/*    font-weight: 900;*/
-/*    margin-right: 0.3em;*/
-/*}*/
-
-
-
-summary h2 {
-    display: inline;      /* keep h2 inline so icon sits nicely */
-    user-select: none;    /* prevent text highlighting */
-    -webkit-user-select: none; /* Safari */
-    -moz-user-select: none;    /* Firefox */
-}
-details table {margin-top: 1em;}
-summary {list-style: none;}
-summary::-webkit-details-marker {display: none;}
-summary, summary h2 {user-select: none;cursor: pointer;} /* prevent text highlighting */
-/* add arrow *after* the h2 */
-summary h2::after {
-    content: "▶";   /* closed state */
-    margin-left: 0.5em;
-    font-size: 0.9em;
-    transition: transform 0.2s;
-}
-details[open] summary h2::after {content: "▼";} /* rotate/change arrow when open */
-details {margin-top: 2rem;}
