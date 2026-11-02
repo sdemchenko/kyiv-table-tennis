@@ -51,6 +51,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://tabletennis.kyiv.ua/assets/chervonoi-kalyny-14-13/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://tabletennis.kyiv.ua/assets/club-17/</loc>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
