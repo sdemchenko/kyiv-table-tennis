@@ -104,6 +104,14 @@ a.view-place::before {
     opacity: 0.85;
 }
 
+a.phone::before {
+    content: "\f095";
+    font: var(--fa-font-solid);
+    font-size: 0.8em;
+    margin-right: 0.25em;
+    opacity: 0.85;
+}
+
 ul#toc, ul#toc ul { list-style-type: none; }
 ul#toc { padding: 0; }
 ul#toc ul { padding-inline-start: 1.5ch; }
