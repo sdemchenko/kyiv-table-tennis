@@ -43,7 +43,6 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 * 19:30. "Sports School #21". 0-100 Unranked Tournament, everyone plays everyone in best‑of‑five matches.
-  * November 4: ❌
 * 20:00. "TviY tennis". Unranked Tournament. Prior registration is mandatory.
 
 <h3 id="thursday">Thursday</h3>
@@ -62,7 +61,6 @@
 * 19:00. "Orion". 0-15 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:15. "Club 17". Tournament.
-  * November 5: 0-60 Unranked Tournament.
   * November 12: 0-60 Ranked Tournament.
   * November 19: 0-60 Unranked Tournament.
   * November 26: 0-60 Ranked Tournament.
@@ -89,13 +87,11 @@
 * 08:00. "Spin Up" (at "Quiks"). League 2. 0-10 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Gourmet". 0-30 Ranked Tournament.
 * 10:00. "Grand-Prix". 0-20 Ranked Tournament. Prior registration is mandatory.
-  * November 7: ❌
 * 10:00. "Leader (RC)". Children's Tournament (up to 17 years old inclusive). Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Fee — 250₴. Gifts for all participants.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00 - 16:00. "Volia". Ladder (morning group).
 * 10:05. "Breiks". 0-100 Ranked Tournament.
-* 10:30, November 7. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-30 Ranked Tournament.
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Quiks". 0-35 Ranked Tournament.
@@ -115,9 +111,7 @@
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-100 Ranked Tournament.
-* 10:00, November 8. "Leader (RC)". 0-10 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * November 8: 0-25 and 0-45 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:00 - 16:00. "Volia". Ladder (morning group).
 * 10:30. "Orion". 0-100 Ranked Tournament.
@@ -131,7 +125,6 @@
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * November 8: 0-60 Ranked Tournament.
   * November 15: 0-60 Unranked Tournament.
   * November 22: 0-60 Ranked Tournament.
   * November 29: Doubles Tournament.
