@@ -1,6 +1,7 @@
 ﻿
 <h3 id="monday">Monday</h3>
 
+* 10:00 - 16:00. "Volia". Ladder (morning group).
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
@@ -13,6 +14,7 @@
 
 <h3 id="tuesday">Tuesday</h3>
 
+* 10:00 - 16:00. "Volia". Ladder (morning group).
 * 11:00 - 15:00. "Orion". Ladder.
 * 13:00. "Teremky". 0-10 Ranked Tournament.
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
@@ -28,6 +30,7 @@
 
 <h3 id="wednesday">Wednesday</h3>
 
+* 10:00 - 16:00. "Volia". Ladder (morning group).
 * 11:00 - 15:00. "Orion". Ladder.
 * 13:00. "Quiks". 0-10 Ranked Tournament.
 * 17:00 - 19:00. "Gourmet". Ladder.
@@ -45,6 +48,7 @@
 
 <h3 id="thursday">Thursday</h3>
 
+* 10:00 - 16:00. "Volia". Ladder (morning group).
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:30. "Drahomanov University Sports Complex". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
@@ -65,6 +69,7 @@
 
 <h3 id="friday">Friday</h3>
 
+* 10:00 - 16:00. "Volia". Ladder (morning group).
 * 11:00 - 15:00. "Orion". Ladder.
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
@@ -88,6 +93,7 @@
 * 10:00. "Leader (RC)". Children's Tournament (up to 17 years old inclusive). Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Fee — 250₴. Gifts for all participants.
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
+* 10:00 - 16:00. "Volia". Ladder (morning group).
 * 10:05. "Breiks". 0-100 Ranked Tournament.
 * 10:30, November 7. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-30 Ranked Tournament.
@@ -113,6 +119,7 @@
 * 10:00. "Raketka". Ranked Tournament.
   * November 8: 0-25 and 0-45 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
+* 10:00 - 16:00. "Volia". Ladder (morning group).
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF rating.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
