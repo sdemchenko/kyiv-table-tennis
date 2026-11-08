@@ -258,6 +258,12 @@ window.PLACE_ALIASES = [
         aliases: ["Озеро Тельбин", "Telbin"]
     },
     {
+        id: "place-teremky",
+        type: club,
+        title: {uk: "Teremky", en: "Teremky"},
+        aliases: ["Теремки"]
+    },
+    {
         id: "place-toni-tops",
         type: club,
         title: {uk: "Toni-Tops", en: "Toni-Tops"},
