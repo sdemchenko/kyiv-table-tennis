@@ -93,7 +93,6 @@
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00 - 16:00. "Volia". Ladder.
 * 10:05. "Breiks". 0-100 Ranked Tournament.
-* 10:30, November 14. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-30 Ranked Tournament.
 * 10:30. "Orion". 0-5 Ranked Tournament.
 * 11:00. "Quiks". 0-35 Ranked Tournament.
@@ -117,7 +116,7 @@
   * November 15: 0-10 and 0-30 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:00 - 16:00. "Volia". Ladder.
-* 10:30, November 15. "Gatne, SC" (Yurivka). 5-100 Charity Ranked Tournament. Prior registration is mandatory.
+* 10:30, November 15. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF rating.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
@@ -126,6 +125,7 @@
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
+* 15:30, November 15. "Gatne, SC" (Yurivka). 5-100 Charity Ranked Tournament. Prior registration is mandatory.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
