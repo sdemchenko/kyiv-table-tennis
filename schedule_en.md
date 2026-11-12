@@ -69,6 +69,7 @@
 
 * 10:00 - 16:00. "Volia". Ladder.
 * 11:00 - 15:00. "Orion". Ladder.
+* 16:00, November 13. "Gatne, SC" (Yurivka). Open Junior Tournament "Vita Poshtova Open".
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
