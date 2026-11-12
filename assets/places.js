@@ -284,7 +284,7 @@ window.PLACE_ALIASES = [
     {
         id: "place-tviy-tennis",
         type: club,
-        title: {uk: "TviY tennis", en: "TviY tennis"},
+        title: {uk: "Tviy Tennis", en: "Tviy Tennis"},
         aliases: ["Твій Теніс", "Варшавський квартал"]
     },
     {
