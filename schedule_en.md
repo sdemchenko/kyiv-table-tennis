@@ -134,3 +134,4 @@
   * November 15: 0-60 Unranked Tournament.
   * November 22: 0-60 Ranked Tournament.
   * November 29: Doubles Tournament.
+* 19:00 - 22:00, November 15. "KUTT". Ladder.
