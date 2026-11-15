@@ -61,7 +61,6 @@
 * 19:00. "Orion". 0-15 Unranked Tournament.
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Monday and Thursday group).
 * 20:15. "Club 17". Tournament.
-  * November 12: 0-60 Ranked Tournament.
   * November 19: 0-60 Unranked Tournament.
   * November 26: 0-60 Ranked Tournament.
 
@@ -69,7 +68,6 @@
 
 * 10:00 - 16:00. "Volia". Ladder.
 * 11:00 - 15:00. "Orion". Ladder.
-* 16:00, November 13. "Gatne, SC" (Yurivka). Open Junior Tournament "Vita Poshtova Open".
 * 17:00 - 19:00. "Gourmet". Ladder.
 * 17:00 - 20:00. "Pechersk". Ladder.
 * 18:00 - 20:30. "Breiks". Ladder.
@@ -88,9 +86,7 @@
 * 08:00. "Spin Up" (at "Quiks"). League 2. 0-10 Ranked Tournament. Prior registration is mandatory.
 * 09:00. "Gourmet". 0-30 Ranked Tournament.
 * 10:00. "Grand-Prix". 0-20 Ranked Tournament. Prior registration is mandatory.
-  * November 14: ❌
 * 10:00. "Leader (RC)". Children's Tournament (up to 17 years old inclusive). Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Fee — 250₴. Gifts for all participants.
-  * November 14: ❌
 * 10:00 - 12:00. "Leader (Sports School)". Ladder (Tuesday, Thursday, Saturday group).
 * 10:00. "Top Spin (Brovary)". 0-40 Ranked Tournament.
 * 10:00 - 16:00. "Volia". Ladder.
@@ -115,10 +111,8 @@
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
 * 10:00. "Gourmet". 0-40 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
-  * November 15: 0-10 and 0-30 Ranked Tournaments will start at the same time.
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:00 - 16:00. "Volia". Ladder.
-* 10:30, November 15. "Gatne, SC" (Yurivka). 0-10 Charity Ranked Tournament. Prior registration is mandatory.
 * 10:30. "Orion". 0-100 Ranked Tournament.
 * 10:30. "Orion". Unranked Tournament for players who have never had a UTTF rating.
 * 11:00. "Quiks". 0-15 Ranked Tournament.
@@ -127,11 +121,8 @@
 * 15:00. "Quiks". 0-5 Ranked Tournament.
 * 15:00. "Orion". 0-10 Ranked Tournament.
 * 15:00. "Orion". 0-50 Ranked Tournament.
-* 15:30, November 15. "Gatne, SC" (Yurivka). 5-100 Charity Ranked Tournament. Prior registration is mandatory.
 * 18:00 - 22:30. "Volia". Ladder.
 * 18:30 - 21:00. "Orion". Ladder.
 * 19:00. "Club 17". Tournament.
-  * November 15: 0-60 Unranked Tournament.
   * November 22: 0-60 Ranked Tournament.
   * November 29: Doubles Tournament.
-* 19:00 - 22:00, November 15. "KUTT". Ladder.
