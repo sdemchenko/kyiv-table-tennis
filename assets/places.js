@@ -149,6 +149,12 @@ window.PLACE_ALIASES = [
         address: {uk: "вулиця Коласа, 15Б", en: "15B Kolasa Street"}
     },
     {
+        id: "place-kmshvsm-arena",
+        type: club,
+        title: {uk: "Манеж КМШВСМ", en: "KMShVSM Arena"},
+        aliases: ["Легкоатлетичний манеж", "Track and Field Arena", "Athletics Arena"]
+    },
+    {
         id: "place-master",
         type: club,
         title: {uk: "Мастер", en: "Master"},
