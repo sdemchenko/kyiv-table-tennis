@@ -113,6 +113,7 @@
 * 10:00, November 22. "Leader (RC)". 0-15 Ranked Tournament.
 * 10:00. "Orion". Orion Team Championship.
 * 10:00. "Raketka". Ranked Tournament.
+  * November 22: ❌
 * 10:00. "Table Tennis at Revutskoho". 0-100 Unranked Tournament.
 * 10:00 - 16:00. "Volia". Ladder.
 * 10:30. "Orion". Unranked Tournament for beginners who have never had a UTTF rating.
