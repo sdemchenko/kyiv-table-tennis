@@ -202,8 +202,17 @@ ul#moreNews {
     font-style: italic;
     color: #888888;
 }
-@media (max-width: 767px) {
-    #moreNews .desc { display: none; }
+@media (max-width: 650px) {
+    ul#moreNews .br-narrow {
+        display: block;
+    }
+    ul#moreNews li {
+        padding-left: 0.8em;
+        text-indent: -0.8em;
+    }
+}
+ul#moreNews span.light-dot {
+    color: #BBB;
 }
 
 #maps { margin-bottom: 0; }
