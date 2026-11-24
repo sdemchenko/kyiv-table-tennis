@@ -193,9 +193,16 @@ details > p {
     margin-bottom: 0.5rem;
 }
 
+#moreNewsTitle {
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    font-weight: bolder;
+    font-style: italic;
+    color: #888888;
+}
 ul#moreNews {
     list-style-type: none;
-    margin-top: 20px;
+    margin-top: 0;
     padding: 0;
     line-height: 1.5;
     font-size: 0.8rem;
