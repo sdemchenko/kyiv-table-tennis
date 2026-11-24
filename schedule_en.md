@@ -43,7 +43,7 @@
 * 19:00 - 21:00. "Leader (Sports School)". Ladder (Monday, Wednesday, Friday group).
 * 19:15 - 23:00. "Raketka". Coach-Guided Matches (Wednesday and Saturday group).
 * 19:30. "Sports School #21". 0-100 Unranked Tournament, everyone plays everyone in best‑of‑five matches.
-* 20:00. "Tviy Tennis". Unranked Tournament. Prior registration is mandatory.
+* 20:00. "Tviy Tennis". 0-20 Unranked Tournament. Prior registration is mandatory.
 
 <h3 id="thursday">Thursday</h3>
 
@@ -91,7 +91,7 @@
 * 10:05. "Breiks". 0-100 Ranked Tournament.
 * 10:30. "Orion". 0-30 Ranked Tournament.
 * 10:30. "Orion". 0-5 Ranked Tournament.
-* 10:30. "Tviy Tennis". Unranked Tournament. Prior registration is mandatory.
+* 10:30. "Tviy Tennis". 0-5 Unranked Tournament. Prior registration is mandatory.
 * 11:00. "Quiks". 0-35 Ranked Tournament.
 * 11:10. "Himars". 0-100 Ranked Tournament.
 * 15:00. "DBK-4 Sports Complex". Ladder.
