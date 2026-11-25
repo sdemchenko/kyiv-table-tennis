@@ -82,6 +82,7 @@
 
 * 08:00. "Spin Up" (at "Himars"). League 1. 10-30 Ranked Tournament. Prior registration is mandatory.
 * 08:00. "Spin Up" (at "Quiks"). League 2. 0-10 Ranked Tournament. Prior registration is mandatory.
+* 09:30, November 28. "Gatne, SC" (Yurivka). Children's [Charity Tournament](assets/temp/2026-11-28-Yurivka.jpg) in memory of Viktor Shvets.
 * 10:00. "Gourmet". 0-25 Ranked Tournament.
 * 10:00. "Grand-Prix". 0-20 Ranked Tournament. Prior registration is mandatory.
 * 10:00. "Leader (RC)". Children's Tournament (up to 17 years old inclusive). Three difficulty levels (the challenging level is 0-100 Ranked Tournament, two others are unranked). Fee — ₴250. Gifts for all participants.
