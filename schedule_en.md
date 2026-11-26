@@ -110,7 +110,7 @@
 <h3 id="sunday">Sunday</h3>
 
 * 10:00 - 14:00. "Drahomanov University Sports Complex". Ladder.
-* 10:00, November 29. "Gatne, SC" (Yurivka). Kyiv Oblast Championship for children born in 2014 and younger. 
+* 10:00, November 29. "Gatne, SC" (Yurivka). Kyiv Oblast Championship for children born in 2014 and younger. [Source](https://www.facebook.com/share/p/1MpZdjhdJy/).
 * 10:00. "Gourmet". 0-40 Ranked Tournament.
 * 10:00, November 29. "Leader (RC)". 0-15 Ranked Tournament.
 * 10:00. "Raketka". Ranked Tournament.
